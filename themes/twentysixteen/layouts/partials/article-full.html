@@ -1,0 +1,26 @@
+<article class="post type-post format-standard hentry">
+    <header class="entry-header">
+        {{ if .Params.sticky }}
+        <span class="sticky-post">{{ i18n "sticky" }}</span>
+        {{ end }}
+        <h2 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title | default .RelPermalink }}</a></h2>
+    </header>
+    <!-- .entry-header -->
+
+    {{ if .Params.featured_image }}
+    <a class="post-thumbnail" href="{{ .Permalink }}" aria-hidden="true">
+        <img src="{{ .Params.featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
+    </a>
+    {{ end }}
+
+    <div class="entry-content">
+        {{ .Content }}
+    </div>
+    <!-- .entry-content -->
+
+    <footer class="entry-footer">
+        {{ partial "meta-date.html" . }}
+        {{ partial "meta-terms.html" . }}
+    </footer>
+    <!-- .entry-footer -->
+</article>

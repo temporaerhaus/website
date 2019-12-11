@@ -1,0 +1,92 @@
+{{/* Root template. Wraps around everything else */}}
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default "en" }}"
+      class="no-js"
+      prefix="dc: http://purl.org/dc/terms/#
+              og: http://ogp.me/ns#
+              twitter: https://dev.twitter.com/cards/markup#">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+
+    {{/* NOTE: the Sites title, and if there is a page title, that is set too
+         Added SEO, "site.title | page title" for home, "page title | site title" for everything else
+      */}}
+    <title>{{ block "title" . -}}
+        {{- if .IsHome -}}
+            {{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}
+        {{- else -}}
+            {{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}
+        {{- end -}}
+    {{- end -}}</title>
+
+    <link rel="canonical" href="{{ .Permalink }}">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    {{ hugo.Generator }}
+    {{/* NOTE: For Production make sure you add `HUGO_ENV="production" ` before your build command */}}
+    {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+        <meta name="robots" content="index, follow" />
+    {{- else }}
+        <meta name="robots" content="noindex, nofollow" />
+    {{end}}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
+    {{- if .OutputFormats.Get "RSS" }}
+        <link href="{{ .OutputFormats.Get "RSS" }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{end}}
+    {{/* NOTE: These Hugo Internal Templates can be found at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
+
+    {{ range .AlternativeOutputFormats -}}
+        <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" />
+    {{ end -}}
+
+    {{ if .IsTranslated }}
+        {{ range .Translations }}
+        <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
+        {{ end }}
+    {{ end }}
+
+    {{/* Bundle and minimise CSS resources */}}
+    {{- $css2016 := resources.Get "css/2016.css" -}}
+    {{- $fontscss := resources.Get "fonts/genericons.css" -}}
+    {{- $languagecss := resources.Get "css/languageswitch.css" -}}
+    {{- $customcss := resources.Get "css/custom.css" -}}
+    {{- $styles := (slice $css2016 $languagecss $customcss) | resources.Concat "css/bundle.css" | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" /> {{/* integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous"> */}}
+    <link rel="stylesheet" href="{{ $fontscss.Permalink }}" /> {{/* integrity="{{ $styles.Data.Integrity }}" crossorigin="anonymous"> */}}
+</head>
+<body class="home blog wp-custom-logo wp-embed-responsive vsh-door-unknown group-blog hfeed">
+    <div id="page" class="site">
+        <div class="site-inner">
+            <a class="skip-link screen-reader-text" href="#content">{{ i18n "skip_content" }}</a>
+            {{ partial "site-header.html" . }}
+            <div id="content" class="site-content">
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main" role="main">
+                        {{- block "main" . }}{{ end }}
+                    </main>
+                    <!-- .site-main -->
+                </div>
+                <!-- .content-area -->
+                {{ partial "site-sidebar.html" . }}
+            </div>
+            {{ partial "site-footer.html" . }}
+        </div>
+    </div>
+
+    <script>
+    var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+    </script>
+    {{- $jsjq := resources.Get "js/jquery-3.4.1.slim.min.js" -}}
+    {{- $js2016 := resources.Get "js/2016.js" -}}
+    {{- $js := (slice $jsjq $js2016) | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint }}
+    <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
+    <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
+</body>
+</html>

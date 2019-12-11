@@ -1,0 +1,44 @@
+[categories]
+other = "Kategorien"
+
+[continue_reading]
+other = "Weiterlesen"
+
+[sticky]
+other = "Empfohlen"
+
+[menu]
+other = "Menü"
+
+[show_submenu]
+other = "Untermenü anzeigen"
+
+[recent_posts]
+other = "Neueste Beiträge"
+
+[language]
+other = "Sprache"
+
+[tags]
+other = "Tags"
+
+[posted_on]
+other = "Veröffentlicht am"
+
+[skip_content]
+other = "Zum Inhalt springen"
+
+[page]
+other = "Seite"
+
+[next_page]
+other = "Nächste Seite"
+
+[previous_page]
+other = "Vorherige Seite"
+
+[post_navigation]
+other = "Beitrags-Navigation"
+
+[proudly_powered]
+other = "Stolz präsentiert von"

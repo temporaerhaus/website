@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="751.46px" height="358.21px" viewBox="0 0 751.46 358.21" enable-background="new 0 0 751.46 358.21" xml:space="preserve" class="nicermediapages-SVG hovered">
+<path id="rect3045" fill="none" stroke="#000000" stroke-width="2.3" d="M137.619,86.142h430.001v170H137.619V86.142z"/>
+<path id="path3817" fill="none" stroke="#000000" stroke-width="2.0078" d="M163.31,144.999h388.002"/>
+<path id="rect3819" fill="none" d="M151.31,150.999h270.002v85H151.31V150.999z"/>
+<path id="rect3821" fill="none" stroke="#013397" stroke-width="1.5" d="M155.31,152.999h400.002v90H155.31V152.999z"/>
+<path id="rect3823" fill="none" stroke="#DC0000" stroke-width="1.5" d="M161.31,160.999h260.002v75H161.31V160.999z"/>
+<path id="rect3825" fill="none" stroke="#FB8B00" stroke-width="1.4725" d="M278.297,187.984H411.23v39.146H278.297V187.984z"/>
+<path id="path3827" fill="#0003FF" stroke="#0003FF" d="M185.835,185.214l-123,95"/>
+<path id="path3829" fill="#FF0000" stroke="#DC0000" d="M220.621,230.142l-35,75"/>
+<path id="path3831" fill="#FF0000" stroke="#FB8B00" d="M350.246,222.927l-24.966,91"/>
+<path id="path3833" fill="#013397" stroke="#013397" d="M503.291,228.091l26,81"/>
+<path id="path3835" fill="#FF0000" stroke="#339900" d="M519.259,184.906l129,52"/>
+<path id="path3837" fill="#3296C8" stroke="#3296C8" d="M326.312,46.35v119.67"/>
+<g>
+	<text transform="matrix(1 0 0 1 303 38)" fill="#3296C8" font-family="'DejaVuSans'" font-size="18">Wert</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 16 298)" fill="#0003FF" font-family="'DejaVuSans'" font-size="18">Eigenschaft</text>
+</g>
+<text transform="matrix(1 0 0 1 142 326.0425)" fill="#D40000" font-family="'DejaVuSans'" font-size="18">Behauptung</text>
+<text transform="matrix(1 0 0 1 283.5811 335.5054)" fill="#FB8B00" font-family="'DejaVuSans'" font-size="18">Qualifikator</text>
+<text transform="matrix(1 0 0 1 492 326.0425)" fill="#013397" font-family="'DejaVuSans'" font-size="18">Aussage</text>
+<text transform="matrix(1 0 0 1 607.7261 255.2925)" enable-background="new    "><tspan x="0" y="0" fill="#339900" font-family="'DejaVuSans'" font-size="18">Einzelnachweis</tspan><tspan x="0" y="21.6" fill="#339900" font-family="'DejaVuSans'" font-size="18">(eingeklappt)</tspan></text>
+<text transform="matrix(1 0 0 1 286.0225 203.5854)" font-family="'DejaVuSans'" font-size="11">Meldedaten</text>
+<text transform="matrix(1 0 0 1 286.0225 218.7817)" font-family="'DejaVuSans'" font-size="11">31. Mai 2012</text>
+<text transform="matrix(1 0 0 1 170.251 179.8003)" fill="#0003FF" font-family="'DejaVuSans'" font-size="16">Einwohner</text>
+<text transform="matrix(1 0 0 1 285.8447 179.7847)" fill="#3296C8" font-family="'DejaVuSans'" font-size="16">3.515.473</text>
+<text transform="matrix(1 0 0 1 169.4658 130.5171)" font-family="'DejaVuSans'" font-size="28">Berlin</text>
+<g>
+	<text transform="matrix(1 0 0 1 454.5669 177.2065)" fill="#339900" font-family="'DejaVuSans'" font-size="14">[1 Quelle]</text>
+</g>
+</svg>

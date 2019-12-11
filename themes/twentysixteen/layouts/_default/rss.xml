@@ -1,0 +1,51 @@
+{{/***
+   * Override the Hugo RSS feed default as that only shows a summary of the post, 
+   * not the whole article which is what most people really want.
+   * Includes the page .Description as well as the .Content as this typically
+   * contains different text.
+   ***/}}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>
+      Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}about {{.}} {{ end }}{{ end }}from {{ .Site.Title }} | 
+      {{ with $.Site.Params.Description }}{{ . }}{{ end }}
+    </description>
+    <generator>Hugo | gohugo.io | Theme twenty-sixteen</generator>
+    {{- with .Site.LanguageCode -}}<language>{{.}}</language>{{end}}
+    {{- with .Site.Author.email -}}<managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
+    {{- with .Site.Author.email -}}<webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}
+    {{- with .Site.Copyright -}}<copyright>{{.}}</copyright>{{end}}
+    {{- if not .Date.IsZero -}}<lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    {{- $pages := .Data.Pages -}}
+    {{- $limit := .Site.Config.Services.RSS.Limit -}}
+    {{- if ge $limit 1 -}}
+    {{- $pages = $pages | first $limit -}}
+    {{- end -}}
+    {{- range $pages -}}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid isPermaLink="true">{{ .Permalink }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      {{/* JK: 2018-04-08 Change .Summary to .Content to get full text */}}
+      {{/* JK: 2018-05-08 Add .description to content */}}
+      <description><div>{{ .Description | html }}</div><div>{{ .Content | html }}</div></description>
+      {{/* JK: 2018-04-08 Add post author */}}
+      <author>{{ .Params.Author | default .Site.Params.author }}</author>
+      {{- range .Params.categories -}}
+      <category domain="{{ $.Site.BaseURL }}/categories/{{ . | urlize }}">{{ .}}</category>
+      {{ end }}
+      {{- range .Params.tags -}}
+      <category domain="{{ $.Site.BaseURL }}/tags/{{ . | urlize }}">{{ .}}</category>
+      {{ end }}
+    </item>
+    {{ end }}
+  </channel>
+</rss>

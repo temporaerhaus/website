@@ -1,0 +1,40 @@
+{{- define "main" -}}
+<article class="{{ .Type }} type-{{ .Type }} format-standard hentry">
+    <header class="entry-header">
+        <h1 class="entry-title" title="{{.Kind}}">
+            {{ .Title | markdownify }}
+        </h1>
+    </header><!-- .entry-header -->
+
+    {{ if .Params.featured_image }}
+    <a class="post-thumbnail" href="{{ .Permalink }}" aria-hidden="true">
+        <img src="{{ .Params.featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
+    </a>
+    {{ end }}
+
+    <div class="entry-content">
+        {{ .Content }}
+    </div><!-- .entry-content -->
+
+    <footer class="entry-footer">
+        {{- if eq .Type "post" -}}
+        {{ partial "meta-date.html" . }}
+        {{ partial "meta-terms.html" . }}
+        {{- end -}}
+    </footer><!-- .entry-footer -->
+</article>
+
+{{- if eq .Section "posts" -}}
+<nav class="navigation post-navigation" role="navigation" aria-label="Beiträge">
+    <h2 class="screen-reader-text">Beitrags-Navigation</h2>
+    <div class="nav-links">
+        {{- with .PrevInSection -}}
+        <div class="nav-previous"><a href="{{ .Permalink }}" rel="prev"><span class="meta-nav" aria-hidden="true">Zurück</span> <span class="screen-reader-text">Vorheriger Beitrag:</span> <span class="post-title">{{ .Title }}</span></a></div>
+        {{- end -}}
+        {{- with .NextInSection -}}
+        <div class="nav-next"><a href="{{ .Permalink }}" rel="next"><span class="meta-nav" aria-hidden="true">Weiter</span> <span class="screen-reader-text">Nächster Beitrag:</span> <span class="post-title">{{ .Title }}</span></a></div>
+        {{- end -}}
+    </div>
+</nav>
+{{- end -}}
+{{- end -}}

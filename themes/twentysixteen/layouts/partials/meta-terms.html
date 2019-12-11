@@ -1,0 +1,23 @@
+{{- if .Params.categories -}}
+<span class="cat-links">
+    <span class="screen-reader-text">{{ i18n "categories" }} </span>
+    {{- $.Scratch.Set "l1" slice -}}
+    {{- range $cat := .Params.categories }}
+        {{ $t1 := (printf "<a href='/category/%s' rel='category tag'>%s</a>" ($cat | urlize) $cat) }}
+        {{ $.Scratch.Add "l1" (slice $t1) }}
+    {{- end -}}
+    {{ delimit ($.Scratch.Get "l1") ", " }}
+</span>
+{{- end -}}
+{{- if .Params.tags -}}
+<span class="tags-links">
+    <span class="screen-reader-text">{{ i18n "tags"}} </span>
+    {{- $.Scratch.Set "l2" slice -}}
+    {{- range $tag := .Params.tags }}
+        {{ $t2 := (printf "<a href='/tag/%s' rel='tag'>%s</a>" ($tag | urlize) $tag) }}
+        {{ $.Scratch.Add "l2" (slice $t2) }}
+    {{- end -}}
+    {{ with ($.Scratch.Get "l2") }}{{ delimit . ", " }}{{ end }}
+    {{ $.Scratch.Delete "l2" }}
+</span>
+{{- end -}}

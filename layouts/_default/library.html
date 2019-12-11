@@ -1,0 +1,36 @@
+{{- define "main" -}}
+<article class="{{ .Type }} type-{{ .Type }} format-standard hentry">
+    <header class="entry-header">
+        <h1 class="entry-title" title="{{.Kind}}">
+            {{ .Title | markdownify }}
+        </h1>
+    </header><!-- .entry-header -->
+
+    {{ if .Params.featured_image }}
+    <img src="{{ .Params.featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
+    {{ end }}
+
+    <div class="entry-content">
+        {{ .Content }}
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Titel</th>
+                    <th>Autor*innen</th> {{/* FIXME: i18n */}}
+                    <th>ISBN</th>
+                </tr>
+            </thead>
+            <tbody>
+            {{ range $.Site.Data.library.books }}
+                <tr>
+                    <td>{{ .title }}</td>
+                    <td>{{ .authors }}</td>
+                    <td>{{ .isbn }}</td>
+                </tr>
+            {{ end }}
+            </tbody>
+        </table>
+    </div><!-- .entry-content -->
+</article>
+{{- end -}}

@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+{{- if not .IsHome -}}
+{{- if not (eq .Kind "section") -}}
+<header class="page-header">
+    <h1 class="page-title" title="{{.Kind}}">
+        {{- if eq .Kind "taxonomy" -}}{{ humanize .Type }}:{{ end }}
+        {{ .Title }}
+    </h1>
+</header>
+{{- end -}}
+{{- end -}}
+
+{{- if .Params.Description -}}
+<div class="space-below" title="Page description"><blockquote>
+    {{- .Params.Description | markdownify -}}
+</blockquote></div>
+{{- end -}}
+
+{{- if .Content -}}{{/* --- Display page content, if any --- */}}
+<div class="content">{{ .Content }}</div>
+{{- end -}}
+
+{{/* --- List section content for the current section --- */}}
+{{/* NB: .Data.Pages auto-filters to the "current" content level */}}
+{{- $paginator := .Paginate (where .Data.Pages.ByLastmod.Reverse "Section" "!=" "") -}}
+{{- range  $paginator.Pages -}}
+    {{- partial "article-full.html" . -}}
+{{- end -}}
+{{- partial "pagination.html" . -}}
+
+{{ end }}

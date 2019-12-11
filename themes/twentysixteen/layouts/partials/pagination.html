@@ -1,0 +1,39 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<nav class="navigation pagination" role="navigation" aria-label="Beiträge">
+    <h2 class="screen-reader-text">{{ i18n "post_navigation" }}</h2>
+    <div class="nav-links">
+    {{ if $pag.HasPrev }}
+    <a class="prev page-numbers" href="{{ $pag.Prev.URL }}">{{ i18n "previous-page" }}</a>
+    {{ end }}
+
+    {{ $ellipsed := false }}
+    {{ $shouldEllipse := false }}
+    {{ range $pag.Pagers }}
+    {{ $right := sub .TotalPages .PageNumber }}
+    {{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
+    {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
+    {{ if $showNumber }}
+        {{ $ellipsed = false }}
+        {{ $shouldEllipse = false }}
+    {{ else }}
+        {{ $shouldEllipse = not $ellipsed }}
+        {{ $ellipsed = true }}
+    {{ end }}
+    {{ if $showNumber }}
+    {{ if eq . $pag }}
+    <span aria-current="page" class="page-numbers current"><span class="meta-nav screen-reader-text">{{ i18n "page" }} </span>{{ .PageNumber }}</span>
+    {{ else }}
+    <a class="page-numbers" href="{{ .URL }}"><span class="meta-nav screen-reader-text">{{ i18n "page" }} </span>{{ .PageNumber }}</a>
+    {{ end }}
+    {{ else if $shouldEllipse }}
+    <span class="page-numbers dots">…</span>
+    {{ end }}
+    {{ end }}
+
+    {{ if $pag.HasNext }}
+    <a class="next page-numbers" href="{{ $pag.Next.URL }}">{{ i18n "next_page" }}</a>
+    {{ end }}
+    </div>
+</nav>
+{{ end }}

@@ -1,0 +1,45 @@
+.site-branding {
+	margin: 0 auto 0 0;
+}
+
+.site-branding .site-title,
+.site-description {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute;
+}
+
+.custom-logo-link {
+	display: block;
+}
+
+.custom-logo-link:hover {
+    background-size: cover;
+    background-image: url("/wp-content/uploads/2018/07/watschelhausi-cropped.gif");
+    background-position: center left;
+    background-repeat: no-repeat;
+}
+.custom-logo-link:hover img {
+    visibility: hidden;
+}
+
+body.vsh-door-open #page {
+	border-top: 3px solid #007236;
+}
+body.vsh-door-unknown #page {
+	border-top: 3px solid orange;
+}
+body.vsh-door-closed #page {
+  border-top: 3px solid #c45729;
+}
+
+.space-state--closed {
+  color: red;
+}
+
+.space-state--unknown {
+  color: orange;
+}
+
+.space-state--open {
+  color: green;
+}

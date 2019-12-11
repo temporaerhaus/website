@@ -1,0 +1,44 @@
+[categories]
+other = "Categories"
+
+[continue_reading]
+other = "Continue reading"
+
+[sticky]
+other = "Featured"
+
+[menu]
+other = "Menu"
+
+[show_submenu]
+other = "Show submenu"
+
+[recent_posts]
+other = "Recent Posts"
+
+[language]
+other = "Language"
+
+[tags]
+other = "Tags"
+
+[posted_on]
+other = "Posted on"
+
+[skip_content]
+other = "Jump to Content"
+
+[page]
+other = "Page"
+
+[next_page]
+other = "Next Page"
+
+[previous_page]
+other = "Previous Page"
+
+[post_navigation]
+other = "Post Navigation"
+
+[proudly_powered]
+other = "Proudly powered by"

@@ -85,7 +85,8 @@
     </script>
     {{- $jsjq := resources.Get "js/jquery-3.4.1.slim.min.js" -}}
     {{- $js2016 := resources.Get "js/2016.js" -}}
-    {{- $js := (slice $jsjq $js2016) | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint }}
+    {{- $jscustom := resources.Get "js/custom.js" -}}
+    {{- $js := (slice $jsjq $js2016 $jscustom) | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint }}
     <script src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
     <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 </body>

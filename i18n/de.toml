@@ -1,0 +1,11 @@
+[space_door_status]
+other = "Türstatus"
+
+[space_door_open]
+other = "Wir haben geöffnet"
+
+[space_door_closed]
+other = "Gerade geschlossen"
+
+[space_door_unknown]
+other = "Unbekannt"

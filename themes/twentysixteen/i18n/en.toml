@@ -40,5 +40,17 @@ other = "Previous Page"
 [post_navigation]
 other = "Post Navigation"
 
+[next]
+other = "Next"
+
+[previous]
+other = "Previous"
+
+[next_post]
+other = "Next post"
+
+[previous_post]
+other = "Previous post"
+
 [proudly_powered]
 other = "Proudly powered by"

@@ -29,10 +29,10 @@
     <h2 class="screen-reader-text">Beitrags-Navigation</h2>
     <div class="nav-links">
         {{- with .PrevInSection -}}
-        <div class="nav-previous"><a href="{{ .Permalink }}" rel="prev"><span class="meta-nav" aria-hidden="true">Zurück</span> <span class="screen-reader-text">Vorheriger Beitrag:</span> <span class="post-title">{{ .Title }}</span></a></div>
+        <div class="nav-previous"><a href="{{ .Permalink }}" rel="prev"><span class="meta-nav" aria-hidden="true">{{ i18n "previous" }}</span> <span class="screen-reader-text">{{ i18n "previous_post" }}:</span> <span class="post-title">{{ .Title }}</span></a></div>
         {{- end -}}
         {{- with .NextInSection -}}
-        <div class="nav-next"><a href="{{ .Permalink }}" rel="next"><span class="meta-nav" aria-hidden="true">Weiter</span> <span class="screen-reader-text">Nächster Beitrag:</span> <span class="post-title">{{ .Title }}</span></a></div>
+        <div class="nav-next"><a href="{{ .Permalink }}" rel="next"><span class="meta-nav" aria-hidden="true">{{ i18n "next" }}</span> <span class="screen-reader-text">{{ i18n "next_post" }}:</span> <span class="post-title">{{ .Title }}</span></a></div>
         {{- end -}}
     </div>
 </nav>

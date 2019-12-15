@@ -40,5 +40,17 @@ other = "Vorherige Seite"
 [post_navigation]
 other = "Beitrags-Navigation"
 
+[next]
+other = "Weiter"
+
+[previous]
+other = "Zurück"
+
+[next_post]
+other = "Nächster Beitrag"
+
+[previous_post]
+other = "Vorheriger Beitrag"
+
 [proudly_powered]
 other = "Stolz präsentiert von"

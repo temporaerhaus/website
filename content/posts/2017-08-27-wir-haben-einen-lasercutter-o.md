@@ -30,7 +30,7 @@ tags:
 
 Vor zwei Wochen stand die Spedition vor der Tür und hatte eine ziemlich große Lieferung für uns – und diese Woche kamen die passende Absauganlage und die Zublasung an. So sind wir jetzt stolze Eltern eines nagelneuen Lasercutters vom Typ [Epilog Zing 24][1] 🙂
 
-![](https://verschwoerhaus.de/wp-content/uploads/2017/08/zing.jpeg)
+![](/wp-content/uploads/2017/08/zing.jpeg)
 
 Das Gerät hat eine Bearbeitungsfläche von 610×305 Millimetern, einen Schneidtisch und eine CO2-Laserröhre mit 30 Watt Leistung.  Bei den [Fablabs München][3] und [Aachen][4] lässt sich nachlesen, welche Materialien sich damit wie gravieren und schneiden lassen – und welche nicht in den Lasercutter dürfen.
 

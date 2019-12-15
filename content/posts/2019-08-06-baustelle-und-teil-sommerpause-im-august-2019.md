@@ -35,7 +35,7 @@ PS: Falls sich noch eine Gruppe für die vom Camp Daheimgebliebenen findet, die 
 
 PPS: Irgendwo in diesem Artikel musste noch [dieses Entenschild von Wikimedia Commons][2] unter. Bitte gehen Sie weiter.
 
-![](https://verschwoerhaus.de/wp-content/uploads/2019/08/Entenschild.svg)
+![](/wp-content/uploads/2019/08/Entenschild.svg)
 
- [1]: https://verschwoerhaus.de/satisfying-video/
+ [1]: /satisfying-video/
  [2]: https://commons.wikimedia.org/wiki/File:Entenschild.svg

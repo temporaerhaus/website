@@ -12,7 +12,7 @@ tags:
   - Open Data Day
 
 ---
-![](https://verschwoerhaus.de/wp-content/uploads/2017/02/ODDlogo.svg)
+![](/wp-content/uploads/2017/02/ODDlogo.svg)
 
 Am 3.3. ist der <a href="http://opendataday.org/de/">internationale Open Data Day,</a> und Ulm wird zum fünften Mal mit eigenem Programm dabei sein!
 

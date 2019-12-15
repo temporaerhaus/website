@@ -12,7 +12,7 @@ tags:
 ---
 Gut ein Jahr [nach dem ersten Besuch][1] bei der [Wissensstrahlung][2] auf [Radio FreeFM][3] war das Verschwörhaus gleich in zwei aufeinanderfolgenden Ausgaben der Wissensstrahlung auf Sendung – nämlich in Ausschnitten des Wikidata-Workshops [am Ende der Folge 269][4] ([MP3][5]) und live mit Juka und Stefan und Aufnahmen der nanuuu night [in Folge 270][6] ([MP3][7]). Viel Spaß und danke an Michael, dass wir schon wieder in der Sendung sein durften 🙂
 
- [1]: https://verschwoerhaus.de/wissensstrahlung-bei-radio-free-fm/
+ [1]: /wissensstrahlung-bei-radio-free-fm/
  [2]: http://www.wissensstrahlung.de/
  [3]: http://freefm.de/
  [4]: https://www.freefm.de/node/26158

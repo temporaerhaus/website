@@ -67,4 +67,4 @@ Der langjährige Nachrichtenredakteur Klaus Waschkies ist Nachrichtensprecher be
  [9]: http://datentaeter.de/
  [10]: https://twitter.com/datentaeterin
  [11]: https://www.journocode.de
- [12]: https://verschwoerhaus.de/datenjournalismus-praxis-und-perspektiven/
+ [12]: /datenjournalismus-praxis-und-perspektiven/

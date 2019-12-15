@@ -55,7 +55,7 @@ Noch ist lange nicht alles so eingerichtet, wie es sein soll. Nach den ersten gr
 
 Das von der Fensterfreilegung inspirierte Stillleben hat es leider nicht in den Artikel geschafft 😀
 
-![](https://verschwoerhaus.de/wp-content/uploads/2017/04/vyKAi7g-.jpg)
+![](/wp-content/uploads/2017/04/vyKAi7g-.jpg)
 
 Für die kommenden Wochen und Monate ist zwar wieder jede Menge Programm und Auslastung im Verschwörhaus geplant, wir haben aber wohlweislich einige Zeiträume für die anstehenden Bauarbeiten im vorderen Teil des Hauses geplant. Es bleibt dabei, dass nichts so bleibt, wie es war – einen kleinen Vorgeschmack bietet schon der gerade laufende Tinkertank-Workshop, der das Haus bereits am Sonntag _ganz_ anders aussehen ließ als im Artikel vom Samstag 😉
 

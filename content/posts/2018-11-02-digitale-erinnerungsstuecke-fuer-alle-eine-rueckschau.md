@@ -27,7 +27,7 @@ Wie die historischen Orte heute aussehen, hat Sabrina von der Geschäftsstelle D
 
 Wer mehr über die Geschichte der Ulmer Straßenbahn erfahren will, findet 1:30 h Interview mit Gerhard Späth [in Folge 302 der Wissensstrahlung auf Radio free fm][7] – und wer weitere Bilder aus der Ulmer Geschichte der Menschheit spenden möchte, kann sich gerne bei uns melden :)
 
- [3]: https://verschwoerhaus.de/digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia/
+ [3]: /digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia/
  [4]: https://de.wikipedia.org/wiki/Wikimedia_Commons
  [5]: https://commons.wikimedia.org/wiki/Category:Ulm/Buergerarchiv
  [6]: https://lizenzhinweisgenerator.de/

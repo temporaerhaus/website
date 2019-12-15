@@ -26,7 +26,7 @@ Zum Anderen hatten wir auch eigenes Programm in unserem „Esszimmer“, das wir
 
 Im neuen Jahr geht es indes gleich weiter wie gewohnt – einfach auf den Kalender schauen, wann wir offen haben und was los ist!
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2018/01/alpaka-wg.jpg
+ [1]: /wp-content/uploads/2018/01/alpaka-wg.jpg
  [2]: https://events.ccc.de/congress/2017/wiki/index.php/Main_Page
  [3]: https://okfn.de/blog/2018/01/34c3-rueckblick/
  [4]: https://mies.me

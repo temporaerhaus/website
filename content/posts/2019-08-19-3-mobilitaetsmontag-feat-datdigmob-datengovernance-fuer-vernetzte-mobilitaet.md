@@ -10,7 +10,7 @@ tags:
   - Mobilitätsmontag
 
 ---
-![](https://verschwoerhaus.de/wp-content/uploads/2019/08/Flyer_Mobilitätsmontag3-1.png)
+![](/wp-content/uploads/2019/08/Flyer_Mobilitätsmontag3-1.png)
 
 Vernetzte Mobilität – das ist das Zauberwort und die vermeintliche Lösung aller (Raum)probleme der Zukunft. Aber egal ob automatisiertes Fahren oder neue Mobilitätsdienste mit Elektrorollern: Immer geht es auch darum, wer am Ende welche und wessen Daten nutzen kann.
 

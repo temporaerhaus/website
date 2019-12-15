@@ -36,7 +36,7 @@ Die große, gemeinsame Digitalisierungsaktion ist am **Sonntag, dem 10. Juni 201
 
 Wer ohnehin schon über Creative Commons Bescheid weiß, darf gerne auch unter der Woche in den Abendstunden ins Haus kommen und mitgebrachte Bilder digitalisieren und auf Wikimedia Commons hochladen. Hierfür am Besten zu den Öffnungszeiten hereinschauen oder kurz per E-Mail an s.kaufmann (at) ulm.de anmelden!
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2018/06/Bahnhof_Ulm_1904.jpg
+ [1]: /wp-content/uploads/2018/06/Bahnhof_Ulm_1904.jpg
  [2]: https://commons.wikimedia.org
  [3]: https://commons.wikimedia.org/wiki/File:Wikimedia_Commons_web.pdf
  [4]: https://de.wikipedia.org/wiki/Creative_Commons 

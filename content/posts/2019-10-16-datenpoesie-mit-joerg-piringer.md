@@ -31,4 +31,4 @@ Afterparty im Anschluss
 
 <https://www.facebook.com/events/2096311654006603/>
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2019/09/PiringerA3Druck-blubb-Kopie.pdf
+ [1]: /wp-content/uploads/2019/09/PiringerA3Druck-blubb-Kopie.pdf

@@ -58,8 +58,8 @@ Alle Altersstufen · Samstag, 22.10.2016, ab 14.00 Uhr
 Um besser planen zu können, ist eine Anmeldung sinnvoll – für die Wikipedia-Einführung auf der [zugehörigen Projektseite][6], generell für alle Workshops aber gerne per E-Mail an stk at weinhof9.de
 
  [1]: http://codeweek.de
- [2]: https://verschwoerhaus.de/wp-content/uploads/2016/10/titel.jpg
+ [2]: /wp-content/uploads/2016/10/titel.jpg
  [3]: https://de.wikipedia.org/wiki/Arduino_(Plattform)
- [4]: https://verschwoerhaus.de/und-noch-ein-prototyp-der-erste-wikipedia-einfuehrungsworkshop/
+ [4]: /und-noch-ein-prototyp-der-erste-wikipedia-einfuehrungsworkshop/
  [5]: https://de.wikipedia.org/wiki/Wikipedia:Offenes_Editieren
  [6]: https://de.wikipedia.org/wiki/Wikipedia:Ulm/Neu-Ulm

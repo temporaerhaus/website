@@ -29,4 +29,4 @@ Und da auch dieser Teil des Browsers unter einer offenen und freien [Lizenz][1] 
 
  [1]: https://cs.chromium.org/codesearch/f/chromium/src/LICENSE?cl=ad3585e2b6d5af6347a2aa2e14ed4bb4087eac52
  [2]: https://cs.chromium.org/chromium/src/components/neterror/resources/default_200_percent/offline/200-offline-sprite.png?dr=C
- [3]: https://verschwoerhaus.de/wp-content/uploads/2018/03/schrank-dino-svg.zip
+ [3]: /wp-content/uploads/2018/03/schrank-dino-svg.zip

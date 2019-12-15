@@ -64,9 +64,9 @@ Rückblicke und weitere Lektüre:
  [4]: https://de.wikipedia.org/wiki/Kategorie:Wikiprojekt
  [5]: https://de.wikipedia.org/wiki/Wikimedia
  [6]: https://www.wikidata.org/wiki/Q3012
- [15]: https://verschwoerhaus.de/wp-content/uploads/2017/01/wikidata_ws.jpg
+ [15]: /wp-content/uploads/2017/01/wikidata_ws.jpg
  [16]: http://codefor.de/blog/wikidata
  [17]: https://riedelwerk.wordpress.com/2016/12/05/804-wikidata-okwiki/
  [18]: https://github.com/bleeptrack/wikidata-sketchnotes-2016
  [19]: http://www.bleeptrack.de/
- [20]: https://verschwoerhaus.de/wp-content/uploads/2017/01/opening.png
+ [20]: /wp-content/uploads/2017/01/opening.png

@@ -17,5 +17,5 @@ Letzten August haben wir einen [Hausrundgang][1] mit einer 360°-Kamera online g
 
 Auf [verschwoerhaus.de/tour][2] findet ihr jetzt den Rundgang vom August 2017 und den neuen vom Oktober 2018. Viel Spaß beim Erkunden!
 
- [1]: https://verschwoerhaus.de/der-virtuelle-hausrundgang/
- [2]: https://verschwoerhaus.de/tour
+ [1]: /der-virtuelle-hausrundgang/
+ [2]: /tour/

@@ -30,8 +30,8 @@ Nachdem dieses Netz aber vor allem von euren Ideen, euren Anwendungsfällen und 
 
  [1]: http://ulm-digital.com/
  [2]: https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network
- [3]: https://verschwoerhaus.de/wp-content/uploads/2016/11/gateway-bei-cortex-e1479855594709.jpg
+ [3]: /wp-content/uploads/2016/11/gateway-bei-cortex-e1479855594709.jpg
  [4]: https://www.thethingsnetwork.org/
  [5]: https://freifunk.net
  [6]: https://www.thethingsnetwork.org/community/ulm/
- [7]: https://verschwoerhaus.de/wp-content/uploads/2016/11/matze-packt-aus-e1479855640324.jpg
+ [7]: /wp-content/uploads/2016/11/matze-packt-aus-e1479855640324.jpg

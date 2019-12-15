@@ -31,4 +31,4 @@ In weniger als einer Woche sind die Demokratielabore schon bei uns, und es gibt 
 > → Dienstag, 29.5. von 14:00 – 17:00 (für Jugendliche), Mittwoch, 30.5. von 10:00 – 13:00 (für Multiplikator*innen) und Mittwoch, 30.5. von 13:00 – 16:00 (für Jugendliche)
 
  [1]: https://docs.google.com/forms/d/e/1FAIpQLSc_UgoiqOgtWvsV0zWX0WYUVOEwFNHaHZf9v2mZqMpCwc3SSg/viewform
- [2]: https://verschwoerhaus.de/bunte-aktionstage-mit-den-demokratielaboren/
+ [2]: /bunte-aktionstage-mit-den-demokratielaboren/

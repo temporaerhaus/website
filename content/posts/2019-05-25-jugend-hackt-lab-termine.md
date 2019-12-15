@@ -28,9 +28,9 @@ Unsere nächsten Termine:
   * [7. April, 17-19.30 Uhr, Dienstag: Offenes Lab][2]
   * [25. April, 13-17 Uhr, Samstag: Ungehörsam Workshop][6]
 
- [1]: https://verschwoerhaus.de/privacy-workshop-mit-maria-aufheimer/
- [2]: https://verschwoerhaus.de/offene-labs-starten-ab-juli-2019/
- [3]: https://verschwoerhaus.de/robo-und-programmier-workshop-im-jugend-hackt-lab/
- [4]: https://verschwoerhaus.de/hacking-bitsy-1-gamedesign-workshop/
- [5]: https://verschwoerhaus.de/codekunst-workshop-mit-bleeptrack/
- [6]: https://verschwoerhaus.de/ungehoersam-workshop-und-vh-kultur-diskussionsrunde/
+ [1]: /privacy-workshop-mit-maria-aufheimer/
+ [2]: /offene-labs-starten-ab-juli-2019/
+ [3]: /robo-und-programmier-workshop-im-jugend-hackt-lab/
+ [4]: /hacking-bitsy-1-gamedesign-workshop/
+ [5]: /codekunst-workshop-mit-bleeptrack/
+ [6]: /ungehoersam-workshop-und-vh-kultur-diskussionsrunde/

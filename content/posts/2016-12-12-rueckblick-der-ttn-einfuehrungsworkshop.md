@@ -25,7 +25,7 @@ Presseecho:
   * [Startschuss für neue Funktechnologie in der Ulmer Innenstadt][7] (augsburger-allgemeine.de)
   * [Technische Pionierleistung in Ulm: Funknetzwerk mit enormer Reichweite][8] (swr.de)
 
- [1]: https://verschwoerhaus.de/save-the-date-lorawan-workshop-mit-the-things-network/
+ [1]: /save-the-date-lorawan-workshop-mit-the-things-network/
  [2]: https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network
  [3]: http://ulm-digital.com
  [5]: https://github.com/TheThingsNetwork/workshops/tree/workshop/ulm

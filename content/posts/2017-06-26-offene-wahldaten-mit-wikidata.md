@@ -56,9 +56,9 @@ Berichte anderswo:
 Und wer offiziell Wahldaten bereitstellt, kann sich ja mal [die Forderungsliste des österreichischen Vorbilds][10] ansehen – oder [den deutschen Ableger der Website][11] weiterentwickeln.
 
  [1]: https://www.freefm.de/node/26000
- [2]: https://verschwoerhaus.de/wp-content/uploads/2017/06/wahldaten-gruppenfoto.jpg
+ [2]: /wp-content/uploads/2017/06/wahldaten-gruppenfoto.jpg
  [3]: https://en.wiktionary.org/wiki/yak_shaving
- [4]: https://verschwoerhaus.de/wp-content/uploads/2017/06/projektergebnisse.png
+ [4]: /wp-content/uploads/2017/06/projektergebnisse.png
  [5]: https://twitter.com/verschwoerhaus/status/878910434891493376
  [6]: http://guessr.morr.cc/
  [7]: https://de.wikipedia.org/w/index.php?title=Wikipedia:Kurier&oldid=166777150

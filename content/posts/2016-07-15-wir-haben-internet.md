@@ -39,4 +39,4 @@ Dank einer Hardwareüberlassung aus Switchen und Medienkonvertern hatte das aber
 Nur den Plasterouter sind wir noch nicht los. Nichts hält länger als ein Provisorium.
 
  [1]: http://www.cisco.com/c/en/us/support/switches/sf302-08p-8-port-10-100-poe-managed-switch-gigabit-uplinks/model.html
- [2]: https://verschwoerhaus.de/wp-content/uploads/2016/07/wp-1469030619119.jpg
+ [2]: /wp-content/uploads/2016/07/wp-1469030619119.jpg

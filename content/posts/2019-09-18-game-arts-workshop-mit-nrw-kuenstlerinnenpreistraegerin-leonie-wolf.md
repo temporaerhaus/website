@@ -29,4 +29,4 @@ Mail an: [ulm@jugendhackt.org][3]
  [1]: http://kyklos-code.ga/?i=1
  [2]: https://twitter.com/_yunikorn
  [3]: mailto:jugendhackt-ulm@jugendhackt.org
- [4]: https://verschwoerhaus.de/wp-content/uploads/2019/08/Fotoerlaubnis-Labs.pdf
+ [4]: /wp-content/uploads/2019/08/Fotoerlaubnis-Labs.pdf

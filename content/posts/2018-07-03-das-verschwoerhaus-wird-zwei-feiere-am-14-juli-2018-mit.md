@@ -14,4 +14,4 @@ Um 14:00 Uhr eröffnet Oberbürgermeister Gunter Czisch, danach finden kurze Li
 
 Eine Liste der Talks und eine Anmeldung findest du  unter <https://tickets.verschwoerhaus.de/ulm/vshzwei/> — Klick dir dort bitte ein Ticket, damit wir die Kuchenversorgung passend planen können und komm gerne mit vielen Menschen vorbei &#x1f389;
 
- [1]: https://verschwoerhaus.de/macht-hoch-die-tuer/
+ [1]: /macht-hoch-die-tuer/

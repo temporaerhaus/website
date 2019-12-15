@@ -7,9 +7,9 @@
     </header><!-- .entry-header -->
 
     {{ if .Params.featured_image }}
-    <a class="post-thumbnail" href="{{ .Permalink }}" aria-hidden="true">
+    <div class="post-thumbnail">
         <img src="{{ .Params.featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
-    </a>
+    </div>
     {{ end }}
 
     <div class="entry-content">

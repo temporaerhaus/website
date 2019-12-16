@@ -54,3 +54,60 @@ other = "Vorheriger Beitrag"
 
 [proudly_powered]
 other = "Stolz präsentiert von"
+
+[day_Monday]
+other = "Montag"
+
+[day_Tuesday]
+other = "Dienstag"
+
+[day_Wednesday]
+other = "Mittwoch"
+
+[day_Thursday]
+other = "Donnerstag"
+
+[day_Friday]
+other = "Freitag"
+
+[day_Saturday]
+other = "Samstag"
+
+[day_Sunday]
+other = "Sonntag"
+
+[month_January]
+other = "Januar"
+
+[month_February]
+other = "Februar"
+
+[month_March]
+other = "März"
+
+[month_April]
+other = "April"
+
+[month_May]
+other = "Mai"
+
+[month_June]
+other = "Juni"
+
+[month_July]
+other = "July"
+
+[month_August]
+other = "August"
+
+[month_September]
+other = "September"
+
+[month_October]
+other = "Oktober"
+
+[month_November]
+other = "November"
+
+[month_December]
+other = "Dezember"

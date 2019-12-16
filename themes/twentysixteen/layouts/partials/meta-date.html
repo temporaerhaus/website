@@ -1,13 +1,14 @@
 {{ $mytime := (.Lastmod.Format "2006-01-02") | default (.Date.Format "2006-01-02") }}
-{{/* FIXME: localize */}}
-{{ $mytimehuman := (.Lastmod.Format "Mon, 02 Jan 2006") | default (.Date.Format "Mon, 02 Jan 2006") }}
+{{ $pubtime := .Lastmod | default .Date }}
+{{ $myday := i18n (printf "day_%s" ($pubtime.Format "Monday")) }}
+{{ $mymonth := i18n (printf "month_%s" ($pubtime.Format "January")) }}
 {{ $mylm := (.Lastmod.Format "2006-01-02") }}
 {{ $mydt := (.Date.Format "2006-01-02") }}
 
 <span class="posted-on">
     <span class="screen-reader-text">{{ i18n "posted_on"}} </span>
     <a href="{{ .Permalink }}" rel="bookmark" title="{{ if ne $mylm $mydt -}}{{ printf "Origianlly Published: %s" $mydt }}{{end}}">
-        <time class="entry-date published" datetime="{{ $mytime }}">{{ $mytimehuman }}</time>
+        <time class="entry-date published" datetime="{{ $mytime }}">{{ $myday }}, {{ $pubtime.Day }}. {{ $mymonth }} {{ $pubtime.Year }}</time>
         {{ if ne $mylm $mydt -}} 
         <time class="updated" datetime="{{ $mydt }}">{{ $mydt }}</time>
         <span style="font-size:68%" aria-label="Updated indicator"> &#x1F551;</span>

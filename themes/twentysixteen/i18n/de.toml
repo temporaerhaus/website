@@ -22,6 +22,9 @@ other = "Sprache"
 [tags]
 other = "Tags"
 
+[author]
+other = "Author"
+
 [posted_on]
 other = "Veröffentlicht am"
 

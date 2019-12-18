@@ -25,6 +25,7 @@
     <!-- .entry-content -->
 
     <footer class="entry-footer">
+        {{ partial "meta-byline.html" . }}
         {{ if not .Params.sticky }}
         {{ partial "meta-date.html" . }}
         {{ end }}

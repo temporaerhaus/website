@@ -7,7 +7,7 @@
 
 <span class="posted-on">
     <span class="screen-reader-text">{{ i18n "posted_on"}} </span>
-    <a href="{{ .Permalink }}" rel="bookmark" title="{{ if ne $mylm $mydt -}}{{ printf "Origianlly Published: %s" $mydt }}{{end}}">
+    <a href="{{ .Permalink }}" rel="bookmark" title="{{ if ne $mylm $mydt -}}{{ printf "Originally Published: %s" $mydt }}{{end}}">
         <time class="entry-date published" datetime="{{ $mytime }}">{{ $myday }}, {{ $pubtime.Day }}. {{ $mymonth }} {{ $pubtime.Year }}</time>
         {{ if ne $mylm $mydt -}} 
         <time class="updated" datetime="{{ $mydt }}">{{ $mydt }}</time>

@@ -1,4 +1,4 @@
-{{/* Root template. Wraps around everything else */}}
+{{- /* Root template. Wraps around everything else */ -}}
 <!DOCTYPE html>
 <html lang="{{ $.Site.LanguageCode | default "en" }}"
       class="no-js"
@@ -27,16 +27,18 @@
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     {{ hugo.Generator }}
-    {{/* NOTE: For Production make sure you add `HUGO_ENV="production" ` before your build command */}}
+    {{- /* NOTE: For Production make sure you add `HUGO_ENV="production" ` before your build command */ -}}
     {{- if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
         <meta name="robots" content="index, follow" />
     {{- else }}
         <meta name="robots" content="noindex, nofollow" />
-    {{end}}
+    {{ end -}}
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
     {{- if .OutputFormats.Get "RSS" }}
-        <link href="{{ .OutputFormats.Get "RSS" }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
-    {{end}}
+        {{ with .OutputFormats.Get "rss" -}}
+            {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+        {{ end -}}
+    {{ end -}}
     {{/* NOTE: These Hugo Internal Templates can be found at https://github.com/gohugoio/hugo/tree/master/tpl/tplimpl/embedded/templates */}}
     {{- template "_internal/opengraph.html" . -}}
     {{- template "_internal/schema.html" . -}}
@@ -46,14 +48,13 @@
         <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}" />
     {{ end -}}
 
-    {{ if .IsTranslated }}
-        {{ range .Translations }}
+    {{ if .IsTranslated -}}
+        {{ range .Translations -}}
         <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
-        {{ end }}
-    {{ end }}
+        {{ end -}}
+    {{ end -}}
     {{ partial "head-custom.html" . -}}
 
-    {{/* Bundle and minimise CSS resources */}}
     {{- $css2016 := resources.Get "css/2016.css" -}}
     {{- $fontscss := resources.Get "fonts/genericons.css" -}}
     {{- $languagecss := resources.Get "css/languageswitch.css" -}}

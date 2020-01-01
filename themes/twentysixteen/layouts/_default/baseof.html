@@ -51,6 +51,7 @@
         <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
         {{ end }}
     {{ end }}
+    {{ partial "head-custom.html" . -}}
 
     {{/* Bundle and minimise CSS resources */}}
     {{- $css2016 := resources.Get "css/2016.css" -}}

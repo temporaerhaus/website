@@ -80,7 +80,7 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
     [[languages.de.menu.main]]
       identifier = "jhlab"
       name = "Jugend hackt Lab"
-      url = "/jugend-hackt-lab/"
+      url = "/category/jugend-hackt-lab/"
       weight = -70
 
     [[languages.de.menu.main]]
@@ -168,7 +168,7 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
     [[languages.en.menu.main]]
       identifier = "jhlab"
       name = "Jugend hackt Lab"
-      url = "/jugend-hackt-lab/"
+      url = "/category/jugend-hackt-lab/"
       weight = -70
 
     [[languages.en.menu.main]]

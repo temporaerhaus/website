@@ -7,6 +7,9 @@
         {{- if eq .Kind "taxonomy" -}}{{ humanize .Type }}:{{ end }}
         {{ .Title }}
     </h1>
+	{{ if .Params.taxonomy_description }}
+    <div class="taxonomy-description"><p>{{ .Params.taxonomy_description }}</p></div>
+    {{ end }}
 </header>
 {{- end -}}
 {{- end -}}

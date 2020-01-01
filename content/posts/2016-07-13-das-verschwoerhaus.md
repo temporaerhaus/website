@@ -30,7 +30,7 @@ Sofern nicht im Kalender anders angekündigt, haben wir derzeit folgende regelm�
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge am besten [unserem Twitter-Account][5]!
 
-Dir reicht das nicht? Du willst Strickmaschinen hacken, Kindern und Jugendlichen löten und coden beibringen, ein Coderdojo oder eine Railsgirls-Gruppe anbieten oder hast Ideen für tolle Sprecher\*innen? Dann schreib eine Mail an kontakt18 at verschwoerhaus punkt de!
+Dir reicht das nicht? Du willst Strickmaschinen hacken, Kindern und Jugendlichen löten und coden beibringen, ein Coderdojo oder eine Railsgirls-Gruppe anbieten oder hast Ideen für tolle Sprecher\*innen? Dann schreib eine Mail an kontakt20 at verschwoerhaus punkt de!
 
 ## Wichtige Links
 

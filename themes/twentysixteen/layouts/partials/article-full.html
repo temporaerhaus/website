@@ -13,6 +13,12 @@
     </a>
     {{ end }}
 
+    {{ if and (.Params.language) (ne .Params.language $.Site.Language.Lang) }}
+    <p>
+        <small><em>Sorry, this entry is only available in German. For the sake of viewer convenience, the content is shown below in the alternative language. You may use the link in the Sidebar to switch the active language.</em></small>
+    </p>
+    {{ end }}
+
     <div class="entry-content">
         {{ .Content }}
     </div>

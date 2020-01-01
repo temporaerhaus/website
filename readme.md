@@ -30,10 +30,12 @@ TODO
 - [x] look for other shortcodes
 - [ ] diff urls, something breaking?
 - [ ] fork theme, add our modifications
-- [ ] build spaceapi microservice
-- [ ] integrate spaceapi status js
+- [x] build spaceapi microservice
+- [x] integrate spaceapi status js
 - [x] data for library
-- [ ] translate all static pages
-- [ ] import translated posts
-- [ ] jh lab page is a category page
+- [x] translate all static pages
+- [x] import translated posts (else: https://github.com/gohugoio/hugo/issues/2529)
+- [x] jh lab page is a category page
 - [ ] don't embed external images
+- [ ] look at rss
+- [x] i18n date

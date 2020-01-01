@@ -3,7 +3,8 @@ title: Meld‘ Dich an zum Wikidata-Workshop 2019
 author: Verschwörhaus
 type: post
 date: 2019-01-25T15:38:13+00:00
-url: /meld-dich-an-zum-wikidata-workshop-2019/
+#url: /meld-dich-an-zum-wikidata-workshop-2019/
+language: de
 featured_image: /wp-content/uploads/2017/01/johl-1200x676.jpg
 categories:
   - Workshops

@@ -3,7 +3,8 @@ title: Der virtuelle Hausrundgang
 author: Stefan Kaufmann
 type: post
 date: 2017-08-21T07:56:14+00:00
-url: /der-virtuelle-hausrundgang/
+#url: /der-virtuelle-hausrundgang/
+language: de
 featured_image: /wp-content/uploads/2017/08/pano-header-1200x304.jpg
 categories:
   - news

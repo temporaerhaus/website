@@ -3,7 +3,8 @@ title: 'Mittwoch: LoRaWAN, A Maker’s Guide to Filters uvm'
 author: Stefan Kaufmann
 type: post
 date: 2017-05-23T11:43:48+00:00
-url: /mittwoch-lorawan-a-makers-guide-to-filters-uvm/
+#url: /mittwoch-lorawan-a-makers-guide-to-filters-uvm/
+language: de
 featured_image: /wp-content/uploads/2017/05/800px-Coffee-filter.jpg
 categories:
   - Workshops

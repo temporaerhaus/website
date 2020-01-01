@@ -3,7 +3,8 @@ title: Türhaltemagnet, selbstgemacht!
 author: Stefan Kaufmann
 type: post
 date: 2016-08-04T10:46:55+00:00
-url: /tuerhaltemagnet-selbstgemacht/
+#url: /tuerhaltemagnet-selbstgemacht/
+language: de
 featured_image: /wp-content/uploads/2016/09/haltemagnet-1200x598.jpg
 categories:
   - bootstrap

@@ -1,0 +1,1 @@
+./2018-06-18-kommt-zur-abschlussveranstaltung-der-zukunftsstadt-am-26-6.md

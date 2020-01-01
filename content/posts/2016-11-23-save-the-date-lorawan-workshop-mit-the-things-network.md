@@ -3,7 +3,8 @@ title: 'Save the Date: LoRaWAN-Workshop mit The Things Network'
 author: Stefan Kaufmann
 type: post
 date: 2016-11-22T23:01:25+00:00
-url: /save-the-date-lorawan-workshop-mit-the-things-network/
+#url: /save-the-date-lorawan-workshop-mit-the-things-network/
+language: de
 featured_image: /wp-content/uploads/2016/11/loratitel-1200x553.jpg
 categories:
   - Uncategorized

@@ -3,7 +3,8 @@ title: 'Workshop am 3. August: Entscheiden in Konsens'
 author: Maximilian Richt
 type: post
 date: 2018-07-23T15:52:06+00:00
-url: /workshop-am-3-august-entscheiden-in-konsens/
+#url: /workshop-am-3-august-entscheiden-in-konsens/
+language: de
 featured_image: /wp-content/uploads/2018/07/signal-2018-07-23-174303-e1532361105370-1200x417.jpg
 categories:
   - Uncategorized

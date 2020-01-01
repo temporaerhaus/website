@@ -3,7 +3,8 @@ title: Wir nehmen Deine alten USB-Sticks!
 author: Stefan Kaufmann
 type: post
 date: 2018-01-26T14:54:28+00:00
-url: /wir-nehmen-deine-alten-usb-sticks/
+#url: /wir-nehmen-deine-alten-usb-sticks/
+language: de
 categories:
   - Uncategorized
 tags:

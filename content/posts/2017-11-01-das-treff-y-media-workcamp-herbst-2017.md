@@ -3,7 +3,8 @@ title: Das Treff Y Media Workcamp Herbst 2017
 author: Stefan Kaufmann
 type: post
 date: 2017-11-01T19:10:55+00:00
-url: /das-treff-y-media-workcamp-herbst-2017/
+#url: /das-treff-y-media-workcamp-herbst-2017/
+language: de
 featured_image: /wp-content/uploads/2017/11/FB-BannerWC3.jpg
 categories:
   - Uncategorized

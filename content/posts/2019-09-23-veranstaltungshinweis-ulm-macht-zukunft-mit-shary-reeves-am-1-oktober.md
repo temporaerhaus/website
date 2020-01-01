@@ -3,7 +3,8 @@ title: 'Veranstaltungshinweis: ulm.macht.zukunft mit Shary Reeves am 1. Oktober'
 author: Maximilian Richt
 type: post
 date: 2019-09-23T14:10:50+00:00
-url: /veranstaltungshinweis-ulm-macht-zukunft-mit-shary-reeves-am-1-oktober/
+#url: /veranstaltungshinweis-ulm-macht-zukunft-mit-shary-reeves-am-1-oktober/
+language: de
 featured_image: /wp-content/uploads/2019/09/0117_10_SR_1200x600_2-1200x600.jpg
 categories:
   - news

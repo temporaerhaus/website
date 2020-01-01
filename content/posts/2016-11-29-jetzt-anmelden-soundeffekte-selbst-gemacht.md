@@ -3,7 +3,8 @@ title: 'Jetzt anmelden: Soundeffekte selbst gemacht'
 author: Stefan Kaufmann
 type: post
 date: 2016-11-29T14:07:50+00:00
-url: /jetzt-anmelden-soundeffekte-selbst-gemacht/
+#url: /jetzt-anmelden-soundeffekte-selbst-gemacht/
+language: de
 featured_image: /wp-content/uploads/2016/11/IMG_8440_titel-1200x675.jpg
 categories:
   - Uncategorized

@@ -3,7 +3,8 @@ title: Privacy-Workshop mit Maria Aufheimer
 author: Tom
 type: post
 date: 2019-11-10T21:08:24+00:00
-url: /privacy-workshop-mit-maria-aufheimer/
+#url: /privacy-workshop-mit-maria-aufheimer/
+language: de
 featured_image: /wp-content/uploads/2019/08/7DezPrivacy_klein1.jpg
 categories:
   - Jugend hackt Lab

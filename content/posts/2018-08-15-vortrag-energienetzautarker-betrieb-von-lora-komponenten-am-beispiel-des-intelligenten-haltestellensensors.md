@@ -3,7 +3,8 @@ title: 'Vortrag: Energienetzautarker Betrieb von LoRa-Komponenten am Beispiel de
 author: Maximilian Richt
 type: post
 date: 2018-08-15T10:28:18+00:00
-url: /vortrag-energienetzautarker-betrieb-von-lora-komponenten-am-beispiel-des-intelligenten-haltestellensensors/
+#url: /vortrag-energienetzautarker-betrieb-von-lora-komponenten-am-beispiel-des-intelligenten-haltestellensensors/
+language: de
 categories:
   - Uncategorized
 

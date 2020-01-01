@@ -3,7 +3,8 @@ title: Coding für freie Radios
 author: Stefan Kaufmann
 type: post
 date: 2018-02-06T14:06:44+00:00
-url: /coding-fuer-freie-radios/
+#url: /coding-fuer-freie-radios/
+language: de
 featured_image: /wp-content/uploads/2018/02/coding_freie_radios-1200x281.png
 categories:
   - Uncategorized

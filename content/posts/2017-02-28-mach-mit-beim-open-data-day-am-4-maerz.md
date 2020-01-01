@@ -3,7 +3,8 @@ title: Mach‘ mit beim Open Data Day am 4. März!
 author: Stefan Kaufmann
 type: post
 date: 2017-02-28T18:00:38+00:00
-url: /mach-mit-beim-open-data-day-am-4-maerz/
+#url: /mach-mit-beim-open-data-day-am-4-maerz/
+language: de
 featured_image: /wp-content/uploads/2017/02/ODDlogo.svg
 categories:
   - Workshops

@@ -3,7 +3,8 @@ title: Night of Civic Hacks
 author: Stefan Kaufmann
 type: post
 date: 2017-04-22T12:18:39+00:00
-url: /night-of-civic-hacks/
+#url: /night-of-civic-hacks/
+language: de
 featured_image: /wp-content/uploads/2017/04/night-of-civic-hacks-1200x740.jpg
 categories:
   - news

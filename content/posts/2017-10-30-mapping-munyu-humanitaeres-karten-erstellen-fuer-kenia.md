@@ -3,7 +3,8 @@ title: 'Mapping Munyu: Humanitäres Karten erstellen für Kenia'
 author: Stefan Kaufmann
 type: post
 date: 2017-10-30T17:56:27+00:00
-url: /mapping-munyu-humanitaeres-karten-erstellen-fuer-kenia/
+#url: /mapping-munyu-humanitaeres-karten-erstellen-fuer-kenia/
+language: de
 featured_image: /wp-content/uploads/2017/10/mapping-munyu-1200x675.png
 categories:
   - Uncategorized

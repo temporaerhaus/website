@@ -3,7 +3,8 @@ title: Ungehörsam Workshop und vh-Kultur Diskussionsrunde
 author: Tom
 type: post
 date: 2019-10-16T22:38:58+00:00
-url: /ungehoersam-workshop-und-vh-kultur-diskussionsrunde/
+#url: /ungehoersam-workshop-und-vh-kultur-diskussionsrunde/
+language: de
 featured_image: /wp-content/uploads/2019/10/47460607872_1c352f79e2_c-e1572478482379.jpg
 categories:
   - Jugend hackt Lab

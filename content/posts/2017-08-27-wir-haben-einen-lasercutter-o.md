@@ -3,7 +3,8 @@ title: Wir haben einen Lasercutter \o/
 author: Stefan Kaufmann
 type: post
 date: 2017-08-27T19:52:48+00:00
-url: /wir-haben-einen-lasercutter-o/
+#url: /wir-haben-einen-lasercutter-o/
+language: de
 categories:
   - news
   - Uncategorized

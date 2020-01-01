@@ -3,7 +3,8 @@ title: Rebooting…
 author: Stefan Kaufmann
 type: post
 date: 2018-01-08T20:02:35+00:00
-url: /rebooting/
+#url: /rebooting/
+language: de
 categories:
   - Uncategorized
 tags:

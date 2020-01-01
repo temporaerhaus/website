@@ -3,7 +3,8 @@ title: Smart Government, OGDDACHLI und Zukunftsstadt in Schw√∂rhaus und Verschw√
 author: Stefan Kaufmann
 type: post
 date: 2017-11-02T14:37:38+00:00
-url: /smart-government-ogddachli-und-zukunftsstadt-in-schwoerhaus-und-verschwoerhaus/
+#url: /smart-government-ogddachli-und-zukunftsstadt-in-schwoerhaus-und-verschwoerhaus/
+language: de
 categories:
   - Uncategorized
 tags:

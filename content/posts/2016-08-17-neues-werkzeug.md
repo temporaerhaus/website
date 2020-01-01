@@ -3,7 +3,8 @@ title: Neues Werkzeug!
 author: Stefan Kaufmann
 type: post
 date: 2016-08-17T19:41:09+00:00
-url: /neues-werkzeug/
+#url: /neues-werkzeug/
+language: de
 categories:
   - bootstrap
   - Uncategorized

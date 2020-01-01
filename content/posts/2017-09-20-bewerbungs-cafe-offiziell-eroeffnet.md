@@ -3,7 +3,8 @@ title: Bewerbungs-Cafe offiziell eröffnet
 author: Stefan Kaufmann
 type: post
 date: 2017-09-20T13:38:32+00:00
-url: /bewerbungs-cafe-offiziell-eroeffnet/
+#url: /bewerbungs-cafe-offiziell-eroeffnet/
+language: de
 featured_image: /wp-content/uploads/2017/09/bewerbercafe.jpg
 categories:
   - Uncategorized

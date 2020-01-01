@@ -3,7 +3,8 @@ title: 'Visionen für die Digitalisierung: Theorie und Praxis'
 author: Stefan Kaufmann
 type: post
 date: 2018-05-09T18:16:43+00:00
-url: /visionen-fuer-die-digitalisierung-theorie-und-praxis/
+#url: /visionen-fuer-die-digitalisierung-theorie-und-praxis/
+language: de
 featured_image: /wp-content/uploads/2018/05/vdd-1200x900.jpeg
 categories:
   - Uncategorized

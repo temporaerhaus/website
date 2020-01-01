@@ -3,7 +3,8 @@ title: Meld‘ Dich jetzt an zum Wikidata-Wahldatenworkshop!
 author: Stefan Kaufmann
 type: post
 date: 2017-04-12T10:09:54+00:00
-url: /meld-dich-jetzt-an-zum-wikidata-wahldatenworkshop/
+#url: /meld-dich-jetzt-an-zum-wikidata-wahldatenworkshop/
+language: de
 featured_image: /wp-content/uploads/2017/04/wikidata_titel-1200x675.jpg
 categories:
   - news

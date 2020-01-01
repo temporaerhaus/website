@@ -3,7 +3,8 @@ title: Wir brauchen schnelles Internet!
 author: Stefan Kaufmann
 type: post
 date: 2016-06-27T08:08:42+00:00
-url: /wir-brauchen-schnelles-internet/
+#url: /wir-brauchen-schnelles-internet/
+language: de
 categories:
   - news
 

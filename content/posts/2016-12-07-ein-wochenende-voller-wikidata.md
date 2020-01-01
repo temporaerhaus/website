@@ -3,7 +3,8 @@ title: Ein Wochenende voller Wikidata
 author: Stefan Kaufmann
 type: post
 date: 2016-12-07T16:55:24+00:00
-url: /ein-wochenende-voller-wikidata/
+#url: /ein-wochenende-voller-wikidata/
+language: de
 featured_image: /wp-content/uploads/2017/01/wikidata-1200x676.jpg
 categories:
   - Workshops

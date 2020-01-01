@@ -3,7 +3,8 @@ title: Baustelle und Teil-Sommerpause im August 2019
 author: Stefan Kaufmann
 type: post
 date: 2019-08-06T11:00:52+00:00
-url: /baustelle-und-teil-sommerpause-im-august-2019/
+#url: /baustelle-und-teil-sommerpause-im-august-2019/
+language: de
 categories:
   - news
 tags:

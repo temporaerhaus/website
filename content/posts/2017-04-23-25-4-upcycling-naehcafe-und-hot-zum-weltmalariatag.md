@@ -3,7 +3,8 @@ title: '25.4.: Upcycling Nähcafe und HOT zum Weltmalariatag'
 author: Stefan Kaufmann
 type: post
 date: 2017-04-23T12:15:39+00:00
-url: /25-4-upcycling-naehcafe-und-hot-zum-weltmalariatag/
+#url: /25-4-upcycling-naehcafe-und-hot-zum-weltmalariatag/
+language: de
 featured_image: /wp-content/uploads/2017/04/naehcafe-hotosm-1200x595.jpg
 categories:
   - news

@@ -3,7 +3,8 @@ title: ERR_CABINET_DISCONNECTED
 author: Maximilian Richt
 type: post
 date: 2018-03-19T15:45:48+00:00
-url: /err_cabinet_disconnected/
+#url: /err_cabinet_disconnected/
+language: de
 featured_image: /wp-content/uploads/2018/03/schrank-1200x271.png
 categories:
   - Uncategorized

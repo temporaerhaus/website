@@ -3,7 +3,8 @@ title: 'Kunst trifft Code: Singende Kakteen!'
 author: Stefan Kaufmann
 type: post
 date: 2017-07-07T11:14:35+00:00
-url: /kunst-trifft-code-singende-kakteen/
+#url: /kunst-trifft-code-singende-kakteen/
+language: de
 featured_image: /wp-content/uploads/2017/07/kunsttrifftcode_juli.jpg
 categories:
   - Workshops

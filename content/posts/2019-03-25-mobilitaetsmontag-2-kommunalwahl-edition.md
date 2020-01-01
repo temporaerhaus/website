@@ -3,7 +3,8 @@ title: 'Mobilitätsmontag 2: Kommunalwahl-Edition!'
 author: Verschwörhaus
 type: post
 date: 2019-03-25T14:58:19+00:00
-url: /mobilitaetsmontag-2-kommunalwahl-edition/
+#url: /mobilitaetsmontag-2-kommunalwahl-edition/
+language: de
 featured_image: /wp-content/uploads/2019/03/Mobilitätsmontag_Flyer2.png
 categories:
   - ulmAPI

@@ -3,7 +3,8 @@ title: Wir suchen Verstärkung!
 author: Juka
 type: post
 date: 2019-01-24T09:42:35+00:00
-url: /wir-suchen-verstaerkung/
+#url: /wir-suchen-verstaerkung/
+language: de
 featured_image: /wp-content/uploads/2019/01/Stellenausschreibung_ReKoUlm.jpg
 categories:
   - news

@@ -3,7 +3,8 @@ title: Eltern-LAN am 30.6. in der Stadtbibliothek
 author: Stefan Kaufmann
 type: post
 date: 2018-06-06T12:16:53+00:00
-url: /eltern-lan-am-30-6-in-der-stadtbibliothek/
+#url: /eltern-lan-am-30-6-in-der-stadtbibliothek/
+language: de
 categories:
   - Uncategorized
 tags:

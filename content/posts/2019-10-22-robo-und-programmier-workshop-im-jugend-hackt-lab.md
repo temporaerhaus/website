@@ -3,7 +3,8 @@ title: Robo und Coding Workshop im Jugend hackt Lab
 author: Tom
 type: post
 date: 2019-10-22T20:31:21+00:00
-url: /robo-und-programmier-workshop-im-jugend-hackt-lab/
+#url: /robo-und-programmier-workshop-im-jugend-hackt-lab/
+language: de
 featured_image: /wp-content/uploads/2019/10/ads_RoboWorkshop-HD-1200x675.jpg
 categories:
   - Jugend hackt Lab

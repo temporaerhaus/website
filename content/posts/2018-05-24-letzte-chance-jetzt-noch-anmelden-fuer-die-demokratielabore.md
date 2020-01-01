@@ -3,7 +3,8 @@ title: 'Letzte Chance: Jetzt noch anmelden für die Demokratielabore'
 author: Stefan Kaufmann
 type: post
 date: 2018-05-24T19:44:14+00:00
-url: /letzte-chance-jetzt-noch-anmelden-fuer-die-demokratielabore/
+#url: /letzte-chance-jetzt-noch-anmelden-fuer-die-demokratielabore/
+language: de
 featured_image: /wp-content/uploads/2018/05/demolabslaeuft-1200x675.jpeg
 categories:
   - Uncategorized

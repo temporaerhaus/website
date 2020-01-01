@@ -3,7 +3,8 @@ title: Blinkende Dinger zum Anziehen
 author: Stefan Kaufmann
 type: post
 date: 2016-10-21T15:34:29+00:00
-url: /blinkende-dinger-zum-anziehen/
+#url: /blinkende-dinger-zum-anziehen/
+language: de
 featured_image: /wp-content/uploads/2016/10/wearables_titel-1200x705.jpg
 categories:
   - news

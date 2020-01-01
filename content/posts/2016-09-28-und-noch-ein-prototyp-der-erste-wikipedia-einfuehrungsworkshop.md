@@ -3,7 +3,8 @@ title: 'Und noch ein Prototyp: Der erste Wikipedia-Einführungsworkshop'
 author: Stefan Kaufmann
 type: post
 date: 2016-09-28T11:37:26+00:00
-url: /und-noch-ein-prototyp-der-erste-wikipedia-einfuehrungsworkshop/
+#url: /und-noch-ein-prototyp-der-erste-wikipedia-einfuehrungsworkshop/
+language: de
 featured_image: /wp-content/uploads/2016/09/2016-09-16_WikiCon_2016_in_Kornwestheim_1018_Wir_schreiben_die_Wikipedia.jpg
 categories:
   - Aktionen

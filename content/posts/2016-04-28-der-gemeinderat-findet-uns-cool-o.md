@@ -3,7 +3,8 @@ title: Der Gemeinderat findet uns cool \o/
 author: Stefan Kaufmann
 type: post
 date: 2016-04-28T15:30:52+00:00
-url: /der-gemeinderat-findet-uns-cool-o/
+#url: /der-gemeinderat-findet-uns-cool-o/
+language: de
 categories:
   - news
 tags:

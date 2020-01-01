@@ -1,0 +1,1 @@
+./2018-05-14-stolpersteinmapping-am-23-mai.md

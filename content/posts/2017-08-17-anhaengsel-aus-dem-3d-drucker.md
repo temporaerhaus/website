@@ -3,7 +3,8 @@ title: Anhängsel aus dem 3D-Drucker
 author: Stefan Kaufmann
 type: post
 date: 2017-08-17T13:29:21+00:00
-url: /anhaengsel-aus-dem-3d-drucker/
+#url: /anhaengsel-aus-dem-3d-drucker/
+language: de
 featured_image: /wp-content/uploads/2017/08/IMG_1102.jpg
 categories:
   - Workshops

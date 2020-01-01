@@ -3,7 +3,8 @@ title: 'Workshop: Videomapping-Skulptur'
 author: Verschwörhaus
 type: post
 date: 2018-04-18T17:03:03+00:00
-url: /workshop-videomapping-skulptur/
+#url: /workshop-videomapping-skulptur/
+language: de
 categories:
   - Workshops
 tags:

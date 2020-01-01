@@ -3,7 +3,8 @@ title: Codekunst Workshop mit bleeptrack
 author: Tom
 type: post
 date: 2019-10-19T19:52:34+00:00
-url: /codekunst-workshop-mit-bleeptrack/
+#url: /codekunst-workshop-mit-bleeptrack/
+language: de
 featured_image: /wp-content/uploads/2019/11/ads_Codekunst-bleeptrack-HD-1200x675.jpg
 categories:
   - news

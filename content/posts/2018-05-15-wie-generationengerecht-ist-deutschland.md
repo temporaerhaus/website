@@ -3,7 +3,8 @@ title: Wie generationengerecht ist Deutschland?
 author: Stefan Kaufmann
 type: post
 date: 2018-05-15T21:10:13+00:00
-url: /wie-generationengerecht-ist-deutschland/
+#url: /wie-generationengerecht-ist-deutschland/
+language: de
 categories:
   - Uncategorized
 

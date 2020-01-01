@@ -3,7 +3,8 @@ title: Wo in Ulm gibt’s LoRaWAN?
 author: Stefan Kaufmann
 type: post
 date: 2017-04-25T11:04:04+00:00
-url: /wo-in-ulm-gibts-lorawan/
+#url: /wo-in-ulm-gibts-lorawan/
+language: de
 featured_image: /wp-content/uploads/2017/04/Karte-1200x769.png
 categories:
   - Uncategorized

@@ -3,7 +3,8 @@ title: Eine Stickhusky \o/
 author: Stefan Kaufmann
 type: post
 date: 2016-12-22T15:45:42+00:00
-url: /eine-stickhusky-o/
+#url: /eine-stickhusky-o/
+language: de
 categories:
   - news
   - Uncategorized

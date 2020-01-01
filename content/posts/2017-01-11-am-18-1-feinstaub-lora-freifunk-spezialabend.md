@@ -3,7 +3,8 @@ title: 'Am 18.1.: Feinstaub-LoRa-Freifunk-Spezialabend!'
 author: Stefan Kaufmann
 type: post
 date: 2017-01-11T15:54:42+00:00
-url: /am-18-1-feinstaub-lora-freifunk-spezialabend/
+#url: /am-18-1-feinstaub-lora-freifunk-spezialabend/
+language: de
 featured_image: /wp-content/uploads/2017/01/feinstaub-sensor-1200x676.png
 categories:
   - Aktionen

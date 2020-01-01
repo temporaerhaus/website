@@ -3,7 +3,8 @@ title: Funkenflug
 author: Stefan Kaufmann
 type: post
 date: 2016-11-28T22:07:34+00:00
-url: /funkenflug/
+#url: /funkenflug/
+language: de
 categories:
   - bootstrap
   - Uncategorized

@@ -3,7 +3,8 @@ title: Klassenfahrt zum Datenjournalismus-Treffen in München!
 author: Stefan Kaufmann
 type: post
 date: 2016-11-26T19:22:33+00:00
-url: /klassenfahrt-zum-datenjournalismus-treffen-in-muenchen/
+#url: /klassenfahrt-zum-datenjournalismus-treffen-in-muenchen/
+language: de
 categories:
   - Uncategorized
 tags:

@@ -3,7 +3,8 @@ title: Upcycling Nähcafe am 28. November
 author: Maximilian Richt
 type: post
 date: 2018-11-13T15:31:49+00:00
-url: /upcycling-naehcafe-am-28-november/
+#url: /upcycling-naehcafe-am-28-november/
+language: de
 featured_image: /wp-content/uploads/2016/12/15178955_725779974239582_2608513715848610681_n.jpg
 categories:
   - Uncategorized

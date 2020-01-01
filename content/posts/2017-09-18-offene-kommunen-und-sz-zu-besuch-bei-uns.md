@@ -3,7 +3,8 @@ title: Offene Kommunen und SZ zu Besuch bei uns
 author: Stefan Kaufmann
 type: post
 date: 2017-09-18T13:31:22+00:00
-url: /offene-kommunen-und-sz-zu-besuch-bei-uns/
+#url: /offene-kommunen-und-sz-zu-besuch-bei-uns/
+language: de
 categories:
   - Uncategorized
 tags:

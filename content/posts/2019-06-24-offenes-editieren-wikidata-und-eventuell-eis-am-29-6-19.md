@@ -3,7 +3,8 @@ title: Offenes Editieren, Wikidata und eventuell Eis am 29.6.19
 author: Stefan Kaufmann
 type: post
 date: 2019-06-24T20:09:16+00:00
-url: /offenes-editieren-wikidata-und-eventuell-eis-am-29-6-19/
+#url: /offenes-editieren-wikidata-und-eventuell-eis-am-29-6-19/
+language: de
 categories:
   - news
 tags:

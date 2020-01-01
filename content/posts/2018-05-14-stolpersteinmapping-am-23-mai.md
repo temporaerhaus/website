@@ -3,7 +3,8 @@ title: Stolpersteinmapping am 23. Mai
 author: Maximilian Richt
 type: post
 date: 2018-05-14T21:07:30+00:00
-url: /stolpersteinmapping-am-23-mai/
+#url: /stolpersteinmapping-am-23-mai/
+language: de
 categories:
   - Aktionen
   - Workshops

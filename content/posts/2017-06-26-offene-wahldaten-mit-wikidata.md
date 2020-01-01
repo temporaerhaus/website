@@ -3,7 +3,8 @@ title: Offene Wahldaten mit Wikidata
 author: Stefan Kaufmann
 type: post
 date: 2017-06-26T20:44:17+00:00
-url: /offene-wahldaten-mit-wikidata/
+#url: /offene-wahldaten-mit-wikidata/
+language: de
 featured_image: /wp-content/uploads/2017/07/datengarten.jpeg
 categories:
   - Uncategorized

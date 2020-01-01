@@ -3,7 +3,8 @@ title: 'Hacking Bitsy: +1 Gamedesign Workshop'
 author: Tom
 type: post
 date: 2019-10-20T00:45:11+00:00
-url: /hacking-bitsy-1-gamedesign-workshop/
+#url: /hacking-bitsy-1-gamedesign-workshop/
+language: de
 featured_image: /wp-content/uploads/2019/11/HackingBitsy-e1573263734436.jpg
 categories:
   - Jugend hackt Lab

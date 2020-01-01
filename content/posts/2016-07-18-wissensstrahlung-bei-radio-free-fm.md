@@ -3,7 +3,8 @@ title: Wissensstrahlung bei Radio Free FM
 author: Verschwörhaus
 type: post
 date: 2016-07-17T22:44:02+00:00
-url: /wissensstrahlung-bei-radio-free-fm/
+#url: /wissensstrahlung-bei-radio-free-fm/
+language: de
 featured_image: /wp-content/uploads/2016/07/image6-e1468795741858.jpg
 categories:
   - news

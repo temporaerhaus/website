@@ -3,7 +3,8 @@ title: Willkommen zum Jugend hackt Lab Ulm!
 author: Juka
 type: post
 date: 2019-05-25T15:42:30+00:00
-url: /jugend-hackt-lab-termine/
+#url: /jugend-hackt-lab-termine/
+language: de
 category_sticky_post:
   - 144
 categories:

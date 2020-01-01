@@ -1,0 +1,1 @@
+./2019-08-19-3-mobilitaetsmontag-feat-datdigmob-datengovernance-fuer-vernetzte-mobilitaet.md

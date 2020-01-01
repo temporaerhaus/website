@@ -3,7 +3,8 @@ title: 'Für ein Internet ohne Uploadfilter: Demonstration am 23. März in Ulm'
 author: Stefan Kaufmann
 type: post
 date: 2019-03-21T20:43:01+00:00
-url: /fuer-ein-internet-ohne-uploadfilter-demonstration-am-23-maerz-in-ulm/
+#url: /fuer-ein-internet-ohne-uploadfilter-demonstration-am-23-maerz-in-ulm/
+language: de
 categories:
   - Uncategorized
 

@@ -3,7 +3,8 @@ title: 'OK Lab Ulm reboots: Mobilitätsmontag ab 4.2.2019!'
 author: Verschwörhaus
 type: post
 date: 2019-01-29T17:24:49+00:00
-url: /ok-lab-ulm-reboots-mobilitaetsmontag-ab-4-2-2019/
+#url: /ok-lab-ulm-reboots-mobilitaetsmontag-ab-4-2-2019/
+language: de
 featured_image: /wp-content/uploads/2019/01/Mobilitätsmontag_Flyer.png
 categories:
   - Uncategorized

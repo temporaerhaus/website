@@ -3,7 +3,8 @@ title: Beklebte Fenster, Teil 1
 author: Stefan Kaufmann
 type: post
 date: 2016-10-29T17:47:46+00:00
-url: /beklebte-fenster-teil-1/
+#url: /beklebte-fenster-teil-1/
+language: de
 featured_image: /wp-content/uploads/2016/11/schaufensterbeklebung-1200x675.jpg
 categories:
   - bootstrap

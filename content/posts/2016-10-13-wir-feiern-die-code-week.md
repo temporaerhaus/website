@@ -3,7 +3,8 @@ title: Wir feiern die Code Week!
 author: Stefan Kaufmann
 type: post
 date: 2016-10-13T08:49:01+00:00
-url: /wir-feiern-die-code-week/
+#url: /wir-feiern-die-code-week/
+language: de
 featured_image: /wp-content/uploads/2016/10/titel-1200x674.jpg
 categories:
   - Uncategorized

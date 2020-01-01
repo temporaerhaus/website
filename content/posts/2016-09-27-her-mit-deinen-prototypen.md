@@ -3,7 +3,8 @@ title: Her mit deinen Prototypen!
 author: Stefan Kaufmann
 type: post
 date: 2016-09-27T19:00:56+00:00
-url: /her-mit-deinen-prototypen/
+#url: /her-mit-deinen-prototypen/
+language: de
 featured_image: /wp-content/uploads/2016/09/Bildschirmfoto-vom-2016-09-27-205754-1200x312.png
 categories:
   - Uncategorized

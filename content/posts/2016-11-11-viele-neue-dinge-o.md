@@ -3,7 +3,8 @@ title: Viele neue Dinge \o/
 author: Stefan Kaufmann
 type: post
 date: 2016-11-11T19:05:55+00:00
-url: /viele-neue-dinge-o/
+#url: /viele-neue-dinge-o/
+language: de
 featured_image: /wp-content/uploads/2016/11/lieferung-1200x715.jpg
 categories:
   - bootstrap

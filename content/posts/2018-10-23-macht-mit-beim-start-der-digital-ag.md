@@ -3,7 +3,8 @@ title: Macht mit beim Start der Digital-AG!
 author: Lena Mohr
 type: post
 date: 2018-10-23T16:51:28+00:00
-url: /macht-mit-beim-start-der-digital-ag/
+#url: /macht-mit-beim-start-der-digital-ag/
+language: de
 categories:
   - Uncategorized
 tags:

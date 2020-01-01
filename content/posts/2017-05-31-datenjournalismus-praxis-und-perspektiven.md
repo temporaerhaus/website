@@ -3,7 +3,8 @@ title: Datenjournalismus – Praxis und Perspektiven
 author: Stefan Kaufmann
 type: post
 date: 2017-05-31T14:33:37+00:00
-url: /datenjournalismus-praxis-und-perspektiven/
+#url: /datenjournalismus-praxis-und-perspektiven/
+language: de
 featured_image: /wp-content/uploads/2017/05/datenjournalismus.jpg
 categories:
   - Uncategorized

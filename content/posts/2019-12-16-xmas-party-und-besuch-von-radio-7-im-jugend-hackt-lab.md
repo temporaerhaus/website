@@ -3,7 +3,8 @@ title: Xmas-Party und Besuch von Radio 7 im Jugend hackt Lab
 author: Tom
 type: post
 date: 2019-12-16T17:39:45+00:00
-url: /xmas-party-und-besuch-von-radio-7-im-jugend-hackt-lab/
+#url: /xmas-party-und-besuch-von-radio-7-im-jugend-hackt-lab/
+language: de
 featured_image: /wp-content/uploads/2019/12/tree-branch-light-decoration-holiday-glow-843837-pxhere.com-1-e1576516698216.jpg
 categories:
   - Jugend hackt Lab

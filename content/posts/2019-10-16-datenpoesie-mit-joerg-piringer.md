@@ -3,7 +3,8 @@ title: Datenpoesie mit Jörg Piringer
 author: Tom
 type: post
 date: 2019-10-16T11:00:54+00:00
-url: /datenpoesie-mit-joerg-piringer/
+#url: /datenpoesie-mit-joerg-piringer/
+language: de
 featured_image: /wp-content/uploads/2019/10/ads_Datenpoesie-1200x675.jpg
 category_sticky_post:
   - 18

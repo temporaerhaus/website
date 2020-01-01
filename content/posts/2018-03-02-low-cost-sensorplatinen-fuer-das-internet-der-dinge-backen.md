@@ -3,7 +3,8 @@ title: Low-Cost-Sensorplatinen für das Internet der Dinge backen!
 author: Stefan Kaufmann
 type: post
 date: 2018-03-02T11:21:36+00:00
-url: /low-cost-sensorplatinen-fuer-das-internet-der-dinge-backen/
+#url: /low-cost-sensorplatinen-fuer-das-internet-der-dinge-backen/
+language: de
 featured_image: /wp-content/uploads/2018/03/TTN_Ulm_Minster_Nodes-1200x383.jpeg
 categories:
   - Workshops

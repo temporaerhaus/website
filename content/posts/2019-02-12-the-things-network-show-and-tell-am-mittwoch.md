@@ -3,7 +3,8 @@ title: 'The Things Network: Show and Tell am Mittwoch'
 author: Maximilian Richt
 type: post
 date: 2019-02-12T21:08:32+00:00
-url: /the-things-network-show-and-tell-am-mittwoch/
+#url: /the-things-network-show-and-tell-am-mittwoch/
+language: de
 categories:
   - Uncategorized
 

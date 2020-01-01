@@ -3,7 +3,8 @@ title: Wikidata-Weihnachts-Workshop am 15.12.2018
 author: Stefan Kaufmann
 type: post
 date: 2018-12-14T14:59:36+00:00
-url: /wikidata-weihnachts-workshop-am-15-12-2018/
+#url: /wikidata-weihnachts-workshop-am-15-12-2018/
+language: de
 categories:
   - Workshops
 tags:

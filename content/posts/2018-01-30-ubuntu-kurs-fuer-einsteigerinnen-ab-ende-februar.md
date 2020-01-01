@@ -3,7 +3,8 @@ title: Ubuntu-Kurs für EinsteigerInnen ab Ende Februar
 author: Stefan Kaufmann
 type: post
 date: 2018-01-30T16:48:47+00:00
-url: /ubuntu-kurs-fuer-einsteigerinnen-ab-ende-februar/
+#url: /ubuntu-kurs-fuer-einsteigerinnen-ab-ende-februar/
+language: de
 categories:
   - Uncategorized
 tags:

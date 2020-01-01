@@ -3,7 +3,8 @@ title: Schon wieder zu Gast im Radio
 author: Stefan Kaufmann
 type: post
 date: 2017-07-31T16:24:49+00:00
-url: /schon-wieder-zu-gast-im-radio/
+#url: /schon-wieder-zu-gast-im-radio/
+language: de
 categories:
   - news
 tags:

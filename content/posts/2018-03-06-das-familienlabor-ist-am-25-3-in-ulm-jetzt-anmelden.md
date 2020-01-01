@@ -3,7 +3,8 @@ title: Das FamilienLabor ist am 25.3. in Ulm – jetzt anmelden!
 author: Juka
 type: post
 date: 2018-03-06T19:25:37+00:00
-url: /das-familienlabor-ist-am-25-3-in-ulm-jetzt-anmelden/
+#url: /das-familienlabor-ist-am-25-3-in-ulm-jetzt-anmelden/
+language: de
 categories:
   - Projekte
   - Workshops

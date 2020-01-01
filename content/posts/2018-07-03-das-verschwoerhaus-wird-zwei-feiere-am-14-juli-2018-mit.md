@@ -3,7 +3,8 @@ title: Das Verschwörhaus wird zwei! Feiere am 14. Juli 2018 mit
 author: Maximilian Richt
 type: post
 date: 2018-07-03T18:01:00+00:00
-url: /das-verschwoerhaus-wird-zwei-feiere-am-14-juli-2018-mit/
+#url: /das-verschwoerhaus-wird-zwei-feiere-am-14-juli-2018-mit/
+language: de
 categories:
   - Uncategorized
 

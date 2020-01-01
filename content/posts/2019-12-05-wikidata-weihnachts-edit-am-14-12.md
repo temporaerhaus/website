@@ -3,7 +3,8 @@ title: Wikidata-Weihnachts-Edit am 14.12.
 author: Verschwörhaus
 type: post
 date: 2019-12-05T21:16:44+00:00
-url: /wikidata-weihnachts-edit-am-14-12/
+#url: /wikidata-weihnachts-edit-am-14-12/
+language: de
 categories:
   - news
   - Workshops

@@ -3,7 +3,8 @@ title: 3D-Drucker Workshop mit David Jaeckel
 author: Tom
 type: post
 date: 2019-09-24T16:43:48+00:00
-url: /3d-drucker-workshop-mit-david-jaeckel/
+#url: /3d-drucker-workshop-mit-david-jaeckel/
+language: de
 featured_image: /wp-content/uploads/2019/10/ads_3D-Druck-Workshop-HD-1200x675.jpg
 categories:
   - Jugend hackt Lab

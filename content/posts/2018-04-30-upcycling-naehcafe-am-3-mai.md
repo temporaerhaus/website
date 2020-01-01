@@ -3,7 +3,8 @@ title: Upcycling Nähcafe am 3. Mai
 author: Verschwörhaus
 type: post
 date: 2018-04-30T20:00:26+00:00
-url: /upcycling-naehcafe-am-3-mai/
+#url: /upcycling-naehcafe-am-3-mai/
+language: de
 featured_image: /wp-content/uploads/2016/12/15178955_725779974239582_2608513715848610681_n.jpg
 categories:
   - Uncategorized

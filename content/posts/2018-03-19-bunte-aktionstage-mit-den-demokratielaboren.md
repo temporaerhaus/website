@@ -3,7 +3,8 @@ title: Bunte Aktionstage mit den Demokratielaboren
 author: Verschwörhaus
 type: post
 date: 2018-03-19T16:19:51+00:00
-url: /bunte-aktionstage-mit-den-demokratielaboren/
+#url: /bunte-aktionstage-mit-den-demokratielaboren/
+language: de
 category_sticky_post:
   - 19
 categories:

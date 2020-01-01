@@ -3,7 +3,8 @@ title: 'JH Lab:Ulm startet mit Game Jam Workshop: „Let’s play to save the wo
 author: Juka
 type: post
 date: 2019-06-03T17:31:34+00:00
-url: /jh-labulm-startet-mit-game-jam-workshop-lets-play-to-save-the-world/
+#url: /jh-labulm-startet-mit-game-jam-workshop-lets-play-to-save-the-world/
+language: de
 featured_image: /wp-content/uploads/2019/06/GameJamNeu-Kopie-1.png
 categories:
   - Jugend hackt Lab

@@ -3,7 +3,8 @@ title: Unser Programm im Februar
 author: Stefan Kaufmann
 type: post
 date: 2017-01-27T00:35:09+00:00
-url: /unser-programm-im-februar/
+#url: /unser-programm-im-februar/
+language: de
 categories:
   - Uncategorized
   - Workshops

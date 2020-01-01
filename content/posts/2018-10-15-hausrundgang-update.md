@@ -3,7 +3,8 @@ title: Hausrundgang-Update
 author: Maximilian Richt
 type: post
 date: 2018-10-15T15:31:16+00:00
-url: /hausrundgang-update/
+#url: /hausrundgang-update/
+language: de
 featured_image: /wp-content/uploads/2018/10/tour2018-1200x304.jpg
 categories:
   - news

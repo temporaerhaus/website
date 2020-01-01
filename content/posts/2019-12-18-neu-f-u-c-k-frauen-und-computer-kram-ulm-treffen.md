@@ -3,7 +3,8 @@ title: 'Neu: F.U.C.K – Frauen Und Computer Kram Ulm – Treffen'
 author: jana
 type: post
 date: 2019-12-18T15:28:35+00:00
-url: /neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen/
+#url: /neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen/
+language: de
 featured_image: /wp-content/uploads/2019/12/img_0354-1200x900.png
 categories:
   - news

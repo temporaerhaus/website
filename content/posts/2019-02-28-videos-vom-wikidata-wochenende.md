@@ -3,7 +3,8 @@ title: Videos vom Wikidata-Wochenende
 author: Stefan Kaufmann
 type: post
 date: 2019-02-28T16:56:47+00:00
-url: /videos-vom-wikidata-wochenende/
+#url: /videos-vom-wikidata-wochenende/
+language: de
 categories:
   - Workshops
 tags:

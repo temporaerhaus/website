@@ -1,0 +1,1 @@
+./2018-08-15-vortrag-energienetzautarker-betrieb-von-lora-komponenten-am-beispiel-des-intelligenten-haltestellensensors.md

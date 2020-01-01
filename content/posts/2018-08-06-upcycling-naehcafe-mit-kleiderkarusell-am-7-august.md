@@ -3,7 +3,8 @@ title: Upcycling Nähcafe mit Kleiderkarusell am 7. August
 author: Maximilian Richt
 type: post
 date: 2018-08-06T10:31:31+00:00
-url: /upcycling-naehcafe-mit-kleiderkarusell-am-7-august/
+#url: /upcycling-naehcafe-mit-kleiderkarusell-am-7-august/
+language: de
 featured_image: /wp-content/uploads/2016/12/15178955_725779974239582_2608513715848610681_n.jpg
 categories:
   - Uncategorized

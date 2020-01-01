@@ -1,28 +1,28 @@
 ---
-title: Presse, Logos und Bilder
+title: Press, Logos and Photos
 author: Stefan Kaufmann
 type: page
 date: 2017-09-22T14:11:44+00:00
 ---
 
-Hier gibt es Material für Berichte, Partnereinrichtungen und Co!
+Here you can find material for reports, partner institutions and others!
 
-### Logo und Farben
+### Logo and Colors
 
 [![](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)
-Unser Logo als SVG, Klick für Original
+Our logo as SVG, click for original
 
-Unsere Hausfarben sind:
+Our house colors are:
 
-  * <span style="color: #f1c400;">Gelb:</span> [Pantone 7406][2]
-  * <span style="color: #c45729;">Rot:</span> [Pantone 7580][3]
-  * <span style="color: #007236;">Grün:</span> [Pantone 3500][4]
+  * <span style="color: #f1c400;">Yellow:</span> [Pantone 7406][2]
+  * <span style="color: #c45729;">Red:</span> [Pantone 7580][3]
+  * <span style="color: #007236;">Green:</span> [Pantone 3500][4]
 
-### Fotos
+### Photos
 
-Die folgenden Abbildungen können für Veröffentlichungen verwendet werden. Sie sind allesamt unter CC-0 lizenziert.
-Zudem finden sich in der [Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)
-sowie in der [Verschwörhaus-Kategorie auf Wikimedia Commons][6] viele Bilder unter Creative-Commons-Lizenz.
+The following illustrations can be used for publications. They are all licensed under CC-0.
+In addition, the [Gallery of Jugend hackt Ulm 2017][5] and [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)
+as well as in the [Verschwörhaus-Category on Wikimedia Commons][6] contain many pictures under Creative Commons license.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"
@@ -168,7 +168,7 @@ sowie in der [Verschwörhaus-Kategorie auf Wikimedia Commons][6] viele Bilder un
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
 	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
 
-[Außerdem gibt es eine eigene Kategorie mit Bildern unter Freier Lizenz auf Wikimedia Commons!][6]
+[There is also an own category with pictures under free license on Wikimedia Commons!][6]
 
 
  [2]: https://www.pantone.com/color-finder/7406-C

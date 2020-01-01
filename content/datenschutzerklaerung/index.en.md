@@ -1,12 +1,12 @@
 ---
-title: Datenschutzerklärung
+title: Privacy Policy
 author: Verschwörhaus
 type: page
 date: 2016-07-14T00:13:36+00:00
 
 ---
 
-**Datenschutz**
+**Privacy**
 
 Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
 

@@ -1,1 +1,1 @@
-./2017-09-18-offene-kommunen-und-sz-zu-besuch-bei-uns.md
+2017-09-18-offene-kommunen-und-sz-zu-besuch-bei-uns.md

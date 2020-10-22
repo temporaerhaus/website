@@ -1,1 +1,1 @@
-./2016-10-13-wir-feiern-die-code-week.md
+2016-10-13-wir-feiern-die-code-week.md

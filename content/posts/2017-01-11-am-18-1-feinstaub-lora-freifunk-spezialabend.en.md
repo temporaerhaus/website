@@ -1,1 +1,1 @@
-./2017-01-11-am-18-1-feinstaub-lora-freifunk-spezialabend.md
+2017-01-11-am-18-1-feinstaub-lora-freifunk-spezialabend.md

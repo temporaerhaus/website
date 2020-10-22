@@ -1,1 +1,1 @@
-./2017-02-28-mach-mit-beim-open-data-day-am-4-maerz.md
+2017-02-28-mach-mit-beim-open-data-day-am-4-maerz.md

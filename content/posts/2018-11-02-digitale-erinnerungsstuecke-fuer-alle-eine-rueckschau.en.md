@@ -1,1 +1,1 @@
-./2018-11-02-digitale-erinnerungsstuecke-fuer-alle-eine-rueckschau.md
+2018-11-02-digitale-erinnerungsstuecke-fuer-alle-eine-rueckschau.md

@@ -1,1 +1,1 @@
-./2016-11-23-save-the-date-lorawan-workshop-mit-the-things-network.md
+2016-11-23-save-the-date-lorawan-workshop-mit-the-things-network.md

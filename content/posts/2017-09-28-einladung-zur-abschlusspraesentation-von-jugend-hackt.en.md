@@ -1,1 +1,1 @@
-./2017-09-28-einladung-zur-abschlusspraesentation-von-jugend-hackt.md
+2017-09-28-einladung-zur-abschlusspraesentation-von-jugend-hackt.md

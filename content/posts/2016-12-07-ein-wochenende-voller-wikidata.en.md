@@ -1,1 +1,1 @@
-./2016-12-07-ein-wochenende-voller-wikidata.md
+2016-12-07-ein-wochenende-voller-wikidata.md

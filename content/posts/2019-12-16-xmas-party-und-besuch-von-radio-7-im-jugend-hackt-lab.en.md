@@ -1,1 +1,1 @@
-./2019-12-16-xmas-party-und-besuch-von-radio-7-im-jugend-hackt-lab.md
+2019-12-16-xmas-party-und-besuch-von-radio-7-im-jugend-hackt-lab.md

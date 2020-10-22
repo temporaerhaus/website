@@ -3,13 +3,12 @@ title: Das Verschwörhaus
 author: Verschwörhaus
 type: post
 date: 2016-07-13T18:42:20+00:00
-#url: /das-verschwoerhaus/
+url: /das-verschwoerhaus/
 language: de
 featured_image: /wp-content/uploads/2016/07/outdoor_reflection-1200x675.jpg
 categories:
   - bootstrap
   - news
-sticky: true
 ---
 Willkommen auf der Website des Verschwörhaus – dem „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Stadt Ulm gemeinsam in die Zukunft begleiten zu können!
 

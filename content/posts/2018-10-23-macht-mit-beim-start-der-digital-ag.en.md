@@ -1,1 +1,1 @@
-./2018-10-23-macht-mit-beim-start-der-digital-ag.md
+2018-10-23-macht-mit-beim-start-der-digital-ag.md

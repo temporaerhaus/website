@@ -1,1 +1,1 @@
-./2017-04-12-meld-dich-jetzt-an-zum-wikidata-wahldatenworkshop.md
+2017-04-12-meld-dich-jetzt-an-zum-wikidata-wahldatenworkshop.md

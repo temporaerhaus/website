@@ -1,1 +1,1 @@
-./2019-10-20-hacking-bitsy-1-gamedesign-workshop.md
+2019-10-20-hacking-bitsy-1-gamedesign-workshop.md

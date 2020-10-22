@@ -1,1 +1,1 @@
-./2017-12-01-komm-zum-67-netzpolitischen-abend.md
+2017-12-01-komm-zum-67-netzpolitischen-abend.md

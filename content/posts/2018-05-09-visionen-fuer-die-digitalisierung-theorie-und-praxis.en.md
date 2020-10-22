@@ -1,1 +1,1 @@
-./2018-05-09-visionen-fuer-die-digitalisierung-theorie-und-praxis.md
+2018-05-09-visionen-fuer-die-digitalisierung-theorie-und-praxis.md

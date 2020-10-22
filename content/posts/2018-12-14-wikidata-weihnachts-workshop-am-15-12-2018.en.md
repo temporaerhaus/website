@@ -1,1 +1,1 @@
-./2018-12-14-wikidata-weihnachts-workshop-am-15-12-2018.md
+2018-12-14-wikidata-weihnachts-workshop-am-15-12-2018.md

@@ -1,1 +1,1 @@
-./2016-11-11-viele-neue-dinge-o.md
+2016-11-11-viele-neue-dinge-o.md

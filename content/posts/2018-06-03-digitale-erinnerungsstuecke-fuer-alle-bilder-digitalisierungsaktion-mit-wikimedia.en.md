@@ -1,1 +1,1 @@
-./2018-06-03-digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia.md
+2018-06-03-digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia.md

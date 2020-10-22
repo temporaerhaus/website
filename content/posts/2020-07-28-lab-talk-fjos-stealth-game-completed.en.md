@@ -1,0 +1,1 @@
+2020-07-28-lab-talk-fjos-stealth-game-completed.md

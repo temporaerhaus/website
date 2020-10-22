@@ -1,1 +1,1 @@
-./2017-11-02-smart-government-ogddachli-und-zukunftsstadt-in-schwoerhaus-und-verschwoerhaus.md
+2017-11-02-smart-government-ogddachli-und-zukunftsstadt-in-schwoerhaus-und-verschwoerhaus.md

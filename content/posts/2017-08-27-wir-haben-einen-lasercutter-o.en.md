@@ -1,1 +1,1 @@
-./2017-08-27-wir-haben-einen-lasercutter-o.md
+2017-08-27-wir-haben-einen-lasercutter-o.md

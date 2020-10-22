@@ -1,1 +1,1 @@
-./2018-08-06-upcycling-naehcafe-mit-kleiderkarusell-am-7-august.md
+2018-08-06-upcycling-naehcafe-mit-kleiderkarusell-am-7-august.md

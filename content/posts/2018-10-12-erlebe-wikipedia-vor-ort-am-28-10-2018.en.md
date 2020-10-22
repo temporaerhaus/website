@@ -1,1 +1,1 @@
-./2018-10-12-erlebe-wikipedia-vor-ort-am-28-10-2018.md
+2018-10-12-erlebe-wikipedia-vor-ort-am-28-10-2018.md

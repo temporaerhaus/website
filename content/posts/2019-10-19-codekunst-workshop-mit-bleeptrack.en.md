@@ -1,1 +1,1 @@
-./2019-10-19-codekunst-workshop-mit-bleeptrack.md
+2019-10-19-codekunst-workshop-mit-bleeptrack.md

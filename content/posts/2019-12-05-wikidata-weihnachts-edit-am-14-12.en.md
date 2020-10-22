@@ -1,1 +1,1 @@
-./2019-12-05-wikidata-weihnachts-edit-am-14-12.md
+2019-12-05-wikidata-weihnachts-edit-am-14-12.md

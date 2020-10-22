@@ -1,1 +1,1 @@
-./2016-07-05-der-erste-grosse-hirnsturm.md
+2016-07-05-der-erste-grosse-hirnsturm.md

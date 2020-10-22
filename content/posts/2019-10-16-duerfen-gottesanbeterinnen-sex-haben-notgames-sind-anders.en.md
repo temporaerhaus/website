@@ -1,1 +1,1 @@
-./2019-10-16-duerfen-gottesanbeterinnen-sex-haben-notgames-sind-anders.md
+2019-10-16-duerfen-gottesanbeterinnen-sex-haben-notgames-sind-anders.md

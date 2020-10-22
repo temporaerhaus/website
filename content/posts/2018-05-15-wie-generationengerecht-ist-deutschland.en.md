@@ -1,1 +1,1 @@
-./2018-05-15-wie-generationengerecht-ist-deutschland.md
+2018-05-15-wie-generationengerecht-ist-deutschland.md

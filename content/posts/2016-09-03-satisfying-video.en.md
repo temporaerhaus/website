@@ -1,1 +1,1 @@
-./2016-09-03-satisfying-video.md
+2016-09-03-satisfying-video.md

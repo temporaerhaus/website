@@ -1,1 +1,1 @@
-./2017-04-22-night-of-civic-hacks.md
+2017-04-22-night-of-civic-hacks.md

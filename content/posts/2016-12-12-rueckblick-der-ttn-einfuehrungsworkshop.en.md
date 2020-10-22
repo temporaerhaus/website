@@ -1,1 +1,1 @@
-./2016-12-12-rueckblick-der-ttn-einfuehrungsworkshop.md
+2016-12-12-rueckblick-der-ttn-einfuehrungsworkshop.md

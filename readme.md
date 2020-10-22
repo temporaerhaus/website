@@ -33,7 +33,7 @@ language: en
 how to build
 ------------
 
-locally, to preview your new post: `hugo serve`
+To preview your new post, run hugo development server locally: `hugo server`
 
 
 
@@ -43,7 +43,7 @@ TODO
 - [x] fix youtube embeds
 - [x] look for other shortcodes
 - [ ] diff urls, something breaking?
-- [ ] fork theme, add our modifications
+- [x] fork theme, add our modifications
 - [x] build spaceapi microservice
 - [x] integrate spaceapi status js
 - [x] data for library

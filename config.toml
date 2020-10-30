@@ -23,11 +23,54 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
   [languages.de]
     weight = 1
     languageName = "Deutsch"
+
     [[languages.de.menu.main]]
+      identifier = "das-haus"
+      name = "Das Haus"
+      url = "/das-verschwoerhaus/"
+      weight = -100
+
+    [[languages.de.menu.main]]
+      parent = "das-haus"
+      identifier = "tour"
+      name = "virtuelle Tour"
+      url = "https://verschwoerhaus.de/tour/"
+
+    [[languages.de.menu.main]]
+      parent = "das-haus"
+      identifier = "bibliothek"
+      name = "Bibliothek"
+      url = "/bibliothek/"
+    
+    [[languages.de.menu.main]]
+      parent = "das-haus"
+      identifier = "presse"
+      name = "Presseberichte"
+      url = "/presse/"
+      
+    [[languages.de.menu.main]]
+      identifier = "termine-und-oeffnungszeiten"
+      name = "Termine und Öffnungszeiten"
+      url = "/termine-und-oeffnungszeiten/"
+      weight = -90
+
+    [[languages.de.menu.main]]
+      identifier = "wiki"
+      name = "Wiki"
+      url = "https://wiki.verschwoerhaus.de"
+      weight = -80
+
+    [[languages.de.menu.main]]
+      identifier = "jhlab"
+      name = "Jugend hackt Lab"
+      url = "/category/jugend-hackt-lab/"
+      weight = -70
+      
+     [[languages.de.menu.main]]
       identifier = "impressum"
       name = "Impressum"
       url = "/impressum/"
-      weight = -100
+      weight = -60
 
     [[languages.de.menu.main]]
       parent = "impressum"
@@ -43,47 +86,12 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
 
     [[languages.de.menu.main]]
       parent = "impressum"
-      identifier = "presse-logos-und-bilder"
-      name = "Presse, Logos und Bilder"
+      identifier = "logos-und-bilder"
+      name = "Logos und Bilder"
       url = "/presse-logos-und-bilder/"
 
     [[languages.de.menu.main]]
-      identifier = "termine-und-oeffnungszeiten"
-      name = "Termine und Öffnungszeiten"
-      url = "/termine-und-oeffnungszeiten/"
-      weight = -90
-
-    [[languages.de.menu.main]]
-      identifier = "das-haus"
-      name = "Das Haus"
-      url = "/das-verschwoerhaus/"
-      weight = -80
-
-    [[languages.de.menu.main]]
-      parent = "das-haus"
-      identifier = "tour"
-      name = "virtuelle Tour"
-      url = "https://verschwoerhaus.de/tour/"
-
-    [[languages.de.menu.main]]
-      parent = "das-haus"
-      identifier = "bibliothek"
-      name = "Bibliothek"
-      url = "/bibliothek/"
-
-    [[languages.de.menu.main]]
-      parent = "das-haus"
-      identifier = "wiki"
-      name = "Wiki"
-      url = "https://wiki.verschwoerhaus.de"
-
-    [[languages.de.menu.main]]
-      identifier = "jhlab"
-      name = "Jugend hackt Lab"
-      url = "/category/jugend-hackt-lab/"
-      weight = -70
-
-    [[languages.de.menu.main]]
+      parent = "impressum"
       identifier = "cookies"
       name = "Cookie Policy"
       url = "/cookie-policy/"
@@ -111,11 +119,54 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
     languageCode = "en-us"
     languageName = "English"
 
+
     [[languages.en.menu.main]]
+      identifier = "das-haus"
+      name = "The House"
+      url = "/das-verschwoerhaus/"
+      weight = -100
+
+    [[languages.en.menu.main]]
+      parent = "das-haus"
+      identifier = "tour"
+      name = "virtual Tour"
+      url = "https://verschwoerhaus.de/tour/"
+
+    [[languages.en.menu.main]]
+      parent = "das-haus"
+      identifier = "bibliothek"
+      name = "Library"
+      url = "/bibliothek/"
+    
+    [[languages.en.menu.main]]
+      parent = "das-haus"
+      identifier = "presse"
+      name = "Press"
+      url = "/presse/"
+    
+    [[languages.en.menu.main]]
+      identifier = "termine-und-oeffnungszeiten"
+      name = "Events and Opening Hours"
+      url = "/termine-und-oeffnungszeiten/"
+      weight = -90
+
+    [[languages.en.menu.main]]
+      identifier = "wiki"
+      name = "Wiki"
+      url = "https://wiki.verschwoerhaus.de"
+      weight = -80
+
+    [[languages.en.menu.main]]
+      identifier = "jhlab"
+      name = "Jugend hackt Lab"
+      url = "/category/jugend-hackt-lab/"
+      weight = -70
+      
+     [[languages.en.menu.main]]
       identifier = "impressum"
       name = "Impressum"
       url = "/impressum/"
-      weight = -100
+      weight = -60
 
     [[languages.en.menu.main]]
       parent = "impressum"
@@ -131,48 +182,12 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
 
     [[languages.en.menu.main]]
       parent = "impressum"
-      identifier = "presse-logos-und-bilder"
-      name = "Press, Logos and Photos"
+      identifier = "logos-und-bilder"
+      name = "Logos and Photos"
       url = "/presse-logos-und-bilder/"
 
     [[languages.en.menu.main]]
-      identifier = "termine-und-oeffnungszeiten"
-      name = "Events and Opening Hours"
-      url = "/termine-und-oeffnungszeiten/"
-      weight = -90
-
-    [[languages.en.menu.main]]
-      identifier = "das-haus"
-      name = "The House"
-      url = "/das-verschwoerhaus/"
-      weight = -80
-
-    [[languages.en.menu.main]]
-      parent = "das-haus"
-      identifier = "tour"
-      name = "virtual Tour"
-      url = "https://verschwoerhaus.de/tour/"
-
-    [[languages.en.menu.main]]
-      parent = "das-haus"
-      identifier = "bibliothek"
-      name = "Library"
-      url = "/bibliothek/"
-
-    [[languages.en.menu.main]]
-      parent = "das-haus"
-      identifier = "wiki"
-      name = "Wiki"
-      url = "https://wiki.verschwoerhaus.de"
-
-    [[languages.en.menu.main]]
-      identifier = "jhlab"
-      name = "Jugend hackt Lab"
-      url = "/category/jugend-hackt-lab/"
-      weight = -70
-
-    [[languages.en.menu.main]]
-      identifier = "cookies"
+      identifier = "impressum"
       name = "Cookie Policy"
       url = "/cookie-policy/"
       weight = -60

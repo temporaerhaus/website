@@ -1,5 +1,5 @@
 ---
-title: Presse, Logos und Bilder
+title: Logos und Bilder
 author: Stefan Kaufmann
 type: page
 date: 2017-09-22T14:11:44+00:00
@@ -21,8 +21,8 @@ Unsere Hausfarben sind:
 ### Fotos
 
 Die folgenden Abbildungen können für Veröffentlichungen verwendet werden. Sie sind allesamt unter CC-0 lizenziert.
-Zudem finden sich in der [Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)
-sowie in der [Verschwörhaus-Kategorie auf Wikimedia Commons][6] viele Bilder unter Creative-Commons-Lizenz.
+Zudem finden sich in der **[Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
+sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creative-Commons-Lizenz.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"

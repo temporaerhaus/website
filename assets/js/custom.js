@@ -31,3 +31,30 @@
 		el.dataset['state'] = stateClass;
 	});
 })();
+
+$(document).ready(function() {
+	if ($('.tabs')) {
+		
+		$('.tabs .tab-content .tab').each(function () {
+			var tabID = $(this).attr("id");
+			var tabTitle = $(this).attr("title");
+			
+			var active = "";
+			if ($(this).hasClass("active")) active = "class='active'";
+			
+			$('.tabs .tab-links').append("<li "+ active +"><a href='#"+ tabID +"'>"+ tabTitle +"</a></li>");
+		});
+		
+		$('.tabs .tab-links a').on('click', function(e) {
+			var currentAttrValue = $(this).attr('href');
+
+			// Show/Hide Tabs
+			$('.tabs ' + currentAttrValue).show().siblings().hide();
+
+			// Change/remove current tab to active
+			$(this).parent('li').addClass('active').siblings().removeClass('active');
+
+			e.preventDefault();
+		});
+	}
+});

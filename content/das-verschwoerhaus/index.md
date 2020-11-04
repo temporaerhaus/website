@@ -5,9 +5,10 @@ type: page
 date: 2016-07-13T18:42:20+00:00
 url: /das-verschwoerhaus/
 language: de
-#featured_image: /wp-content/uploads/2016/07/outdoor_reflection-1200x675.jpg
+featured_image: /wp-content/uploads/2016/07/outdoor_reflection-1200x675.jpg
 
 ---
+
 Willkommen auf der Website des Verschwörhaus – dem „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Stadt Ulm gemeinsam in die Zukunft begleiten zu können!
 
 ## Wo ist das?
@@ -58,7 +59,7 @@ Die [e.tage medien bildung Ulm](https://www.etage-ulm.de/home) veranstaltet imme
 
 {{% tab title="F.U.C.K." tag="fuck" %}}
 
-### Frauen* Und Computer Kram (F.U.C.K) 
+### Frauen* Und Computer Kram (F.U.C.K)
 
 F.U.C.K – Frauen* Und Computer Kram – richtet sich an alle Frauen (damit meinen wir alle Personen, die sich, zumindest hauptsächlich, als weiblich identifizieren), die sich für Computer, Hardware, Hacken, Basteln, Coden, Löten und allen anderen ähnlichen Kram interessieren.
 
@@ -72,7 +73,7 @@ Beschreibung der Gruppe
 
 Komm gerne einfach freitags zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana **jana.funke (at) uni-ulm.de** wenden!
 
-Wir freuen uns auf dich! :) 
+Wir freuen uns auf dich! :)
 
 {{% /tab %}}
 
@@ -148,7 +149,7 @@ Die OpenStreetMap ist eine frei editierbare und frei nutzbare Weltkarte. Im Vers
 
 ### Gruppe Radforschung
 
-Innerhalb der Verschwörhaus-Community hat sich eine Gruppe gebildet, die gemeinsam an intelligenten Schließsystemen und Sharingsystemen für Fahrräder tüftelt. 
+Innerhalb der Verschwörhaus-Community hat sich eine Gruppe gebildet, die gemeinsam an intelligenten Schließsystemen und Sharingsystemen für Fahrräder tüftelt.
 
 Du willst mitmachen? Einfach im Verschwörhaus-internen Slack dem Channel **#radforschung** beitreten!
 
@@ -182,7 +183,7 @@ Für die gemütliche Cafe-Atmosphäre sorgen Sofas und Sitzsäcke, Getränke und
 
 ### UlmAPI & Mobilitätsmontag
 
-UlmAPI (aka **OK Lab Ulm**, früher die **datalove-Gruppe an der Uni**) ist eine Gruppe von Open-Data-Interessierten aus Ulm. Unser Ziel ist es, gemeinsam diverse Datensätze unter offener Lizenz zu erhalten, anschließend per API für Drittanwendungen verfügbar zu machen und tolle Anwendungen daraus zu bauen. 
+UlmAPI (aka **OK Lab Ulm**, früher die **datalove-Gruppe an der Uni**) ist eine Gruppe von Open-Data-Interessierten aus Ulm. Unser Ziel ist es, gemeinsam diverse Datensätze unter offener Lizenz zu erhalten, anschließend per API für Drittanwendungen verfügbar zu machen und tolle Anwendungen daraus zu bauen.
 
 Seit 2019 gibt es in diesem Zuge auch das neue Format des **Mobilitätsmontags**: Hier beschäftigen sich Menschen – ob aus der Forschung aus Uni und Hochschule, aus der Civic-Tech-Bewegung oder aus diversen Verwaltungsteilen – mit Fragen rund um offene Daten und Mobilität. Allen gemeinsam: Sie treffen sich nicht, weil sie müssen, sondern weil sie wollen – und der Fokus liegt auf dem Machen, nicht dem Wollen 😉
 
@@ -204,6 +205,29 @@ Wikidata ist eine freie und offene Wissensdatenbank, die sowohl von Menschen als
 
 {{% /tabs %}}
 
+## Meilensteine
+
+* **April 2016** Der Ulmer Gemeinderat beschließt eine Anschubfinanzierung von 70 000 Euro für das Projekt [„Stadtlabor Ulm –das Experimentierfeld für die Stadt von morgen“](http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507). Es werden Räume der Sparkasse am Weinhof angemietet.
+
+* **Juli 2016** Das Verschwörhaus geht an den Start. Mit den regelmäßigen [Ulm-API](http://www.ulmapi.de)-Treffen zieht schon das erste Veranstaltungsformat mit ein. Gemeinsam mit der regionalen Civic-Tech-Szene werden Ideen entwickelt, wie die neuen Räumlichkeiten mit Leben gefüllt werden können.
+
+* **November 2016** So langsam trudelt immer mehr Einrichtung und Ausrüstung ein. Die „Pionier:innen“ des [Maker-Mondays](?tab=makermonday) kommen zusammen. Das Motto: CNC, CAD und gefährliche Geräte! Außerdem: Die [inititative.ulm.digital](https://ulm-digital.com/) beginnt mit dem Aufbau eines LoRaWAN-Netzwerkes in Stadt und Umgebung. Im Haus findet sich eine Gruppe aus Ehrenamtlichen zusammen, die dieses Thema gemeinsam bearbeitet.
+
+* **Dezember 2016** In Zusammenarbeit mit der Nachhaltigkeits-Hochschulgruppe startet das [Nähcafe](?tab=nähcafe), die ersten [Wikidata](?tab=wikidata)- und die ersten [e.tage](?tab=etage)-Workshops finden statt. Der ehemalige Sparkassen-Tresorraum wird zur Holz- und Metallwerkstatt.
+
+* **Anfang 2017** Der erste [OpenStreetMap-Mapathon](?tab=openstreetmap) im Verschwörhaus! Bald darauf startet auch der [Ubuntu-Stammtisch des Generationentreffs](?tab=ubuntu) und das [Bewerbungscafe für Geflüchtete](?tab=bewerbungscafe) zieht in unsere Räumlichkeiten.
+
+* **September 2017** [Jugend hackt](?tab=jugend-hackt) findet zum dritten Mal in Ulm und zum ersten Mal im Verschwörhaus statt!
+
+* **Dezember 2017** Zum ersten Mal schicken wir eine Delegation nach Leipzig auf den [Chaos Communication Congress](https://events.ccc.de/congress).  Dort bespielen wir ab sofort jedes Jahr als „Wikipaka-WG“ mit Wikimedia Deutschland, Jugend hackt und einigen anderen Civic-Tech-Projekten einen eigenen Bereich!
+
+* **Juni 2018** Die ersten [CTF/PPP-Treffen](?tab=ctf) finden im Haus statt.
+
+* **Mai 2019** Das Verschwörhaus ist jetzt offiziell [Jugend hackt Lab](/category/jugend-hackt-lab)!
+
+* **August 2019** Der Verschwörhaus e.V. gründet sich.
+
+* **Dezember 2019** [„Frauen Und Computer Kram“ (F.U.C.K.)](?tab=fuck) startet.
 
 
  [1]: https://de.wikipedia.org/wiki/IRGW-Gemeindezentrum_Ulm

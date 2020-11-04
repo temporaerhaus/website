@@ -4,8 +4,13 @@ type: page
 date: 2016-07-13T18:42:20+00:00
 url: /presse/
 language: de
-
 ---
+
+[<button>2016</button>](#2016)
+[<button>2017</button>](#2017)
+[<button>2018</button>](#2018)
+[<button>2019</button>](#2019)
+[<button>2020</button>](#2020)
 
 ### 2016
 

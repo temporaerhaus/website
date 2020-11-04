@@ -1,27 +1,19 @@
 ---
-title: Presseberichte
+title: Press Coverage
 type: page
 date: 2016-07-13T18:42:20+00:00
 url: /en/presse/
 language: en
 
 ---
-Welcome to the Verschwörhaus – the “Experimentation platform for the world of tomorrow”! We have 3D Printers, an Open Workshop Area, Lecture rooms – and, most importantly, a lot of ideas and content to accompany our home city of Ulm into the future!
 
-<!--more-->
+[<button>2016</button>](#2016)
+[<button>2017</button>](#2017)
+[<button>2018</button>](#2018)
+[<button>2019</button>](#2019)
+[<button>2020</button>](#2020)
 
-## What are the opening hours?
-You will find the guaranteed opening hours on our calendar. Usually, all events listed there come with an accompanying text which goes in more detail and offers a signup link, if necessary.
-
-For last-minute-announcements about unforeseen events, make sure to follow us on Twitter or just drop by when the traffic signal in the front window glows green!
-
-## Important Links
-
-| Where is the Verschwörhaus? | Twitter | Events |
-| - | - | - |
-| [Weinhof 9, 89073 Ulm](https://www.openstreetmap.org/node/1437402541#map=19/48.39649) | [#verschwoerhaus](https://twitter.com/hashtag/verschwoerhaus) and [@verschwoerhaus](https://twitter.com/verschwoerhaus) | [Google Calendar](https://calendar.google.com/calendar/embed?src=slaun4l80uh2s0ototiol4qkgo%40group.calendar.google.com&ctz=Europe/Berlin) |
-
-## Press Coverage
+### 2016
 
   * Stadtlabor Ulm - Das Experimentierfeld für die Welt von morgen - Beschlussvorlage auf [Bürgerinfo Ulm][6] oder [Politik bei uns][7]
   * [UlmAPI][8] zieht ins Verschwörhaus
@@ -34,6 +26,9 @@ For last-minute-announcements about unforeseen events, make sure to follow us on
   * [Ideenwerk BW][15]: Ulm: Kein Gründerort für Eigenbrötler (01.08.2016)
   * [SWR Landesschau][16]: Stadtlabor für die digitale Zukunft (22.10.2016)
   * [Südwest Presse][17]: Digitalisierung: Neues Netzwerk für Mini-Daten in Ulm (14.12.2016)
+
+### 2017
+
   * [Wikistammtisch.org][18]: Episode 0054 (06.03.2017)
   * [Südwest Presse][19]: Workshop im Verschwörhaus: Schaltkreise nähen (11.03.2017)
   * [Südwest Presse][20]: Wir sind mehr so Shabby Chic (08.04.2017)
@@ -44,11 +39,14 @@ For last-minute-announcements about unforeseen events, make sure to follow us on
   * [Wegweiser Kommune][25]: Jede Stadt braucht ein Verschwörhaus (31.08.2017)
   * [Süddeutsche Zeitung][26]: Die gute Verschwörung (18.09.2017)
   * [Herr Mies will&#8217;s wissen][27]: Tag 1 auf dem 34C3 (27.12.2017)
+
+### 2018
+
   * [Filstalexpress][28]: Verschwörhaus macht Digitalisierung erlebbar (27.01.2018)
+  * [Südwest Presse][49]: Ein Rundgang durch das Verschwörhaus (07.03.2018)
   * [SWR Aktuell Baden-Württemberg][29]: Beitrag in der 19:45-Sendung (ab 1:47) (25.03.2018)
   * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder (28.03.2018)
   * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (ab 6:10) (29.04.2018)
-  * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder (28.03.2018)
   * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen (29.05.2018)
   * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel
   * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille (19.06.2018)
@@ -57,6 +55,9 @@ For last-minute-announcements about unforeseen events, make sure to follow us on
   * [Schwäbische Zeitung][37]: Wie Ulmer Wikipedia mitgestalten (1.11.2018)
   * [netzpolitik.org][38]: So holen wir uns die smarte Stadt zurück (03.12.2018)
   * [Free FM][39]: Wissensstrahlung 307 (16.12.2018)
+
+### 2019  
+
   * [heise.de][40]: Werkstattberichte: Neues aus den Fablabs und der Makerszene (05.02.2019)
   * [Code for Germany][41]: Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt (10.04.2019)
   * [apolitical.co][42]: Germany’s the home of bureaucracy. A new community wants change (23.04.2019)
@@ -67,11 +68,11 @@ For last-minute-announcements about unforeseen events, make sure to follow us on
   * [Tagesspiegel Background][47]: Wie Städte bei der Verkehrswende aktiv werden (Paywall) (07.05.2019)
   * [ORF Ö1][48]: Offene Mobilität statt Silicon Valley (08.05.2019)
 
- [1]: https://de.wikipedia.org/wiki/IRGW-Gemeindezentrum_Ulm
- [2]: https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)
- [3]: https://www.openstreetmap.org/?mlat=48.39649&mlon=9.99045#map=20/48.39649/9.99045&layers=H
- [4]: /termine-und-oeffnungszeiten/
- [5]: https://twitter.com/verschwoerhaus
+### 2020
+  * [netzpolitik.org][51]: Ulm baut offene Bildungsinfrastruktur für Schulen (23.04.2020)
+  * [Schwäbische Zeitung][50]: Am Weinhof kann man jetzt erleben, wie die Zukunft aussehen kann (26.07.2020)
+  * [ulm-news][52]: Feminismus Thema bei Jugend hackt im Verschwörhaus (05.10.2020)
+
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
  [8]: http://www.ulmapi.de/news/2016/07/10/weinhof9.html
@@ -115,3 +116,7 @@ For last-minute-announcements about unforeseen events, make sure to follow us on
  [46]: https://www.neues-deutschland.de/artikel/1118110.re-publica-daten-fuer-die-staedte.html
  [47]: https://background.tagesspiegel.de/wie-staedte-bei-der-verkehrswende-aktiv-werden
  [48]: https://oe1.orf.at/player/20190508/552826
+ [49]: https://www.swp.de/suedwesten/staedte/ulm/ein-rundgang-durch-das-verschwoerhaus-24942072.html
+ [50]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_artikel,-am-weinhof-kann-man-jetzt-erleben-wie-die-zukunft-aussehen-kann-_arid,11250291.html
+ [51]: https://netzpolitik.org/2020/ulm-baut-offene-bildungsinfrastruktur-fuer-schulen/
+ [52]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/77002/Feminismus_Thema_bei_Jugend_hackt_im_Verschwoerhaus.html

@@ -42,7 +42,7 @@ TODO
 - [x] fix figures 
 - [x] fix youtube embeds
 - [x] look for other shortcodes
-- [ ] diff urls, something breaking?
+- [x] diff urls, something breaking?
 - [x] fork theme, add our modifications
 - [x] build spaceapi microservice
 - [x] integrate spaceapi status js

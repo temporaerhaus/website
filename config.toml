@@ -41,13 +41,13 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       identifier = "bibliothek"
       name = "Bibliothek"
       url = "/bibliothek/"
-    
+
     [[languages.de.menu.main]]
       parent = "das-haus"
       identifier = "presse"
       name = "Presseberichte"
       url = "/presse/"
-      
+
     [[languages.de.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
       name = "Termine und Öffnungszeiten"
@@ -65,7 +65,7 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       name = "Jugend hackt Lab"
       url = "/category/jugend-hackt-lab/"
       weight = -70
-      
+
      [[languages.de.menu.main]]
       identifier = "impressum"
       name = "Impressum"
@@ -102,6 +102,11 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       name = "Datenschutzerklärung"
       url = "/datenschutzerklaerung/"
 
+    [[languages.de.menu.footer]]
+      identifier = "rsslink"
+      name = "RSS Feed"
+      url = "/posts/index.xml"
+
     [[languages.de.menu.social]]
       name = "verschwoerhaus auf Twitter"
       url = "https://twitter.com/verschwoerhaus"
@@ -137,13 +142,13 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       identifier = "bibliothek"
       name = "Library"
       url = "/bibliothek/"
-    
+
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "presse"
       name = "Press"
       url = "/presse/"
-    
+
     [[languages.en.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
       name = "Events and Opening Hours"
@@ -161,7 +166,7 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       name = "Jugend hackt Lab"
       url = "/category/jugend-hackt-lab/"
       weight = -70
-      
+
      [[languages.en.menu.main]]
       identifier = "impressum"
       name = "Impressum"
@@ -196,6 +201,11 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       identifier = "privacy"
       name = "Privacy Policy"
       url = "/datenschutzerklaerung/"
+
+    [[languages.en.menu.footer]]
+      identifier = "rsslink"
+      name = "RSS Feed"
+      url = "/posts/index.xml"
 
     [[languages.en.menu.social]]
       name = "verschwoerhaus on Twitter"

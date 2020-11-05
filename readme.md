@@ -51,5 +51,5 @@ TODO
 - [x] import translated posts (else: https://github.com/gohugoio/hugo/issues/2529)
 - [x] jh lab page is a category page
 - [ ] don't embed external images
-- [ ] look at rss
+- [x] look at rss
 - [x] i18n date

@@ -21,10 +21,10 @@
 
     <div class="entry-content">
         {{ .Summary }}
-        
+
         {{ if .Truncated }}
-        <p>
-            <a href="{{ .RelPermalink }}" class="more-link">{{ i18n "continue_reading" }}<span class="screen-reader-text"> {{ .Title }}</span></a>
+        <br><br><p>
+            <a href="{{ .RelPermalink }}" class="more-link"><button>{{ i18n "continue_reading" }}</button><span class="screen-reader-text"> {{ .Title }}</span></a>
         </p>
         {{ end }}
     </div>

@@ -114,3 +114,6 @@ other = "November"
 
 [month_December]
 other = "Dezember"
+
+[go_back]
+other = "Zurück"

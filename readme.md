@@ -15,6 +15,8 @@ https://gohugo.io/getting-started/installing
 how to blog
 -----------
 
+Markdown-Syntax: <http://markdown-syntax.de/Syntax/>
+
 Create a new file in `content/posts`, named `yyyy-mm-dd-slug.md`, for example `2016-07-01-macht-hoch-die-tuer.md`.
 
 **You may use `hugo new` for that**, because this provides you with an nice template for your post: `hugo new posts/2020-01-02-my-post.md`

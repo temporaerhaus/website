@@ -1,16 +1,12 @@
 /* --------------------- GENERAL ---------------------- */
 
-ul {
-  padding-left: 2em;
-}
-
 .warning {
 	padding: 10px;
 	color: #721c24;
 	background-color: #f8d7da;
 	border-color: #f5c6cb;
 	border-radius: 5px;
-	margin: 30px 0px;
+	margin: 0 0 30px;
 }
 
 .warning h3 {
@@ -99,6 +95,10 @@ body.vsh-door-closed #page {
 	border-radius:3px;
 	box-shadow:-1px 1px 1px rgba(0,0,0,0.15);
 	background:#fff;
+}
+
+.tab-content ul {
+	padding-left: 2em;
 }
 
 .tab-links {

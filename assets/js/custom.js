@@ -66,8 +66,8 @@ $(document).ready(function() {
     if (tabName) {
       $('.tabs .tab-links a').each(function() {
 				if ($(this).attr("href") == "#" + tabName) $(this).click();
-        $("#" + tabName)[0].scrollIntoView();
       });
+      $("#" + tabName)[0].scrollIntoView();
     }
   }
 });

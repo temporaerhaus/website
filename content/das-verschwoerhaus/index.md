@@ -119,7 +119,7 @@ Um einen groben Überblick über unsere Hardware zu behalten, führen wir eine [
 
 {{% /tab %}}
 
-{{% tab title="Maker-Monday" tag="makermonday" %}}
+{{% tab title="Maker-Monday" tag="maker-monday" %}}
 
 ### Maker-Monday
 
@@ -211,7 +211,7 @@ Wikidata ist eine freie und offene Wissensdatenbank, die sowohl von Menschen als
 
 * **Juli 2016** Das Verschwörhaus geht an den Start. Mit den regelmäßigen [Ulm-API](http://www.ulmapi.de)-Treffen zieht schon das erste Veranstaltungsformat mit ein. Gemeinsam mit der regionalen Civic-Tech-Szene werden Ideen entwickelt, wie die neuen Räumlichkeiten mit Leben gefüllt werden können.
 
-* **November 2016** So langsam trudelt immer mehr Einrichtung und Ausrüstung ein. Die „Pionier:innen“ des [Maker-Mondays](?tab=makermonday) kommen zusammen. Das Motto: CNC, CAD und gefährliche Geräte! Außerdem: Die [inititative.ulm.digital](https://ulm-digital.com/) beginnt mit dem Aufbau eines LoRaWAN-Netzwerkes in Stadt und Umgebung. Im Haus findet sich eine Gruppe aus Ehrenamtlichen zusammen, die dieses Thema gemeinsam bearbeitet.
+* **November 2016** So langsam trudelt immer mehr Einrichtung und Ausrüstung ein. Die „Pionier:innen“ des [Maker-Mondays](?tab=maker-monday) kommen zusammen. Das Motto: CNC, CAD und gefährliche Geräte! Außerdem: Die [inititative.ulm.digital](https://ulm-digital.com/) beginnt mit dem Aufbau eines LoRaWAN-Netzwerkes in Stadt und Umgebung. Im Haus findet sich eine Gruppe aus Ehrenamtlichen zusammen, die dieses Thema gemeinsam bearbeitet.
 
 * **Dezember 2016** In Zusammenarbeit mit der Nachhaltigkeits-Hochschulgruppe startet das [Nähcafe](?tab=nähcafe), die ersten [Wikidata](?tab=wikidata)- und die ersten [e.tage](?tab=etage)-Workshops finden statt. Der ehemalige Sparkassen-Tresorraum wird zur Holz- und Metallwerkstatt.
 

@@ -8,7 +8,7 @@ categories:
   - news
 sticky: true
 ---
-<img loading="lazy" class="size-medium wp-image-1843 alignright" src="https://verschwoerhaus.de/wp-content/uploads/2020/10/civildefense-300x159.png" alt="" width="300" height="159" srcset="https://verschwoerhaus.de/wp-content/uploads/2020/10/civildefense-300x159.png 300w, https://verschwoerhaus.de/wp-content/uploads/2020/10/civildefense-768x408.png 768w, https://verschwoerhaus.de/wp-content/uploads/2020/10/civildefense.png 866w" sizes="(max-width: 300px) 85vw, 300px" />
+<img loading="lazy" class="size-medium wp-image-1843 alignright" src="/wp-content/uploads/2020/10/civildefense-300x159.png" alt="" width="300" height="159" srcset="/wp-content/uploads/2020/10/civildefense-300x159.png 300w, /wp-content/uploads/2020/10/civildefense-768x408.png 768w, /wp-content/uploads/2020/10/civildefense.png 866w" sizes="(max-width: 300px) 85vw, 300px" />
 
 Am Freitag, dem 16. Oktober 2020 [meldete das Landesgesundheitsamt für den Alb-Donau-Kreis und den Stadtkreis Ulm eine 7-Tages-Inzidenz von jeweils über 50 bei einem gleichzeitigen geschätzten R-Wert deutlich über 1.][1]
 

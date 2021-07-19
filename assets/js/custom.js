@@ -3,7 +3,7 @@
     return str.charAt(0).toUpperCase() + str.slice(1);
   }
 
-  const SPACEAPI_URL = 'https://verschwoerhaus.de/feed/spaceapi';
+  const SPACEAPI_URL = 'https://spaceapi.verschwoerhaus.de/spaceapi/';
 
   var response, spaceapi;
   try {

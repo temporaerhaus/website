@@ -10,7 +10,7 @@ tags:
   - FSJ
 
 ---
-<img loading="lazy" class="aligncenter size-full wp-image-977" src="https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh.jpg" alt="" width="2048" height="1365" srcset="https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh.jpg 2048w, https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh-300x200.jpg 300w, https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh-768x512.jpg 768w, https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh-1024x683.jpg 1024w, https://verschwoerhaus.de/wp-content/uploads/2018/10/coding_jh-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img loading="lazy" class="aligncenter size-full wp-image-977" src="/wp-content/uploads/2018/10/coding_jh.jpg" alt="" width="2048" height="1365" srcset="/wp-content/uploads/2018/10/coding_jh.jpg 2048w, /wp-content/uploads/2018/10/coding_jh-300x200.jpg 300w, /wp-content/uploads/2018/10/coding_jh-768x512.jpg 768w, /wp-content/uploads/2018/10/coding_jh-1024x683.jpg 1024w, /wp-content/uploads/2018/10/coding_jh-1200x800.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 Ein Aufruf, der schon längst hätte veröffentlicht werden sollen, aber dann kam Covid-19… sei es drum: Das Verschwörhaus bietet ab September 2020 wieder ein **FSJ digital** an.
 

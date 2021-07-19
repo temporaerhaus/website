@@ -12,7 +12,7 @@ tags:
   - Online-Workshop
 
 ---
-<img loading="lazy" class="alignnone size-full wp-image-1667" src="https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt.jpg" alt="" width="2218" height="1466" srcset="https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt.jpg 2218w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-300x198.jpg 300w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-1024x677.jpg 1024w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-768x508.jpg 768w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-1536x1015.jpg 1536w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-2048x1354.jpg 2048w, https://verschwoerhaus.de/wp-content/uploads/2020/04/Unbenanntes_Projekt-1200x793.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img loading="lazy" class="alignnone size-full wp-image-1667" src="/wp-content/uploads/2020/04/Unbenanntes_Projekt.jpg" alt="" width="2218" height="1466" srcset="/wp-content/uploads/2020/04/Unbenanntes_Projekt.jpg 2218w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-300x198.jpg 300w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-1024x677.jpg 1024w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-768x508.jpg 768w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-1536x1015.jpg 1536w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-2048x1354.jpg 2048w, /wp-content/uploads/2020/04/Unbenanntes_Projekt-1200x793.jpg 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 Liebe F.U.C.K-Teilnehmende und Interessierte,
 

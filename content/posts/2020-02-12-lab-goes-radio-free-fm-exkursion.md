@@ -30,6 +30,6 @@ Ohne Anmeldung + kostenlos und offen für alle Interessierten.
 
 (Bild: [CC0 1.0][3])
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2020/02/Rechtefreistellung_Kinder_freeFM.pdf
- [2]: https://verschwoerhaus.de/wp-content/uploads/2020/02/Rechtefreistellung_Erwachsene_freeFM.pdf
+ [1]: /wp-content/uploads/2020/02/Rechtefreistellung_Kinder_freeFM.pdf
+ [2]: /wp-content/uploads/2020/02/Rechtefreistellung_Erwachsene_freeFM.pdf
  [3]: https://pxhere.com/en/photo/606041

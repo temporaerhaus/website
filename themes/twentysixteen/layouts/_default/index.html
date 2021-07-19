@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 {{ range first 1 (where .Site.Pages ".Params.sticky" true) }}
-    {{- partial "article-summary.html" . -}}
+    {{- partial "article-full.html" . -}}
 {{ end }}
 
 {{ with (.Site.GetPage "posts")  }}
     {{- $paginator := .Paginate .Pages.ByLastmod.Reverse -}}
     {{- range  $paginator.Pages -}}
-        {{- partial "article-full.html" . -}}
+        {{- partial "article-summary.html" . -}}
     {{- end -}}
     {{- partial "pagination.html" . -}}
 {{ end }}

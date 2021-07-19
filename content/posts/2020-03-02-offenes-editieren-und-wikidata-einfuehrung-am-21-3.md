@@ -13,7 +13,7 @@ tags:
 
 ---
 
-<img loading="lazy" class="aligncenter size-full wp-image-1561" alt="" width="2000" height="4000" srcset="https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata.png 2000w, https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata-150x300.png 150w, https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata-512x1024.png 512w, https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata-768x1536.png 768w, https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata-1024x2048.png 1024w, https://verschwoerhaus.de/wp-content/uploads/2020/03/Was_ist_Wikidata-1200x2400.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
+<img loading="lazy" class="aligncenter size-full wp-image-1561" alt="" width="2000" height="4000" srcset="/wp-content/uploads/2020/03/Was_ist_Wikidata.png 2000w, /wp-content/uploads/2020/03/Was_ist_Wikidata-150x300.png 150w, /wp-content/uploads/2020/03/Was_ist_Wikidata-512x1024.png 512w, /wp-content/uploads/2020/03/Was_ist_Wikidata-768x1536.png 768w, /wp-content/uploads/2020/03/Was_ist_Wikidata-1024x2048.png 1024w, /wp-content/uploads/2020/03/Was_ist_Wikidata-1200x2400.png 1200w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" />
 
 _Der Workshop entfiel aufgrund der Schließung des Hauses wegen Covid-19_
 

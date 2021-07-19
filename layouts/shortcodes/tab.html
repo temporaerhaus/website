@@ -1,0 +1,7 @@
+<div id="{{ .Get "tag" }}" class="tab {{ if .Get "active"}}active{{ end }}" title="{{ .Get "title" }}">
+{{ .Inner }}
+<p><a href="/termine-und-oeffnungszeiten"><button>Nächstes Treffen? Check den Kalender!</button></a></p>
+{{ if .Get "posts"}}
+<p><a href="/tag/{{ .Get "tag" }}"><button>Blogposts zu diesem Thema</button></a>
+{{ end }}
+</div>

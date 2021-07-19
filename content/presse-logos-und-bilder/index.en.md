@@ -1,5 +1,5 @@
 ---
-title: Press, Logos and Photos
+title: Logos and Photos
 author: Stefan Kaufmann
 type: page
 date: 2017-09-22T14:11:44+00:00
@@ -21,8 +21,8 @@ Our house colors are:
 ### Photos
 
 The following illustrations can be used for publications. They are all licensed under CC-0.
-In addition, the [Gallery of Jugend hackt Ulm 2017][5] and [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)
-as well as in the [Verschwörhaus-Category on Wikimedia Commons][6] contain many pictures under Creative Commons license.
+In addition, the **[Gallery of Jugend hackt Ulm 2017][5] and [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
+as well as in the **[Verschwörhaus-Category on Wikimedia Commons][6]** contain many pictures under Creative Commons license.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"

@@ -1,4 +1,7 @@
 {{- define "main" -}}
+{{ if (eq .Type "post")}}
+  <button onclick="window.history.back()">← {{ i18n "go_back" }}</button><br><br>
+{{ end }}
 <article class="{{ .Type }} type-{{ .Type }} format-standard hentry">
     <header class="entry-header">
         <h1 class="entry-title" title="{{.Kind}}">

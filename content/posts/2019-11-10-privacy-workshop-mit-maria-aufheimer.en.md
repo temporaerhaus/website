@@ -1,1 +1,1 @@
-2019-11-10-privacy-workshop-mit-maria-aufheimer.md
+./2019-11-10-privacy-workshop-mit-maria-aufheimer.de.md

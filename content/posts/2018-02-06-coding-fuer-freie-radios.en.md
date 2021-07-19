@@ -1,1 +1,1 @@
-2018-02-06-coding-fuer-freie-radios.md
+./2018-02-06-coding-fuer-freie-radios.de.md

@@ -1,1 +1,1 @@
-2016-10-06-was-ist-das-fuer-1-jupa.md
+./2016-10-06-was-ist-das-fuer-1-jupa.de.md

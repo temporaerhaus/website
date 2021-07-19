@@ -1,1 +1,1 @@
-2020-02-28-3d-design-workshop-mit-valentin-marx.md
+./2020-02-28-3d-design-workshop-mit-valentin-marx.de.md

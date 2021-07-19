@@ -1,1 +1,1 @@
-2019-02-12-the-things-network-show-and-tell-am-mittwoch.md
+./2019-02-12-the-things-network-show-and-tell-am-mittwoch.de.md

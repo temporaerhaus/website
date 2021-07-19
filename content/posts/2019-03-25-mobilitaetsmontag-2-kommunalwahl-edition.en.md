@@ -1,1 +1,1 @@
-2019-03-25-mobilitaetsmontag-2-kommunalwahl-edition.md
+./2019-03-25-mobilitaetsmontag-2-kommunalwahl-edition.de.md

@@ -1,1 +1,1 @@
-2020-06-29-covid-19-massnahmenplan-ab-juli-2020.md
+./2020-06-29-covid-19-massnahmenplan-ab-juli-2020.de.md

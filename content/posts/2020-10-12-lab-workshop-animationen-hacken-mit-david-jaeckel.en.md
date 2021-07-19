@@ -1,1 +1,1 @@
-2020-10-12-lab-workshop-animationen-hacken-mit-david-jaeckel.md
+./2020-10-12-lab-workshop-animationen-hacken-mit-david-jaeckel.de.md

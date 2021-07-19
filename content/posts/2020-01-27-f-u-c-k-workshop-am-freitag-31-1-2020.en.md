@@ -1,1 +1,1 @@
-2020-01-27-f-u-c-k-workshop-am-freitag-31-1-2020.md
+./2020-01-27-f-u-c-k-workshop-am-freitag-31-1-2020.de.md

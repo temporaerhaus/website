@@ -1,1 +1,1 @@
-./2018-06-27-vortrag-graphen-verarbeitungsplattformen-fuer-lorawan-anwendungen.md
+./2018-06-27-vortrag-graphen-verarbeitungsplattformen-fuer-lorawan-anwendungen.de.md

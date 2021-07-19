@@ -1,1 +1,1 @@
-2017-08-21-der-virtuelle-hausrundgang.md
+./2017-08-21-der-virtuelle-hausrundgang.de.md

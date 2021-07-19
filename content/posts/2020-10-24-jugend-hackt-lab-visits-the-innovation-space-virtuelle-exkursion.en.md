@@ -1,1 +1,1 @@
-2020-10-24-jugend-hackt-lab-visits-the-innovation-space-virtuelle-exkursion.md
+./2020-10-24-jugend-hackt-lab-visits-the-innovation-space-virtuelle-exkursion.de.md

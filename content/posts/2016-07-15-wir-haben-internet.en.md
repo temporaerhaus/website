@@ -1,1 +1,1 @@
-2016-07-15-wir-haben-internet.md
+./2016-07-15-wir-haben-internet.de.md

@@ -1,1 +1,1 @@
-./2019-12-18-neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen.md
+./2019-12-18-neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen.de.md

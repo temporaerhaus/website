@@ -1,1 +1,1 @@
-2016-10-29-beklebte-fenster-teil-1.md
+./2016-10-29-beklebte-fenster-teil-1.de.md

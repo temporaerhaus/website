@@ -1,1 +1,1 @@
-2020-04-01-jugend-hackt-lab-goes-online.md
+./2020-04-01-jugend-hackt-lab-goes-online.de.md

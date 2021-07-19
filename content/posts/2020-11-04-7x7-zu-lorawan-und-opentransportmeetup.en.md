@@ -1,1 +1,1 @@
-2020-11-04-7x7-zu-lorawan-und-opentransportmeetup.md
+./2020-11-04-7x7-zu-lorawan-und-opentransportmeetup.de.md

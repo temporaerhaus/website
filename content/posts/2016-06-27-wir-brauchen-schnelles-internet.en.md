@@ -1,1 +1,1 @@
-2016-06-27-wir-brauchen-schnelles-internet.md
+./2016-06-27-wir-brauchen-schnelles-internet.de.md

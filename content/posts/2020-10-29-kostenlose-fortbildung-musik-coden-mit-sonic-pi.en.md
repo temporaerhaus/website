@@ -1,1 +1,1 @@
-2020-10-29-kostenlose-fortbildung-musik-coden-mit-sonic-pi.md
+./2020-10-29-kostenlose-fortbildung-musik-coden-mit-sonic-pi.de.md

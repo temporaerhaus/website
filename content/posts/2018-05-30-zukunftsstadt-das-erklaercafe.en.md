@@ -1,1 +1,1 @@
-2018-05-30-zukunftsstadt-das-erklaercafe.md
+./2018-05-30-zukunftsstadt-das-erklaercafe.de.md

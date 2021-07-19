@@ -1,1 +1,1 @@
-2018-01-30-ubuntu-kurs-fuer-einsteigerinnen-ab-ende-februar.md
+./2018-01-30-ubuntu-kurs-fuer-einsteigerinnen-ab-ende-februar.de.md

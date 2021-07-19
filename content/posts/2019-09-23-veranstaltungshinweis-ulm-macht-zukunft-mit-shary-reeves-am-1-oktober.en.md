@@ -1,1 +1,1 @@
-2019-09-23-veranstaltungshinweis-ulm-macht-zukunft-mit-shary-reeves-am-1-oktober.md
+./2019-09-23-veranstaltungshinweis-ulm-macht-zukunft-mit-shary-reeves-am-1-oktober.de.md

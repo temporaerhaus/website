@@ -1,1 +1,1 @@
-2016-11-28-funkenflug.md
+./2016-11-28-funkenflug.de.md

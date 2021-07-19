@@ -1,1 +1,1 @@
-2018-05-24-letzte-chance-jetzt-noch-anmelden-fuer-die-demokratielabore.md
+./2018-05-24-letzte-chance-jetzt-noch-anmelden-fuer-die-demokratielabore.de.md

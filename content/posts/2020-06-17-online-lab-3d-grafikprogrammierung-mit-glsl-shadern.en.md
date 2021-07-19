@@ -1,1 +1,1 @@
-2020-06-17-online-lab-3d-grafikprogrammierung-mit-glsl-shadern.md
+./2020-06-17-online-lab-3d-grafikprogrammierung-mit-glsl-shadern.de.md

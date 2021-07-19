@@ -1,1 +1,1 @@
-2020-02-27-datenjournalismus-unfallatlas-workshop-in-wiesbaden.md
+./2020-02-27-datenjournalismus-unfallatlas-workshop-in-wiesbaden.de.md

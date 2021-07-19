@@ -1,1 +1,1 @@
-2020-04-07-was-wir-gerade-tun.md
+./2020-04-07-was-wir-gerade-tun.de.md

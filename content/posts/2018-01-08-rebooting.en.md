@@ -1,1 +1,1 @@
-2018-01-08-rebooting.md
+./2018-01-08-rebooting.de.md

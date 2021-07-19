@@ -1,1 +1,1 @@
-./2017-05-31-datenjournalismus-praxis-und-perspektiven.md
+./2017-05-31-datenjournalismus-praxis-und-perspektiven.de.md

@@ -1,1 +1,1 @@
-2019-03-21-fuer-ein-internet-ohne-uploadfilter-demonstration-am-23-maerz-in-ulm.md
+./2019-03-21-fuer-ein-internet-ohne-uploadfilter-demonstration-am-23-maerz-in-ulm.de.md

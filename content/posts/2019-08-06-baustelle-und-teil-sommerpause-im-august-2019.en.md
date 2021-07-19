@@ -1,1 +1,1 @@
-2019-08-06-baustelle-und-teil-sommerpause-im-august-2019.md
+./2019-08-06-baustelle-und-teil-sommerpause-im-august-2019.de.md

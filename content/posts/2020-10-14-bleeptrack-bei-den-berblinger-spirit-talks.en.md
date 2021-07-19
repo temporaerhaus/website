@@ -1,1 +1,1 @@
-2020-10-14-bleeptrack-bei-den-berblinger-spirit-talks.md
+./2020-10-14-bleeptrack-bei-den-berblinger-spirit-talks.de.md

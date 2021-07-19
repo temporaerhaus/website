@@ -1,1 +1,1 @@
-2016-07-01-macht-hoch-die-tuer.md
+./2016-07-01-macht-hoch-die-tuer.de.md

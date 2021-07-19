@@ -1,1 +1,1 @@
-2018-07-23-workshop-am-3-august-entscheiden-in-konsens.md
+./2018-07-23-workshop-am-3-august-entscheiden-in-konsens.de.md

@@ -1,1 +1,1 @@
-2019-02-28-videos-vom-wikidata-wochenende.md
+./2019-02-28-videos-vom-wikidata-wochenende.de.md

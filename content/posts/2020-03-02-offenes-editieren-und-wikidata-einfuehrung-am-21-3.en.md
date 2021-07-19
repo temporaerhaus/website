@@ -1,1 +1,1 @@
-2020-03-02-offenes-editieren-und-wikidata-einfuehrung-am-21-3.md
+./2020-03-02-offenes-editieren-und-wikidata-einfuehrung-am-21-3.de.md

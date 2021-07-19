@@ -1,1 +1,1 @@
-2019-09-24-3d-drucker-workshop-mit-david-jaeckel.md
+./2019-09-24-3d-drucker-workshop-mit-david-jaeckel.de.md

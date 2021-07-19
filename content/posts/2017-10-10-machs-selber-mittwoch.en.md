@@ -1,1 +1,1 @@
-2017-10-10-machs-selber-mittwoch.md
+./2017-10-10-machs-selber-mittwoch.de.md

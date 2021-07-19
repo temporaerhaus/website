@@ -1,1 +1,1 @@
-2017-12-04-ttn-abend-am-6-dezember-temperaturmessung.md
+./2017-12-04-ttn-abend-am-6-dezember-temperaturmessung.de.md

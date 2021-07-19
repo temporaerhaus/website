@@ -1,1 +1,1 @@
-2017-09-20-bewerbungs-cafe-offiziell-eroeffnet.md
+./2017-09-20-bewerbungs-cafe-offiziell-eroeffnet.de.md

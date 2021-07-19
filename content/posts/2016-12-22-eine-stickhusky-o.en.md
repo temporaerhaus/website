@@ -1,1 +1,1 @@
-2016-12-22-eine-stickhusky-o.md
+./2016-12-22-eine-stickhusky-o.de.md

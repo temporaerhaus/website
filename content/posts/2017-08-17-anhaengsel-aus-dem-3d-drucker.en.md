@@ -1,1 +1,1 @@
-2017-08-17-anhaengsel-aus-dem-3d-drucker.md
+./2017-08-17-anhaengsel-aus-dem-3d-drucker.de.md

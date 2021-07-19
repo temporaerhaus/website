@@ -1,1 +1,1 @@
-2020-05-13-online-lab-workshop-sonic-pi-fuer-fortgeschrittene-mit-paolo.md
+./2020-05-13-online-lab-workshop-sonic-pi-fuer-fortgeschrittene-mit-paolo.de.md

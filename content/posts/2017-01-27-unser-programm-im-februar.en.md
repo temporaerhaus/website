@@ -1,1 +1,1 @@
-2017-01-27-unser-programm-im-februar.md
+./2017-01-27-unser-programm-im-februar.de.md

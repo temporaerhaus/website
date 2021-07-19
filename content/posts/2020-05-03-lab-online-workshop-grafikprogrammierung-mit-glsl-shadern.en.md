@@ -1,1 +1,1 @@
-2020-05-03-lab-online-workshop-grafikprogrammierung-mit-glsl-shadern.md
+./2020-05-03-lab-online-workshop-grafikprogrammierung-mit-glsl-shadern.de.md

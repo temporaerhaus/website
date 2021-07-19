@@ -1,1 +1,1 @@
-2020-05-02-empowering-woman-corona-edition-ulm-mit-f-u-c-k-und-clubalpha.md
+./2020-05-02-empowering-woman-corona-edition-ulm-mit-f-u-c-k-und-clubalpha.de.md

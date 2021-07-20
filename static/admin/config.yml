@@ -6,6 +6,8 @@ backend:
 media_folder: "static/wp-content/uploads"
 public_folder: "/wp-content/uploads"
 
+locale: 'de'
+
 i18n:
   structure: multiple_files
   locales: [de, en]

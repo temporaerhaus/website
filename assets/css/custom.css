@@ -1,21 +1,33 @@
 /* --------------------- GENERAL ---------------------- */
 
-.warning {
+.warning,
+.danger {
 	padding: 10px;
-	color: #721c24;
-	background-color: #f8d7da;
-	border-color: #f5c6cb;
 	border-radius: 5px;
 	margin: 0 0 30px;
 }
 
-.warning h3 {
+.danger {
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+
+.warning {
+	color: #664d03;
+	background-color: #fff3cd;
+	border-color: #ffecb5;
+}
+
+.warning h3,
+.danger h3 {
 	margin: 0;
 	display: inline-block;
 	font-size: 1.2em;
 }
 
-.warning p:last-child {
+.warning p:last-child,
+.danger p:last-child {
 	margin-bottom: 0;
 }
 

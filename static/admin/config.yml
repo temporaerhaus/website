@@ -22,6 +22,8 @@ collections: # A list of collections the CMS should be able to edit
     format: "yaml-frontmatter"
     create: true # Allow users to create new documents in this collection
     i18n: true
+    media_folder: '{{media_folder}}/{{year}}/{{month}}'
+    public_folder: '{{public_folder}}/{{year}}/{{month}}'
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", i18n: true}
       - {label: "Author", name: "author", widget: "string"}

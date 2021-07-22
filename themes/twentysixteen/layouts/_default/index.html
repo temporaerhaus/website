@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ range first 1 (where .Site.Pages ".Params.sticky" true) }}
-    {{- partial "article-full.html" . -}}
+    {{- partial "article-summary.html" . -}}
 {{ end }}
 
 {{ with (.Site.GetPage "posts")  }}

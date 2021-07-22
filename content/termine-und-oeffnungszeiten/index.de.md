@@ -10,7 +10,7 @@ date: 2016-09-06T22:51:24+00:00
 Im Moment finden sich die Gruppen im Haus erst wieder und erste Veranstaltungen laufen auch gerade erst wieder an. Dies ist jedoch vom derzeitigen Infektionsgeschehen abhängig, [hier findest du mehr Informationen wie wir damit umgehen](/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/).
 {{% /warning %}}
 
-<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=600&wkst=2&bgcolor=%23FFFFFF&src=slaun4l80uh2s0ototiol4qkgo%40group.calendar.google.com&color=%23B1440E&ctz=Europe%2FBerlin" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=600&wkst=2&bgcolor=%23FFFFFF&src=slaun4l80uh2s0ototiol4qkgo%40group.calendar.google.com&color=%23B1440E&ctz=Europe%2FBerlin" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge am besten [unserem Twitter-Account](https://twitter.com/verschwoerhaus)!
 

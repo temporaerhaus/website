@@ -1,10 +1,7 @@
 ---
 title: Press Coverage
 type: page
-date: 2016-07-13T18:42:20+00:00
 slug: presse
-language: en
-
 ---
 
 [<button>2016</button>](#2016)

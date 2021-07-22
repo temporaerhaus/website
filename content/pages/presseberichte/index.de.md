@@ -1,9 +1,8 @@
 ---
 title: Presseberichte
 type: page
-date: 2016-07-13T18:42:20+00:00
-url: /presse/
-language: de
+slug: presse
+
 ---
 
 [<button>2016</button>](#2016)

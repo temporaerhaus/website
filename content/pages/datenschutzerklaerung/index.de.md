@@ -1,8 +1,7 @@
 ---
 title: Datenschutzerklärung
-author: Verschwörhaus
+slug: datenschutzerklaerung
 type: page
-date: 2016-07-14T00:13:36+00:00
 
 ---
 

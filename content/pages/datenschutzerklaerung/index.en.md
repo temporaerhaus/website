@@ -1,9 +1,7 @@
 ---
 title: Privacy Policy
 slug: datenschutzerklaerung
-author: Verschwörhaus
 type: page
-date: 2016-07-14T00:13:36+00:00
 
 ---
 

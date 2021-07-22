@@ -1,9 +1,7 @@
 ---
 title: Events and Opening Hours
 slug: termine-und-oeffnungszeiten
-author: Verschwörhaus
 type: page
-date: 2016-09-06T22:51:24+00:00
 
 ---
 

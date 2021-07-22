@@ -1,9 +1,8 @@
 ---
 title: Logos and Photos
 slug: presse-logos-und-bilder
-author: Stefan Kaufmann
 type: page
-date: 2017-09-22T14:11:44+00:00
+
 ---
 
 Here you can find material for reports, partner institutions and others!

@@ -9,7 +9,7 @@ date: 2016-07-14T00:23:30+00:00
 [Weinhof 9][1] – **_Bitte keine Päckchen/Pakete an diese Adresse schicken!_**  
 [89073 Ulm][1]
   
-E-Mail: <kontakt18@verschwoerhaus.de>  
+E-Mail: kontakt21 „at“ verschwoerhaus.de  
 Twitter: [@verschwoerhaus][2]
 
 ## Adresse für Paketsendungen

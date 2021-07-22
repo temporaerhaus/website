@@ -31,7 +31,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown", i18n: true}
   - name: "categories"
-    label: "Kategorien"
+    label: "Kategorieseiten"
     files:
       - file: "content/categories/jugend-hackt-lab/_index.md"
         label: "Jugend hackt Lab Übersicht"
@@ -43,6 +43,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
+    path: "{{slug}}/index"
     extension: "md"
     format: "yaml-frontmatter"
     i18n: true

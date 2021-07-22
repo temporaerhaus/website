@@ -32,7 +32,7 @@ So kann das Jugend hackt Lab auch in Zeiten von Corona spannendes Programm anbie
 
 
  [1]: https://twitter.com/sp4c31nv4d3r
- [2]: https://verschwoerhaus.de/spiel-mit-der-zeit-game-design-ferienworkshop-mit-mat-loewe/
+ [2]: /spiel-mit-der-zeit-game-design-ferienworkshop-mit-mat-loewe/
  [3]: https://www.etage-ulm.de/kurse-ferienangebote/kursdetails/event/fuer-zuhause-spiel-mit-der-zeit/
  [4]: http://sonic-pi.net
  [5]: https://media.ccc.de/v/36c3-56-flutter-one-native-code-base-for-every-platform

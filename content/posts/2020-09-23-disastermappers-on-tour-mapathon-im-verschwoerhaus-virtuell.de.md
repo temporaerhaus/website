@@ -30,5 +30,5 @@ Bitte tragt Euch zur besseren Planung in der Liste auf der [Wikiseite][8] ein, w
  [4]: https://heigit.org/geoinformation-for-humanitarian-aid/
  [5]: https://www.missingmaps.org/
  [6]: https://www.drk.de/hilfe-weltweit/was-wir-tun/missing-maps/
- [7]: https://verschwoerhaus.de/covid-19-massnahmenplan-ab-juli-2020/
+ [7]: /covid-19-massnahmenplan-ab-juli-2020/
  [8]: https://wiki.openstreetmap.org/wiki/Ulm_Neu-Ulm/COVID-19-Mapathon

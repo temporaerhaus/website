@@ -32,4 +32,4 @@ Hast Du auch Interesse, Dich zu beteiligen? [In unserem Kalender][5] findest Du 
  [2]: https://www.deutschlandfunknova.de/beitrag/radfahrer-und-abstand
  [3]: https://www.openbikesensor.org/
  [4]: https://de.wikipedia.org/wiki/Open-Source-Hardware
- [5]: https://verschwoerhaus.de/termine-und-oeffnungszeiten/
+ [5]: /termine-und-oeffnungszeiten/

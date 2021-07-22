@@ -27,5 +27,5 @@ Das FSJ dient der Berufsvorbereitung, und wir bieten dir im Verschwörhaus einen
 
 [Die offizielle Ausschreibung ist bei unserem Träger, dem internationalen Bund, zu finden.][2] Wir freuen uns sehr über deine Bewerbung per E-Mail an kontakt20 (at) verschwoerhaus.de **bis zum 18. Mai 2020**. Die Kennenlerngespräche werden dann per Videokonferenz stattfinden.
 
- [1]: https://verschwoerhaus.de/mein-fsj-im-verschwoerhaus-digitale-agenda/
+ [1]: /mein-fsj-im-verschwoerhaus-digitale-agenda/
  [2]: https://ib-freiwilligendienste.de/job/1085

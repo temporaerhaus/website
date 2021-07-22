@@ -35,7 +35,7 @@ Die Zeit seit Neujahr haben wir indes mit dem Rücktransport der ganzen Technik 
 
  [1]: https://events.ccc.de/congress/2019/wiki/index.php/Main_Page
  [2]: https://de.wikipedia.org/wiki/Chaos_Communication_Congress
- [3]: https://verschwoerhaus.de/los-gehts-2019/
+ [3]: /los-gehts-2019/
  [4]: https://www.wikimedia.de/
  [5]: https://okfn.de/
  [6]: https://medialepfade.org/
@@ -55,4 +55,4 @@ Die Zeit seit Neujahr haben wir indes mit dem Rücktransport der ganzen Technik 
  [20]: https://robbi5.de/
  [21]: http://blattspinat.com/
  [22]: https://media.ccc.de/v/36c3-10881-verkehrswende_selber_hacken
- [23]: https://verschwoerhaus.de/neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen/
+ [23]: /neu-f-u-c-k-frauen-und-computer-kram-ulm-treffen/

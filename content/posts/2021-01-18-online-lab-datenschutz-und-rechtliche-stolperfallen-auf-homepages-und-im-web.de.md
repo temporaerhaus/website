@@ -29,6 +29,6 @@ All dem wollen wir uns in einem kostenlosen Online-Workshop widmen. Fragen zum W
 [https://bbb.ulm.dev/b/datenschutz ][3]
 
 
- [1]: https://verschwoerhaus.de/about-me-homepage-web-design-workshop/
+ [1]: /about-me-homepage-web-design-workshop/
  [2]: mailto:der@mit-dem-zopf.cf
  [3]: https://bbb.ulm.dev/b/datenschutz

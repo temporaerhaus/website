@@ -64,8 +64,8 @@ Die Plattform wird laufend weiter entwickelt – an manchen Stellen hakt es noch
  [2]: https://en.wikipedia.org/wiki/Zulip
  [3]: https://jugendhackt.org/event-rueckblick/remote-2020/
  [4]: https://twitter.com/system_absturz/status/1241656750501253121
- [5]: https://verschwoerhaus.de/jugend-hackt-lab-goes-online/
- [6]: https://verschwoerhaus.de/online-workshop-code-deine-eigene-app-17-4-15-uhr/
+ [5]: /jugend-hackt-lab-goes-online/
+ [6]: /online-workshop-code-deine-eigene-app-17-4-15-uhr/
  [7]: https://bigbluebutton.org/
  [8]: https://ulm.dev/2020/03/26/covid19-learnings-1/
  [9]: https://www.codeforamerica.org/programs/fellowship

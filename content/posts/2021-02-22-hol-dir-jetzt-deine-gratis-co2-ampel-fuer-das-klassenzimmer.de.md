@@ -33,5 +33,5 @@ Das Verschwörhaus hat einige [CO2-Ampel-Kits auf Lager.][1] Willst du bereits e
 
 &nbsp;
 
- [1]: https://verschwoerhaus.de/co2-ampeln-fuer-klassenzimmer-und-wie-du-uns-im-advent-dabei-unterstuetzen-kannst/
+ [1]: /co2-ampeln-fuer-klassenzimmer-und-wie-du-uns-im-advent-dabei-unterstuetzen-kannst/
  [2]: mailto:tom@verschwoerhaus.de

@@ -23,8 +23,8 @@ Sowohl das Programm Jugend hackt als auch The Things Network bleiben Ulm und dem
 
 _Du möchtest als Privatperson oder mit deinem Unternehmen unsere vielfältige Arbeit nachhaltig unterstützen? Die einfachste Möglichkeit ist eine Fördermitgliedschaft im Verschwörhaus e.V.! Der eingetragene Verein ist gemeinnützig, das heißt, Zuwendungen an den Verein können steuerlich geltend gemacht werden._
 
- [1]: https://verschwoerhaus.de/danke-fuer-alles-juka/
- [2]: https://verschwoerhaus.de/der-gemeinderat-findet-uns-cool-o/
+ [1]: /danke-fuer-alles-juka/
+ [2]: /der-gemeinderat-findet-uns-cool-o/
  [3]: https://www.swp.de/suedwesten/staedte/ulm/verein-_inititiative.ulm.digital_-macht-ulm-fit-fuers-digitale-zeitalter-22912141.html
  [4]: https://lora.ulm-digital.com/blog/gateway-auf-dem-ulmer-muenster
  [5]: https://okfn.de/

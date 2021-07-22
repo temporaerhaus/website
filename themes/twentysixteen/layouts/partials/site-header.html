@@ -34,7 +34,7 @@
 					    </li>
 					    {{ else }} {{/*Plain menu item (no children) */}}
 					    <li class="menu-item{{ if $currentPage.IsMenuCurrent "main" . }} current-menu-item{{ end }}">
-						    <a href="{{ .URL | absLangURL}}">
+						    <a href="{{ .URL | absLangURL }}">
 						        {{ .Pre }}
 						        <span>{{ .Name }}</span>
 						    </a>

@@ -1,4 +1,4 @@
-<article class="post type-post format-standard hentry">
+<article class="post type-post format-standard hentry {{ if .Params.sticky }}type-page{{ end }}">
     <header class="entry-header">
         {{ if .Params.sticky }}
         <span class="sticky-post">{{ i18n "sticky" }}</span>
@@ -23,13 +23,14 @@
         {{ .Summary }}
 
         {{ if .Truncated }}
-        <br><br><p>
+        <p>
             <a href="{{ .RelPermalink }}" class="more-link"><button>{{ i18n "continue_reading" }}</button><span class="screen-reader-text"> {{ .Title }}</span></a>
         </p>
         {{ end }}
     </div>
     <!-- .entry-content -->
 
+    {{ if not .Params.sticky }}
     <footer class="entry-footer">
         {{ partial "meta-byline.html" . }}
         {{ if not .Params.sticky }}
@@ -38,4 +39,5 @@
         {{ partial "meta-terms.html" . }}
     </footer>
     <!-- .entry-footer -->
+    {{ end }}
 </article>

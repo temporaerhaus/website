@@ -1,5 +1,5 @@
 {{- define "main" -}}
-<article class="{{ .Type }} type-{{ .Type }} format-standard hentry">
+<article class="{{ .Type }} type-{{ .Type }} format-standard hentry {{ if .Params.sticky }}type-page{{ end }}">
     <header class="entry-header">
         <h1 class="entry-title" title="{{.Kind}}">
             {{ .Title | markdownify }}
@@ -22,6 +22,7 @@
         {{ .Content }}
     </div><!-- .entry-content -->
 
+    {{ if not .Params.sticky }}
     <footer class="entry-footer">
         {{- if eq .Type "post" -}}
         {{ partial "meta-byline.html" . }}
@@ -29,9 +30,11 @@
         {{ partial "meta-terms.html" . }}
         {{- end -}}
     </footer><!-- .entry-footer -->
+    {{ end }}
 </article>
 
 {{- if eq .Section "posts" -}}
+{{- if not .Params.sticky -}}
 <nav class="navigation post-navigation" role="navigation" aria-label="Beiträge">
     <h2 class="screen-reader-text">Beitrags-Navigation</h2>
     <div class="nav-links">
@@ -43,5 +46,6 @@
         {{- end -}}
     </div>
 </nav>
+{{- end -}}
 {{- end -}}
 {{- end -}}

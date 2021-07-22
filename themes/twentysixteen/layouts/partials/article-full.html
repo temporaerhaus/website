@@ -24,10 +24,12 @@
     </div>
     <!-- .entry-content -->
 
+    {{ if not .Params.sticky }}
     <footer class="entry-footer">
         {{ partial "meta-byline.html" . }}
         {{ partial "meta-date.html" . }}
         {{ partial "meta-terms.html" . }}
     </footer>
     <!-- .entry-footer -->
+    {{ end }}
 </article>

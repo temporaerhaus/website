@@ -4,7 +4,7 @@ backend:
   branch: master
   use_graphql: true
 
-media_folder: "static/wp-content/uploads"
+media_folder: "/static/wp-content/uploads"
 public_folder: "/wp-content/uploads"
 
 locale: 'de'

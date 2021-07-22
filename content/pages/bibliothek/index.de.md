@@ -1,5 +1,6 @@
 ---
 title: Bibliothek
+slug: bibliothek
 type: page
 featured_image: /wp-content/uploads/2018/04/IMG_0981-teaser-1200x361.jpg
 layout: library

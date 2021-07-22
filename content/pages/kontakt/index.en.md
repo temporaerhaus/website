@@ -1,5 +1,6 @@
 ---
 title: Contact
+slug: kontakt
 author: Verschwörhaus
 type: page
 date: 2016-07-14T00:23:30+00:00

@@ -2,7 +2,7 @@
 title: Press Coverage
 type: page
 date: 2016-07-13T18:42:20+00:00
-url: /en/presse/
+slug: presse
 language: en
 
 ---

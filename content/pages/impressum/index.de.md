@@ -1,5 +1,6 @@
 ---
 title: Impressum
+slug: impressum
 author: Verschwörhaus
 type: page
 date: 2016-07-14T00:11:23+00:00

@@ -1,0 +1,1 @@
+./2020-11-16-solidarisch-durch-die-krise-mitgezeichnete-erklaerung.de.md

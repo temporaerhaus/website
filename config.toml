@@ -116,6 +116,10 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
       name = "verschwoerhaus auf YouTube"
       url = "https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg"
 
+    [[languages.de.menu.social]]
+      name = "verschwoerhaus auf Instagram"
+      url = "https://www.instagram.com/verschwoerhaus/"
+
   [languages.en]
     weight = 2
     languageCode = "en-us"
@@ -208,6 +212,10 @@ siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"
     [[languages.en.menu.social]]
       name = "verschwoerhaus on YouTube"
       url = "https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg"
+
+    [[languages.en.menu.social]]
+      name = "verschwoerhaus on Instagram"
+      url = "https://www.instagram.com/verschwoerhaus/"
 
 [markup]
   [markup.goldmark]

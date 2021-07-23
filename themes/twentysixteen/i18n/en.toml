@@ -13,6 +13,9 @@ other = "Menu"
 [show_submenu]
 other = "Show submenu"
 
+[collapse_submenu]
+other = "Hide submenu"
+
 [recent_posts]
 other = "Recent Posts"
 

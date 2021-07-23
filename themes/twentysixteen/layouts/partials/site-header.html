@@ -10,7 +10,7 @@
 		<button id="menu-toggle" class="menu-toggle" aria-expanded="false" aria-controls="site-navigation social-navigation">{{ i18n "menu" }}</button>
 
 		<div id="site-header-menu" class="site-header-menu">
-			<nav id="site-navigation" class="main-navigation" role="navigation" aria-expanded="false">
+			<nav id="site-navigation" class="main-navigation" role="navigation" aria-expanded="false" data-dropdown-show="{{ i18n "show_submenu" }}" data-dropdown-hide="{{ i18n "collapse_submenu" }}">
 				<div class="menu-pagemenu-container">
 					<ul id="menu-pagemenu" class="primary-menu">
 					{{ $currentPage := . }}
@@ -21,7 +21,6 @@
 					            {{ .Pre }}
 					            <span>{{ .Name }}</span>
 					        </a>
-					        <button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">{{ i18n "show_submenu" }}</span></button>
 					        <ul class="sub-menu">
 					        {{ range .Children }}
 					        	<li class="menu-item{{ if $currentPage.IsMenuCurrent "main" . }} current-menu-item{{ end }}">

@@ -1,4 +1,3 @@
-/* global screenReaderText */
 /**
  * Theme functions file.
  *
@@ -10,25 +9,30 @@
 
     function initMainNavigation( container ) {
 
+        var screenReaderText = {
+            expand: container.data('dropdown-show'),
+            collapse: container.data('dropdown-hide')
+        };
+
         // Add dropdown toggle that displays child menu items.
         var dropdownToggle = $( '<button />', {
-            'class': 'dropdown-toggle-button',
+            'class': 'dropdown-toggle',
             'aria-expanded': false
         } ).append( $( '<span />', {
             'class': 'screen-reader-text',
             text: screenReaderText.expand
         } ) );
 
-        container.find( '.item.dropdown > a' ).after( dropdownToggle );
+        container.find( '.menu-item.menu-item-has-children > a' ).after( dropdownToggle );
 
         // Toggle buttons and submenu items with active children menu items.
-        container.find( '.item.dropdown.active > button' ).addClass( 'toggled-on' );
-        container.find( '.item.dropdown.active > .sub-menu' ).addClass( 'toggled-on' );
+        container.find( '.menu-item.menu-item-has-children.current-menu-item > button' ).addClass( 'toggled-on' );
+        container.find( '.menu-item.menu-item-has-children.current-menu-item > .sub-menu' ).addClass( 'toggled-on' );
 
         // Add menu items with submenus to aria-haspopup="true".
         container.find( '.dropdown' ).attr( 'aria-haspopup', 'true' );
 
-        container.find( '.dropdown-toggle-button' ).click( function( e ) {
+        container.find( '.dropdown-toggle' ).click( function( e ) {
             var _this            = $( this ),
                 screenReaderSpan = _this.find( '.screen-reader-text' );
 

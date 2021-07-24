@@ -18,6 +18,8 @@ jobs:
 
       - name: Build
         run: hugo --gc --minify
+        env:
+          HUGO_ENV: production
       
       - name: ssh deploy
         uses: easingthemes/ssh-deploy@v2.2.11

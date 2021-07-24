@@ -7,7 +7,7 @@
 {{ with (.Site.GetPage "posts")  }}
     {{- $paginator := .Paginate .Pages.ByLastmod.Reverse -}}
     {{- range  $paginator.Pages -}}
-        {{- partial "article-summary.html" . -}}
+        {{- partial "article-full.html" . -}}
     {{- end -}}
     {{- partial "pagination.html" . -}}
 {{ end }}

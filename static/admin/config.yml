@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: verschwoerhaus/verschwoerhaus.de
-  branch: master
+  branch: main
   use_graphql: true
 
 media_folder: "/static/wp-content/uploads"

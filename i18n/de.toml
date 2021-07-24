@@ -9,3 +9,9 @@ other = "Gerade geschlossen"
 
 [space_door_unknown]
 other = "Unbekannt"
+
+[space_when_open]
+other = "Wann das nächste mal offen ist, findest du"
+
+[space_when_open_calendar]
+other = "im Kalender"

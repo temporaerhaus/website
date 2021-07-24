@@ -1,5 +1,5 @@
 ---
-title: Termine und Öffnungszeiten
+title: Events, Gruppen & regelmäßige Termine
 slug: termine-und-oeffnungszeiten
 type: page
 

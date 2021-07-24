@@ -9,3 +9,9 @@ other = "Currently closed"
 
 [space_door_unknown]
 other = "Unknown"
+
+[space_when_open]
+other = "For the next opening hours, have a look at"
+
+[space_when_open_calendar]
+other = "our calendar"

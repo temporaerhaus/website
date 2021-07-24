@@ -85,7 +85,7 @@
     <script>
     var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
     </script>
-    {{- $jsjq := resources.Get "js/jquery-3.4.1.slim.min.js" -}}
+    {{- $jsjq := resources.Get "js/jquery-3.6.0.slim.min.js" -}}
     {{- $js2016 := resources.Get "js/2016.js" -}}
     {{- $jscustom := resources.Get "js/custom.js" -}}
     {{- $js := (slice $jsjq $js2016 $jscustom) | resources.Concat "js/bundle.js" | resources.Minify | resources.Fingerprint }}

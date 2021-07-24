@@ -1,0 +1,12 @@
+ErrorDocument 404 /404.html
+
+Redirect 302 /live https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg/live
+#Redirect 302 /live https://streaming.media.ccc.de/vsh
+
+Redirect 302 /feed/spaceapi https://spaceapi.verschwoerhaus.de/spaceapi/
+Redirect 302 /feed/ /posts/index.xml
+
+Redirect 302 /impressum/presse-logos-und-bilder/ /presse-logos-und-bilder/
+Redirect 302 /en/impressum/presse-logos-und-bilder/ /en/presse-logos-und-bilder/
+Redirect 302 /jugend-hackt-lab-termine/ /category/jugend-hackt-lab/
+Redirect 302 /en/jugend-hackt-lab/ /en/category/jugend-hackt-lab/

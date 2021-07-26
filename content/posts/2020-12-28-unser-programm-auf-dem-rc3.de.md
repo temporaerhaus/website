@@ -3,6 +3,7 @@ title: 'Unser Programm auf dem #rc3'
 author: Stefan Kaufmann
 type: post
 date: 2020-12-28T01:00:31+00:00
+slug: unser-programm-auf-dem-rc3
 featured_image: /wp-content/uploads/2020/12/Bildschirmfoto-von-2020-12-27-23-13-57-1024x575.png
 categories:
   - news

@@ -5,6 +5,7 @@ defaultContentLanguageInSubdir = false
 languageCode = "de-DE"
 theme = "twentysixteen"
 paginate = 10
+enableRobotsTXT = true
 
 [params]
 siteLogoUrl = "/wp-content/uploads/2016/10/cropped-Logo_VSH_RZ-1.jpg"

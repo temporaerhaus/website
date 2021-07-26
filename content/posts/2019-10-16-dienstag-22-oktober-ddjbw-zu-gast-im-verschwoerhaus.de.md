@@ -3,7 +3,6 @@ title: 'Dienstag, 22. Oktober: #ddjbw zu Gast im Verschwörhaus'
 author: Verschwörhaus
 type: post
 date: 2019-10-16T16:57:37+00:00
-url: /dienstag-22-oktober-ddjbw-zu-gast-im-verschwoerhaus/
 language: de
 categories:
   - Workshops

@@ -3,7 +3,6 @@ title: Elektro Theater – Eigene Filme in Rec Room produzieren – Ferienworksh
 author: Tom Novy
 type: post
 date: 2021-03-25T00:11:13+00:00
-url: /elektro-theater-eigene-filme-in-rec-room-produzieren-ferienworkshop/
 featured_image: /wp-content/uploads/2021/03/ElektroTheater-Teaser-1200x675.jpg
 categories:
   - Jugend hackt Lab

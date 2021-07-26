@@ -3,7 +3,6 @@ title: 'Online-Lab: Escape Rooms mit Minetest'
 author: Tom Novy
 type: post
 date: 2020-11-09T14:44:36+00:00
-url: /online-lab-escape-rooms-mit-minetest/
 featured_image: /wp-content/uploads/2020/04/Minetest_Default_Texture_Pack.png
 categories:
   - Jugend hackt Lab

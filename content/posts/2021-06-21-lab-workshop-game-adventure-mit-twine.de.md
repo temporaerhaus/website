@@ -3,7 +3,6 @@ title: 'Lab-Workshop: Game Adventure mit Twine'
 author: Tom Novy
 type: post
 date: 2021-06-21T10:37:40+00:00
-url: /lab-workshop-game-adventure-mit-twine/
 featured_image: /wp-content/uploads/2021/06/event-berlin-2018-demolabs-gamejam-1200x800.jpg
 categories:
   - Jugend hackt Lab

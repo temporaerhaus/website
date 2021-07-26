@@ -3,7 +3,6 @@ title: Hochwassermessung per TTN – jetzt auch im Praxistest!
 author: Jakob Pietron
 type: post
 date: 2021-02-14T18:35:58+00:00
-url: /hochwassermessung-per-ttn-jetzt-auch-im-praxistest/
 featured_image: /wp-content/uploads/2021/02/PXL_20210130_112354382.MP_-768x1024.jpg
 categories:
   - news

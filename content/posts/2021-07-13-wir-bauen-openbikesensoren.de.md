@@ -3,7 +3,6 @@ title: Wir bauen OpenBikeSensoren!
 author: Stefan Kaufmann
 type: post
 date: 2021-07-13T21:27:15+00:00
-url: /wir-bauen-openbikesensoren/
 featured_image: /wp-content/uploads/2021/07/2021-obs-1024x766.jpg
 categories:
   - news

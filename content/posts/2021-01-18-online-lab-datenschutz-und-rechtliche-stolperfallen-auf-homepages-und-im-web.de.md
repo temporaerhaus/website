@@ -3,7 +3,6 @@ title: 'Online-Lab: „Datenschutz und rechtliche Stolperfallen auf Homepages un
 author: Tom Novy
 type: post
 date: 2021-01-18T15:10:25+00:00
-url: /online-lab-datenschutz-und-rechtliche-stolperfallen-auf-homepages-und-im-web/
 featured_image: /wp-content/uploads/2021/01/magnifying-glass-1607208_640.jpg
 categories:
   - Jugend hackt Lab

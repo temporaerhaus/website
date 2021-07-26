@@ -3,7 +3,6 @@ title: Mappt die Radwege!
 author: Stefan Kaufmann
 type: post
 date: 2021-05-03T19:10:21+00:00
-url: /mappt-die-radwege/
 categories:
   - news
 

@@ -3,7 +3,6 @@ title: 3D Modelling Online-Workshop mit Leonie Wolf
 author: Tom Novy
 type: post
 date: 2021-01-28T16:11:30+00:00
-url: /how-to-blender-3d-modelling-online-workshop/
 featured_image: /wp-content/uploads/2021/01/jugenhackt_3D_image_L_Wolf-e1611849071157.png
 categories:
   - Jugend hackt Lab

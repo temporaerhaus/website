@@ -3,7 +3,6 @@ title: Kein Congress, trotzdem Chaos, trotzdem Wikipaka-WG
 author: Stefan Kaufmann
 type: post
 date: 2020-11-18T21:52:55+00:00
-url: /kein-congress-trotzdem-chaos-trotzdem-wikipaka-wg/
 featured_image: /wp-content/uploads/2020/01/36c3_lingo-1024x577.jpg
 categories:
   - news

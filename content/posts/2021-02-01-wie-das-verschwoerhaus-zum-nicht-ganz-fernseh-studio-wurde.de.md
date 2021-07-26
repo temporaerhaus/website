@@ -3,7 +3,6 @@ title: Wie das Verschwörhaus zum Nicht-ganz-Fernseh-Studio wurde
 author: Stefan Kaufmann
 type: post
 date: 2021-02-01T21:07:03+00:00
-url: /wie-das-verschwoerhaus-zum-nicht-ganz-fernseh-studio-wurde/
 featured_image: /wp-content/uploads/2021/02/audio_gong-1024x576.jpg
 categories:
   - news

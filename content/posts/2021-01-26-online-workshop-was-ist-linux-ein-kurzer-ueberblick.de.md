@@ -3,7 +3,6 @@ title: 'Online-Workshop: Was ist Linux? Ein kurzer Überblick'
 author: Tom Novy
 type: post
 date: 2021-01-26T16:41:24+00:00
-url: /online-workshop-was-ist-linux-ein-kurzer-ueberblick/
 featured_image: /wp-content/uploads/2021/01/640px-Ubuntu_20.10_2880p_31_12_2020_13_30_15.png
 categories:
   - Jugend hackt Lab

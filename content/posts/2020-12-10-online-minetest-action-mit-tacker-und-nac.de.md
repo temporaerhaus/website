@@ -3,7 +3,6 @@ title: Online Minetest Action mit dem minetest4kids Team
 author: Tom Novy
 type: post
 date: 2020-12-10T16:18:10+00:00
-url: /online-minetest-action-mit-tacker-und-nac/
 featured_image: /wp-content/uploads/2020/12/Screenshot-2020-11-21-112127-1200x864.png
 categories:
   - Jugend hackt Lab

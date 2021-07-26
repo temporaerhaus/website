@@ -3,7 +3,6 @@ title: Minetest Action im Open Lab
 author: Tom Novy
 type: post
 date: 2021-02-22T16:02:14+00:00
-url: /minetest-action-im-open-lab/
 featured_image: /wp-content/uploads/2020/04/Minetest_Default_Texture_Pack.png
 categories:
   - Jugend hackt Lab

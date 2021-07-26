@@ -3,7 +3,6 @@ title: About Me Homepage – Web Design Workshop
 author: Tom Novy
 type: post
 date: 2020-12-17T15:58:45+00:00
-url: /about-me-homepage-web-design-workshop/
 featured_image: /wp-content/uploads/2018/10/coding_jh-1200x800.jpg
 categories:
   - Jugend hackt Lab

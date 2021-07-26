@@ -2,6 +2,7 @@
 title: Danke für alles, Juka!
 author: Stefan Kaufmann
 type: post
+slug: danke-fuer-alles-juka
 date: 2021-02-09T00:30:00+00:00
 featured_image: /wp-content/uploads/2021/02/juka2-1024x683.jpg
 categories:

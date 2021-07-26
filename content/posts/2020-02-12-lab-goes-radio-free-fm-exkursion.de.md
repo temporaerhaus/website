@@ -3,7 +3,7 @@ title: 'fällt aus+++JH Lab goes Radio Free FM: Exkursion+++fällt aus'
 author: Tom Novy
 type: post
 date: 2020-02-12T19:05:32+00:00
-#url: /lab-goes-radio-free-fm-exkursion/
+slug: lab-goes-radio-free-fm-exkursion
 featured_image: /wp-content/uploads/2020/02/Bild_Radio-Workshop-HD-scaled-e1581526441530.jpg
 categories:
   - Jugend hackt Lab

@@ -3,7 +3,7 @@ title: 'Zukunftsstadt: Das Erklärcafe!'
 author: Juka
 type: post
 date: 2018-05-30T13:59:00+00:00
-#url: /zukunftsstadt-das-erklaercafe/
+slug: zukunftsstadt-das-erklaercafe
 language: de
 categories:
   - Uncategorized

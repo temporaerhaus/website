@@ -3,7 +3,7 @@ title: 'Goethe meets Big Data: Code-Poetry-Workshop mit Jörg Piringer'
 author: Tom
 type: post
 date: 2019-10-16T12:49:09+00:00
-#url: /goethe-meets-big-data-code-poetry-workshop-mit-joerg-piringer/
+slug: goethe-meets-big-data-code-poetry-workshop-mit-joerg-piringer
 language: de
 featured_image: /wp-content/uploads/2019/10/ads_Codepoetry-1200x675.jpg
 categories:

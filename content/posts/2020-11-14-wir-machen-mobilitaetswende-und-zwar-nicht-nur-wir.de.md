@@ -3,6 +3,7 @@ title: Wir machen Mobilitätswende – und zwar nicht nur wir
 author: Stefan Kaufmann
 type: post
 date: 2020-11-14T15:25:07+00:00
+slug: wir-machen-mobilitaetswende-und-zwar-nicht-nur-wir
 featured_image: /wp-content/uploads/2020/11/L1006114_2000px-1024x684.jpg
 categories:
   - news

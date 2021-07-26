@@ -3,7 +3,7 @@ title: '„Arbeit der Zukunft: Auf Augenhöhe und selbstbestimmt“'
 author: Stefan Kaufmann
 type: post
 date: 2017-07-14T10:53:17+00:00
-#url: /arbeit-der-zukunft-auf-augenhoehe-und-selbstbestimmt/
+slug: arbeit-der-zukunft-auf-augenhoehe-und-selbstbestimmt
 language: de
 categories:
   - Uncategorized

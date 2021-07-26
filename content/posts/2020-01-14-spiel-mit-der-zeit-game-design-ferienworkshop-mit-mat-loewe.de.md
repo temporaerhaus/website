@@ -3,7 +3,7 @@ title: Game Design Online-Ferienworkshop mit Mat Löwe
 author: Tom Novy
 type: post
 date: 2020-01-14T15:29:32+00:00
-#url: /spiel-mit-der-zeit-game-design-ferienworkshop-mit-mat-loewe/
+slug: spiel-mit-der-zeit-game-design-ferienworkshop-mit-mat-loewe
 featured_image: /wp-content/uploads/2020/01/time-2383567_640-e1579015221127.jpg
 categories:
   - Jugend hackt Lab

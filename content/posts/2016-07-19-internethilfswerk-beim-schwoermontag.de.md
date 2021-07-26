@@ -3,7 +3,7 @@ title: Internethilfswerk beim Schwörmontag
 author: Stefan Kaufmann
 type: post
 date: 2016-07-19T20:30:30+00:00
-#url: /internethilfswerk-beim-schwoermontag/
+slug: internethilfswerk-beim-schwoermontag
 language: de
 featured_image: /wp-content/uploads/2016/07/CnogArzWYAAu_uJ.jpglarge-1200x900.jpeg
 categories:

@@ -3,7 +3,7 @@ title: Das erste Nähcafe im Verschwörhaus
 author: Stefan Kaufmann
 type: post
 date: 2016-12-05T23:11:39+00:00
-#url: /das-erste-naehcafe-im-verschwoerhaus/
+slug: das-erste-naehcafe-im-verschwoerhaus
 language: de
 featured_image: /wp-content/uploads/2016/12/15178955_725779974239582_2608513715848610681_n.jpg
 categories:

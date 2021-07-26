@@ -3,7 +3,7 @@ title: FSJ digital im Verschwörhaus ab dem Herbst
 author: Stefan Kaufmann
 type: post
 date: 2020-05-04T10:19:08+00:00
-#url: /fsj-digital-im-verschwoerhaus-ab-dem-herbst/
+slug: fsj-digital-im-verschwoerhaus-ab-dem-herbst
 categories:
   - news
 tags:

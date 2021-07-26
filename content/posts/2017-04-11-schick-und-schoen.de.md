@@ -3,7 +3,7 @@ title: Schick und Schön
 author: Stefan Kaufmann
 type: post
 date: 2017-04-11T17:09:11+00:00
-#url: /schick-und-schoen/
+slug: schick-und-schoen
 language: de
 categories:
   - bootstrap

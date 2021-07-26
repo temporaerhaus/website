@@ -3,7 +3,7 @@ title: Animationen hacken – Workshop mit David Jäckel
 author: Tom Novy
 type: post
 date: 2020-03-06T20:08:18+00:00
-#url: /animationen-hacken-workshop-mit-david-jaeckel/
+slug: animationen-hacken-workshop-mit-david-jaeckel
 featured_image: /wp-content/uploads/2020/02/LED-Workshop-VHPage-scaled-e1582820495253.jpg
 categories:
   - news

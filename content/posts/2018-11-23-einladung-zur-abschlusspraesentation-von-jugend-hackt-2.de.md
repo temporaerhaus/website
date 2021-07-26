@@ -3,7 +3,7 @@ title: Einladung zur Abschlusspräsentation von Jugend hackt
 author: Stefan Kaufmann
 type: post
 date: 2018-11-23T14:12:50+00:00
-#url: /einladung-zur-abschlusspraesentation-von-jugend-hackt-2/
+slug: einladung-zur-abschlusspraesentation-von-jugend-hackt-2
 language: de
 featured_image: /wp-content/uploads/2018/10/EventteaserUlm18-1200x720.jpg
 categories:

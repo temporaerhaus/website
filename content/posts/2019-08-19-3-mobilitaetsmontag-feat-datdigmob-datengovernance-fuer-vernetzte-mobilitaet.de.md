@@ -3,7 +3,7 @@ title: '3. Mobilitätsmontag feat. DatDigMob: Datengovernance für vernetzte Mob
 author: Stefan Kaufmann
 type: post
 date: 2019-08-19T09:48:42+00:00
-#url: /3-mobilitaetsmontag-feat-datdigmob-datengovernance-fuer-vernetzte-mobilitaet/
+slug: 3-mobilitaetsmontag-feat-datdigmob-datengovernance-fuer-vernetzte-mobilitaet
 language: de
 categories:
   - news

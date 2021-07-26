@@ -3,7 +3,7 @@ title: GAME ARTS 🎮 Workshop mit Game Artist Leonie Wolf 🎨 +++keine freien 
 author: Tom
 type: post
 date: 2019-09-18T10:51:54+00:00
-#url: /game-arts-workshop-mit-nrw-kuenstlerinnenpreistraegerin-leonie-wolf/
+slug: game-arts-workshop-mit-nrw-kuenstlerinnenpreistraegerin-leonie-wolf
 language: de
 featured_image: /wp-content/uploads/2019/08/image_lizens_LWolf-1200x728.png
 categories:

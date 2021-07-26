@@ -3,7 +3,7 @@ title: Offenes Editieren und Wikidata-Einführung am 21.3.
 author: Stefan Kaufmann
 type: post
 date: 2020-03-02T13:20:34+00:00
-#url: /offenes-editieren-und-wikidata-einfuehrung-am-21-3/
+slug: offenes-editieren-und-wikidata-einfuehrung-am-21-3
 categories:
   - Workshops
 tags:

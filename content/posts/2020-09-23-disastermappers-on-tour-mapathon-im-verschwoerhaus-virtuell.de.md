@@ -3,7 +3,7 @@ title: 'disastermappers on Tour- Mapathon im Verschwörhaus + virtuell'
 author: Verschwörhaus
 type: post
 date: 2020-09-23T14:10:32+00:00
-#url: /disastermappers-on-tour-mapathon-im-verschwoerhaus-virtuell/
+slug: disastermappers-on-tour-mapathon-im-verschwoerhaus-virtuell
 categories:
   - news
 tags:

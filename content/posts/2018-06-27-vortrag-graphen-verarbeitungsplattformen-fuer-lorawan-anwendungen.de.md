@@ -3,7 +3,7 @@ title: 'Vortrag: Graphen-Verarbeitungsplattformen für LoRaWAN-Anwendungen'
 author: Verschwörhaus
 type: post
 date: 2018-06-27T18:15:22+00:00
-#url: /vortrag-graphen-verarbeitungsplattformen-fuer-lorawan-anwendungen/
+slug: vortrag-graphen-verarbeitungsplattformen-fuer-lorawan-anwendungen
 language: de
 categories:
   - Uncategorized

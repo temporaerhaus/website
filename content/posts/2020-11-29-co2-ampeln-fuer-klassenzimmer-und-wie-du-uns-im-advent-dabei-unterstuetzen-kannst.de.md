@@ -2,6 +2,7 @@
 title: CO2-Ampeln für Klassenzimmer und wie du uns im Advent dabei unterstützen kannst
 author: Verschwörhaus
 type: post
+slug: co2-ampeln-fuer-klassenzimmer-und-wie-du-uns-im-advent-dabei-unterstuetzen-kannst
 date: 2020-11-29T08:41:59+00:00
 categories:
   - news

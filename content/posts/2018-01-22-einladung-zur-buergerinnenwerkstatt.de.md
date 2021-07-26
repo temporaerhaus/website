@@ -3,7 +3,7 @@ title: Einladung zur BürgerInnenwerkstatt
 author: Stefan Kaufmann
 type: post
 date: 2018-01-22T10:09:07+00:00
-#url: /einladung-zur-buergerinnenwerkstatt/
+slug: einladung-zur-buergerinnenwerkstatt
 language: de
 featured_image: /wp-content/uploads/2018/01/buergerwerkstatt_-1200x566.png
 categories:

@@ -3,7 +3,7 @@ title: Dürfen Gottesanbeterinnen Sex haben? „NotGames“ sind anders!
 author: Tom
 type: post
 date: 2019-10-16T13:57:08+00:00
-#url: /duerfen-gottesanbeterinnen-sex-haben-notgames-sind-anders/
+slug: duerfen-gottesanbeterinnen-sex-haben-notgames-sind-anders
 language: de
 featured_image: /wp-content/uploads/2019/09/23694303073_6cb0716622_z.jpg
 category_sticky_post:

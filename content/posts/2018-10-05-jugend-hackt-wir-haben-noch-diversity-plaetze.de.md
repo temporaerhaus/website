@@ -3,7 +3,7 @@ title: 'Jugend hackt: Wir haben noch Diversity-Plätze!'
 author: Verschwörhaus
 type: post
 date: 2018-10-05T21:13:12+00:00
-#url: /jugend-hackt-wir-haben-noch-diversity-plaetze/
+slug: jugend-hackt-wir-haben-noch-diversity-plaetze
 language: de
 featured_image: /wp-content/uploads/2018/10/EventteaserUlm18-1200x720.jpg
 categories:

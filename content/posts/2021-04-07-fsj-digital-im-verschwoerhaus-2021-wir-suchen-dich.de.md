@@ -2,6 +2,7 @@
 title: 'FSJ Digital im Verschwörhaus 2021: Wir suchen Dich!'
 author: Stefan Kaufmann
 type: post
+slug: fsj-digital-im-verschwoerhaus-2021-wir-suchen-dich
 date: 2021-04-07T16:58:59+00:00
 featured_image: https://verschwoerhaus.de/wp-content/uploads/2020/11/L1006114_2000px-1024x684.jpg
 categories:

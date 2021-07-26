@@ -3,7 +3,7 @@ title: Komm zum ÖPNV-Mapathon am 9. Februar 2019!
 author: Stefan Kaufmann
 type: post
 date: 2019-01-23T14:33:35+00:00
-#url: /komm-zum-oepnv-mapathon-am-9-februar-2019/
+slug: komm-zum-oepnv-mapathon-am-9-februar-2019
 language: de
 featured_image: /wp-content/uploads/2019/01/lossy-page1-1024px-König-Wilhelm-Straße_Ulm_Anfang_20_Jahrh._coloriert.tif.jpg
 categories:

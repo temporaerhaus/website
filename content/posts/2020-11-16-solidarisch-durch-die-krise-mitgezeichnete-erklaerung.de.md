@@ -2,6 +2,7 @@
 title: 'Solidarisch durch die Krise: Mitgezeichnete Erklärung'
 author: Verschwörhaus
 type: post
+slug: solidarisch-durch-die-krise-mitgezeichnete-erklaerung
 date: 2020-11-16T17:19:44+00:00
 categories:
   - news

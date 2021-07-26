@@ -3,7 +3,7 @@ title: Abschlusspräsentation von Jugend hackt im Haus der Gewerkschaften
 author: Tom
 type: post
 date: 2019-10-10T20:51:13+00:00
-#url: /abschlusspraesentation-von-jugend-hackt-im-haus-der-gewerkschaft/
+slug: abschlusspraesentation-von-jugend-hackt-im-haus-der-gewerkschaft
 language: de
 featured_image: /wp-content/uploads/2019/10/45493673055_f8d66b0135_c-e1572299278252.jpg
 categories:

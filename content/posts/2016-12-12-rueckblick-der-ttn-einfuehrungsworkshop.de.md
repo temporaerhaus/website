@@ -3,7 +3,7 @@ title: 'Rückblick: Der TTN-Einführungsworkshop'
 author: Stefan Kaufmann
 type: post
 date: 2016-12-12T21:37:42+00:00
-#url: /rueckblick-der-ttn-einfuehrungsworkshop/
+slug: rueckblick-der-ttn-einfuehrungsworkshop
 language: de
 featured_image: /wp-content/uploads/2017/01/lora_vortrag-1200x676.jpg
 categories:

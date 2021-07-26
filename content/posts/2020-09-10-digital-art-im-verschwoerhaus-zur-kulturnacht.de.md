@@ -3,7 +3,7 @@ title: News zur Kulturnacht im Verschwörhaus 2020
 author: Tom Novy
 type: post
 date: 2020-09-10T15:18:21+00:00
-#url: /digital-art-im-verschwoerhaus-zur-kulturnacht/
+slug: digital-art-im-verschwoerhaus-zur-kulturnacht
 featured_image: /wp-content/uploads/2020/09/Kulturnachpic-768x432.jpg
 category_sticky_post:
   - 18

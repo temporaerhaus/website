@@ -3,7 +3,7 @@ title: 'Kulturnacht im Verschwörhaus: Let’s play to save the world 🎮 und G
 author: Tom
 type: post
 date: 2019-06-20T10:47:39+00:00
-#url: /kulturnacht-im-verschwoerhaus-lets-play-to-save-the-world-und-generative-art-von-bleeptrack/
+slug: kulturnacht-im-verschwoerhaus-lets-play-to-save-the-world-und-generative-art-von-bleeptrack
 language: de
 featured_image: /wp-content/uploads/2019/08/Kulturnachtklein.jpg
 categories:

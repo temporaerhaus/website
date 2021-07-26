@@ -3,6 +3,7 @@ title: Hol dir jetzt eine gratis CO2-Ampel für dein Klassenzimmer
 author: Tom Novy
 type: post
 date: 2021-02-22T13:42:24+00:00
+slug: hol-dir-jetzt-deine-gratis-co2-ampel-fuer-das-klassenzimmer
 featured_image: /wp-content/uploads/2021/02/Jugend-hackt-CO2-Ampel-HP-1200x675.jpg
 categories:
   - Jugend hackt Lab

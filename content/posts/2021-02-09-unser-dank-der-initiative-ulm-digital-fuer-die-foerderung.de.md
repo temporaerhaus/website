@@ -2,6 +2,7 @@
 title: Unser Dank der initiative.ulm.digital für die Förderung!
 author: Stefan Kaufmann
 type: post
+slug: unser-dank-der-initiative-ulm-digital-fuer-die-foerderung
 date: 2021-02-09T00:26:50+00:00
 categories:
   - news

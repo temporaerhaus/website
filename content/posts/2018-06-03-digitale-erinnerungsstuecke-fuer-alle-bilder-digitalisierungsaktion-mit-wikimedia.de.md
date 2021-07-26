@@ -3,7 +3,7 @@ title: Digitale Erinnerungsstücke für alle – Bilder-Digitalisierungsaktion m
 author: Stefan Kaufmann
 type: post
 date: 2018-06-03T10:54:19+00:00
-#url: /digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia/
+slug: digitale-erinnerungsstuecke-fuer-alle-bilder-digitalisierungsaktion-mit-wikimedia
 language: de
 categories:
   - Uncategorized

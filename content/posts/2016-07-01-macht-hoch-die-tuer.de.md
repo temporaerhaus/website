@@ -3,7 +3,7 @@ title: Macht hoch die Tür
 author: Stefan Kaufmann
 type: post
 date: 2016-07-01T14:30:46+00:00
-#url: /macht-hoch-die-tuer/
+slug: macht-hoch-die-tuer
 language: de
 categories:
   - bootstrap

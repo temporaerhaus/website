@@ -3,7 +3,7 @@ title: f.u.c.k. – Workshops und Vorträge
 author: jana
 type: post
 date: 2020-01-27T22:38:28+00:00
-#url: /f-u-c-k-workshop-am-freitag-31-1-2020/
+slug: f-u-c-k-workshop-am-freitag-31-1-2020
 categories:
   - news
 

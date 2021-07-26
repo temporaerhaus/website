@@ -3,7 +3,7 @@ title: 'Lab-Workshop: Animationen hacken mit David Jäckel'
 author: Tom Novy
 type: post
 date: 2020-10-12T18:07:30+00:00
-#url: /lab-workshop-animationen-hacken-mit-david-jaeckel/
+slug: lab-workshop-animationen-hacken-mit-david-jaeckel
 featured_image: /wp-content/uploads/2020/02/LED-Workshop-VHPage-scaled-e1582820495253.jpg
 categories:
   - Jugend hackt Lab

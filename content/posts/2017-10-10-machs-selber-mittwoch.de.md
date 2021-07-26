@@ -3,7 +3,7 @@ title: 'Mach’s-selber-Mittwoch: Der Maker-Nachmittag für Jugendliche'
 author: Stefan Kaufmann
 type: post
 date: 2017-10-10T16:10:34+00:00
-#url: /machs-selber-mittwoch/
+slug: machs-selber-mittwoch
 language: de
 featured_image: /wp-content/uploads/2017/10/machsselbermittwoch-1200x408.jpg
 categories:

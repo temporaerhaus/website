@@ -3,7 +3,7 @@ title: “Offenes Coden, Tüfteln und Weltverbessern” im Verschwörhaus
 author: Tom
 type: post
 date: 2019-06-13T18:17:47+00:00
-#url: /offene-labs-starten-ab-juli-2019/
+slug: offene-labs-starten-ab-juli-2019
 language: de
 categories:
   - Jugend hackt Lab

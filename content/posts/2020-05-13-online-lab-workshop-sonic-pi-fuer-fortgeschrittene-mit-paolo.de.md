@@ -3,7 +3,7 @@ title: 'Online-Lab-Workshop: Sonic Pi für Fortgeschrittene mit Paolo'
 author: Tom Novy
 type: post
 date: 2020-05-13T15:22:38+00:00
-#url: /online-lab-workshop-sonic-pi-fuer-fortgeschrittene-mit-paolo/
+slug: online-lab-workshop-sonic-pi-fuer-fortgeschrittene-mit-paolo
 featured_image: /wp-content/uploads/2020/05/800px-Screenshot-Sonic_Pi_25106932979-e1589383139222.png
 categories:
   - Jugend hackt Lab

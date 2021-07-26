@@ -3,7 +3,7 @@ title: Digitale Erinnerungsstücke für alle – eine Rückschau
 author: Verschwörhaus
 type: post
 date: 2018-11-02T15:52:28+00:00
-#url: /digitale-erinnerungsstuecke-fuer-alle-eine-rueckschau/
+slug: digitale-erinnerungsstuecke-fuer-alle-eine-rueckschau
 language: de
 categories:
   - Uncategorized

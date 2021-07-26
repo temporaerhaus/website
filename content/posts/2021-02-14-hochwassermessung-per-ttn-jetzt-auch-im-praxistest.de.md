@@ -10,18 +10,16 @@ tags:
   - Hochwasser
   - TTN
   - Zukunftsstadt
-
 ---
+Seitdem im Winter 2016 die ersten Gateways für das Community-Sensornetzwerk [The Things Network](https://thethingsnetwork.org/) in Ulm entstanden, beschäftigen wir uns auch im Verschwörhaus mit passenden und vor allem auch gerne witzigen Anwendungsfällen. Gemeinsam mit der Digitalen Agenda der Stadt entstand Ende 2018 die Idee, doch einfach mal zu überprüfen, ob Radverkehrsachsen von Hochwasser betroffen sind. Es gibt nämlich mehrere Stellen, die bei Hochwasser der Donau oder Blau überflutet werden – die Stelle des Donauradwegs unter der Herdbrücke ist beispielsweise so anfällig für Donauhochwasser, dass es sogar eine Schrankenanlage kurz vor der Stelle gibt, die im Überflutungsfall den Radverkehr auf dem Donauradweg über die Altstadt umleitet. Jedenfalls dann, wenn der Baubetriebshof davon Wind bekommen und die Schranken abgesenkt hat. Wir hatten uns deswegen überlegt, [Ultraschallsensoren](https://www.decentlab.com/products/ultrasonic-distance-/-level-sensor-for-lorawan) über der Fahrbahn zu montieren. Wie eine Fledermaus schicken diese – über der Fahrbahn hängend – Schallimpulse in Richtung der Fahrbahnoberfläche und messen die Zeit, bis das Echo wieder bei ihnen ankommt. Der Messwert wird dann per LoRaWAN übertragen – und dann legt sich der Sensor wieder „schlafen“, um Energie zu sparen.
 
-Seitdem im Winter 2016 die ersten Gateways für das Community-Sensornetzwerk [The Things Network][2] in Ulm entstanden, beschäftigen wir uns auch im Verschwörhaus mit passenden und vor allem auch gerne witzigen Anwendungsfällen. Gemeinsam mit der Digitalen Agenda der Stadt entstand Ende 2018 die Idee, doch einfach mal zu überprüfen, ob Radverkehrsachsen von Hochwasser betroffen sind. Es gibt nämlich mehrere Stellen, die bei Hochwasser der Donau oder Blau überflutet werden – die Stelle des Donauradwegs unter der Herdbrücke ist beispielsweise so anfällig für Donauhochwasser, dass es sogar eine Schrankenanlage kurz vor der Stelle gibt, die im Überflutungsfall den Radverkehr auf dem Donauradweg über die Altstadt umleitet. Jedenfalls dann, wenn der Baubetriebshof davon Wind bekommen und die Schranken abgesenkt hat. Wir hatten uns deswegen überlegt, [Ultraschallsensoren][3] über der Fahrbahn zu montieren. Wie eine Fledermaus schicken diese – über der Fahrbahn hängend – Schallimpulse in Richtung der Fahrbahnoberfläche und messen die Zeit, bis das Echo wieder bei ihnen ankommt. Der Messwert wird dann per LoRaWAN übertragen – und dann legt sich der Sensor wieder „schlafen“, um Energie zu sparen.
-
-Im Frühjahr 2019 wurden die Sensoren im Rahmen des Projekts „[Zukunftsstadt][4]“ beschafft und erst einmal im Verschwörhaus getestet. <a href="https://lora.ulm-digital.com/blog/hochwassermessung-in-ulm" data-cke-saved-href="https://lora.ulm-digital.com/blog/hochwassermessung-in-ulm">Im Juni 2019 konnte dann der erste Sensor installiert werden</a> – auch eine schöne Sache, wenn man sich als Hack- und Makespace Dinge ausdenkt und dann einige Monate später gemeinsam mit dem Baubetriebshof Sensoren ganz offiziell an Brücken kleben darf!
+Im Frühjahr 2019 wurden die Sensoren im Rahmen des Projekts „[Zukunftsstadt](https://www.zukunftsstadt-ulm.de/)“ beschafft und erst einmal im Verschwörhaus getestet. <a href="https://lora.ulm-digital.com/blog/hochwassermessung-in-ulm" data-cke-saved-href="https://lora.ulm-digital.com/blog/hochwassermessung-in-ulm">Im Juni 2019 konnte dann der erste Sensor installiert werden</a> – auch eine schöne Sache, wenn man sich als Hack- und Makespace Dinge ausdenkt und dann einige Monate später gemeinsam mit dem Baubetriebshof Sensoren ganz offiziell an Brücken kleben darf!
 
 Was in der Theorie eine gute Idee ist, muss sich aber auch in der Praxis bewähren. Nur wie testet man einen Hochwassersensor? Da sich das temporäre Fluten des Fuß- und Radweges unter der Herdbrücke als keine praktikable Lösung herausstellte, hieß es: warten.
 
 Warten bis zum 29.01.2021. Die Lokalpresse berichtete bereits eifrig seit dem Morgen, die Stadtverwaltung habe den Weg unter der Herdbrücke gesperrt, denn an diesem Tag würde womöglich das aus dem Allgäu über die Iller in die Donau fließende Hochwasser den Donauweg überfluten.
 
-[!][Herdbruecke Graph](/wp-content/uploads/2021/02/2021-02-herdbruecke-graph.png)
+![Herdbruecke Graph](/wp-content/uploads/2021/02/2021-02-herdbruecke-graph.png)
 
 Ab 12:45 Uhr konnten wir einen kontinuierlich schrumpfenden Abstand zwischen Sensor und Donau<s>weg</s> verzeichnen. An dieser Stelle sei erwähnt, dass der Donaupegel natürlich nicht &#8222;eckig&#8220; ansteigt, sondern unser Hochwassersensor nur alle 15 Minuten einen Messwert schickt und dadurch der treppenförmige Abfall des Abstandes zwischen Sensor und Weg bzw. Donau zu Stande kommt. Um 14.00 Uhr war dann auch nichts mehr vom Donauweg zu erkennen, dieser stand nun gut 85 cm unter Wasser.
 
@@ -41,13 +39,4 @@ Sensornodes mit LoRaWAN zeichnen sich allgemein durch ihren sehr geringen Energi
 
 Auf den Fotos zu erkennen: Hochwasser macht das Wechseln einer Batterie nicht unbedingt einfacher!
 
-(Fotos und waghalsiger Wartungseinsatz von [@dermatthias][8])
-
- [1]: https://verschwoerhaus.de/wp-content/uploads/2021/02/PXL_20210130_112354382.MP_-scaled.jpg
- [2]: https://thethingsnetwork.org/
- [3]: https://www.decentlab.com/products/ultrasonic-distance-/-level-sensor-for-lorawan
- [4]: https://www.zukunftsstadt-ulm.de/
- [5]: https://verschwoerhaus.de/wp-content/uploads/2021/02/PXL_20210130_121623172.MP_-scaled.jpg
- [6]: https://verschwoerhaus.de/wp-content/uploads/2021/02/PXL_20210130_112838290.MP_-scaled.jpg
- [7]: https://verschwoerhaus.de/wp-content/uploads/2021/02/PXL_20210130_112809887.MP_-scaled.jpg
- [8]: https://twitter.com/dermatthias/
+(Fotos und waghalsiger Wartungseinsatz von [@dermatthias](https://twitter.com/dermatthias/))

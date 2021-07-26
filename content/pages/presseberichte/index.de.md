@@ -80,6 +80,7 @@ slug: presse
 ### 2021
   * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(25.02.2021)</small>
   * [Neu-Ulmer Zeitung (Paywall)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
+  * [Südwest Presse (Paywall)][62]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -137,3 +138,4 @@ slug: presse
  [59]: https://www.schwaebische.de/landkreis/landkreis-ravensburg/bad-waldsee_artikel,-waldseer-schueler-experimentieren-wieder-um-die-wette-_arid,11333233.html
  [60]: https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
  [61]: https://web.archive.org/web/20210302105134/https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
+ [62]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html 

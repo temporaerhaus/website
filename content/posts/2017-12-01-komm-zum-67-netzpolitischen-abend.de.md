@@ -3,7 +3,7 @@ title: Komm zum 67. Netzpolitischen Abend!
 author: Stefan Kaufmann
 type: post
 date: 2017-12-01T10:10:33+00:00
-#url: /komm-zum-67-netzpolitischen-abend/
+slug: komm-zum-67-netzpolitischen-abend
 language: de
 featured_image: /wp-content/uploads/2017/12/10-Smart-Cities-860x484.jpg
 categories:

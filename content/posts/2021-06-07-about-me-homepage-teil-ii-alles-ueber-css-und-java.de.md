@@ -2,6 +2,7 @@
 title: About Me Homepage – Teil II – Basics von JavaScript
 author: Tom Novy
 type: post
+slug: about-me-homepage-teil-ii-alles-ueber-css-und-java
 date: 2021-06-07T12:09:22+00:00
 featured_image: /wp-content/uploads/2019/06/35043904153_90f0e9ee21_z.jpg
 categories:

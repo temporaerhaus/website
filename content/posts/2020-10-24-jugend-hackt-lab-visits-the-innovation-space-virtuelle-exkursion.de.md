@@ -2,6 +2,7 @@
 title: 'Jugend hackt Lab visits the Innovation Space – Virtuelle Exkursion'
 author: Tom Novy
 type: post
+slug: jugend-hackt-lab-visits-the-innovation-space-virtuelle-exkursion
 date: 2020-10-24T00:05:45+00:00
 categories:
   - Jugend hackt Lab

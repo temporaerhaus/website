@@ -2,6 +2,7 @@
 title: 'Kostenlose Online Fortbildung: Musik Coden mit Sonic Pi'
 author: Tom Novy
 type: post
+slug: kostenlose-fortbildung-musik-coden-mit-sonic-pi
 date: 2020-10-29T00:05:45+00:00
 categories:
   - news

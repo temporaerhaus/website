@@ -3,7 +3,7 @@ title: 'Datenjournalismus: Unfallatlas-Workshop in Wiesbaden!'
 author: Stefan Kaufmann
 type: post
 date: 2020-02-27T10:45:42+00:00
-#url: /datenjournalismus-unfallatlas-workshop-in-wiesbaden/
+slug: datenjournalismus-unfallatlas-workshop-in-wiesbaden
 categories:
   - news
 tags:

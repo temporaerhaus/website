@@ -3,7 +3,7 @@ title: '17.10.: Absage aller Veranstaltungen wegen Infektionsgeschehen'
 author: Stefan Kaufmann
 type: post
 date: 2020-10-21T11:05:45+00:00
-#url: /17-10-absage-aller-veranstaltungen-wegen-infektionsgeschehen/
+slug: 17-10-absage-aller-veranstaltungen-wegen-infektionsgeschehen
 categories:
   - news
 ---

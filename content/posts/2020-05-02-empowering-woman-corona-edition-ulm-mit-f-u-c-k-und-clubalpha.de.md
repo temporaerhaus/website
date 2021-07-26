@@ -3,7 +3,7 @@ title: „Empowering Woman – Corona Edition Ulm“ mit f.u.c.k und clubalpha
 author: jana
 type: post
 date: 2020-05-02T08:25:06+00:00
-#url: /empowering-woman-corona-edition-ulm-mit-f-u-c-k-und-clubalpha/
+slug: empowering-woman-corona-edition-ulm-mit-f-u-c-k-und-clubalpha
 categories:
   - f.u.c.k. ulm
 tags:

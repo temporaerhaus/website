@@ -3,7 +3,7 @@ title: Feinstaubsensoren im Eigenbau am 3.3.
 author: Stefan Kaufmann
 type: post
 date: 2018-02-25T19:08:16+00:00
-#url: /feinstaubsensoren-im-eigenbau-am-3-3/
+slug: feinstaubsensoren-im-eigenbau-am-3-3
 language: de
 featured_image: /wp-content/uploads/2017/01/feinstaub-sensor-1200x676.png
 categories:

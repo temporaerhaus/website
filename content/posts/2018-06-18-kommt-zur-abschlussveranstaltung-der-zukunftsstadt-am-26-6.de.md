@@ -3,7 +3,7 @@ title: Kommt zur Abschlussveranstaltung der Zukunftsstadt am 26.6.!
 author: Stefan Kaufmann
 type: post
 date: 2018-06-18T14:43:44+00:00
-#url: /kommt-zur-abschlussveranstaltung-der-zukunftsstadt-am-26-6/
+slug: kommt-zur-abschlussveranstaltung-der-zukunftsstadt-am-26-6
 language: de
 categories:
   - Uncategorized

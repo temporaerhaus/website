@@ -3,7 +3,7 @@ title: Erlebe Wikipedia vor Ort am 28.10.2018
 author: Stefan Kaufmann
 type: post
 date: 2018-10-12T17:56:33+00:00
-#url: /erlebe-wikipedia-vor-ort-am-28-10-2018/
+slug: erlebe-wikipedia-vor-ort-am-28-10-2018
 language: de
 categories:
   - Workshops

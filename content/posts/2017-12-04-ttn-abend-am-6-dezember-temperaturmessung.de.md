@@ -3,7 +3,7 @@ title: 'TTN-Abend am 6. Dezember: Temperaturmessung'
 author: Stefan Kaufmann
 type: post
 date: 2017-12-04T13:10:59+00:00
-#url: /ttn-abend-am-6-dezember-temperaturmessung/
+slug: ttn-abend-am-6-dezember-temperaturmessung
 language: de
 featured_image: /wp-content/uploads/2017/12/lora_header-1200x385.jpg
 categories:

@@ -3,7 +3,7 @@ title: 'JH Lab goes Innovation Space: Creation in Virtual Reality'
 author: Tom Novy
 type: post
 date: 2020-02-12T16:05:18+00:00
-#url: /jh-lab-goes-innovation-space-creation-in-virtual-reality/
+slug: jh-lab-goes-innovation-space-creation-in-virtual-reality
 featured_image: /wp-content/uploads/2020/02/Bild_VR-Workshop-HD-scaled-e1581522093258.jpg
 categories:
   - Jugend hackt Lab

@@ -3,7 +3,7 @@ title: 'Resource Exhaustion: Wir waren auf dem 36C3'
 author: Verschwörhaus
 type: post
 date: 2020-01-08T12:04:30+00:00
-#url: /resource-exhaustion-wir-waren-auf-dem-36c3/
+slug: resource-exhaustion-wir-waren-auf-dem-36c3
 featured_image: /wp-content/uploads/2020/01/36c3_fairydust.jpg
 categories:
   - news

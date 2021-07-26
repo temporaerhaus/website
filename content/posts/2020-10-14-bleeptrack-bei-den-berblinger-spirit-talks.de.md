@@ -3,7 +3,7 @@ title: bleeptrack bei den „Berblinger Spirit Talks“
 author: Stefan Kaufmann
 type: post
 date: 2020-10-14T00:05:02+00:00
-#url: /bleeptrack-bei-den-berblinger-spirit-talks/
+slug: bleeptrack-bei-den-berblinger-spirit-talks
 categories:
   - news
 tags:

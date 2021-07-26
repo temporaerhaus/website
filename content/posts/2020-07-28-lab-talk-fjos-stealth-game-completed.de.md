@@ -3,7 +3,7 @@ title: 'Lab-Talk: Fjo’s Stealth-Game completed?'
 author: Tom Novy
 type: post
 date: 2020-07-28T21:55:46+00:00
-#url: /lab-talk-fjos-stealth-game-completed/
+slug: lab-talk-fjos-stealth-game-completed
 featured_image: /wp-content/uploads/2020/07/Lab-Ulm-Games-Workshop-768x432.jpg
 categories:
   - Jugend hackt Lab

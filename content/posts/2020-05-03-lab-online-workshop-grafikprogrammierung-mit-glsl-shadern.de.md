@@ -3,7 +3,7 @@ title: 'Lab-Online-Workshop: Grafikprogrammierung mit GLSL-Shadern'
 author: Tom Novy
 type: post
 date: 2020-05-03T20:51:31+00:00
-#url: /lab-online-workshop-grafikprogrammierung-mit-glsl-shadern/
+slug: lab-online-workshop-grafikprogrammierung-mit-glsl-shadern
 featured_image: /wp-content/uploads/2020/05/truchet-flow-e1588538817642.png
 categories:
   - Jugend hackt Lab

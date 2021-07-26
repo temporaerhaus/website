@@ -3,7 +3,7 @@ title: Der erste große Hirnsturm
 author: Stefan Kaufmann
 type: post
 date: 2016-07-05T21:38:13+00:00
-#url: /der-erste-grosse-hirnsturm/
+slug: der-erste-grosse-hirnsturm
 language: de
 featured_image: /wp-content/uploads/2017/01/brainstorm-1200x673.jpg
 categories:

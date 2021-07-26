@@ -3,7 +3,7 @@ title: Covid-19-Maßnahmenplan ab Juli 2020, aktualisiert Oktober 2020
 author: Stefan Kaufmann
 type: post
 date: 2020-06-29T13:54:36+00:00
-#url: /covid-19-massnahmenplan-ab-juli-2020/
+slug: covid-19-massnahmenplan-ab-juli-2020
 categories:
   - news
 tags:

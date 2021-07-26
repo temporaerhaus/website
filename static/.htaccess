@@ -7,8 +7,11 @@ Redirect 302 /feed/spaceapi https://spaceapi.verschwoerhaus.de/spaceapi/
 Redirect 302 /feed/ /posts/index.xml
 
 Redirect 302 /wp-admin/ /admin/
+Redirect 302 /wp-login.php /admin/
 
 Redirect 302 /impressum/presse-logos-und-bilder/ /presse-logos-und-bilder/
 Redirect 302 /en/impressum/presse-logos-und-bilder/ /en/presse-logos-und-bilder/
 Redirect 302 /jugend-hackt-lab-termine/ /category/jugend-hackt-lab/
 Redirect 302 /en/jugend-hackt-lab/ /en/category/jugend-hackt-lab/
+
+Redirect 410 /xmlrpc.php

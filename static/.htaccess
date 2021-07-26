@@ -15,3 +15,4 @@ Redirect 302 /jugend-hackt-lab-termine/ /category/jugend-hackt-lab/
 Redirect 302 /en/jugend-hackt-lab/ /en/category/jugend-hackt-lab/
 
 Redirect 410 /xmlrpc.php
+Redirect 410 /comments/feed/

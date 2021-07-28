@@ -130,37 +130,37 @@ siteLogoUrl = "/spaceicons/logo.svg"
     [[languages.en.menu.main]]
       identifier = "das-haus"
       name = "The House"
-      url = "/das-verschwoerhaus/"
+      url = "/en/das-verschwoerhaus/"
       weight = -100
 
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "tour"
       name = "virtual Tour"
-      url = "/tour/"
+      url = "/en/tour/"
 
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "bibliothek"
       name = "Library"
-      url = "/bibliothek/"
+      url = "/en/bibliothek/"
 
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "presse"
       name = "Press"
-      url = "/presse/"
+      url = "/en/presse/"
 
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "logos-und-bilder"
       name = "Logos and Photos"
-      url = "/presse-logos-und-bilder/"
+      url = "/en/presse-logos-und-bilder/"
 
     [[languages.en.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
       name = "Events, Groups and Opening Hours"
-      url = "/termine-und-oeffnungszeiten/"
+      url = "/en/termine-und-oeffnungszeiten/"
       weight = -90
 
     [[languages.en.menu.main]]
@@ -172,35 +172,35 @@ siteLogoUrl = "/spaceicons/logo.svg"
     [[languages.en.menu.main]]
       identifier = "jhlab"
       name = "Jugend hackt Lab"
-      url = "/category/jugend-hackt-lab/"
+      url = "/en/category/jugend-hackt-lab/"
       weight = -70
 
     [[languages.en.menu.main]]
       identifier = "kontakt"
       name = "Contact"
-      url = "/kontakt/"
+      url = "/en/kontakt/"
       weight = -60
 
     [[languages.en.menu.main]]
       parent = "kontakt"
       identifier = "impressum"
       name = "Impressum"
-      url = "/impressum/"
+      url = "/en/impressum/"
 
     [[languages.en.menu.footer]]
       identifier = "privacy"
       name = "Privacy Policy"
-      url = "/datenschutzerklaerung/"
+      url = "/en/datenschutzerklaerung/"
 
     [[languages.en.menu.footer]]
       name = "Cookie Policy"
-      url = "/cookie-policy/"
+      url = "/en/cookie-policy/"
       weight = -60
 
     [[languages.en.menu.footer]]
       identifier = "rsslink"
       name = "RSS Feed"
-      url = "/posts/index.xml"
+      url = "/en/posts/index.xml"
 
     [[languages.en.menu.social]]
       name = "verschwoerhaus on Twitter"

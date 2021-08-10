@@ -11,7 +11,6 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 Nächste Termine:
 
-* [Di. 6. Juli 2021, 17-19 Uhr: Game Adventure mit Twine](/lab-workshop-game-adventure-mit-twine/)
 * [Do. 19. August, 11-13 Uhr: About me homepage – Teil II – Basics zu JavaScript](/about-me-homepage-teil-ii-alles-ueber-css-und-java/)
 * [Fr. 10. September 2021, 18 Uhr: five Needs: Wohnen in der Zukunft – Lab Talk](/five-needs-wohnen-in-der-zukunft-lab-talk-im-september/)
 * Oktober: Game Workshop mit Mat Lowe (Online oder Offline: tba)

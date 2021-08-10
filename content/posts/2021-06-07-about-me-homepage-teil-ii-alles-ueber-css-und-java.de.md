@@ -20,6 +20,6 @@ Keine Vorkenntnisse und keine Anmeldung nötig.
 
 &nbsp;
 
-**Do. 19. August, 11.00 - 13.30 Uhr online:** Link geben wir hier bekannt
+**Do. 19. August, 11.00-13.30 Uhr online:** Link geben wir hier bekannt
 
 &nbsp;

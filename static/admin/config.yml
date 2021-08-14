@@ -3,6 +3,7 @@ backend:
   repo: verschwoerhaus/verschwoerhaus.de
   branch: main
   use_graphql: true
+  site_domain: vshde.netlify.app
 
 media_folder: "/static/wp-content/uploads"
 public_folder: "/wp-content/uploads"

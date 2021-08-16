@@ -20,6 +20,9 @@ siteLogoUrl = "/spaceicons/logo.svg"
   tag = "/tag/:slug"
   tags = "/tag/:slug"
 
+[frontmatter]
+date = [":filename", ":default"]
+
 [languages]
   [languages.de]
     weight = 1

@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex">
   <title>Content Manager</title>
+  <script>
+    // auth only works on the netlify subdomain, so we redirect
+    if (location.host !== "vshde.netlify.app") {
+      location.replace("https://vshde.netlify.app/admin/");
+    }
+  </script>
 </head>
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->

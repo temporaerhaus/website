@@ -3,7 +3,7 @@ title: Was in welcher Inzidenzstufe gilt, ab Juli 2021 (Update August)
 author: Stefan Kaufmann
 type: post
 date: 2021-07-04T10:16:51+00:00
-draft: true
+draft: false
 categories:
   - news
 tags:

@@ -2,6 +2,7 @@
 title: About Me Homepage – Teil II – Basics von JavaScript
 author: Tom Novy
 date: 2021-06-07T12:09:22+00:00
+draft: true
 featured_image: /wp-content/uploads/2019/06/35043904153_90f0e9ee21_z.jpg
 slug: about-me-homepage-teil-ii-alles-ueber-css-und-java
 categories:
@@ -20,6 +21,5 @@ Keine Vorkenntnisse und keine Anmeldung nötig.
 
 &nbsp;
 
-**Do. 19. August, 11.00-13.30 Uhr online:** Link geben wir hier bekannt
-
+**Do. 19. August, 11.00-13.30 Uhr online:** https://bbb.verschwoer.haus/b/homepage\
 &nbsp;

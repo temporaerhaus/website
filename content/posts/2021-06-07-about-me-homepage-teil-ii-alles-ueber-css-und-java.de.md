@@ -19,7 +19,6 @@ Ihr wolltet schon immer eine eigene Homepage haben – und die Basics dazu kenne
 
 Keine Vorkenntnisse und keine Anmeldung nötig.
 
-&nbsp;
 
-**Do. 19. August, 11.00-13.30 Uhr online:** https://bbb.verschwoer.haus/b/homepage\
-&nbsp;
+
+**Do. 19. August, 11.00-13.30 Uhr [online](https://bbb.verschwoer.haus/b/homepage)**

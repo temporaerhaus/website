@@ -8,7 +8,7 @@ categories:
   - Talk
 tags: []
 ---
-Computerspiele werden oft nur als Unterhaltung wahrgenommen - trotzdem sind sie auch politisch oder bringen verschiedene politische Kontexte durch Erzählungen, Gameplay und Grafik hervor. Das zeigt sich auch am zunehmenden Einsatz der Figur des Zombies, die sinnbildlich in Games als externe Bedrohung für eine überforderte Gemeinschaft interpretiert werden kann. Zombies stehen aber auch für Narrationen von Pandemien oder Krankheiten in digitalen Spielen. Bei genauer Betrachtung ist sogar die Zunahme der Zombie-Erzählungen in Videogames in den letzten Jahren festtellbar.\
+Computerspiele werden oft nur als Unterhaltung wahrgenommen - trotzdem sind sie auch politisch oder bringen verschiedene politische Kontexte durch Erzählungen, Gameplay und Grafik hervor. Das zeigt sich auch am zunehmenden Einsatz der Figur des Zombies, die sinnbildlich in Games als externe Bedrohung für eine überforderte Gemeinschaft interpretiert werden kann. Zombies stehen aber auch für Narrationen von Pandemien oder Krankheiten in digitalen Spielen. Bei genauer Betrachtung ist sogar die Zunahme der Zombie-Erzählungen in Videogames in den letzten Jahren feststellbar.\
 \
 Im Rahmen der *Aktionstage Netzpolitik & Demokratie 2021* spricht der Neu-Ulmer Kulturwissenschaftler **Arno Görgen** über das Politische in digitalen Spielen. Denn Computerspiele existieren nicht einfach unabhängig von der Gesellschaft in der wir leben, sondern spiegeln sie in bestimmten Aspekten auch wieder. Wie das mit Narrationen von Pandemien und Zombies einhergeht wollen wir nach dem Talk mit euch diskutieren.\
 \

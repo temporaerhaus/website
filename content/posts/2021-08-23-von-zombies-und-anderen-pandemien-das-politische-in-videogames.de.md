@@ -8,7 +8,11 @@ categories:
   - Jugend hackt Lab
   - news
   - Workshops
-tags: []
+tags:
+  - Jugend hackt Lab
+  - Videogames
+  - Workshops
+  - Netzpolitik&Demokratie2021
 ---
 Computerspiele werden oft nur als Unterhaltung wahrgenommen - trotzdem sind sie auch politisch oder bringen verschiedene politische Kontexte durch Erzählungen, Gameplay und Grafik hervor. Das zeigt sich auch am zunehmenden Einsatz der Figur des Zombies, die sinnbildlich in Games als externe Bedrohung für eine überforderte Gemeinschaft interpretiert werden kann. Zombies stehen aber auch für Narrationen von Pandemien oder Krankheiten in digitalen Spielen. Bei genauer Betrachtung ist sogar die Zunahme der Zombie-Erzählungen in Videogames in den letzten Jahren feststellbar.\
 \

@@ -2,10 +2,12 @@
 title: "Von Zombies und anderen Pandemien: Das Politische in Videogames"
 author: Tom Novy
 date: 2021-08-23T10:58:11.533Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2021/08/zombie-945622_640.jpg
 categories:
-  - Talk
+  - Jugend hackt Lab
+  - news
+  - Workshops
 tags: []
 ---
 Computerspiele werden oft nur als Unterhaltung wahrgenommen - trotzdem sind sie auch politisch oder bringen verschiedene politische Kontexte durch Erzählungen, Gameplay und Grafik hervor. Das zeigt sich auch am zunehmenden Einsatz der Figur des Zombies, die sinnbildlich in Games als externe Bedrohung für eine überforderte Gemeinschaft interpretiert werden kann. Zombies stehen aber auch für Narrationen von Pandemien oder Krankheiten in digitalen Spielen. Bei genauer Betrachtung ist sogar die Zunahme der Zombie-Erzählungen in Videogames in den letzten Jahren feststellbar.\

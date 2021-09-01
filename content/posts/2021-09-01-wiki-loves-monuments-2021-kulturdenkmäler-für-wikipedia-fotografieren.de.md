@@ -2,7 +2,7 @@
 title: "Wiki loves Monuments 2021: Kulturdenkmäler für Wikipedia fotografieren"
 author: Stefan Kaufmann
 date: 2021-09-01T15:23:49.793Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2021/09/640px-old_gas_station_hamburg_grindel.jpg
 categories:
   - news

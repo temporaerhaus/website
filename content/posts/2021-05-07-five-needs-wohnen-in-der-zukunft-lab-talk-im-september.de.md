@@ -1,10 +1,10 @@
 ---
-title: 'Five Needs: Wohnen in der Zukunft – Lab Talk im September'
+title: "Five Needs: Wohnen in der Zukunft – Lab Talk im September"
 author: Tom Novy
-type: post
 date: 2021-05-07T21:53:46+00:00
-slug: five-needs-wohnen-in-der-zukunft-lab-talk-im-september
+draft: true
 featured_image: /wp-content/uploads/2021/05/fiveneeds-wohnen-in-der-zukunft-ulm-01-1200x675.jpg
+slug: five-needs-wohnen-in-der-zukunft-lab-talk-im-september
 categories:
   - Jugend hackt Lab
   - news
@@ -15,7 +15,7 @@ tags:
   - Jugend hackt Lab Ulm
   - Vanessa Zurek
   - Wohnraum fuer alle
-
+type: post
 ---
 Insbesondere in Großstädten ist Wohnraum teuer und rar. Mit fortschreitendem Klimawandel wird es dabei auch um die Frage gehen, wie wir zukünftig ökologisch und praktisch Wohnraum für alle schaffen. Wagen wir daher einen Blick in die Zukunft des Wohnens!
 
@@ -25,4 +25,6 @@ Bewohner*innen sollen zwischen individuellen Rückzug, als auch dem Bedürfnis n
 
 &nbsp;
 
-**Freitag, 10. September 2021 um 18.oo Uhr: online oder Live-Stream aus dem Verschwörhaus mit Sitzmöglichkeit für Besucher*innen (Sofern es das Geschehen zulässt: wir informieren euch hier)**
+**Freitag, 10. September 2021 um 18.oo Uhr: online oder Live-Stream aus dem Verschwörhaus mit Sitzmöglichkeit für Besucher*innen** 
+
+**Corona-safe-Bedingungen: wollt ihr live dabei sein gilt 3G, da in BW die Schulen noch nicht angefangen haben, bitten wir verpflichtend auch Schüler*innen einen höchstens 24 Stunden alten Test dabei zu haben. Im ganzen Gebäude gilt Masken- und Registrierungspflicht.**

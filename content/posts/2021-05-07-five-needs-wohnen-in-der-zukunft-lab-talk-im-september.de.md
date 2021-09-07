@@ -2,7 +2,7 @@
 title: "Five Needs: Wohnen in der Zukunft – Lab Talk im September"
 author: Tom Novy
 date: 2021-05-07T21:53:46+00:00
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2021/05/fiveneeds-wohnen-in-der-zukunft-ulm-01-1200x675.jpg
 slug: five-needs-wohnen-in-der-zukunft-lab-talk-im-september
 categories:

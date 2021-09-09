@@ -1,29 +1,29 @@
 ---
-title: Was in welcher Inzidenzstufe gilt, ab Juli 2021 (Update August)
-slug: was-in-welcher-inzidenzstufe-gilt-ab-juli-2021
 author: Stefan Kaufmann
-type: post
-date: 2021-07-04T10:16:51+00:00
 draft: false
-categories:
-  - news
+slug: was-in-welcher-inzidenzstufe-gilt-ab-juli-2021
+title: Was in welcher Inzidenzstufe gilt, ab Juli 2021 (Update August)
+date: 2021-07-04T10:16:51+00:00
 tags:
   - covid19
+type: post
+categories:
+  - news
 ---
-*Update im August 2021*
+ *Update im August 2021 und Anfang September 2021*
 
-Sehr viel länger als im Oktober gedacht ist das Verschwörhaus nun geschlossen gewesen.
+Sehr viel länger als im Oktober 2020 gedacht ist das Verschwörhaus nun geschlossen gewesen.
 
 Mit den neuen Regelungen ab 28. Juni 2021 haben wir nun wieder ein verlässliche(re)s Rahmenkonstrukt, wie wir in den kommenden Monaten weiter verfahren. ~~[Ausschlaggebend ist stets die amtliche Feststellung der Inzidenzstufe durch das Gesundheitsamt.](https://www.ulm.de/leben-in-ulm/gesundheit/corona/regeln)~~ Seit 16. August sind die Inzidenzstufen im Land ausgesetzt. Wir orientieren uns aber weiterhin danach: Stufe 1 ist unter 10, 2 ist 10 bis 35, 3 ist 35 bis 50, und 4 ist über 50.
 
 Wir wissen im Sommer 2021 deutlich mehr über Covid19 als das vor einem Jahr der Fall gewesen ist. Auch die immer breiter verfügbaren Schutzimpfungen gegen Covid19 sind ein wichtiger Bestandteil im Kampf gegen diese Pandemie. Bitte informiert euch auf [116117](https://www.impfterminservice.de/impftermine) über mögliche Impftermine in der Region. Die örtlichen „ImpfluencerInnen“ [@DrCWerner](https://twitter.com/DrCWerner) und [@ChrissiP81](https://twitter.com/Chrissip81) berichten zudem immer wieder über kurzfristige Impfaktionen in der Gegend, auch mit dem Impfstoff von Johnson&Johnson, der bereits nach nur einer Impfung wirkt.
 
-Wichtigstes Mittel auch in Hinblick auf sich verbreitende oder noch kommende Virusvarianten sind nach aktuellem Wissensstand immer noch medizinische Mund-Nasenbedeckungen. Bitte tragt diese daher immer, wenn sie nach unseren Regeln erforderlich sind. Auch dann, wenn ihr bereits vollständig geimpft seid.
+Wichtigstes Mittel neben der Impfung – auch in Hinblick auf sich verbreitende oder noch kommende Virusvarianten – sind nach aktuellem Wissensstand immer noch medizinische Mund-Nasenbedeckungen. Bitte tragt diese daher immer, wenn sie nach unseren Regeln erforderlich sind. Auch dann, wenn ihr bereits vollständig geimpft seid.
 
 ## Was gilt, in Kürze
 
-* In den Inzidenzstufen 1, 2 und 3: Allgemeiner Publikumsbetrieb mit den unten aufgeführten Regeln. Seit dem 16. August 2021 ist der Zutritt nur noch nach Vorlage eines 3G-Nachweis erlaubt. Das heißt, entweder muss ein gültiger Impf- oder Genesenennachweis vorgelegt werden, oder ein maximal 24 Stunden alter Schnelltest.
-* Inzidenzstufe 4: Kein öffentlicher Betrieb, nur Wartungs- und Unterhaltsmaßnahmen.
+* In den Inzidenzstufen 1, 2 und 3: Allgemeiner Publikumsbetrieb mit den unten aufgeführten Regeln. Seit dem 16. August 2021 ist der Zutritt nur noch nach Vorlage eines 3G-Nachweis erlaubt. Das heißt, entweder muss ein gültiger Impf- oder Genesenennachweis vorgelegt werden, oder ein maximal 24 Stunden alter Schnelltest. _Update September:_ Laut Landesverordnung gilt auch die Vorlage eines SchülerInnen-Ausweis als negativer Test. Momentan sind aber noch Ferien und wir sind gespannt, wie der Übergang in die Testungen an den Schulen geht. Bitte bringt vorerst trotzdem einen tagesaktuellen Schnelltest mit.
+* Inzidenzstufe 4: ~~Kein öffentlicher Betrieb, nur Wartungs- und Unterhaltsmaßnahmen.~~ Betrieb im Rahmen der Regeln der Coronaverordnung, oberhalb der 50er-Inzidenzschwelle jedoch nur für Menschen mit Impf- oder Genesenennachweis.
 
 1. Der Zutritt zum Haus ist nicht erlaubt für Personen, 
 

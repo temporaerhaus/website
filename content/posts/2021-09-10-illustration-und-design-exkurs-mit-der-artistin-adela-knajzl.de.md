@@ -15,3 +15,5 @@ In unserem Exkurs in die Welt der Illustration mit Adela Knajzl, einer Ulmer Ill
 Der Talk ist sowohl für Anfänger, Interessierte als auch Fortgeschrittene geeignet – es sind keinerlei Vorkenntnisse notwendig. Ihr habt auch die Möglichkeit eure Mappen, Skizzen und Zeichnungen mitzubringen, nach dem Vortrag gibt euch Adela gerne Tipps dazu.
 
 Weitere Infos zu Adela Knajzl: www.adelaknajzl.de
+
+6. November 2021 um 13 Uhr im Verschwoerhaus - Hybrid: vor Ort und live

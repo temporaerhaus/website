@@ -16,4 +16,4 @@ Der Talk ist sowohl für Anfänger, Interessierte als auch Fortgeschrittene geei
 
 Weitere Infos zu Adela Knajzl: www.adelaknajzl.de
 
-6. November 2021 um 13 Uhr im Verschwoerhaus - Hybrid: vor Ort und live
+6. November 2021 um 13 Uhr im Verschwoerhaus - Hybrid: vor Ort (bitte aktuelle Corona-Regeln beachten) und als Stream

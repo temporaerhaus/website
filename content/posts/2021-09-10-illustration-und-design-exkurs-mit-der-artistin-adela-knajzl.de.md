@@ -2,7 +2,7 @@
 title: Illustration und Design Exkurs mit der Artistin Adela Knajzl
 author: Tom Novy
 date: 2021-09-10T09:35:57.243Z
-draft: true
+draft: false
 categories:
   - Jugend hackt Lab
 ---

@@ -11,11 +11,11 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 Nächste Termine:
 
-* [Do. 19. August, 11-13 Uhr: About me homepage – Teil II – Basics zu JavaScript](/about-me-homepage-teil-ii-alles-ueber-css-und-java/)
-* [Fr. 10. September 2021, 18 Uhr: five Needs: Wohnen in der Zukunft – Lab Talk](/five-needs-wohnen-in-der-zukunft-lab-talk-im-september/)
-* Oktober: Game Workshop mit Mat Lowe (Online oder Offline: tba)
-* [Fr. 19. November 2021, 20 Uhr: Von Zombies und anderen Pandemien - Talk (Online und Offline)](https://verschwoerhaus.de/von-zombies-und-anderen-pandemien-das-politische-in-videogames/)
-* [](https://verschwoerhaus.de/von-zombies-und-anderen-pandemien-das-politische-in-videogames/)November: Illustration und Design Workshop mit der Artistin Adela Knajzl (tba)
-* Dezember: Game Arts: Blender Workshop Teil II mit Leonie (tba)
+* Di. 21. September: Open Lab (Covid-Regeln beachten)
+* Sa. 2. Oktober: Game Workshop mit Mat Lowe aus Berlin (im Hausi und teilweise als Insta-Stream)
+* [](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/)[Sa. 6. November: Illustration und Design Workshop mit der Ulmer Artistin Adela Knajzl](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/) 
+* [Fr. 19. November 2021, 20 Uhr: Von Zombies und anderen Pandemien - Talk (](https://verschwoerhaus.de/von-zombies-und-anderen-pandemien-das-politische-in-videogames/)Stream und Online)
+
+
 
 ![](/wp-content/uploads/2019/05/Bild_2020-11-26_210019-1536x448.png)

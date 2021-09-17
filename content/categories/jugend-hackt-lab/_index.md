@@ -15,6 +15,6 @@ Nächste Termine:
 * [Sa. 2. Oktober 10 - 17 Uhr: Game Workshop mit Mat Lowe aus Berlin ](https://verschwoerhaus.de/reisebüro-der-virtuellen-realitäten-multiplayer-games-und-hangouts-entwickeln/)
 * [](https://verschwoerhaus.de/reisebüro-der-virtuellen-realitäten-multiplayer-games-und-hangouts-entwickeln/)[](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/)[Sa. 6. November, 13 - 14.30 Uhr: Illustration und Design Workshop mit der Ulmer Artistin Adela Knajzl](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/) 
 * [Fr. 19. November 2021, 20 - 21 Uhr: Von Zombies und anderen Pandemien - Talk (](https://verschwoerhaus.de/von-zombies-und-anderen-pandemien-das-politische-in-videogames/)Stream und Online)
-* Sa. 4 Dezember 2021, 13 - 17 Uhr: Create your own fashion - Mode- und Nähworkshop
+* [Sa. 4 Dezember 2021, 13 - 17 Uhr: Create your own fashion - Mode- und Nähworkshop](https://verschwoerhaus.de/create-your-own-fashion-mode-und-nähworkshop/)
 
 ![](/wp-content/uploads/2019/05/Bild_2020-11-26_210019-1536x448.png)

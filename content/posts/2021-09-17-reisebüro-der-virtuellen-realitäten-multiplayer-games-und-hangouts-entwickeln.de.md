@@ -8,13 +8,9 @@ featured_image: /wp-content/uploads/2021/09/reisebüro-der-virtuellen-realitäte
 categories:
   - Jugend hackt Lab
 ---
-
-
-Nie war man digital näher Zusammen. Aber geht das auch in cool? Ohne Videokonferenzen?  Na klar! Willkommen im Reisebüro der Virtuellen Realitäten! Im Workshop lernst du, wie du eigene Welten bauen kannst, die dann mit anderen gemeinsam als Avatare mit nichts weiter als einem Browser besucht werden können.
+Nie war man digital näher zusammen. Aber geht das auch in cool? Ohne Videokonferenzen?  Na klar! Willkommen im Reisebüro der Virtuellen Realitäten! Im Workshop lernst du, wie du eigene Welten bauen kannst, die dann mit anderen gemeinsam als Avatare mit nichts weiter als einem Browser besucht werden können.
 
 Dabei steht dir alles offen: Ein Party-Raum, eine Ausstellung deiner Werke, ein Labyrinth, eine Spielhalle oder eine digitale Demonstration. Oder wie wäre es mit einem Murder-Mystery Game, einem Escape Room, einer Schnitzeljagd oder einer Welt für ein Rollenspiel oder Adventure… Vielleicht auch einfach ein Treffpunkt für dich und deine Freunde?
-
- 
 
 Deine Welt - Deine Regeln!
 

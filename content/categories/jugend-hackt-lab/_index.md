@@ -12,7 +12,7 @@ Kontakt: tom \[at] verschwoerhaus.de
 Nächste Termine
 
 * [Sa. 2. Oktober 10 - 17 Uhr: Game Workshop mit Mat Lowe aus Berlin ](https://verschwoerhaus.de/reisebüro-der-virtuellen-realitäten-multiplayer-games-und-hangouts-entwickeln/)
-* Sa. 9 Oktober 13 - 16.30 Uhr: Dancing LED Workshop in der Stadtbibliothek (mit Anmeldung)
+* [Sa. 9 Oktober 13 - 16.30 Uhr: Dancing LED Workshop in der Stadtbibliothek (mit Anmeldung)](https://verschwoerhaus.de/jugend-hackt-lab-goes-stadtbibliothek-led-workshop/)
 * [](https://verschwoerhaus.de/reisebüro-der-virtuellen-realitäten-multiplayer-games-und-hangouts-entwickeln/)[](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/)[Sa. 6. November, 13 - 14.30 Uhr: Illustration und Design Workshop mit der Ulmer Artistin Adela Knajzl](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/) 
 * [Fr. 19. November 2021, 20 - 21 Uhr: Von Zombies und anderen Pandemien - Talk (](https://verschwoerhaus.de/von-zombies-und-anderen-pandemien-das-politische-in-videogames/)Stream und Online)
 * [Sa. 4 Dezember 2021, 13 - 17 Uhr: Create your own fashion - Mode- und Nähworkshop](https://verschwoerhaus.de/create-your-own-fashion-mode-und-nähworkshop/)

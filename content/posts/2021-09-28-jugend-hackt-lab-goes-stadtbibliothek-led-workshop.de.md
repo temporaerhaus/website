@@ -8,7 +8,7 @@ categories:
   - Jugend hackt Lab
 tags: []
 ---
-Das Jugend hackt Lab des Verschwörhauses kommt mit einem LED-Workshop min die Stadtbibliothek Ulm. Der Workshop findet für alle ab 10 Jahre am **9. Oktober von 13 - 16.30** Uhr in der Stadt-Bib statt. 
+Das Jugend hackt Lab des Verschwörhauses kommt mit einem LED-Workshop in die Stadtbibliothek Ulm. Der Workshop findet für alle ab 10 Jahre am **9. Oktober von 13 - 16.30** Uhr in der Stadt-Bib statt. 
 
 Lasst uns mit LEDs Farben in die Welt bringen und abdancen. Ihr lernt die ersten Schritte im Programmieren mit Arduino (Mikrocontroller-Board), aber auch wie ihr eure LEDs ansteuert durch Helligkeit und Farbauswahl. Am Ende habt ihr eure eigene kleine LED-Show in Händen. Kommt vorbei! Ohne Vorkenntnisse, bringt gerne euren eigenen Notebook mit - Notebooks gibt es aber auch Ort. Der Workshop wird vom Ulmer Programmierer David Jäckel geleitet. Let's led and dance....
 

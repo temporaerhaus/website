@@ -1,6 +1,6 @@
 ---
 title: "Jugend hackt Lab goes Stadtbibliothek: LED-Workshop"
-author: Toms Novy
+author: Tom Novy
 date: 2021-09-28T18:55:03.181Z
 draft: false
 featured_image: /wp-content/uploads/2021/09/arduino-2713093_1280.webp

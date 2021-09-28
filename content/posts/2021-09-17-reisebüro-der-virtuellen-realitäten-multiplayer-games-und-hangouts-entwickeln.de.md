@@ -16,7 +16,7 @@ Deine Welt - Deine Regeln!
 
 *Voraussetzungen:*
 
- *\- Ab 12 Jahren*
+ *\- Ab 13 Jahren*
 
  *\- Eine eMail-Adresse*
 

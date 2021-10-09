@@ -1,5 +1,5 @@
 ---
-title: "Jugend hackt Lab goes Stadtbibliothek: LED-Workshop"
+title: "Jugend hackt Lab goes Stadtbibliothek: LED-Workshop +++ausgebucht+++"
 author: Tom Novy
 date: 2021-09-28T18:55:03.181Z
 draft: false
@@ -17,6 +17,6 @@ Lasst uns mit LEDs Farben in die Welt bringen und abdancen. Ihr lernt die ersten
 \
 Für die Teilnahme bitte einen Corona-Testnachweis mitbringen. Der Nachweis kann durch den Schülerausweis oder die Testbescheinigung der Schule erfolgen. Die Teilnahme ist kostenlos.
 
-Anmeldung unter: kinderbibliothek@ulm.de
+Anmeldung unter: kinderbibliothek@ulm.de +++keine freien Plätze mehr+++
 
 [Dieser Workshop findet im Rahmen des Kooperationsprojektes Glaspyramide 2022 statt.](https://www.kulturstiftung-des-bundes.de/de/projekte/nachhaltigkeit_und_zukunft/detail/glaspyramide_2022.html)

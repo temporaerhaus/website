@@ -11,7 +11,6 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 Nächste Termine
 
-* [Sa. 9 Oktober 13 - 16.30 Uhr: Dancing LED Workshop in der Stadtbibliothek (mit Anmeldung)](https://verschwoerhaus.de/jugend-hackt-lab-goes-stadtbibliothek-led-workshop/)
 * [Di. 12. Oktober 17 - 19.30 Uhr: Open Lab ](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 26. Oktober 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [](https://verschwoerhaus.de/open-lab-is-back/)[](https://verschwoerhaus.de/reisebüro-der-virtuellen-realitäten-multiplayer-games-und-hangouts-entwickeln/)[](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/)[Sa. 6. November 13 - 14.30 Uhr: Illustration und Design Workshop mit der Ulmer Artistin Adela Knajzl](https://verschwoerhaus.de/illustration-und-design-exkurs-mit-der-artistin-adela-knajzl/) 

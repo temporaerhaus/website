@@ -2,7 +2,7 @@
 title: WikidataCON und Wikidata-Geburtstag am 30.10.
 author: Stefan Kaufmann
 date: 2021-10-25T16:53:58.564Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2021/10/wikidata_workshop_ulm_2019_17.jpg
 categories:
   - news

@@ -7,7 +7,7 @@ featured_image: /wp-content/uploads/2021/09/640px-old_gas_station_hamburg_grinde
 categories:
   - news
 tags:
-  - creative-commons;freies-wissen;wikipedia;wikimedia;wiki-loves-commons
+  - creative-commons freies-wissen wikipedia wikimedia wiki-loves-commons
 ---
 [Wiki loves Monuments](https://de.wikipedia.org/wiki/Wikipedia:Wiki_Loves_Monuments_2021/Deutschland) heißt der jährliche Fotowettbewerb, bei dem Du mit Deinen Bildern von Kultur- und Baudenkmälern Ruhm, Ehre, und Buch- oder Fotoequipmentgutscheine im Wert von bis zu 300 EUR gewinnen kannst. Vom heutigen 1. September bis zum 30. September kannst Du mit Deinen eigenen Fotos daran teilnehmen!
 

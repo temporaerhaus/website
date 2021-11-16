@@ -13,9 +13,6 @@ Weinhof 9
 
 ## Kontakt:
 
-Telefon in Notfällen:
-:   0731/161-1007 -- **wirklich nur in dringenden Notfällen!**
-
 E-Mail:
 :   kontakt21 „at“ verschwoerhaus.de
 

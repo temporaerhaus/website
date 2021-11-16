@@ -15,9 +15,7 @@ Twitter: [@verschwoerhaus][2]
 
 Wir können am Verschwörhaus nur einfache Briefe empfangen, die nicht gleich bearbeitet werden müssen. Für größere Sendungen oder Briefe, die Eingangsstempel und zügige Bearbeitung erfordern, bitte diese Adresse verwenden:
 
-Stadt Ulm, Z/DA  
-Geschäftsstelle Digitale Agenda  
-Stefan Kaufmann  
+Verschwörhaus e.V.  
 Weinhof 7  
 89073 Ulm
 

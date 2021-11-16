@@ -15,9 +15,7 @@ Twitter: [@verschwoerhaus][2]
 
 We can only receive simple letters at the Verschwörhaus, which do not have to be processed immediately. For larger items or letters that require a receipt stamp and speedy processing, please use this address:
 
-Stadt Ulm, Z/DA  
-Geschäftsstelle Digitale Agenda  
-Stefan Kaufmann  
+Verschwoerhaus e.V.  
 Weinhof 7  
 89073 Ulm
 

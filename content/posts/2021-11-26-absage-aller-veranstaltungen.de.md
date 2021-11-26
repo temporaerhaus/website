@@ -10,9 +10,12 @@ categories:
 
 ---
 
-Leider müssen wir die kommenden Veranstaltungen kurzfristig absagen.
+Am Freitag mittag wurden im Verschwörhaus die Schlösser getauscht und wir haben aktuell keinen Zugang den Räumen oder weitere Informationen dazu.
+Wir streben aktuell eine Klärung an.
+Leider müssen deshalb die kommenden Veranstaltungen kurzfristig abgesagt werden.
 
-Das betrifft die Veranstaltungen dieses Wochenende, Kleiderkarussell #BoycottBlackFriday und Upcycling-Workshop | Bienenwachstücher. Dies tut uns aufrichtig leid, insbesondere auch für die Hochschulgruppe für Nachhaltigkeit und Greenpeace, die in die Organisation der beiden Angebote viel investiert haben.
+Das betrifft die Veranstaltungen dieses Wochenende, Kleiderkarussell #BoycottBlackFriday und Upcycling-Workshop | Bienenwachstücher.
+Dies tut uns aufrichtig leid, insbesondere auch für die Hochschulgruppe für Nachhaltigkeit und Greenpeace, die in die Organisation der beiden Angebote viel investiert haben.
 
 Wir halten euch über Ersatztermine und weiteres auf dem Laufenden.
 

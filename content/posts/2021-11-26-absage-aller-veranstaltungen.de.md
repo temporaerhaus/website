@@ -9,6 +9,7 @@ categories:
   - news
 
 ---
+**Hinweis 29.11.2021: dies ist nicht mehr aktuell, siehe neuerer Blogpost**
 
 Am Freitag mittag wurden im Verschwörhaus die Schlösser getauscht und wir haben aktuell keinen Zugang den Räumen oder weitere Informationen dazu.
 Wir streben aktuell eine Klärung an.

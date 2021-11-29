@@ -3,7 +3,7 @@ title: Verschwörhaus darf wieder öffnen, vorerst ohne Holzwerkstatt
 author: Juka Wessalowski
 type: post
 slug: verschwoerhaus-darf-oeffnen-ohne-holzwerkstatt
-date: 2021-11-29T19:31:50.123Z
+date: 2021-11-29T18:31:50.123Z
 draft: false
 categories:
   - news

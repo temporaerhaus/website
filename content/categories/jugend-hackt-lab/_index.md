@@ -9,10 +9,8 @@ Das Jugend hackt Lab bietet regelmäßig online und offline Workshops und offene
 
 Kontakt: tom \[at] verschwoerhaus.de
 
-Nächste Termine
+Nächste Termine:
 
-* [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 4. Dezember 2021, 13 - 17 Uhr: Create your own fashion - Mode- und Nähworkshop](https://verschwoerhaus.de/create-your-own-fashion-mode-und-nähworkshop/)
-* Mo. 6. Dezember 2021, 17 - 19.30 Uhr: Xmas Lab (Termin wurde vom 7. auf den 6.12 verschoben)
 * [Di. 11. Januar 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 29. Januar 2022, 14 - 16.30 Uhr: LED-Arduino Workshop mit David Jäckel](https://verschwoerhaus.de/led-arduino-workshop-im-januar-2022/)
 * [Di. 8. Februar 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)

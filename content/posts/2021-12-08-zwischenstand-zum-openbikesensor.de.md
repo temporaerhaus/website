@@ -2,7 +2,6 @@
 title: Zwischenstand zum OpenBikeSensor
 author: Jurek Lang
 date: 2021-12-08T15:18:07.727Z
-draft: true
 featured_image: /wp-content/uploads/2021/12/screenshot-2021-12-07-at-16-13-13-openbikesensor-visualisierung-straßenabschnitte.png
 categories:
   - update

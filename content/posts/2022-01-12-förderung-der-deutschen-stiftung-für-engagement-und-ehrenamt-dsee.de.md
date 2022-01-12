@@ -1,9 +1,10 @@
 ---
 title: Förderung der Deutschen Stiftung für Engagement und Ehrenamt (DSEE)
 author: Verschwörhaus e.V.
-date: 2022-01-12T12:07:35.171Z
-draft: true
-categories: []
+date: 2022-01-12T12:13:05.170Z
+draft: false
+categories:
+  - news
 tags: []
 ---
 Good news, everyone!\

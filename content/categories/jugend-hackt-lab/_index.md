@@ -21,4 +21,4 @@ Nächste Termine:[](https://verschwoerhaus.de/open-lab-is-back/)
 
 In Planung: Workshop mit young and queer e.v., Game Talk zum Videospiel Death Stranding, Foto Workshop, Game Talk zum Politischen in Zombie-Videospielen 
 
-![](/wp-content/uploads/2019/05/Bild_2020-11-26_210019-1536x448.png)
+![](/wp-content/uploads/sponsors2022.png)

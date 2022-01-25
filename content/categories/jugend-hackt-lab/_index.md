@@ -9,11 +9,16 @@ Das Jugend hackt Lab bietet regelmäßig online und offline Workshops und offene
 
 Kontakt: tom \[at] verschwoerhaus.de
 
-Nächste Termine:
+Nächste Termine:[](https://verschwoerhaus.de/open-lab-is-back/)
 
-* [Di. 11. Januar 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 29. Januar 2022, 14 - 16.30 Uhr: LED-Arduino Workshop mit David Jäckel](https://verschwoerhaus.de/led-arduino-workshop-im-januar-2022/)
+* [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 29. Januar 2022, 14 - 16.30 Uhr: LED-Arduino Workshop mit David Jäckel](https://verschwoerhaus.de/led-arduino-workshop-im-januar-2022/) +++ fällt aus +++
 * [Di. 8. Februar 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
+* NEW ADDED: [Di. 22. Februar 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 26. Februar 2022, 13 - 18 Uhr: Hi-Fi Upcycling: Vintage Lautsprecher modernisieren ](https://verschwoerhaus.de/hi-fi-upcycling-vintage-lautsprecher-modernisieren/)
+* [Di. 8. März 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
+* [](https://verschwoerhaus.de/open-lab-is-back/)[Sa. 19. März 2022, 14 - 16.30 Uhr: LED-Arduino Workshop mit David Jäckel](https://verschwoerhaus.de/led-arduino-workshop-im-januar-2022/) 
+* [Di. 29. März 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
+
+In Planung: Workshop mit young and queer e.v., Game Talk zum Videospiel Death Stranding, Foto Workshop, Game Talk zum Politischen in Zombie-Videospielen 
 
 ![](/wp-content/uploads/2019/05/Bild_2020-11-26_210019-1536x448.png)

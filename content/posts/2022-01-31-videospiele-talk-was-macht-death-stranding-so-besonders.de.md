@@ -1,0 +1,36 @@
+---
+title: "Videospiele-Talk: Was macht Death Stranding so besonders?"
+author: Tom Novy
+date: 2022-01-31T20:50:48.469Z
+draft: true
+featured_image: /wp-content/uploads/2022/01/opera-momentaufnahme_2022-01-31_220741_de.wikipedia.org.png
+categories:
+  - Jugend hackt Lab
+  - Death Stranding
+  - Marie Friske
+  - Game Talk
+  - Diskussion
+---
+Lasst uns über Games sprechen. Der japanische Spieleentwickler Hideo Kojima ist bekannt für seine kreativen und originellen Spielerzählungen. Vor allem die *Metal Gear Solid* Reihe von Konami machte ihn berühmt. Im Jahr 2015 gründete er sein eigenes Studio unterstützt durch Sony und begann *Death Stranding* zu entwickeln. Selbst der Trailer zum Spiel ist im eigenen Studio entwickelt - Kojima möchte den größtmöglichen kreativen Einfluss haben. 
+
+*Death Stranding* ist ein Spiel geworden, das sich von der üblichen Gameslandschaft unterscheidet. In der Computerspielszene ist auch von einem [III-Spiel ](https://en.wikipedia.org/wiki/AAA_(video_game_industry)#III)(gesprochen "tripel aj") die Rede, also von aufwendigen Spielen, die dennoch wert auf Grafik und Erzählung legen. 
+
+Um mit euch herauszufinden, was Death Stranding ausmacht, welche Symboliken und Anspielungen vielleicht auch auf unsere gegenwärtige Gesellschaft sich darin finden, haben wir die Gamerin und Kommunikationswissenschaftlerin Marie Friske eingeladen. Marie hat ihre Master-Arbeit über Death Stranding geschrieben und so auch viele Stunden am Analysieren des Spiels verbracht. Neben einem Input über Death Stranding von Marie, habt ihr die Möglichkeit Marie Fragen zu stellen und mit ihr über Death Stranding zu diskutieren, aber auch über eure Erfahrungen zu anderen Computerspielen. 
+
+
+
+Die Teilnahme ist ohne Anmeldung und offen für alle Interessierten ab 14 Jahren. Nicht-Schüler*inneh müssen 2g+ erfüllen: genesen, geimpft und tagesaktuellen Test. Beachtet hierzu die aktuellen Haus-Regeln 
+
+Samstag, 9. April 2022 von 15 - 16 Uhr. 
+
+
+
+
+
+
+
+
+
+\---
+
+Bildquelle: Sergey Galyonkin from Raleigh, USA - E3 2018, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=79676854

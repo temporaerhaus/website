@@ -21,7 +21,7 @@ Die Teilnahme ist ohne Anmeldung und offen für alle Interessierten ab 14 Jahren
 
 Samstag, 9. April 2022 von 15 - 16 Uhr. 
 
-Live-Stream: verschwoerhaus.de/live
+Parallel gibts einen live-stream: verschwoerhaus.de/live
 
 \---
 

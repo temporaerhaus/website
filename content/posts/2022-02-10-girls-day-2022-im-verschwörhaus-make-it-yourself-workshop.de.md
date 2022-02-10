@@ -3,7 +3,7 @@ title: Girls Day 2022 im Verschwörhaus
 author: Tom Novy
 date: 2022-02-10T15:55:54.405Z
 draft: false
-featured_image: /wp-content/uploads/2022/02/48091601087_c92589d7b8_w.jpg
+featured_image: /wp-content/uploads/2022/02/48091601087_c92589d7b8_c.jpg
 categories:
   - Jugend hackt Lab
   - aktuelles

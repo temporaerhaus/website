@@ -18,8 +18,8 @@ Nächste Termine:[](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 29. März 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Sa. 9. April 2022, 15 - 16.00 Uhr: Talk über das Videospiel Death Stranding](https://verschwoerhaus.de/videospiele-talk-was-macht-death-stranding-so-besonders/)
 * [Sa. 12. April 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* Do. 28. April 2022, 17 - 19.30 Uhr: Girls Day (tbd)
+* [Do. 28. April 2022, 17 - 19.30 Uhr: Girls Day](https://verschwoerhaus.de/girls-day-2022-im-verschw%C3%B6rhaus-make-it-yourself-workshop/) 
 
-In Planung: Workshop mit young and queer e.v., Foto Workshop, Game Talk zum Politischen in Zombie-Videospielen 
+
 
 ![](/wp-content/uploads/sponsors2022.png)

@@ -69,6 +69,16 @@ body.vsh-door-closed #page {
   border-top: 3px solid #c45729;
 }
 
+.space-state-heading {
+  color: #686868;
+  display: block;
+  font-family: Montserrat,helvetica neue,sans-serif;
+  font-size: 13px;
+  font-size: .8125rem;
+  letter-spacing: .076923077em;
+  text-transform: uppercase;
+}
+
 .space-state--closed {
   color: red;
 }

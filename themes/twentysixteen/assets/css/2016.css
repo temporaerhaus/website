@@ -462,11 +462,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  background: #1a1a1a;
-  /* Fallback for when there is no custom background color defined. */
-}
-
 hr {
   background-color: #d1d1d1;
   border: 0;
@@ -1405,9 +1400,14 @@ blockquote:after,
  */
 
 .widget {
-  border-top: 4px solid #1a1a1a;
-  margin-bottom: 3.5em;
+  border-top: 2px solid #1a1a1a;
   padding-top: 1.75em;
+  margin-bottom: 1.75em;
+}
+
+.widget:first-child {
+  border-top: 0;
+  padding-top: 0;
 }
 
 .widget-area > :last-child,
@@ -1535,9 +1535,6 @@ blockquote:after,
  * 11.0 - Content
  */
 
-.site {
-  background-color: #fff;
-}
 
 .site-inner {
   margin: 0 auto;
@@ -2756,40 +2753,12 @@ p > video {
  */
 
 @media screen and (min-width: 44.375em) {
-  body:not(.custom-background-image):before,
-  body:not(.custom-background-image):after {
-    background: inherit;
-    content: "";
-    display: block;
-    height: 21px;
-    left: 0;
-    position: fixed;
-    width: 100%;
-    z-index: 99;
-  }
-
-  body:not(.custom-background-image):before {
-    top: 0;
-  }
-
-  body:not(.custom-background-image).admin-bar:before {
-    top: 46px;
-  }
-
-  body:not(.custom-background-image):after {
-    bottom: 0;
-  }
-
-  .site {
-    margin: 21px;
-  }
-
   .site-main {
     margin-bottom: 5.25em;
   }
 
   .site-header {
-    padding: 3.9375em 7.6923%;
+    padding: 3em 7.6923% 5em;
   }
 
   .site-branding {
@@ -2950,7 +2919,6 @@ p > video {
   }
 
   .comments-area,
-  .widget,
   .content-bottom-widgets .widget-area {
     margin-bottom: 5.25em;
   }
@@ -2969,17 +2937,6 @@ p > video {
   body:not(.search-results) .entry-summary li > ol,
   body:not(.search-results) .entry-summary blockquote > ol {
     margin-left: 1.473684211em;
-  }
-}
-
-
-/**
- * 14.2 - >= 783px
- */
-
-@media screen and (min-width: 48.9375em) {
-  body:not(.custom-background-image).admin-bar:before {
-    top: 32px;
   }
 }
 
@@ -3169,7 +3126,6 @@ p > video {
     font-size: 13px;
     font-size: 0.8125rem;
     line-height: 1.6153846154;
-    margin-bottom: 3.230769231em;
     padding-top: 1.615384615em;
   }
 
@@ -3430,10 +3386,6 @@ p > video {
     margin-bottom: 7.0em;
   }
 
-  .site-header {
-    padding: 5.25em 4.5455%;
-  }
-
   .site-branding,
   .site-header-menu,
   .header-image {
@@ -3455,10 +3407,6 @@ p > video {
 
   .pagination {
     margin-bottom: 5.894736842em;
-  }
-
-  .widget {
-    margin-bottom: 4.307692308em;
   }
 
   .site-main > article {

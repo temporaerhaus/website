@@ -13,7 +13,7 @@ Twitter: [@verschwoerhaus][2]
 
 ## Adresse für Paketsendungen
 
-Wir können am Verschwörhaus nur einfache Briefe empfangen, die nicht gleich bearbeitet werden müssen. Für größere Sendungen oder Briefe, die Eingangsstempel und zügige Bearbeitung erfordern, bitte diese Adresse verwenden:
+Wir können am Verschwörhaus nur einfache Briefe empfangen, die nicht gleich bearbeitet werden müssen. Für größere Sendungen bitte diese Adresse verwenden:
 
 Verschwörhaus e.V.  
 Weinhof 7  

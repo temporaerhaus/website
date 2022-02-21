@@ -13,7 +13,7 @@ Twitter: [@verschwoerhaus][2]
 
 ## Address for Parcels
 
-We can only receive simple letters at the Verschwörhaus, which do not have to be processed immediately. For larger items or letters that require a receipt stamp and speedy processing, please use this address:
+We can only receive simple letters at the Verschwörhaus, which do not have to be processed immediately. For larger items please use this address:
 
 Verschwoerhaus e.V.  
 Weinhof 7  

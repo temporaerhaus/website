@@ -94,11 +94,6 @@ date = [":filename", ":default"]
       url = "/datenschutzerklaerung/"
 
     [[languages.de.menu.footer]]
-      identifier = "cookies"
-      name = "Cookie Policy"
-      url = "/cookie-policy/"
-
-    [[languages.de.menu.footer]]
       identifier = "impressum"
       name = "Impressum"
       url = "/impressum/"
@@ -194,11 +189,6 @@ date = [":filename", ":default"]
       identifier = "privacy"
       name = "Privacy Policy"
       url = "/en/datenschutzerklaerung/"
-
-    [[languages.en.menu.footer]]
-      name = "Cookie Policy"
-      url = "/en/cookie-policy/"
-      weight = -60
 
     [[languages.en.menu.footer]]
       identifier = "rsslink"

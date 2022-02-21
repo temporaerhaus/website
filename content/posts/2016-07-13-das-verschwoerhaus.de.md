@@ -13,7 +13,7 @@ categories:
 ---
 Willkommen auf der Website des Verschwörhaus – dem „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Stadt Ulm gemeinsam in die Zukunft begleiten zu können!
 
-**Wir fahren seit Juni 2021 wieder den Betrieb hoch – [in diesem Artikel](/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/) kannst du nachlesen, welche Covid-bedingten Regeln derzeit gelten.**
+**Es ist leider immer noch Pandemie – [in diesem Artikel](/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/) kannst du nachlesen, welche Covid-bedingten Regeln derzeit gelten.**
 
 <!--more-->
 

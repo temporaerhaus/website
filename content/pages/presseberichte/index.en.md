@@ -10,6 +10,7 @@ slug: presse
 [<button>2019</button>](#2019)
 [<button>2020</button>](#2020)
 [<button>2021</button>](#2021)
+[<button>2022</button>](#2022)
 
 ### 2016
 
@@ -81,6 +82,12 @@ slug: presse
   * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(25.02.2021)</small>
   * [Neu-Ulmer Zeitung (Paywall)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
   * [Südwest Presse (Paywall)][62]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
+  * [Südwest Presse (Paywall)][63] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
+  * [Südwest Presse (Paywall)][64] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
+
+### 2022
+  * [Südwest Presse (Paywall)][65]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
+
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -139,3 +146,7 @@ slug: presse
  [60]: https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
  [61]: https://web.archive.org/web/20210302105134/https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
  [62]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html 
+ [63]: https://www.swp.de/lokales/ulm/digitales-ulm-streit-ums-verschwoerhaus_-wem-gehoeren-name-und-logo_-62043943.html
+ [63]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-das-digitale-stadtlabor-verliert-seinen-macher_-bedauern_-respekt-und-dank-60715829.html
+ [64]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-projektleiter-stefan-kaufmann-geht_-das-sagen-die-ehrenamtlichen-dazu-60735219.html
+ [65]: https://www.swp.de/lokales/ulm/digitales-ulm-streit-ums-verschwoerhaus_-wem-gehoeren-name-und-logo_-62043943.html

@@ -1,4 +1,5 @@
 {{- define "main" -}}
+<main id="main" class="site-main" role="main">
 <article class="{{ .Type }} type-{{ .Type }} format-standard hentry {{ if .Params.sticky }}type-page{{ end }}">
     <header class="entry-header">
         <h1 class="entry-title" title="{{.Kind}}">
@@ -48,4 +49,5 @@
 </nav>
 {{- end -}}
 {{- end -}}
+</main>
 {{- end -}}

@@ -1,9 +1,11 @@
-{{ define "main" }}
-
-{{ range first 1 (where .Site.Pages ".Params.sticky" true) }}
-    {{- partial "article-summary.html" . -}}
+{{ define "fullwidth" }}
+<main id="main" class="site-fullwidth" role="main">
+    {{- partial "index-fullwidth.html" . -}}
+</main>
 {{ end }}
 
+{{ define "main" }}
+<div class="site-main">
 {{ with (.Site.GetPage "posts")  }}
     {{- $paginator := .Paginate .Pages.ByLastmod.Reverse -}}
     {{- range  $paginator.Pages -}}
@@ -11,5 +13,5 @@
     {{- end -}}
     {{- partial "pagination.html" . -}}
 {{ end }}
-
+</div>
 {{ end }}

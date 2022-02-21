@@ -156,6 +156,109 @@ li.active a, li.active a:hover {
 	color:#fff;
 }
 
+/* --------------------- INDEX ---------------------- */
+.site-fullwidth {
+  margin-bottom: 4em;
+}
+
+.fullwidth {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  min-height: 50vh;
+}
+
+.fullwidth-bg {
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.fullwidth-bg img {
+  position: relative;
+  object-position: 50% 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fullwidth-content {
+  width: 100%;  
+  max-width: 1320px;
+  margin: 0 auto;
+
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  padding: 3vh 4.5455% 0;
+  color: #fff;
+}
+
+@media screen and (min-width: 44.375em) {
+  .fullwidth-content {
+    flex-direction: row;
+  }
+}
+
+.fullwidth-content h2 {
+  margin-bottom: 0.5em;
+}
+
+.fullwidth-content h2 a {
+  color: #fff;
+}
+
+.floating-teaser {
+  padding-bottom: 2em;
+}
+@media screen and (min-width: 44.375em) {
+  .floating-teaser {
+    padding-top: 30vh;
+    max-width: 50vw;
+  }
+}
+
+.floating-space-state {
+  order: -1;
+  background: rgba(255,255,255,.6);
+  padding: 1.5em;
+  margin-bottom: 2.5em;
+  color: #000;
+}
+
+.floating-space-state p:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 44.375em) {
+  .floating-space-state {
+    order: 0;
+    padding: 1.5em;
+    max-width: 25vw;
+    margin-bottom: 0;
+  }
+}
+@media screen and (min-width: 56.875em) {
+  .floating-space-state {
+    padding: 3em;
+  }
+}
+
+.full-alert {
+  background: #f1c400;
+  padding: 3em 0;
+}
+.full-alert .site-inner {
+  padding: 0 4.5455%;
+}
 
 /* inconsolata-regular - latin */
 @font-face {

@@ -1,0 +1,26 @@
+{{ range first 1 (where .Site.Pages ".Params.sticky" true) }}
+  <section class="fullwidth">
+    <div class="fullwidth-bg">
+      <img src="{{ .Params.featured_image }}" />
+    </div>
+    <div class="fullwidth-content">
+      <div class="floating-teaser">
+        <h2 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title | default .RelPermalink }}</a></h2>
+
+        <p>dein „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Stadt Ulm gemeinsam in die Zukunft begleiten zu können!</p>
+
+        <a href="{{ .RelPermalink }}" class="more-link"><button>{{ i18n "learn_more" }}</button></a>
+      </div>
+
+      <section class="floating-space-state">
+        {{ partial "widget-space-state.html" . }}
+      </section>
+    </div>
+  </section>
+
+  <section class="full-alert">
+    <div class="site-inner">
+      <strong>Es ist leider immer noch Pandemie &mdash; <a href="/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/">in diesem Artikel</a> kannst du nachlesen, welche Covid-bedingten Regeln derzeit gelten.</strong>
+    </div>
+  </section>
+{{ end }}

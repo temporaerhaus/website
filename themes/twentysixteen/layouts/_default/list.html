@@ -1,5 +1,5 @@
 {{ define "main" }}
-
+<main id="main" class="site-main" role="main">
 {{- if not .IsHome -}}
 {{- if not (eq .Kind "section") -}}
 <header class="page-header">
@@ -31,5 +31,5 @@
     {{- partial "article-full.html" . -}}
 {{- end -}}
 {{- partial "pagination.html" . -}}
-
+</main>
 {{ end }}

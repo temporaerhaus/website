@@ -68,12 +68,12 @@
         <div class="site-inner">
             <a class="skip-link screen-reader-text" href="#content">{{ i18n "skip_content" }}</a>
             {{ partial "site-header.html" . }}
+        </div>
+        {{- block "fullwidth" . }}{{ end }}
+        <div class="site-inner">
             <div id="content" class="site-content">
                 <div id="primary" class="content-area">
-                    <main id="main" class="site-main" role="main">
-                        {{- block "main" . }}{{ end }}
-                    </main>
-                    <!-- .site-main -->
+                    {{- block "main" . }}{{ end }}
                 </div>
                 <!-- .content-area -->
                 {{ partial "site-sidebar.html" . }}

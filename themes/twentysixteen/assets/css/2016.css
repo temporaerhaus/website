@@ -585,6 +585,9 @@ input {
 button,
 button[disabled]:hover,
 button[disabled]:focus,
+.btn,
+.btn[disabled]:hover,
+.btn[disabled]:focus,
 input[type="button"],
 input[type="button"][disabled]:hover,
 input[type="button"][disabled]:focus,
@@ -608,6 +611,8 @@ input[type="submit"][disabled]:focus {
 
 button:hover,
 button:focus,
+.btn:hover,
+.btn:focus,
 input[type="button"]:hover,
 input[type="button"]:focus,
 input[type="reset"]:hover,
@@ -618,6 +623,7 @@ input[type="submit"]:focus {
 }
 
 button:focus,
+.btn:focus,
 input[type="button"]:focus,
 input[type="reset"]:focus,
 input[type="submit"]:focus {

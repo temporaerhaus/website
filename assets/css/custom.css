@@ -70,7 +70,7 @@ body.vsh-door-closed #page {
 }
 
 .space-state-heading {
-  color: #686868;
+  color: #000;
   display: block;
   font-family: Montserrat,helvetica neue,sans-serif;
   font-size: 13px;
@@ -89,6 +89,7 @@ body.vsh-door-closed #page {
 
 .space-state--open {
   color: green;
+  font-weight: bold;
 }
 
 /* --------------------- TABS ---------------------- */
@@ -177,6 +178,7 @@ li.active a, li.active a:hover {
   right: 0;
   bottom: 0;
   left: 0;
+  background: #333;
 }
 
 .fullwidth-bg img {
@@ -185,6 +187,7 @@ li.active a, li.active a:hover {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  opacity:  0.85;
 }
 
 .fullwidth-content {
@@ -216,14 +219,24 @@ li.active a, li.active a:hover {
   color: #fff;
 }
 
+.fullwidth-content h2 a:hover {
+  color: #f1c400;
+}
+
 .floating-teaser {
   padding-bottom: 2em;
 }
+
 @media screen and (min-width: 44.375em) {
   .floating-teaser {
     padding-top: 30vh;
     max-width: 50vw;
   }
+}
+
+.floating-teaser .btn.more-link:hover {
+  background: #007236;
+  color: #fff;
 }
 
 .floating-space-state {

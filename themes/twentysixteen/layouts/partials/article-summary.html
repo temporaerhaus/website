@@ -24,7 +24,7 @@
 
         {{ if .Truncated }}
         <p>
-            <a href="{{ .RelPermalink }}" class="more-link"><button>{{ i18n "continue_reading" }}</button><span class="screen-reader-text"> {{ .Title }}</span></a>
+            <a href="{{ .RelPermalink }}" class="more-link btn">{{ i18n "continue_reading" }}<span class="screen-reader-text"> {{ .Title }}</span></a>
         </p>
         {{ end }}
     </div>

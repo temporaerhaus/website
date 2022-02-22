@@ -29,6 +29,12 @@ Wenn Sie in Ihrem YouTube-Account eingeloggt sind ermöglichen Sie YouTube, Ihr 
 Weitere Informationen zum Umgang von Nutzerdaten finden Sie in der Datenschutzerklärung von YouTube unter <https://www.google.de/intl/de/policies/privacy>
 
 
+**Datenschutzerklärung für die Nutzung von Betterplace**
+
+Unsere Webseite nutzt das Plugin der Spendenplattform Betterplace. Betreiber der Seiten ist die gut.org gemeinnützige Aktiengesellschaft. Wenn Sie eine unserer mit einem Betterplace-Plugin ausgestatteten Seiten besuchen, wird eine Verbindung zu den Servern von Betterplace hergestellt. Dabei wird dem Betterplace-Server mitgeteilt, welche unserer Seiten Sie besucht haben.
+
+Weitere Informationen zum Umgang von Nutzerdaten finden Sie in der Datenschutzerklärung von Betterplace unter <https://www.betterplace.org/c/regeln/datenschutz>
+
 **Auskunft, Löschung, Sperrung**
 
 Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.

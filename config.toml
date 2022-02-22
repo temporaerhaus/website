@@ -32,19 +32,13 @@ date = [":filename", ":default"]
       identifier = "das-haus"
       name = "Das Haus"
       url = "/das-verschwoerhaus/"
-      weight = -100
+      weight = -110
 
     [[languages.de.menu.main]]
       parent = "das-haus"
       identifier = "tour"
       name = "virtuelle Tour"
       url = "/tour/"
-
-    [[languages.de.menu.main]]
-      parent = "das-haus"
-      identifier = "bibliothek"
-      name = "Bibliothek"
-      url = "/bibliothek/"
 
     [[languages.de.menu.main]]
       parent = "das-haus"
@@ -59,34 +53,201 @@ date = [":filename", ":default"]
       url = "/presse-logos-und-bilder/"
 
     [[languages.de.menu.main]]
-      identifier = "termine-und-oeffnungszeiten"
-      name = "Events, Gruppen & regelmäßige Termine"
-      url = "/termine-und-oeffnungszeiten/"
-      weight = -90
-
-    [[languages.de.menu.main]]
+      parent = "das-haus"
       identifier = "wiki"
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
-      weight = -80
+
+#    [[languages.de.menu.main]]
+#      identifier = "areas"
+#      name = "Bereiche"
+#      url = "#"
+#      weight = -100
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "bibliothek"
+#      name = "Bibliothek"
+#      url = "/bibliothek/"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "loetlabor"
+#      name = "Lötlabor"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "holz"
+#      name = "Holz"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "metall"
+#      name = "Metall"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "3d-Druck"
+#      name = "Lasercut & 3d-Druck"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "Laser"
+#      name = "Laser"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "Studio"
+#      name = "Studio"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "siebdruck"
+#      name = "Siebdruck"
+#      url = "#FIXME"
+#
+#    [[languages.de.menu.main]]
+#      parent = "areas"
+#      identifier = "naehwerkstatt"
+#      name = "Nähwerkstatt"
+#      url = "#FIXME"
 
     [[languages.de.menu.main]]
+      identifier = "groups"
+      name = "Gruppen"
+      url = "/gruppen/"
+      weight = -90
+
+    [[languages.de.menu.main]]
+      parent = "groups"
       identifier = "jhlab"
       name = "Jugend hackt Lab"
       url = "/category/jugend-hackt-lab/"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "bewerbungscafe"
+      name = "Bewerbungscafe"
+      url = "/gruppen/#bewerbungscafe"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "maker-monday"
+      name = "Maker-Monday"
+      url = "/gruppen/#maker-monday"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "holzwerkstatt"
+      name = "Holzwerkstatt"
+      url = "/gruppen/#maker-monday"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "fuck"
+      name = "F.U.C.K."
+      url = "/gruppen/#fuck"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "lorawan-ttn"
+      name = "LoRaWAN & TTN"
+      url = "/gruppen/#ttn"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "naehcafe"
+      name = "Upcycling Nähcafe"
+      url = "/gruppen/#nähcafe"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "osm"
+      name = "OpenStreetMap"
+      url = "/gruppen/#openstreetmap"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "ctf"
+      name = "CTF/PPP"
+      url = "/gruppen/#ctf"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "ubuntustammtisch"
+      name = "Ubuntu-Stammtisch"
+      url = "/gruppen/#ubuntu"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "ulmapi"
+      name = "UlmAPI & Mobilitätsmontag"
+      url = "/gruppen/#mobilitätsmontag"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "wikidata"
+      name = "Wikidata"
+      url = "/gruppen/#wikidata"
+
+    [[languages.de.menu.main]]
+      parent = "groups"
+      identifier = "mitmachen"
+      name = "Mitmachen"
+      url = "/gruppen/#mitmachen"
+      weight = -81
+
+    [[languages.de.menu.main]]
+      identifier = "termine-und-oeffnungszeiten"
+      name = "Events & Kalender"
+      url = "/termine-und-oeffnungszeiten/"
+      weight = -80
+
+    [[languages.de.menu.main]]
+      identifier = "ueber-uns"
+      name = "Über uns"
+      url = "/das-verschwoerhaus/"
       weight = -70
+
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "history"
+      name = "Geschichte"
+      url = "/geschichte/"
+      weight = -76
+
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "verein"
+      name = "Der Verein"
+      url = "/verein/"
+      weight = -75
+
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "sponsors"
+      name = "Unterstützer*innen & Sponsoren"
+      url = "#"
+      weight = -74
+
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "spenden"
+      name = "Spenden"
+      url = "/spenden/"
+      weight = -73
 
     [[languages.de.menu.main]]
       identifier = "kontakt"
       name = "Kontakt"
       url = "/kontakt/"
       weight = -60
-
-    [[languages.de.menu.main]]
-      parent = "kontakt"
-      identifier = "impressum"
-      name = "Impressum"
-      url = "/impressum/"
 
     [[languages.de.menu.footer]]
       identifier = "privacy"
@@ -179,16 +340,15 @@ date = [":filename", ":default"]
       url = "/en/kontakt/"
       weight = -60
 
-    [[languages.en.menu.main]]
-      parent = "kontakt"
-      identifier = "impressum"
-      name = "Impressum"
-      url = "/en/impressum/"
-
     [[languages.en.menu.footer]]
       identifier = "privacy"
       name = "Privacy Policy"
       url = "/en/datenschutzerklaerung/"
+
+    [[languages.en.menu.footer]]
+      identifier = "impressum"
+      name = "Impressum"
+      url = "/en/impressum/"
 
     [[languages.en.menu.footer]]
       identifier = "rsslink"

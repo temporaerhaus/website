@@ -25,24 +25,14 @@ Das Verschwörhaus befindet sich im ehemaligen Sparkassenkomplex zwischen [Synag
 
 ## Wann ist dort offen?
 
-Garantierte Öffnungszeiten haben wir zu den angekündigten [Veranstaltungen und Terminen, die Du im Kalender findest.][cal] In der Regel haben alle Termine auch einen Begleittext, bei dem Du genaueres über die Veranstaltung und ggf. auch einen Anmeldelink findest.
+Garantierte Öffnungszeiten haben wir zu den angekündigten [Veranstaltungen und Terminen, die Du im Kalender findest.][cal] In der Regel haben alle Termine auch einen Begleittext, bei dem Du genaueres über die Veranstaltung und ggf. auch mehr zur Anmeldung findest.
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge am besten [unserem Twitter-Account][tw]!
 
-Dir reicht das nicht? Du willst Strickmaschinen hacken, Kindern und Jugendlichen löten und coden beibringen, ein Coderdojo oder eine Railsgirls-Gruppe anbieten oder hast Ideen für tolle Sprecher\*innen? Dann schreib eine Mail an kontakt21 at verschwoerhaus punkt de!
+Dir reicht das nicht? Du willst Strickmaschinen hacken, Kindern und Jugendlichen löten und coden beibringen, ein Coderdojo oder eine Railsgirls-Gruppe anbieten oder hast Ideen für tolle Sprecher\*innen? Dann freuen wir uns auf deinen [Kontakt][k]!
 
-## Meilensteine
-  * **April 2016** Der Ulmer Gemeinderat beschließt eine Anschubfinanzierung von 70 000 Euro für das Projekt [„Stadtlabor Ulm –das Experimentierfeld für die Stadt von morgen“](http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507). Es werden Räume der Sparkasse am Weinhof angemietet.
-  * **Juli 2016** Das Verschwörhaus geht an den Start. Mit den regelmäßigen [Ulm-API](http://www.ulmapi.de)-Treffen zieht schon das erste Veranstaltungsformat mit ein. Gemeinsam mit der regionalen Civic-Tech-Szene werden Ideen entwickelt, wie die neuen Räumlichkeiten mit Leben gefüllt werden können.
-  * **November 2016** So langsam trudelt immer mehr Einrichtung und Ausrüstung ein. Die „Pionier:innen“ des [Maker-Mondays](/termine-und-oeffnungszeiten/?tab=maker-monday) kommen zusammen. Das Motto: CNC, CAD und gefährliche Geräte! Außerdem: Die [inititative.ulm.digital](https://ulm-digital.com/) beginnt mit dem Aufbau eines LoRaWAN-Netzwerkes in Stadt und Umgebung. Im Haus findet sich eine Gruppe aus Ehrenamtlichen zusammen, die dieses Thema gemeinsam bearbeitet.
-  * **Dezember 2016** In Zusammenarbeit mit der Nachhaltigkeits-Hochschulgruppe startet das [Nähcafe](/termine-und-oeffnungszeiten/?tab=nähcafe), die ersten [Wikidata](/termine-und-oeffnungszeiten/?tab=wikidata)- und die ersten [e.tage](/termine-und-oeffnungszeiten/?tab=etage)-Workshops finden statt. Der ehemalige Sparkassen-Tresorraum wird zur Holz- und Metallwerkstatt.
-  * **Anfang 2017** Der erste [OpenStreetMap-Mapathon](/termine-und-oeffnungszeiten/?tab=openstreetmap) im Verschwörhaus! Bald darauf startet auch der [Ubuntu-Stammtisch des Generationentreffs](/termine-und-oeffnungszeiten/?tab=ubuntu) und das [Bewerbungscafe für Geflüchtete](/termine-und-oeffnungszeiten/?tab=bewerbungscafe) zieht in unsere Räumlichkeiten.
-  * **September 2017** [Jugend hackt](/termine-und-oeffnungszeiten/?tab=jugend-hackt) findet zum dritten Mal in Ulm und zum ersten Mal im Verschwörhaus statt!
-  * **Dezember 2017** Zum ersten Mal schicken wir eine Delegation nach Leipzig auf den [Chaos Communication Congress](https://events.ccc.de/congress).  Dort bespielen wir ab sofort jedes Jahr als „Wikipaka-WG“ mit Wikimedia Deutschland, Jugend hackt und einigen anderen Civic-Tech-Projekten einen eigenen Bereich!
-  * **Juni 2018** Die ersten [CTF/PPP-Treffen](/termine-und-oeffnungszeiten/?tab=ctf) finden im Haus statt.
-  * **Mai 2019** Das Verschwörhaus ist jetzt offiziell [Jugend hackt Lab](/category/jugend-hackt-lab)!
-  * **August 2019** Der Verschwörhaus e.V. gründet sich.
-  * **Dezember 2019** [„Frauen Und Computer Kram“ (F.U.C.K.)](/termine-und-oeffnungszeiten/?tab=fuck) startet.
+
+Mehr zur Geschichte und eine Übersicht, was bislang so passiert ist, findest du unter [Historie des Verschwörhauses](/geschichte/).
 
  [1]: https://de.wikipedia.org/wiki/IRGW-Gemeindezentrum_Ulm
  [2]: https://de.wikipedia.org/wiki/Schw%C3%B6rhaus_(Ulm)
@@ -50,3 +40,4 @@ Dir reicht das nicht? Du willst Strickmaschinen hacken, Kindern und Jugendlichen
  [cal]: /termine-und-oeffnungszeiten/
  [tw]: https://twitter.com/verschwoerhaus
  [wh7]: https://www.openstreetmap.org/?mlat=48.39658&mlon=9.99018#map=20/48.39658/9.99018&layers=H
+ [k]: /kontakt/

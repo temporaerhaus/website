@@ -6,6 +6,8 @@
 
 {{ define "main" }}
 <div class="site-main">
+    <span class="sticky-post">{{ i18n "new_heading" }}</span>
+
 {{ with (.Site.GetPage "posts")  }}
     {{- $paginator := .Paginate .Pages.ByLastmod.Reverse -}}
     {{- range  $paginator.Pages -}}

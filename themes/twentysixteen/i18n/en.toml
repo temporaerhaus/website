@@ -120,3 +120,6 @@ other = "December"
 
 [go_back]
 other = "Back"
+
+[new_heading]
+other = "New Posts:"

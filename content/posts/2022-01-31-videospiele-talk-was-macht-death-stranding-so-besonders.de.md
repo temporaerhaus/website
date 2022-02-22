@@ -3,7 +3,7 @@ title: "Videospiele-Talk: Was macht Death Stranding so besonders?"
 author: Tom Novy
 date: 2022-01-31T20:50:48.469Z
 draft: false
-featured_image: /wp-content/uploads/2022/01/opera-momentaufnahme_2022-01-31_220741_de.wikipedia.org.png
+featured_image: /wp-content/uploads/2022/01/death-stranding.jpg
 categories:
   - Jugend hackt Lab
   - Death Stranding

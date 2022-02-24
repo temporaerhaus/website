@@ -10,16 +10,6 @@ enableRobotsTXT = true
 [params]
 siteLogoUrl = "/spaceicons/logo.svg"
 
-[permalinks]
-  posts = "/:slug"
-  post = "/:slug"
-  page = "/:slug"
-  pages = "/:slug"
-  category = "/category/:slug"
-  categories = "/category/:slug"
-  tag = "/tag/:slug"
-  tags = "/tag/:slug"
-
 [frontmatter]
 date = [":filename", ":default"]
 
@@ -27,6 +17,18 @@ date = [":filename", ":default"]
   [languages.de]
     weight = 1
     languageName = "Deutsch"
+
+    [languages.de.permalinks]
+      posts = "/:slug"
+      post = "/:slug"
+      page = "/:slug"
+      pages = "/:slug"
+      category = "/category/:slug"
+      categories = "/category/:slug"
+      tag = "/tag/:slug"
+      tags = "/tag/:slug"
+      group = "/gruppen/:slug"
+      groups = "/gruppen/:slug"
 
     [[languages.de.menu.main]]
       identifier = "das-haus"
@@ -131,79 +133,6 @@ date = [":filename", ":default"]
       url = "/category/jugend-hackt-lab/"
 
     [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "bewerbungscafe"
-      name = "Bewerbungscafe"
-      url = "/gruppen/#bewerbungscafe"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "maker-monday"
-      name = "Maker-Monday"
-      url = "/gruppen/#maker-monday"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "holzwerkstatt"
-      name = "Holzwerkstatt"
-      url = "/gruppen/#maker-monday"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "fuck"
-      name = "F.U.C.K."
-      url = "/gruppen/#fuck"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "lorawan-ttn"
-      name = "LoRaWAN & TTN"
-      url = "/gruppen/#ttn"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "naehcafe"
-      name = "Upcycling Nähcafe"
-      url = "/gruppen/#nähcafe"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "osm"
-      name = "OpenStreetMap"
-      url = "/gruppen/#openstreetmap"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ctf"
-      name = "CTF/PPP"
-      url = "/gruppen/#ctf"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ubuntustammtisch"
-      name = "Ubuntu-Stammtisch"
-      url = "/gruppen/#ubuntu"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ulmapi"
-      name = "UlmAPI & Mobilitätsmontag"
-      url = "/gruppen/#mobilitätsmontag"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "wikidata"
-      name = "Wikidata"
-      url = "/gruppen/#wikidata"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "mitmachen"
-      name = "Mitmachen"
-      url = "/gruppen/#mitmachen"
-      weight = -81
-
-    [[languages.de.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
       name = "Events & Kalender"
       url = "/termine-und-oeffnungszeiten/"
@@ -285,6 +214,17 @@ date = [":filename", ":default"]
     languageCode = "en-us"
     languageName = "English"
 
+    [languages.en.permalinks]
+      posts = "/:slug"
+      post = "/:slug"
+      page = "/:slug"
+      pages = "/:slug"
+      category = "/category/:slug"
+      categories = "/category/:slug"
+      tag = "/tag/:slug"
+      tags = "/tag/:slug"
+      group = "/groups/:slug"
+      groups = "/groups/:slug"
 
     [[languages.en.menu.main]]
       identifier = "das-haus"
@@ -317,28 +257,34 @@ date = [":filename", ":default"]
       url = "/en/presse-logos-und-bilder/"
 
     [[languages.en.menu.main]]
+      identifier = "groups"
+      name = "Groups"
+      url = "/en/groups/"
+      weight = -90
+
+    [[languages.en.menu.main]]
+      parent = "groups"
+      identifier = "jhlab"
+      name = "Jugend hackt Lab"
+      url = "/en/category/jugend-hackt-lab/"
+
+    [[languages.en.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
       name = "Events, Groups and Opening Hours"
       url = "/en/termine-und-oeffnungszeiten/"
-      weight = -90
+      weight = -80
 
     [[languages.en.menu.main]]
       identifier = "wiki"
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
-      weight = -80
-
-    [[languages.en.menu.main]]
-      identifier = "jhlab"
-      name = "Jugend hackt Lab"
-      url = "/en/category/jugend-hackt-lab/"
       weight = -70
 
     [[languages.en.menu.main]]
       identifier = "kontakt"
       name = "Contact"
       url = "/en/kontakt/"
-      weight = -60
+      weight = -50
 
     [[languages.en.menu.footer]]
       identifier = "privacy"

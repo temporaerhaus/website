@@ -1,7 +1,7 @@
 ---
 title: Gruppen
 slug: gruppen
-type: page
+url: gruppen
 
 ---
 

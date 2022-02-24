@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main id="main" class="site-main" role="main">
+
+{{- if .Content -}}{{/* --- Display page content, if any --- */}}
+<div class="content category-sticky">{{ .Content }}</div>
+{{- end -}}
+
+</main>
+{{ end }}

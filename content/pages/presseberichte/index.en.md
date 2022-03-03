@@ -145,7 +145,7 @@ slug: presse
  [59]: https://www.schwaebische.de/landkreis/landkreis-ravensburg/bad-waldsee_artikel,-waldseer-schueler-experimentieren-wieder-um-die-wette-_arid,11333233.html
  [60]: https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
  [61]: https://web.archive.org/web/20210302105134/https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
- [62]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html 
+ [62]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html
  [63]: https://www.swp.de/lokales/ulm/digitales-ulm-streit-ums-verschwoerhaus_-wem-gehoeren-name-und-logo_-62043943.html
  [63]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-das-digitale-stadtlabor-verliert-seinen-macher_-bedauern_-respekt-und-dank-60715829.html
  [64]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-projektleiter-stefan-kaufmann-geht_-das-sagen-die-ehrenamtlichen-dazu-60735219.html

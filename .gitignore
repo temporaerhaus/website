@@ -2,3 +2,4 @@ hugo
 resources/_gen
 _
 public
+*.lock

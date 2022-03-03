@@ -5,7 +5,7 @@ menu:
   main:
     title: 'Maker-Monday'
     parent: groups
-
+type: page
 ---
 
 Hallo makermonday (directory based group)

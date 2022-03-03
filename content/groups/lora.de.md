@@ -5,7 +5,7 @@ menu:
   main:
     title: 'Lora'
     parent: groups
-
+type: page
 ---
 
 

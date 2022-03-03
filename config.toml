@@ -29,6 +29,7 @@ date = [":filename", ":default"]
       tags = "/tag/:slug"
       group = "/gruppen/:slug"
       groups = "/gruppen/:slug"
+      make = "/make/:slug"
 
     [[languages.de.menu.main]]
       identifier = "das-haus"
@@ -54,65 +55,11 @@ date = [":filename", ":default"]
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
 
-#    [[languages.de.menu.main]]
-#      identifier = "areas"
-#      name = "Bereiche"
-#      url = "#"
-#      weight = -100
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "bibliothek"
-#      name = "Bibliothek"
-#      url = "/bibliothek/"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "loetlabor"
-#      name = "Lötlabor"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "holz"
-#      name = "Holz"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "metall"
-#      name = "Metall"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "3d-Druck"
-#      name = "Lasercut & 3d-Druck"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "Laser"
-#      name = "Laser"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "Studio"
-#      name = "Studio"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "siebdruck"
-#      name = "Siebdruck"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "naehwerkstatt"
-#      name = "Nähwerkstatt"
-#      url = "#FIXME"
+    [[languages.de.menu.main]]
+      identifier = "make"
+      name = "Möglichkeiten"
+      url = "/make/"
+      weight = -100
 
     [[languages.de.menu.main]]
       identifier = "groups"
@@ -226,6 +173,7 @@ date = [":filename", ":default"]
       tags = "/tag/:slug"
       group = "/groups/:slug"
       groups = "/groups/:slug"
+      make = "/make/:slug"
 
     [[languages.en.menu.main]]
       identifier = "das-haus"

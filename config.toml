@@ -179,7 +179,7 @@ date = [":filename", ":default"]
       identifier = "das-haus"
       name = "The House"
       url = "/en/das-verschwoerhaus/"
-      weight = -100
+      weight = -110
 
     [[languages.en.menu.main]]
       parent = "das-haus"
@@ -204,6 +204,12 @@ date = [":filename", ":default"]
       identifier = "wiki"
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
+
+    [[languages.en.menu.main]]
+      identifier = "make"
+      name = "Do stuff"
+      url = "/make/"
+      weight = -100
 
     [[languages.en.menu.main]]
       identifier = "groups"

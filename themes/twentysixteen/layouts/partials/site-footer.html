@@ -12,11 +12,11 @@
 	</nav><!-- .social-navigation -->
 
 	<div class="site-info">
-		<span class="site-title"><a href="/" rel="home">{{.Site.Title}}</a></span>
+		<!--<span class="site-title"><a href="/" rel="home">{{.Site.Title}}</a></span>-->
 		{{ range .Site.Menus.footer }}
-		<a href="{{ (.URL | default '#') | absLangURL }}">{{ .Name }}</a>
 		<span role="separator" aria-hidden="true"></span>
+		<a href="{{ (.URL | default '#') | absLangURL }}">{{ .Name }}</a>
 		{{ end }}
-		<a href="https://gohugo.io" class="imprint">{{ i18n "proudly_powered" }} <s>WordPress</s> Hugo</a>
+		<!--<a href="https://gohugo.io" class="imprint">{{ i18n "proudly_powered" }} <s>WordPress</s> Hugo</a>-->
 	</div><!-- .site-info -->
 </footer>

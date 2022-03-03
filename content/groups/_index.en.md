@@ -1,11 +1,11 @@
 ---
-title: Gruppen
-slug: gruppen
-type: page
+title: Groups
+slug: groups
+url: groups
 
 ---
 
-Unser Haus besteht nur dank der zahlreichen Ehrenamtlichen, die es auf viele verschiedene Arten mit Leben füllen. Hier eine Übersicht der im Verschwörhaus beherbergten Gruppen und Veranstaltungsformate:
+Our house only exists thanks to the many volunteers who fill it with life in many different ways. Here is an overview of the groups and event formats hosted at the Verschwörhaus:
 
 {{% tabs %}}
 

@@ -10,16 +10,6 @@ enableRobotsTXT = true
 [params]
 siteLogoUrl = "/spaceicons/logo.svg"
 
-[permalinks]
-  posts = "/:slug"
-  post = "/:slug"
-  page = "/:slug"
-  pages = "/:slug"
-  category = "/category/:slug"
-  categories = "/category/:slug"
-  tag = "/tag/:slug"
-  tags = "/tag/:slug"
-
 [frontmatter]
 date = [":filename", ":default"]
 
@@ -27,6 +17,19 @@ date = [":filename", ":default"]
   [languages.de]
     weight = 1
     languageName = "Deutsch"
+
+    [languages.de.permalinks]
+      posts = "/:slug"
+      post = "/:slug"
+      page = "/:slug"
+      pages = "/:slug"
+      category = "/category/:slug"
+      categories = "/category/:slug"
+      tag = "/tag/:slug"
+      tags = "/tag/:slug"
+      group = "/gruppen/:slug"
+      groups = "/gruppen/:slug"
+      make = "/make/:slug"
 
     [[languages.de.menu.main]]
       identifier = "das-haus"
@@ -42,12 +45,6 @@ date = [":filename", ":default"]
 
     [[languages.de.menu.main]]
       parent = "das-haus"
-      identifier = "presse"
-      name = "Presseberichte"
-      url = "/presse/"
-
-    [[languages.de.menu.main]]
-      parent = "das-haus"
       identifier = "logos-und-bilder"
       name = "Logos und Bilder"
       url = "/presse-logos-und-bilder/"
@@ -58,65 +55,11 @@ date = [":filename", ":default"]
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
 
-#    [[languages.de.menu.main]]
-#      identifier = "areas"
-#      name = "Bereiche"
-#      url = "#"
-#      weight = -100
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "bibliothek"
-#      name = "Bibliothek"
-#      url = "/bibliothek/"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "loetlabor"
-#      name = "Lötlabor"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "holz"
-#      name = "Holz"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "metall"
-#      name = "Metall"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "3d-Druck"
-#      name = "Lasercut & 3d-Druck"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "Laser"
-#      name = "Laser"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "Studio"
-#      name = "Studio"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "siebdruck"
-#      name = "Siebdruck"
-#      url = "#FIXME"
-#
-#    [[languages.de.menu.main]]
-#      parent = "areas"
-#      identifier = "naehwerkstatt"
-#      name = "Nähwerkstatt"
-#      url = "#FIXME"
+    [[languages.de.menu.main]]
+      identifier = "make"
+      name = "Möglichkeiten"
+      url = "/make/"
+      weight = -100
 
     [[languages.de.menu.main]]
       identifier = "groups"
@@ -129,79 +72,6 @@ date = [":filename", ":default"]
       identifier = "jhlab"
       name = "Jugend hackt Lab"
       url = "/category/jugend-hackt-lab/"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "bewerbungscafe"
-      name = "Bewerbungscafe"
-      url = "/gruppen/#bewerbungscafe"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "maker-monday"
-      name = "Maker-Monday"
-      url = "/gruppen/#maker-monday"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "holzwerkstatt"
-      name = "Holzwerkstatt"
-      url = "/gruppen/#maker-monday"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "fuck"
-      name = "F.U.C.K."
-      url = "/gruppen/#fuck"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "lorawan-ttn"
-      name = "LoRaWAN & TTN"
-      url = "/gruppen/#ttn"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "naehcafe"
-      name = "Upcycling Nähcafe"
-      url = "/gruppen/#nähcafe"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "osm"
-      name = "OpenStreetMap"
-      url = "/gruppen/#openstreetmap"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ctf"
-      name = "CTF/PPP"
-      url = "/gruppen/#ctf"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ubuntustammtisch"
-      name = "Ubuntu-Stammtisch"
-      url = "/gruppen/#ubuntu"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "ulmapi"
-      name = "UlmAPI & Mobilitätsmontag"
-      url = "/gruppen/#mobilitätsmontag"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "wikidata"
-      name = "Wikidata"
-      url = "/gruppen/#wikidata"
-
-    [[languages.de.menu.main]]
-      parent = "groups"
-      identifier = "mitmachen"
-      name = "Mitmachen"
-      url = "/gruppen/#mitmachen"
-      weight = -81
 
     [[languages.de.menu.main]]
       identifier = "termine-und-oeffnungszeiten"
@@ -244,10 +114,17 @@ date = [":filename", ":default"]
       weight = -73
 
     [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "presse"
+      name = "Presseberichte"
+      url = "/presse/"
+      weight = -72
+
+    [[languages.de.menu.footer]]
       identifier = "kontakt"
       name = "Kontakt"
       url = "/kontakt/"
-      weight = -60
+      weight = -100
 
     [[languages.de.menu.footer]]
       identifier = "privacy"
@@ -285,12 +162,24 @@ date = [":filename", ":default"]
     languageCode = "en-us"
     languageName = "English"
 
+    [languages.en.permalinks]
+      posts = "/:slug"
+      post = "/:slug"
+      page = "/:slug"
+      pages = "/:slug"
+      category = "/category/:slug"
+      categories = "/category/:slug"
+      tag = "/tag/:slug"
+      tags = "/tag/:slug"
+      group = "/groups/:slug"
+      groups = "/groups/:slug"
+      make = "/make/:slug"
 
     [[languages.en.menu.main]]
       identifier = "das-haus"
       name = "The House"
       url = "/en/das-verschwoerhaus/"
-      weight = -100
+      weight = -110
 
     [[languages.en.menu.main]]
       parent = "das-haus"
@@ -306,39 +195,86 @@ date = [":filename", ":default"]
 
     [[languages.en.menu.main]]
       parent = "das-haus"
-      identifier = "presse"
-      name = "Press"
-      url = "/en/presse/"
-
-    [[languages.en.menu.main]]
-      parent = "das-haus"
       identifier = "logos-und-bilder"
       name = "Logos and Photos"
       url = "/en/presse-logos-und-bilder/"
 
     [[languages.en.menu.main]]
-      identifier = "termine-und-oeffnungszeiten"
-      name = "Events, Groups and Opening Hours"
-      url = "/en/termine-und-oeffnungszeiten/"
-      weight = -90
-
-    [[languages.en.menu.main]]
+      parent = "das-haus"
       identifier = "wiki"
       name = "Wiki"
       url = "https://wiki.verschwoerhaus.de"
-      weight = -80
 
     [[languages.en.menu.main]]
+      identifier = "make"
+      name = "Do stuff"
+      url = "/make/"
+      weight = -100
+
+    [[languages.en.menu.main]]
+      identifier = "groups"
+      name = "Groups"
+      url = "/en/groups/"
+      weight = -90
+
+    [[languages.en.menu.main]]
+      parent = "groups"
       identifier = "jhlab"
       name = "Jugend hackt Lab"
       url = "/en/category/jugend-hackt-lab/"
+
+    [[languages.en.menu.main]]
+      identifier = "termine-und-oeffnungszeiten"
+      name = "Events and Calendar"
+      url = "/en/termine-und-oeffnungszeiten/"
+      weight = -80
+
+    [[languages.en.menu.main]]
+      identifier = "about-us"
+      name = "About us"
+      url = "/en/das-verschwoerhaus/"
       weight = -70
 
     [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "history"
+      name = "History"
+      url = "/en/geschichte/"
+      weight = -76
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "verein"
+      name = "The Verein"
+      url = "/en/verein/"
+      weight = -75
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "sponsors"
+      name = "Supporters & Sponsors"
+      url = "#"
+      weight = -74
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "donation"
+      name = "Donate"
+      url = "/en/spenden/"
+      weight = -73
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "press"
+      name = "Press"
+      url = "/en/presse/"
+      weight = -72
+
+    [[languages.en.menu.footer]]
       identifier = "kontakt"
       name = "Contact"
       url = "/en/kontakt/"
-      weight = -60
+      weight = -100
 
     [[languages.en.menu.footer]]
       identifier = "privacy"

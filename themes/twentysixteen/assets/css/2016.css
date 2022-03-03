@@ -3523,19 +3523,19 @@ p > video {
     margin-top: -1.105263158em;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-content {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-content {
     float: right;
     width: 71.42857144%;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-content > blockquote.alignleft.below-entry-meta {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-content > blockquote.alignleft.below-entry-meta {
     margin-left: -40%;
     width: -webkit-calc(60% - 1.4736842105em);
     width: calc(60% - 1.4736842105em);
   }
 
-  body:not(.search-results) article:not(.type-page) img.below-entry-meta,
-  body:not(.search-results) article:not(.type-page) figure.below-entry-meta {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) img.below-entry-meta,
+  body:not(.search-results) article:not(.type-page):not(.type-groups) figure.below-entry-meta {
     clear: both;
     display: block;
     float: none;
@@ -3544,20 +3544,20 @@ p > video {
     max-width: 140%;
   }
 
-  body:not(.search-results) article:not(.type-page) figure.below-entry-meta img.below-entry-meta,
-  body:not(.search-results) article:not(.type-page) table figure.below-entry-meta,
-  body:not(.search-results) article:not(.type-page) table img.below-entry-meta {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) figure.below-entry-meta img.below-entry-meta,
+  body:not(.search-results) article:not(.type-page):not(.type-groups) table figure.below-entry-meta,
+  body:not(.search-results) article:not(.type-page):not(.type-groups) table img.below-entry-meta {
     margin: 0;
     max-width: 100%;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-footer {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer {
     float: left;
     margin-top: 0.1538461538em;
     width: 21.42857143%;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-footer > span:not(:last-child):after {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer > span:not(:last-child):after {
     display: none;
   }
 
@@ -3568,31 +3568,31 @@ p > video {
   body:not(.search-results) .cat-links,
   body:not(.search-results) .tags-links,
   body:not(.search-results) article:not(.sticky) .posted-on,
-  body:not(.search-results) article:not(.type-page) .comments-link,
-  body:not(.search-results) article:not(.type-page) .entry-footer .edit-link {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .comments-link,
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer .edit-link {
     display: block;
     margin-bottom: 0.5384615385em;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-footer > span:last-child {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer > span:last-child {
     margin-bottom: 0;
   }
 
-  body:not(.search-results) article:not(.type-page) .entry-footer .avatar {
+  body:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer .avatar {
     display: block;
     height: auto;
     margin: 0 0 0.5384615385em;
     width: 49px;
   }
 
-  body.no-sidebar:not(.search-results) article:not(.type-page) .entry-content {
+  body.no-sidebar:not(.search-results) article:not(.type-page):not(.type-groups) .entry-content {
     float: left;
     margin-right: -100%;
     margin-left: 34.99999999%;
     width: 50.00000001%;
   }
 
-  body.no-sidebar:not(.search-results) article:not(.type-page) .entry-footer {
+  body.no-sidebar:not(.search-results) article:not(.type-page):not(.type-groups) .entry-footer {
     margin-right: -100%;
     margin-left: 15%;
     width: 15%;

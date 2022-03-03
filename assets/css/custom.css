@@ -273,6 +273,10 @@ li.active a, li.active a:hover {
   padding: 0 4.5455%;
 }
 
+.site-info span[role=separator]:first-child {
+  display: none;
+}
+
 /* inconsolata-regular - latin */
 @font-face {
   font-family: 'Inconsolata';

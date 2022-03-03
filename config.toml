@@ -126,6 +126,13 @@ date = [":filename", ":default"]
       url = "/presse/"
       weight = -72
 
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "kontakt"
+      name = "Kontakt"
+      url = "/kontakt/"
+      weight = -70
+
     [[languages.de.menu.footer]]
       identifier = "kontakt"
       name = "Kontakt"
@@ -275,6 +282,13 @@ date = [":filename", ":default"]
       name = "Press"
       url = "/en/presse/"
       weight = -72
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "kontakt"
+      name = "Contact"
+      url = "/en/kontakt/"
+      weight = -71
 
     [[languages.en.menu.footer]]
       identifier = "kontakt"

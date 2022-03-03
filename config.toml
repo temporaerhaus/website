@@ -62,6 +62,12 @@ date = [":filename", ":default"]
       weight = -100
 
     [[languages.de.menu.main]]
+      parent = "make"
+      identifier = "bibliothek"
+      name = "Bibliothek"
+      url = "/bibliothek/"
+
+    [[languages.de.menu.main]]
       identifier = "groups"
       name = "Gruppen"
       url = "/gruppen/"
@@ -189,12 +195,6 @@ date = [":filename", ":default"]
 
     [[languages.en.menu.main]]
       parent = "das-haus"
-      identifier = "bibliothek"
-      name = "Library"
-      url = "/en/bibliothek/"
-
-    [[languages.en.menu.main]]
-      parent = "das-haus"
       identifier = "logos-und-bilder"
       name = "Logos and Photos"
       url = "/en/presse-logos-und-bilder/"
@@ -210,6 +210,12 @@ date = [":filename", ":default"]
       name = "Do stuff"
       url = "/make/"
       weight = -100
+
+    [[languages.en.menu.main]]
+      parent = "make"
+      identifier = "bibliothek"
+      name = "Library"
+      url = "/en/bibliothek/"
 
     [[languages.en.menu.main]]
       identifier = "groups"

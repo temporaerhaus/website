@@ -2,7 +2,7 @@
 title: PopUp-Internet-Café
 slug: ukraine
 type: page
-featured_image: content\pages\ukraine\Titelbild-vsh4ukraine-website.jpg
+featured_image: /wp-content/uploads/2022/03/Titelbild-vsh4ukraine-website.jpg
 
 ---
 

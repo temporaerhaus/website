@@ -2,6 +2,7 @@
 title: PopUp-Internet-Café
 slug: ukraine
 type: page
+featured_image: content\pages\ukraine\Titelbild-vsh4ukraine-website.jpg
 
 ---
 

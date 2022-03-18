@@ -14,9 +14,3 @@ transition: 1s ease opacity;
 .qtranxs_widget ul li.active { opacity: 0.8; }
 .qtranxs_widget ul li:hover { opacity: 1; }
 .qtranxs_widget img { box-shadow: none; vertical-align: middle; display: initial; }
-.qtranxs_flag { height:12px; width:18px; display:block; }
-.qtranxs_flag_and_text { padding-left:20px; }
-.qtranxs_flag span { display:none; }
-
-.qtranxs_flag_de {background-image: url(../images/de.png); background-repeat: no-repeat;}
-.qtranxs_flag_en {background-image: url(../images/gb.png); background-repeat: no-repeat;}

@@ -7,11 +7,11 @@
         <ul class="language-chooser language-chooser-both">
             {{- if .IsTranslated -}}
             {{- range .AllTranslations -}}
-            <li><a href="{{ .Permalink }}" class="qtranxs_flag_and_text qtranxs_flag_{{ .Language.Lang }}" title="{{ .Language.LanguageName }} ({{ .Language.Lang }})"><span>{{ .Language.LanguageName }}</span></a></li>
+            <li><a href="{{ .Permalink }}" title="{{ .Language.LanguageName }} ({{ .Language.Lang }})"><span>{{ .Language.LanguageName }}</span></a></li>
             {{ end }}
             {{- else -}}
             {{- range $.Site.Home.AllTranslations -}}
-            <li><a href="{{ .Permalink }}" class="qtranxs_flag_and_text qtranxs_flag_{{ .Language.Lang }}" title="{{ .Language.LanguageName }} ({{ .Language.Lang }})"><span>{{ .Language.LanguageName }}</span></a></li>
+            <li><a href="{{ .Permalink }}" title="{{ .Language.LanguageName }} ({{ .Language.Lang }})"><span>{{ .Language.LanguageName }}</span></a></li>
             {{- end -}}
             {{- end -}}
         </ul>

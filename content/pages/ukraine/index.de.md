@@ -36,8 +36,10 @@ Weinhof 7<br />
 
 *Зупинка / Haltestelle*<br />
 Rathaus Ulm (Ратхаус Ульм)<br />
-Автобуси / Linie 4, 5, 6, 71, 77<br />
+Автобуси / Linie 4, 5, 6, 71, 77<br />  
 
+
+[**Download Infoflyer**](/wp-content/uploads/2022/03/flyer-popupinternetcafe.pdf)
 
 E-Mail: kontakt21 „at“ verschwoerhaus.de
 

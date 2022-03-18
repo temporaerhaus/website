@@ -11,8 +11,6 @@ categories:
   - Workshops
 tags:
   - Ferienworkshop
-  - Jugend hackt Lab
-  - Mat Loewe
   - Online-Workshops
 
 ---

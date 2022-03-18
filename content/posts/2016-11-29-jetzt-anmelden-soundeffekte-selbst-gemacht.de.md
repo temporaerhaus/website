@@ -11,7 +11,6 @@ categories:
   - Workshops
 tags:
   - e.tage
-  - Jugend
   - Löten
   - Workshop
 

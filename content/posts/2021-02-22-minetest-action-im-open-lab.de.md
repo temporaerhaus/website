@@ -7,7 +7,6 @@ featured_image: /wp-content/uploads/2020/04/Minetest_Default_Texture_Pack.png
 categories:
   - Jugend hackt Lab
 tags:
-  - Jugend hackt Lab Ulm
   - Minetest
   - Open Lab
 

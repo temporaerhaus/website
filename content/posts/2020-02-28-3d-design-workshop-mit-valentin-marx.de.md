@@ -9,9 +9,7 @@ categories:
   - Jugend hackt Lab
   - news
 tags:
-  - 3D Desing
-  - Jugend hackt Lab
-  - Valentin Marx
+  - 3D Design
 
 ---
 _Der Workshop entfiel aufgrund der Schließung des Hauses wegen Covid-19_

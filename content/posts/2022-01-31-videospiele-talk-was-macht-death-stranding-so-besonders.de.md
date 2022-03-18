@@ -6,8 +6,7 @@ draft: false
 featured_image: /wp-content/uploads/2022/01/death-stranding.jpg
 categories:
   - Jugend hackt Lab
-  - Death Stranding
-  - Marie Friske
+tags:
   - Game Talk
   - Diskussion
 ---

@@ -9,9 +9,7 @@ categories:
   - Workshops
 tags:
   - Fortbildung
-  - Jugend hackt lab
   - Kindermedienland
-  - Paolo Holinski
   - Sonic Pi
 featured_image: /wp-content/uploads/2020/10/table-1284507_640.jpg
 ---

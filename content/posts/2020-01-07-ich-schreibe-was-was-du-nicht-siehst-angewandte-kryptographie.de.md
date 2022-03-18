@@ -9,9 +9,6 @@ categories:
   - Jugend hackt Lab
   - Workshops
 tags:
-  - Felix Engelmann
-  - Jugend hackt
-  - Jugend hackt Lab
   - Kryptographie
 
 ---

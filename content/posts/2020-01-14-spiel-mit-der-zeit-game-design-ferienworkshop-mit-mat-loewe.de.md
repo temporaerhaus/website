@@ -12,7 +12,6 @@ tags:
   - e.tage
   - Ferienworkshop
   - Game Design
-  - Jugend hackt Lab
 
 ---
 ### **Spiel mit der Zeit**

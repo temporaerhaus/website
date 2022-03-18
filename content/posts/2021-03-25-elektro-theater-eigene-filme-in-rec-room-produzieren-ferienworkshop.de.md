@@ -12,8 +12,6 @@ tags:
   - creative gaming
   - Elektro Theater
   - Ferienworkshop
-  - Jugend hackt Lab
-  - Mat Loewe
 
 ---
 Wolltet ihr schon immer mal an einem Film oder einer Theatervorstellung mitwirken?

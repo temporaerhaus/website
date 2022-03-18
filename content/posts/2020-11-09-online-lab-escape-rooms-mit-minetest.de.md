@@ -9,7 +9,6 @@ categories:
   - Workshops
 tags:
   - creative gaming
-  - Jugend hackt Lab
   - Minetest
 
 ---

@@ -9,7 +9,6 @@ categories:
   - Workshops
 tags:
   - About Me Page
-  - Jugend hackt Lab
   - Web Design
   - Workshop
 

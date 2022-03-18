@@ -12,7 +12,6 @@ categories:
 tags:
   - creative gaming
   - Elektro Theater
-  - Jugend hackt Lab
   - Online-Workshop
 
 ---

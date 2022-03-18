@@ -15,7 +15,6 @@ tags:
   - Cyberpoesie
   - Datenpoesie
   - Digital Art
-  - Jörg Piringer
   - Open Data
   - Performance
 

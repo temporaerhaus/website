@@ -11,8 +11,6 @@ tags:
   - 3D Modelling
   - Blender
   - Game Art
-  - Jugend hackt Lab Ulm
-  - Leonie Wolf
 
 ---
 #### Kostenloser Online Workshop

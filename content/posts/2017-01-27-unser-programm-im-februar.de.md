@@ -13,7 +13,6 @@ tags:
   - Angebot
   - Beteiligung
   - e.tage
-  - Jugend
   - Kunst
   - LoRaWAN
   - Nähcafe

@@ -9,7 +9,6 @@ categories:
 tags:
   - HNU
   - Innovation Space
-  - Jugend hackt Lab Ulm
   - Virtuelle Exkursion
 featured_image: /wp-content/uploads/2020/10/94911586_2956702624410282_665356129970159616_o-1024x441.png
 ---

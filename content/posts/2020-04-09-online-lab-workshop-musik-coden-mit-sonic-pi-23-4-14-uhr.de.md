@@ -9,8 +9,6 @@ categories:
   - Jugend hackt Lab
   - Workshops
 tags:
-  - Jugend hackt Lab
-  - Lab:Ulm
   - Online-Workshop
   - Sonic Pi
 

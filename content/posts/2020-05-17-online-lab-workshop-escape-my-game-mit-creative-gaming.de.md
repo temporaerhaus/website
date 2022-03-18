@@ -12,8 +12,6 @@ categories:
 tags:
   - creative gaming
   - Escape my game
-  - Jennifer Jason
-  - Matthias Löwe
   - Online-Workshop
   - Rec Room
 

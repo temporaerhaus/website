@@ -7,7 +7,10 @@ featured_image: /wp-content/uploads/2021/10/wikidata_workshop_ulm_2019_17.jpg
 categories:
   - news
 tags:
-  - SPARQL Wikidata Wikimedia Wikipedia
+  - SPARQL
+  - Wikidata
+  - Wikimedia
+  - Wikipedia
 ---
 [Wikidata](https://de.wikipedia.org/wiki/Wikidata) ist die mächtige freie Wissensdatenbank hinter der Wikipedia. Die Infobox mit allen wichtigen Daten, wenn du Ulm in einer Suchmaschine suchst? Die kommt aus Wikidata. Woher Siri, Alexa und Mycroft die Einwohnerzahl Deutschlands wissen? Aus Wikidata. Und auch [eine Liste aller verstorbenen US-Präsidenten und woran sie gestorben sind, ist mit Wikidata in wenigen Zeilen abfragbar](https://query.wikidata.org/#SELECT%20%3Fh%20%3FhLabel%20%3Fcause%20%3FcauseLabel%20%28YEAR%28%3Fdate%29%20AS%20%3Fyear%29%20WHERE%20%7B%0A%3Fh%20wdt%3AP39%20wd%3AQ11696%3B%0A%20%20%20wdt%3AP509%20%3Fcause%3B%0A%20%20%20wdt%3AP570%20%3Fdate%0ASERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D%20ORDER%20BY%20%3Fyear).
 

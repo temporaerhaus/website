@@ -9,7 +9,6 @@ categories:
   - news
   - Workshops
 tags:
-  - Jugend hackt Lab
   - Videogames
   - Workshops
   - Netzpolitik&Demokratie2021

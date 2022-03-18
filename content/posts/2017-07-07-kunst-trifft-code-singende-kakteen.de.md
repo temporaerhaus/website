@@ -11,7 +11,6 @@ categories:
 tags:
   - Arduino
   - e.tage
-  - Jugend
   - Löten
   - Workshop
 

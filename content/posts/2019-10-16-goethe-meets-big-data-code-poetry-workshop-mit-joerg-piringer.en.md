@@ -11,9 +11,6 @@ categories:
   - Workshops
 tags:
   - Datenpoesie
-  - Jörg Piringer
-  - Jugend hackt
-  - Lab:Ulm
   - Workshop
 
 ---

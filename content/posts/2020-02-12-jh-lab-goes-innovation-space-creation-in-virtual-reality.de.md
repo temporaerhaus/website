@@ -9,10 +9,8 @@ categories:
   - Jugend hackt Lab
   - Workshops
 tags:
-  - Alexander Warth
   - HNU
   - Innovation Space
-  - Jugend hackt Lab
   - Workshop
 
 ---

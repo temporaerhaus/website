@@ -12,7 +12,6 @@ categories:
   - Workshops
 tags:
   - festival contre le racisme
-  - Jugend hackt Lab
   - openstreemap
   - Rassismus
   - Straßennamen

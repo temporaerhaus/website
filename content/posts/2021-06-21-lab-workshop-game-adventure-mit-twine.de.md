@@ -8,7 +8,6 @@ categories:
   - Jugend hackt Lab
   - Workshops
 tags:
-  - Jugend hackt Lab
   - Twine
   - Workshop
 

@@ -8,7 +8,6 @@ categories:
   - Jugend hackt Lab
   - Workshops
 tags:
-  - Jugend hackt Lab Ulm
   - Minetest
   - Minetest4kids
   - Online-Workshop

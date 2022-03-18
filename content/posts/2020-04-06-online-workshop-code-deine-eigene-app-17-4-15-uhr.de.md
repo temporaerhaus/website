@@ -10,9 +10,7 @@ categories:
   - news
   - Workshops
 tags:
-  - DermitdemZopf
   - Flutter
-  - Jugend hackt Lab
   - Online
   - Workshop
 

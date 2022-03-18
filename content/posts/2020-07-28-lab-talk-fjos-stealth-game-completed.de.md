@@ -12,8 +12,6 @@ tags:
   - Game Design
   - Game Jam
   - Indie Games
-  - Jugend hackt Lab
-  - Marco Kerler
   - NotGames
   - Talk
 

@@ -12,7 +12,6 @@ categories:
 tags:
   - blinry
   - Codekunst
-  - Jugend hackt Lab
   - Shadern
 
 ---

@@ -8,8 +8,9 @@ categories:
   - Jugend hackt Lab
   - aktuelles
 tags:
-  - Jugendhackt; Girlsday; Making; Verschwoerhaus; JugendhacktLab;
-    FrauenundComputerkram
+  - Girlsday
+  - Making
+  - F.U.C.K.
 ---
 Was ist das Verschwörhaus? Und was gibt es alles so in einem Makerspace? Das wollen wir euch beim diesjährigen ***Jugend hackt Lab Girls Day*** in einem Workshop zeigen: 3D-Druck, LEDs löten oder gleich ein Raumschiff lasercutten? Ihr könnt euch nicht entscheiden: macht nichts, dann machen wir doch am besten alles :) - und als Goodie könnt ihr das Ergebnis mitnehmen. 
 

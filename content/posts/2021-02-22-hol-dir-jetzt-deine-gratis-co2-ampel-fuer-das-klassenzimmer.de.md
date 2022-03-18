@@ -12,7 +12,6 @@ tags:
   - Baden-Württemberg
   - CO2-Ampel
   - Corona
-  - Jugend hackt Lab Ulm
   - Lockdown
   - Schulen
 

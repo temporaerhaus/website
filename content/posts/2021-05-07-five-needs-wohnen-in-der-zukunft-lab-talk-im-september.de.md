@@ -10,10 +10,7 @@ categories:
   - news
   - Workshops
 tags:
-  - five Needs Wohnen in der Zukunft
   - future living
-  - Jugend hackt Lab Ulm
-  - Vanessa Zurek
   - Wohnraum fuer alle
 type: post
 ---

@@ -10,10 +10,7 @@ categories:
   - Workshops
 tags:
   - Datenschutz
-  - Der mit dem Zopf
   - DSGVO
-  - Jugend hackt
-  - Jugend hackt Lab Ulm
   - Workshop
 
 ---

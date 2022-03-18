@@ -11,7 +11,6 @@ categories:
 tags:
   - blinry
   - GLSL-Shadern
-  - Jugend hackt Lab
   - Workshop
 
 ---

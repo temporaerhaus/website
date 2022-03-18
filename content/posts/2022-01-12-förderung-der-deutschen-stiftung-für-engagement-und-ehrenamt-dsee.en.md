@@ -1,4 +1,1 @@
----
-date: 2022-01-12T12:07:35.248Z
-draft: false
----
+2022-01-12-förderung-der-deutschen-stiftung-für-engagement-und-ehrenamt-dsee.de.md

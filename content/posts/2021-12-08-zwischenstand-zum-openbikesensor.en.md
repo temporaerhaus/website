@@ -1,4 +1,1 @@
----
-date: 2021-12-07T14:40:29.124Z
-draft: false
----
+2021-12-08-zwischenstand-zum-openbikesensor.de.md

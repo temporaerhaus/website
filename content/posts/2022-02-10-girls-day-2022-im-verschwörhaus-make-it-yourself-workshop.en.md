@@ -1,4 +1,1 @@
----
-date: 2022-02-10T15:55:54.423Z
-draft: false
----
+2022-02-10-girls-day-2022-im-verschwörhaus-make-it-yourself-workshop.de.md

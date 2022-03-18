@@ -8,8 +8,8 @@ featured_image: /wp-content/uploads/2022/03/Titelbild-vsh4ukraine-website.jpg
 
 Інтернет та робочі місця як пропозиція підтримки для всіх постраждалих від війни в Україні / Internet und Arbeitsplätze als Unterstützung für alle vom Krieg in der Ukraine Betroffenen
 
-Час роботи:  10.00 - 12.00, 13.00 - 19.00  
-Öffnungszeiten: 10.00 - 12.00, 13.00 - 19.00
+Час роботи: Кожен день 10.00 - 12.00, 13.00 - 19.00  
+Öffnungszeiten: täglich 10.00 - 12.00, 13.00 - 19.00
 
 
 ## Ми пропонуємо (безкоштовно) / Wir bieten kostenlos an

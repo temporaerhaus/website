@@ -8,9 +8,11 @@ featured_image: /wp-content/uploads/2022/03/Titelbild-vsh4ukraine-website.jpg
 
 Інтернет та робочі місця як пропозиція підтримки для всіх постраждалих від війни в Україні / Internet und Arbeitsplätze als Unterstützung für alle vom Krieg in der Ukraine Betroffenen
 
-Час роботи: Кожен день 10.00 - 12.00, 13.00 - 19.00  
-Öffnungszeiten: täglich 10.00 - 12.00, 13.00 - 19.00
+Час роботи: Кожен день 10.00 - 12.00, 13.30 - 19.00  
+Öffnungszeiten: täglich 10.00 - 12.00, 13.30 - 19.00
 
+
+[**Download Infoflyer**](/wp-content/uploads/2022/03/flyer-popupinternetcafe.pdf)
 
 ## Ми пропонуємо (безкоштовно) / Wir bieten kostenlos an
 * Wi-Fi / WLAN
@@ -38,8 +40,6 @@ Weinhof 7<br />
 Rathaus Ulm (Ратхаус Ульм)<br />
 Автобуси / Linie 4, 5, 6, 71, 77<br />  
 
-
-[**Download Infoflyer**](/wp-content/uploads/2022/03/flyer-popupinternetcafe.pdf)
 
 E-Mail: kontakt21 „at“ verschwoerhaus.de
 

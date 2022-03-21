@@ -21,11 +21,49 @@ Alle zwei Wochen am Mittwochabend, ab 18:30 Uhr.
 
 Dabei gibt's im vierwöchigen Wechsel einmal einen “Offenen Abend” und einmal den “Bastelabend”. komm' rein und einfach durchgehen, bis zum Lötlabor (Raum „Hase“). Wenn du dich nicht zurecht findest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
 
-**Inventar**
-
-Um einen groben Überblick über unsere Hardware zu behalten, führen wir eine [Inventarsliste](https://wiki.verschwoerhaus.de/ttn_inventar).
-
 **Kontakt**
 
 * Twitter: <https://twitter.com/ttn_ulm/>, bei Bedarf auch gerne DM.
 * Channel im Verschwörhaus-internen Slack: #ttn
+
+## Projekte
+
+Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN entstanden. Im Folgenden eine kleine Auswahl.
+
+### Münsterplatine
+
+**Einstiegshürde** Als 2016 die ersten The Things Network- und LoRaWAN-Aktivitäten in Ulm begannen, kosteten durchschnittliche LoRaWAN-Nodes 50,00 € und mehr. Wir fanden das viel zu viel, um LoRaWAN einfach mal ausprobieren zu können. Daher entschieden wir uns, eine eigene Node zu designen und strebten dabei einen Stückpreis von 10,00 € an.
+
+**Hardwareentwicklung** Zu solch einer Entwicklung gehört neben der Auswahl der geeigneten Mikroelektronik-Bauteile, die Erstellung eines Platinenlayouts und in unserem Falle die händische Bestückung der Platine mit den Komponenten.
+
+**Ergebnis** Die Münsterplatine basiert auf dem Microcontroller Arduino Pro Mini (ATmega328, 8 MHz, 3,3 V), einem RFM95-LoRa-Funkmodul und hat die Form des Ulmer Münsters. Sie kann über einen externen Akku betrieben werden und diesen auch über USB laden. Wir verwenden sie auf verschiedenste Arten in unseren eigenen Projekten und Workshops.
+
+### Hochwassersensor
+
+**Unnötige Umwege** Die Radwege an der Donau unterhalb der Herdbrücke sowie an der Blau (nahe In der Wanne), werden bei Hochwasser oft überschwemmt und sind dann nicht mehr befahrbar. Damit man das nicht erst merkt, wenn man davor steht, haben wir zusammen mit der Digitalen Agenda zwei Hochwassersensoren an diesen Stellen angebracht.
+
+**Sensorik** Mit Ultraschall wird der Abstand zwischen Sensor und Fahrbahn gemessen. Der Sensor ist über Kopf angebracht und kann Abweichungen im Millimeterbereich erkennen. Wenn dieser Abstand dauerhaft kleiner wird, steht vermutlich Wasser auf der Fahrbahn. Die Differenz des normalen Abstands und des aktuellen Abstands gibt die Höhe des Wasserpegels an. Ausreißer, Schwankungen und weitere Störfaktoren werden herausgefiltert. Der Sensor arbeitet mit einer Akkuladung bis zu 3 Jahre lang autark und versendet seine Daten per LoRaWAN an eine Datenbank im Internet.
+
+**Webseite und offene Daten** Wenn der Pegel über mehrere Minuten bis Stunden ansteigt, wird Hochwasser gemeldet. Unter https://hochwasser.ttnulm.de kann man jederzeit den aktuellen Status der Sensoren und die Historie der Wasserstände einsehen.
+
+### OpenBike
+
+**Freie Software von der Stadt für alle** Im Rahmen des Projekts radforschung entsteht das Open Source Fahrradverleihsystem OpenBike. Dahinter steckt kein hippes Start-up mit der Suche nach einem privatwirtschaftlichen Businessmodell, sondern die Vision zusammen mit der Stadt Ulm, durch überall verfügbares, gutes Bikesharing unsere Mobilität ein wenig nachhaltiger, vielfältiger und angenehmer zu gestalten. Aktuell befindet sich OpenBike im Test mit Beschäftigten der Stadt Ulm und Freiwilligen des Verschwörhauses.
+
+**Aktueller Funktionsumfang** OpenBike umfasst dabei nicht nur eine direkt im Smartphone-Browser aufrufbare Weboberfläche zur Ausleihe eines Rads, sondern auch die auf LoRaWAN aufbauenden Tracker. Der eigens entwickelte Tracker Lortinchen ermittelt seine bzw. die aktuelle Position des Fahrrads nicht über GPS, sondern kalkuliert sie anhand der aktuell verfügbaren WiFi-Netzwerke. Diese Technik wird auch von Smartphones genutzt, um bei schlechtem GPS-Empfang in Häuserschluchten eine räumliche Lokalisierung zu ermöglichen. Die Kommunikation mit dem OpenBike-Server erfolgt energieeffizient über LoRaWAN.
+
+### Autarkes Hochbeet
+
+**Automatischer grüner Daumen** Man sieht es gar nicht auf den ersten Blick, aber das vor dem Verschwörhaus aufgestellte Hochbeet ist nicht nur eine hübsch anzusehende Blumen-Bank, sondern kompensiert auch so manchen nicht vorhandenen grünen Daumen (Zaubern kann es aber leider auch nicht). Es überwacht völlig autark die Bodenfeuchte und bewässert bei Bedarf die beiden Blumenkästen.
+
+**Funktionsweise** Die Bodenfeuchte wird dabei über ein Tensiometer ermittelt. Solch ein Tensiometer misst dabei den Saugdruck, den eine Pflanze in ihren Wurzeln aufbringen muss, um Wasser aus dem Boden zu saugen. Überschreitet der Saugdruck einen bestimmten Schwellwert, wird die Bewässerung gestartet. Dazu pumpt das Beet aus zwei großen Wassertanks, die sich jeweils unterhalb der Blumenkästen befinden, Wasser in die Blumenkästen. Neben Bodenfeuchte und Wasserstand werden auch verschiedene Umweltparameter ermittelt und über LoRaWAN an ein Dashboard übertragen, sodass das Hochbeet bequem aus der Ferne überwacht werden kann.
+
+### Rissüberwachung
+
+**Problemstellung** Im Ulmer Münster bilden sich an verschiedenen Stellen im Mauerwerk Risse. Das ist für ein jahrhundertealtes Gebäude natürlich und nicht besorgniserregend, sollte jedoch überwacht werden. Aktuell werden die Risse händisch mit einer Schieblehre abgelesen und deren Veränderungen so dokumentiert. Dieses Vorgehen ist aufwendig – insbesondere, wenn sich die Rissmarken teils in luftiger Höhe an der Decke oder den Außenwänden des Münsters befinden.
+
+**Sensorik** Um die Breite der Risse bzw. die Abstände zwischen den beiden Mauerseiten automatisch zu messen wird ein Laser-Laufzeit-Sensor eingesetzt (“time of flight”). Außerdem werden die Umweltfaktoren Temperatur, Luftfeuchtigkeit und Luftdruck gemessen.
+
+**Projekt** Zusammen mit der Münsterbauhütte haben wir einen Prototypen zur automatischen Abstandsmessung entwickelt und zwei davon testweise am Münster angebracht. Die gemessenen Werte werden per LoRaWAN alle 15 Minuten an die Münsterbauhütte übertragen. Dadurch können insbesondere schnelle Veränderungen im Mauerwerk direkt erkannt werden. Im Gegensatz zur manuellen Messung, die teilweise nur einmal pro Jahr vorgenommen werden kann, ist außerdem eine kontinuierliche Überwachung möglich.
+
+**Aktueller Stand** Da der verwendete Abstandssensor eigentlich für den Einsatz in Smartphones entwickelt wurde, schwanken die Werte der Abstandsmessungen leider noch stark. Ein Teil der Schwankungen wird durch die o.g. Umweltfaktoren verursacht. Unser aktuelles Ziel ist es, ein mathematisches Modell zu entwickeln, um damit die gemessenen Werte zu korrigieren – ideal wäre eine Genauigkeit von weniger als einem Millimeter.

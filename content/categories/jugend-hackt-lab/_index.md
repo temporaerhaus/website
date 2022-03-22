@@ -26,9 +26,8 @@ Nächste Termin
 * [Di. 13. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 27. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 
-![](/wp-content/uploads/sponsors2022.png)
 
-*
-*
+
+
 
 ![](/wp-content/uploads/sponsors2022.png)

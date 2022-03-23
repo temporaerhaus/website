@@ -9,7 +9,7 @@ Das Jugend hackt Lab bietet regelmäßig online und offline Workshops und offene
 
 Kontakt: tom \[at] verschwoerhaus.de
 
-Nächste Termin
+Kommende Termine:
 
 * [Di. 29. März 2022, 17 - 19.30 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Sa. 9. April 2022, 15 - 16.00 Uhr: Talk über das Videospiel Death Stranding](https://verschwoerhaus.de/videospiele-talk-was-macht-death-stranding-so-besonders/)
@@ -25,9 +25,5 @@ Nächste Termin
 * [Di. 9. August 2022, 17 - 21.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/) (letztes Lab vor Sommerpause)
 * [Di. 13. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 27. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-
-
-
-
 
 ![](/wp-content/uploads/sponsors2022.png)

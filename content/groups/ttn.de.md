@@ -32,6 +32,8 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 
 ### Münsterplatine
 
+![Foto der Münsterplatine](/wp-content/uploads/2022/03/ttn_minster-node.jpeg)
+
 **Einstiegshürde** Als 2016 die ersten The Things Network- und LoRaWAN-Aktivitäten in Ulm begannen, kosteten durchschnittliche LoRaWAN-Nodes 50,00 € und mehr. Wir fanden das viel zu viel, um LoRaWAN einfach mal ausprobieren zu können. Daher entschieden wir uns, eine eigene Node zu designen und strebten dabei einen Stückpreis von 10,00 € an.
 
 **Hardwareentwicklung** Zu solch einer Entwicklung gehört neben der Auswahl der geeigneten Mikroelektronik-Bauteile, die Erstellung eines Platinenlayouts und in unserem Falle die händische Bestückung der Platine mit den Komponenten.
@@ -39,6 +41,8 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 **Ergebnis** Die Münsterplatine basiert auf dem Microcontroller Arduino Pro Mini (ATmega328, 8 MHz, 3,3 V), einem RFM95-LoRa-Funkmodul und hat die Form des Ulmer Münsters. Sie kann über einen externen Akku betrieben werden und diesen auch über USB laden. Wir verwenden sie auf verschiedenste Arten in unseren eigenen Projekten und Workshops.
 
 ### Hochwassersensor
+
+![Foto des Hochwassersensors unter der Herdbrücke](/wp-content/uploads/2022/03/ttn_hochwassersensor.jpeg)
 
 **Unnötige Umwege** Die Radwege an der Donau unterhalb der Herdbrücke sowie an der Blau (nahe In der Wanne), werden bei Hochwasser oft überschwemmt und sind dann nicht mehr befahrbar. Damit man das nicht erst merkt, wenn man davor steht, haben wir zusammen mit der Digitalen Agenda zwei Hochwassersensoren an diesen Stellen angebracht.
 
@@ -48,17 +52,23 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 
 ### OpenBike
 
-**Freie Software von der Stadt für alle** Im Rahmen des Projekts radforschung entsteht das Open Source Fahrradverleihsystem OpenBike. Dahinter steckt kein hippes Start-up mit der Suche nach einem privatwirtschaftlichen Businessmodell, sondern die Vision zusammen mit der Stadt Ulm, durch überall verfügbares, gutes Bikesharing unsere Mobilität ein wenig nachhaltiger, vielfältiger und angenehmer zu gestalten. Aktuell befindet sich OpenBike im Test mit Beschäftigten der Stadt Ulm und Freiwilligen des Verschwörhauses.
+![Foto OpenBike Wifi-Trackers Lortinchen](/wp-content/uploads/2022/03/ttn_wifi-tracker.jpeg)
+
+**Freie Software von der Stadt für alle** Im Rahmen des Projekts [radforschung](https://radforschung.org/) entsteht das Open Source Fahrradverleihsystem [OpenBike](https://openbike.ulm.dev/). Dahinter steckt kein hippes Start-up mit der Suche nach einem privatwirtschaftlichen Businessmodell, sondern die Vision zusammen mit der Stadt Ulm, durch überall verfügbares, gutes Bikesharing unsere Mobilität ein wenig nachhaltiger, vielfältiger und angenehmer zu gestalten. Aktuell befindet sich OpenBike im Test mit Beschäftigten der Stadt Ulm und Freiwilligen des Verschwörhauses.
 
 **Aktueller Funktionsumfang** OpenBike umfasst dabei nicht nur eine direkt im Smartphone-Browser aufrufbare Weboberfläche zur Ausleihe eines Rads, sondern auch die auf LoRaWAN aufbauenden Tracker. Der eigens entwickelte Tracker Lortinchen ermittelt seine bzw. die aktuelle Position des Fahrrads nicht über GPS, sondern kalkuliert sie anhand der aktuell verfügbaren WiFi-Netzwerke. Diese Technik wird auch von Smartphones genutzt, um bei schlechtem GPS-Empfang in Häuserschluchten eine räumliche Lokalisierung zu ermöglichen. Die Kommunikation mit dem OpenBike-Server erfolgt energieeffizient über LoRaWAN.
 
 ### Autarkes Hochbeet
+
+![Fotos dews autarken Hochbeets vor dem Verschwörhaus](/wp-content/uploads/2022/03/ttn_hochbeet.jpeg)
 
 **Automatischer grüner Daumen** Man sieht es gar nicht auf den ersten Blick, aber das vor dem Verschwörhaus aufgestellte Hochbeet ist nicht nur eine hübsch anzusehende Blumen-Bank, sondern kompensiert auch so manchen nicht vorhandenen grünen Daumen (Zaubern kann es aber leider auch nicht). Es überwacht völlig autark die Bodenfeuchte und bewässert bei Bedarf die beiden Blumenkästen.
 
 **Funktionsweise** Die Bodenfeuchte wird dabei über ein Tensiometer ermittelt. Solch ein Tensiometer misst dabei den Saugdruck, den eine Pflanze in ihren Wurzeln aufbringen muss, um Wasser aus dem Boden zu saugen. Überschreitet der Saugdruck einen bestimmten Schwellwert, wird die Bewässerung gestartet. Dazu pumpt das Beet aus zwei großen Wassertanks, die sich jeweils unterhalb der Blumenkästen befinden, Wasser in die Blumenkästen. Neben Bodenfeuchte und Wasserstand werden auch verschiedene Umweltparameter ermittelt und über LoRaWAN an ein Dashboard übertragen, sodass das Hochbeet bequem aus der Ferne überwacht werden kann.
 
 ### Rissüberwachung
+
+![Foto Risssensors am Ulmer Münster](/wp-content/uploads/2022/03/ttn_risssensor.jpeg)
 
 **Problemstellung** Im Ulmer Münster bilden sich an verschiedenen Stellen im Mauerwerk Risse. Das ist für ein jahrhundertealtes Gebäude natürlich und nicht besorgniserregend, sollte jedoch überwacht werden. Aktuell werden die Risse händisch mit einer Schieblehre abgelesen und deren Veränderungen so dokumentiert. Dieses Vorgehen ist aufwendig – insbesondere, wenn sich die Rissmarken teils in luftiger Höhe an der Decke oder den Außenwänden des Münsters befinden.
 

@@ -2,7 +2,7 @@
 title: Nähkurs für Anfänger*innen
 author: Jurek Lang
 date: 2022-04-13T14:23:08.684Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2022/04/plakat-e03.png
 categories:
   - news

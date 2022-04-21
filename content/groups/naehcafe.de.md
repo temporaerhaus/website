@@ -1,17 +1,12 @@
 ---
-title: Upcycling Nähcafé
+title: Nähcafé
 slug: naehcafe
 menu: 
   main:
-    title: 'Upcycling Nähcafé'
+    title: 'Nähcafé'
     parent: groups
 type: page
 ---
+Hier habt ihr die Möglichkeit kaputte Kleidungsstücke zu reparieren oder euren eigenen kreativen Ideen freien Lauf zu lassen! Außerdem haben wir auch oft eine Reihe von Näh-Ideen für Anfänger vorbereitet. Bei der Umsetzung  oder Problemen unterstützen euch fleißige NäherInnen der HSG Nachhaltigkeit und die liebe Annemarie von Krawall & Liebe Ulm. Veranstaltungsort ist das Verschwörhaus in Ulm.
 
-Aus alt mach neu – Die Hochschulgruppe für Nachhaltigkeit will mit euch alte Stoffe „upcyceln“.
-
-Wir stellen euch Maschinen, Material, Nähvorlagen und Unterstützung – nähen tut ihr selbst. Auch eigene Projekte können mitgebracht und bearbeitet werden, wenn euch zu Hause dafür Zeit, Kenntnis und/oder Nähmaschine fehlt.
-
-Falls ihr alte/ungetragene Klamotten rumliegen habt ist das natürlich die perfekte Gelegenheit ihnen neues Leben zu schenken.
-
-Für die gemütliche Cafe-Atmosphäre sorgen Sofas und Sitzsäcke, Getränke und Kuchen.
+Das Nähcafé wird im Sommersemester '22 jeden ersten Dienstag im Monat stattfinden (03.05. | 07.06. | 05.07.)

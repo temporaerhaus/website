@@ -11,11 +11,6 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 Kommende Termine:
 
-
-
-* [Do. 28. April 2022, 17 - 19.30 Uhr: Girls Da](https://verschwoerhaus.de/girls-day-2022-im-verschw%C3%B6rhaus-make-it-yourself-workshop/)y Workshop
-* [Di. 3. Mai 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [Di. 17. Mai 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 24. Mai 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)[](https://verschwoerhaus.de/open-lab-is-back/)
 * [Di. 14. Juni 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
 * [Sa. 25. Juni 2022, 13- 15.30h Queere Lebenswelten Workshop (offen für alle)](https://verschwoerhaus.de/queere-lebenswelten-workshop-mit-young-and-queer-e-v/)

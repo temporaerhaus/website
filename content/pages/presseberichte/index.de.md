@@ -65,7 +65,7 @@ slug: presse
   * [rbb RadioEins][44]: Digitale Routenplanung <small>(05.05.2019)</small>
   * [Frankfurter Allgemeine Zeitung][45]: Digitalkonferenz re:publica : Daten regeln den Verkehr <small>(06.05.2019)</small>
   * [Neues Deutschland][46]: Daten für die Städte <small>(06.05.2019)</small>
-  * [Tagesspiegel Background][47]: Wie Städte bei der Verkehrswende aktiv werden (Paywall) <small>(07.05.2019)</small>
+  * [Tagesspiegel Background (Paywall)][47]: Wie Städte bei der Verkehrswende aktiv werden <small>(07.05.2019)</small>
   * [ORF Ö1][48]: Offene Mobilität statt Silicon Valley <small>(08.05.2019)</small>
 
 ### 2020
@@ -81,12 +81,17 @@ slug: presse
 ### 2021
   * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(25.02.2021)</small>
   * [Neu-Ulmer Zeitung (Paywall)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
-  * [Südwest Presse (Paywall)][62]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
-  * [Südwest Presse (Paywall)][63] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
-  * [Südwest Presse (Paywall)][64] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
+  * [Verwaltungsrebellen][62]: Fortschritt, ohne um Erlaubnis zu fragen: Das Verschwörhaus in Ulm <small>(08.07.2021)</small>
+  * [Südwest Presse (Paywall)][63]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
+  * [Südwest Presse (Paywall)][64] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
+  * [Südwest Presse (Paywall)][65] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
 
 ### 2022
-  * [Südwest Presse (Paywall)][65]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
+  * [Südwest Presse (Paywall)][66]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
+  * [SWR][67]: Streit um Verschwörhaus in Ulm: Hauptausschuss beschließt neues Nutzungskonzept <small>(06.05.2022)</small>
+  * [Südwest Presse (Paywall)][68]: Verschwörhaus Ulm: Eskaliert der Streit zwischen der Stadt und den Ehrenamtlichen? <small>(08.05.2022)</small>
+  * [Tagesspiegel Background (Paywall)][69]: Ulm: Streit um „Verschwörhaus“ <small>(10.05.2022)</small>
+  * [Tagesspiegel Background (Paywall)][70]: Ulm: Verschwörhaus-Community berät über Forderungen <small>(31.05.2022)</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
@@ -145,7 +150,12 @@ slug: presse
  [59]: https://www.schwaebische.de/landkreis/landkreis-ravensburg/bad-waldsee_artikel,-waldseer-schueler-experimentieren-wieder-um-die-wette-_arid,11333233.html
  [60]: https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
  [61]: https://web.archive.org/web/20210302105134/https://www.augsburger-allgemeine.de/neu-ulm/Hochwassersensoren-an-Donau-und-Blau-bestehen-den-Praxistest-id59156486.html
- [62]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html 
- [63]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-das-digitale-stadtlabor-verliert-seinen-macher_-bedauern_-respekt-und-dank-60715829.html
- [64]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-projektleiter-stefan-kaufmann-geht_-das-sagen-die-ehrenamtlichen-dazu-60735219.html
- [65]: https://www.swp.de/lokales/ulm/digitales-ulm-streit-ums-verschwoerhaus_-wem-gehoeren-name-und-logo_-62043943.html
+ [62]: https://verwaltungsrebellen.de/verschwoerhaus-in-ulm/
+ [63]: https://www.swp.de/suedwesten/staedte/neu-ulm/radfahren-in-neu-ulm-aergernis-allgaeuer-ring_-so-soll-der-umbau-der-nervigen-umlaufsperren-aussehen-58161009.html 
+ [64]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-das-digitale-stadtlabor-verliert-seinen-macher_-bedauern_-respekt-und-dank-60715829.html
+ [65]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-projektleiter-stefan-kaufmann-geht_-das-sagen-die-ehrenamtlichen-dazu-60735219.html
+ [66]: https://www.swp.de/lokales/ulm/digitales-ulm-streit-ums-verschwoerhaus_-wem-gehoeren-name-und-logo_-62043943.html
+ [67]: https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/neues-nutzungskonzept-fuer-verschwoerhaus-ulm-100.html
+ [68]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-eskaliert-der-streit-zwischen-der-stadt-und-den-ehrenamtlichen_-64277005.html
+ [69]: https://background.tagesspiegel.de/smart-city/ulm-streit-um-verschwoerhaus
+ [70]: https://background.tagesspiegel.de/smart-city/ulm-verschwoerhaus-community-beraet-ueber-forderungen

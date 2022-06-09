@@ -3,7 +3,7 @@ title: "FCLR 2022 im Verschwörhaus: All too familiar? How are German volunteers
   perceived in the Global South in the context of colonial memories?"
 author: Tom Novy
 date: 2022-06-09T13:02:18.012Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2022/06/images.png
 tags:
   - FCLR

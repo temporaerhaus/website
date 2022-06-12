@@ -273,6 +273,11 @@ li.active a, li.active a:hover {
   padding: 0 4.5455%;
 }
 
+.full-alert-spacing {
+  margin-bottom: 1.5em;
+  padding: 1.8em 0;
+}
+
 .site-info span[role=separator]:first-child {
   display: none;
 }

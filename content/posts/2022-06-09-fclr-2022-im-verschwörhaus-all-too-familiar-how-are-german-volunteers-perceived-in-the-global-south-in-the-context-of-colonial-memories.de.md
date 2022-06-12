@@ -7,8 +7,6 @@ draft: false
 featured_image: /wp-content/uploads/2022/06/images.png
 tags:
   - FCLR
-  - volunteers
-  - bridginggaps
 ---
 Das FCLR (Festival contre le racisme) kommt ins Verschwoerhaus mit einer (englischsprachigen) Veranstaltung zur kritischen Beleuchtung von Freiwilligendienste. Bei der Veranstaltung werden junge Menschen aus Südafrika zugeschaltet. 
 
@@ -20,7 +18,7 @@ This presentation will unpack of volunteers are perceived by the recipient organ
 
 The event will also take place online via zoom. The link to the zoom meeting will be published here soon!
 
-In cooperation with [Bridging Gaps e.V.](http://www.bridginggapsev.com/de/test-startseite/)
+In cooperation with [Bridging Gaps e.V.](http://www.bridginggapsev.com/de/test-startseite/)
 
 
 

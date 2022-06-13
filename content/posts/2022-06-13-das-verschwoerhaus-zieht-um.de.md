@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-<abbr title="too long; didn't read">tl;dr</abbr>: _Die Stadt Ulm will den Ehrenamtlichen ihren Namen klauen und wirft uns aus den Räumlichkeiten am Weinhof. Jetzt benötigen wir deine Unterstützung bei der Suche nach einem neuen Ort für das Verschwörhaus._
+<abbr title="too long; didn't read">tl;dr</abbr>: _Die Stadt Ulm will den Ehrenamtlichen ihren Namen wegnehmen und wirft uns aus den Räumlichkeiten am Weinhof. Jetzt benötigen wir deine Unterstützung bei der Suche nach einem neuen Ort für das Verschwörhaus._
 
 Die ganze Geschichte: 
 
@@ -33,6 +33,7 @@ Um das zu verwirklichen, suchen wir bereits nach einem neuen Ort für das Versch
 
 Wir achten vorallem darauf, dass möglichst wenig des Charmes der bisherigen Räume am Weinhof am zukünftigen Ort verloren geht und **suchen daher besonders nach barrierefreien Räumlichkeiten mit einladender Fensterfront (o.ä.) an nicht ganz abgeschiedenen Orten** - sodass auch weiterhin spontan neugierig vorbeiziehende Menschen an offenen Abenden ins Verschwörhaus stolpern. Wir freuen uns [neben den klassischen Unterstützungsformen](https://verschwoerhaus.de/spenden) auch über Tipps und Hinweise an kontakt<!-- -->22@verschwoerhaus.<!-- nospam.example -->de oder über dieses [Formular](https://forms.gle/Z2GddN17hjPof1rJ9).
 
+Der Vollständigkeit halber möchten wir an dieser Stelle auch auf die entsprechende [Pressemitteilung der Stadt Ulm](https://www.ulm.de/leben-in-ulm/digitale-stadt/meldungen/2022_06_juni/vsh_verein_abstimmung_juni2022) verweisen.
 
 <small>
 Foto: <a href="https://commons.wikimedia.org/wiki/File:Wiki-Stützpunkt_Ulm_2016-07-06_-_Brainstorming.jpg">Wiki-Stützpunkt Ulm 2016-07-06 - Brainstorming</a> von <a href="https://commons.wikimedia.org/wiki/User:Tobias_%22ToMar%22_Maier">Tobias "ToMar" Maier</a> unter <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode" rel="license">CC BY-SA 3.0</a>

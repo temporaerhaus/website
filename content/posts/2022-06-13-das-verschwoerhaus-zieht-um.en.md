@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-<abbr title="too long; didn't read">tl;dr</abbr>: _Ulm's city administration wants to steal the volunteers' name and is kicking us out of the space at the Weinhof. Now we need your support in finding a new place for the Verschwörhaus._
+<abbr title="too long; didn't read">tl;dr</abbr>: _Ulm's city administration wants to take away the volunteers' name and is kicking us out of the space at the Weinhof. Now we need your support in finding a new place for the Verschwörhaus._
 
 Full story: 
 
@@ -33,6 +33,7 @@ In order to realise this, we are already looking for a new location for the Vers
 
 We are especially concerned about loosing as little as possible of the charm of the previous rooms at the Weinhof and **are therefore particularly looking for an accessible location with inviting storefronts (or similar) in places that are not too far off** - so that people who are passing by spontaneously stumble into the Verschwörhaus on open evenings. [Besides the usual forms of support](https://verschwoerhaus.de/spenden), we are also grateful for tips and hints at kontakt<!-- -->22@verschwoerhaus.<!-- nospam.example -->de or via [this form](https://forms.gle/Z2GddN17hjPof1rJ9).
 
+For completeness, we would also like to refer to the corresponding [press release of the city of Ulm](https://www.ulm.de/leben-in-ulm/digitale-stadt/meldungen/2022_06_juni/vsh_verein_abstimmung_juni2022) (only available in German).
 
 <small>
 Photo: <a href="https://commons.wikimedia.org/wiki/File:Wiki-Stützpunkt_Ulm_2016-07-06_-_Brainstorming.jpg">Wiki-Stützpunkt Ulm 2016-07-06 - Brainstorming</a> von <a href="https://commons.wikimedia.org/wiki/User:Tobias_%22ToMar%22_Maier">Tobias "ToMar" Maier</a> unter <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode" rel="license">CC BY-SA 3.0</a>

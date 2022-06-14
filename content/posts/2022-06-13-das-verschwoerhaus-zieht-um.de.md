@@ -17,7 +17,7 @@ Wir müssen als Verschwörhaus e.V. mit unseren Ehrenamtlichen und Freunden, off
 
 Seitdem haben wir viele anstrengende, nervenaufreibende und traurigerweise auch persönlich auslaugende Verhandlungen mit der Stadtverwaltung geführt – leider nicht auf Augenhöhe. Alle unsere Anstrengungen sind nun gescheitert. Die Stadtverwaltung ließ keinerlei Verständnis für ehrenamtliches Engagement erkennen und hat zuletzt sogar hinter unserem Rücken "Verschwörhaus" als Marke angemeldet - dagegen haben wir Widerspruch eingereicht.
 
-Jetzt wirft uns die Stadtverwaltung auch aus den Räumlichkeiten am Weinhof. Denn wir haben auf einer Mitgliederversammlung beschlossen, den vorgegebenen "Nutzungsvertrag" der Stadt nicht zu unterschreiben. Darin wollte die Stadt erzwingen, dass wir den Namen und unsere öffentlichen Kanäle (Webseite, Mailadresse, etc.) abgeben und kaum inhaltliche Gestaltungsmöglichkeiten haben, was unter dem Label "Verschwörhaus" künfig passiert. Dem können wir so nicht zustimmen.
+Jetzt wirft uns die Stadtverwaltung auch aus den Räumlichkeiten am Weinhof. Denn wir haben auf einer Mitgliederversammlung beschlossen, den vorgegebenen "Nutzungsvertrag" der Stadt nicht zu unterschreiben. Darin wollte die Stadt erzwingen, dass wir den Namen und unsere öffentlichen Kanäle (Webseite, Mailadresse, etc.) abgeben und kaum inhaltliche Gestaltungsmöglichkeiten haben, was unter dem Label "Verschwörhaus" künftig passiert. Dem können wir so nicht zustimmen.
 
 Wir sollen nun bis spätestens zum 13.07. aus den Räumlichkeiten am Weinhof ausziehen und die Schlüssel abgeben.
 

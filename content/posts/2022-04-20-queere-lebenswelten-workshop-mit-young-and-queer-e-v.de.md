@@ -1,5 +1,5 @@
 ---
-title: Queere Lebenswelten - Workshop mit Young and Queer e.V.
+title: Queere Lebenswelten - Workshop mit Young and Queer e.V. +++ fällt aus +++
 author: Tom Novy
 date: 2022-04-20T22:03:24.007Z
 draft: false
@@ -11,6 +11,10 @@ tags:
   - JugendhacktLab
   - Workshop
 ---
+++++++Aufgrund des aktuellen Umzugs des Verschwörhaus e.V. aus den Räumen, können wir den Workshop leider nicht anbieten. Es wird aber in der zweiten Jahreshälfte einen Ersatztermin geben :) ++++++
+
+
+
 Das Jugend hackt Lab im Verschwörhaus ist mit einem weiteren Workshop am Start. Wir freuen uns am 25. Juni um 13.00h den Ulmer Verein *Young and Queer* im Hausi zu Gast zu haben. Im Workshop werden:
 
 * gängige Vorurteile hinterfragt, 

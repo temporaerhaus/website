@@ -1,6 +1,6 @@
 ---
 title: Das Verschwörhaus ist ausgezogen, die Räume am Weinhof sind nun leer
-author: ghabiger
+author: Gerhard Habiger
 date: 2022-07-13T10:31:24.101Z
 draft: false
 featured_image: /wp-content/uploads/2022/07/foto-10.07.22-21-07-54.jpg

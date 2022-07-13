@@ -1,4 +1,18 @@
 ---
-date: 2022-07-13T10:31:24.119Z
+title: Das Verschwörhaus ist ausgezogen, die Räume am Weinhof sind nun leer
+author: ghabiger
+date: 2022-07-13T10:31:24.101Z
 draft: false
+featured_image: /wp-content/uploads/2022/07/foto-10.07.22-21-07-54.jpg
 ---
+Nachdem die Ulmer Stadtspitze sich endgültig entschieden hatte uns aus den bisherigen Räumen [heraushaben zu wollen](https://verschwoerhaus.de/das-verschwoerhaus-zieht-um/), haben wir in den letzten Wochen unsere Sachen gepackt. Wie von der Stadtverwaltung gewünscht verlässt das Verschwörhaus demnach zum heutigen Mittwoch die Räume am Ulmer Weinhof. Die ehemaligen Sparkassenbüros sind damit wieder zu einer leeren Hülle geworden.
+
+In den letzten Wochen haben wir mit einigem Aufwand unsere Infrastruktur zum Betrieb der Räume, sowie unser sonstiges Material und Mobiliar verpackt und erst einmal eingelagert. In grob geschätzt 300 bis 400 Arbeitsstunden haben wir Ehrenamtlichen unzählige Kisten gepackt, auf insgesamt 26 Paletten verladen und abtransportiert.
+
+Der Rauswurf bedeutet aber nicht das Ende für das Verschwörhaus und unsere Angebote. Wir haben weiterhin Power und freuen uns auf einen Neuanfang! Dafür suchen wir nach neuen Räumlichkeiten in Ulm oder Neu-Ulm. Es gibt bereits Austausch mit verschiedenen Förderern, die Bereitschaft zur langfristigen Finanzierung signalisiert haben, aber wir müssen vorher noch zu uns passende Räume finden. Wir suchen einerseits eine kurzfristig verfügbare Unterkunft mit einer Fläche ab ca. 60 m² als Zwischenlösung für ein paar Monate. Was diese Interimsunterkunft angeht, sind wir recht spontan und flexibel. Gleichzeitig wollen wir wieder eine richtig gut passende und langfristig nutzbare Bleibe ab ca. 200 m² finden, in der wir auch wieder einen größeren Raum für Vorträge und andere Veranstaltungen haben, sowie eine Holzwerkstatt aufbauen können. Wenn uns jemand solche Räume anbieten oder Hinweise geben kann, gibt es [hier mehr Informationen zur Raumsuche](https://verschwoerhaus.de/umzug).
+
+Von uns aus hätte das Verschwörhaus natürlich in den bisherigen Räumen am Weinhof bleiben und weiterentwickelt werden können. Sehr gerne hätten wir die (Infrastruktur und unsere Programme)[https://wiki.verschwoerhaus.de] in den Räumen weiter betrieben und wie in den letzten sechs Jahren allen interessierten Ulmer:innen und allen anderen Gästen zur Verfügung gestellt – egal ob für neue eigene Projekte oder einfach nur zum Reinschnuppern in viele spannende Ecken der digitalen Welt. Nach den monatelangen Verhandlungen war die Ulmer Stadtspitze und die Vertreter:innen der Digitalen Agenda jedoch offensichtlich nicht in der Lage sich weiter auf das “Digitale Ehrenamt” einzulassen und unsere Kultur sowie die grundlegenden Antriebe für ehrenamtliches Engagement zu verstehen. Es war am Ende nicht möglich sich auf einen für beide Seiten gangbaren Modus für die weitere Zusammenarbeit zu einigen. Wir sind nach wie vor davon überzeugt, dass Orte wie das Verschwörhaus als Begegnungsorte für die so dringenden digitalen Themen eine [wichtige Infrastruktur für jede Stadt](https://verschwoerhaus-bleibt.de/) sind – insbesondere wenn sie neben einfachen Treffpunkten auch Werkstätten und echtes Know-How bieten. Dementsprechend hoffen wir, dass der Stadtverwaltung Ulm eine [Aufarbeitung der Auseinandersetzung der letzten Monate](https://piratenpartei-bw.de/2022/06/30/antrag-verschwoerhaus-ulm/) gelingt. Wir nehmen gerne daran teil und stehen für einen [Austausch zur Verfügung](https://verschwoerhaus.de/kontakt/).
+Durch unsere Auszug ist am Weinhof die Bühne für die städtische Vision eines Stadtlabors wieder bereitet. Wir wünschen viel Erfolg bei der Umsetzung!
+
+Für das Verschwörhaus geht es nun jedoch in neuen Räumen ohne die direkte Zusammenarbeit mit der Ulmer Stadtverwaltung weiter.
+Wir freuen uns auf den Start in die neue Ära und blicken voller Tatendrang auf die nächsten Tage und Wochen :)

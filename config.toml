@@ -40,8 +40,14 @@ date = [":filename", ":default"]
     [[languages.de.menu.main]]
       parent = "das-haus"
       identifier = "tour"
-      name = "virtuelle Tour"
+      name = "Virtuelle Tour"
       url = "/tour/"
+
+    [[languages.de.menu.main]]
+      parent = "das-haus"
+      identifier = "Umzug"
+      name = "Umzug"
+      url = "/umzug/"
 
     [[languages.de.menu.main]]
       parent = "das-haus"
@@ -197,8 +203,14 @@ date = [":filename", ":default"]
     [[languages.en.menu.main]]
       parent = "das-haus"
       identifier = "tour"
-      name = "virtual Tour"
+      name = "Virtual Tour"
       url = "/en/tour/"
+
+    [[languages.en.menu.main]]
+      parent = "das-haus"
+      identifier = "umzug"
+      name = "Moving"
+      url = "/en/umzug/"
 
     [[languages.en.menu.main]]
       parent = "das-haus"

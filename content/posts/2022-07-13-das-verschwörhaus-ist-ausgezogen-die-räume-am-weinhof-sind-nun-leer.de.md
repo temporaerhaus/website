@@ -6,6 +6,7 @@ draft: false
 featured_image: /wp-content/uploads/2022/07/foto-10.07.22-21-07-54.jpg
 ---
 Nachdem die Ulmer Stadtspitze sich endgültig entschieden hatte uns aus den bisherigen Räumen [heraushaben zu wollen](https://verschwoerhaus.de/das-verschwoerhaus-zieht-um/), haben wir in den letzten Wochen unsere Sachen gepackt. Wie von der Stadtverwaltung gewünscht verlässt das Verschwörhaus demnach zum heutigen Mittwoch die Räume am Ulmer Weinhof. Die ehemaligen Sparkassenbüros sind damit wieder zu einer leeren Hülle geworden.
+Wie das Haus sich über die Jahre entwickelte, und wie es jeweils vor und nach dem Auszug aussah, kann man in unseren [virtuellen Touren](/tour/) durch das ehemalige Verschwörhaus wunderbar selbst erkunden.
 
 ![Das Lötlabor nach dem Auszug](/wp-content/uploads/2022/07/auszug-3.jpg)
 
@@ -13,7 +14,7 @@ In den letzten Wochen haben wir mit einigem Aufwand unsere Infrastruktur zum Bet
 
 ![Der Salon wird gepackt](/wp-content/uploads/2022/07/auszug-1.jpg)
 
-Der Rauswurf bedeutet aber nicht das Ende für das Verschwörhaus und unsere Angebote. Wir haben weiterhin Power und freuen uns auf einen Neuanfang! Dafür suchen wir nach neuen Räumlichkeiten in Ulm oder Neu-Ulm. Es gibt bereits Austausch mit verschiedenen Förderern, die Bereitschaft zur langfristigen Finanzierung signalisiert haben, aber wir müssen vorher noch zu uns passende Räume finden. Wir suchen einerseits eine kurzfristig verfügbare Unterkunft mit einer Fläche ab ca. 60 m² als Zwischenlösung für ein paar Monate. Was diese Interimsunterkunft angeht, sind wir recht spontan und flexibel. Gleichzeitig wollen wir wieder eine richtig gut passende und langfristig nutzbare Bleibe ab ca. 200 m² finden, in der wir auch wieder einen größeren Raum für Vorträge und andere Veranstaltungen haben, sowie eine Holzwerkstatt aufbauen können. Wenn uns jemand solche Räume anbieten oder Hinweise geben kann, gibt es [hier mehr Informationen zur Raumsuche](https://verschwoerhaus.de/umzug).
+Die Aufforderung zum Auszug bedeutet aber nicht das Ende für das Verschwörhaus und unsere Angebote. Wir haben weiterhin Power und freuen uns auf einen Neuanfang! Dafür suchen wir nach neuen Räumlichkeiten in Ulm oder Neu-Ulm. Es gibt bereits Austausch mit verschiedenen Förderern, die Bereitschaft zur langfristigen Finanzierung signalisiert haben, aber wir müssen vorher noch zu uns passende Räume finden. Wir suchen einerseits eine kurzfristig verfügbare Unterkunft mit einer Fläche ab ca. 60 m² als Zwischenlösung für ein paar Monate. Was diese Interimsunterkunft angeht, sind wir recht spontan und flexibel. Gleichzeitig wollen wir wieder eine richtig gut passende und langfristig nutzbare Bleibe ab ca. 200 m² finden, in der wir auch wieder einen größeren Raum für Vorträge und andere Veranstaltungen haben, sowie eine Holzwerkstatt aufbauen können. Wenn uns jemand solche Räume anbieten oder Hinweise geben kann, gibt es [hier mehr Informationen zur Raumsuche](https://verschwoerhaus.de/umzug).
 
 ![Die ersten Paletten](/wp-content/uploads/2022/07/auszug-2.jpg)
 
@@ -25,4 +26,4 @@ Durch unsere Auszug ist am Weinhof die Bühne für die städtische Vision eines 
 Für das Verschwörhaus geht es nun jedoch in neuen Räumen ohne die direkte Zusammenarbeit mit der Ulmer Stadtverwaltung weiter.
 Wir freuen uns auf den Start in die neue Ära und blicken voller Tatendrang auf die nächsten Tage und Wochen :)
 
-_Bilder: CC-BY 4.0 Jakob Pietron, und Mitglieder:innen der Verschwörhaus-Community_
+*Bilder: CC-BY 4.0 Jakob Pietron, und Mitglieder:innen der Verschwörhaus-Community*

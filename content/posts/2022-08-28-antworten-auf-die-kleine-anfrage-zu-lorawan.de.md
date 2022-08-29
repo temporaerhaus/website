@@ -2,7 +2,9 @@
 title: Antworten auf die kleine Anfrage zu LoRaWAN und TTN
 author: TTN Ulm
 date: 2022-08-28T23:37:20.0Z
-draft: false
+type: post
+categories:
+  - ttn
 featured_image: /wp-content/uploads/2022/08/lora.jpg
 ---
 Im August 2021 stellten [Daniel Karrais](https://www.daniel-karrais-mdl.de/) und andere MdL aus der baden-württembergischen FDP/DVP-Fraktion eine kleine Anfrage zu den Fortschritten rund um das [im Koalitionsvertrag](https://www.baden-wuerttemberg.de/de/regierung/landesregierung/koalitionsvertrag-fuer-baden-wuerttemberg/) als Ziel vereinbarte [LoRaWAN-Netz](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) an die Landesregierung. Sie fragten u.A. ab, welche Maßnahmen die Regierung bislang ergriffen habe, um LoRaWAN voranzutreiben, nach welchen Kriterien Projekte gefördert werden sollen, und welche Bedeutung die Landesregierung offenen Netzen beimesse. Schöner Weise ist das Engagement der Ehrenamtlichen derart bekannt, dass explizit auch abgefragt wurde, „ob externe Stakeholder, wie etwa das Verschwörhaus in Ulm, mit in den Prozess einbezogen werden, um so auf bestehendes Know-how zurückzugreifen“ :)

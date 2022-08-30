@@ -13,7 +13,7 @@ Also wurden wir – natürlich neben einiger anderer Communities im Land – tat
 
 Da wir aber einfach mal zu _allen_ angefragten Punkten eine Antwort abgegeben hatten, haben wir im Nachgang mit unserem Kontakt beim Innenministerium vereinbart, unsere komplette Antwort bei uns zu veröffentlichen. Bis auf kleine redaktionelle Änderungen folgt hier also unsere Einschätzung zu den abgefragten Punkten, wie wir sie ans Innenministerium übersandt haben:
 
-# Antworten TTN Ulm auf Drs 17/659, Einsatz von LoRaWAN (Low Range Wide Area Network)
+# Antworten TTN Ulm auf Drs 17/659, Einsatz von LoRaWAN (Long Range Wide Area Network)
 
 Hintergrund: Im Sommer 2016 beschlossen Mitglieder des Unternehmervereins [initiative.ulm.digital](https://ulm-digital.com/), den Aufbau eines freien LoRaWAN-Netzwerks über [The Things Network (TTN)](https://thethingsnetwork.org/) in Ulm voranzutreiben. Gemeinsam mit Akteuren aus dem Digitalen Ehrenamt [wurde eine lokale TTN-Community gegründet](https://www.thethingsnetwork.org/community/ulm/). Auf Betreiben und aus Mitteln des Unternehmervereins konnten binnen weniger Monate bis Ende 2016 fünf  professionelle Gateways im Stadtgebiet in Betrieb gehen, die zum Netzwerk beitrugen. Es folgten vier weitere in 2017 und 2018. Durch die Initiative konnten qualitativ hochwertige Standorte für die Montage gefunden werden (z.B. das Ulmer Münster, wobei die Installation und Anbindung gemeinsam mit Ehrenamtlichen aus dem Verschwörhaus abgestimmt und realisiert wurden).
 

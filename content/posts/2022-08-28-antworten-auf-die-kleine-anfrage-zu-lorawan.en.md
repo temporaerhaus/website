@@ -13,7 +13,7 @@ This led to us being sent the questionnaire by Karras et al. through the Ministr
 
 But since we answered _all_ of the questions asked by Karrais et al., we agreed with our contact at the Ministry of the Interior that we would publish our complete answers in full. So, here we go, this was our complete answer as we sent it to the Ministry:
 
-# Antworten TTN Ulm auf Drs 17/659, Einsatz von LoRaWAN (Low Range Wide Area Network)
+# Antworten TTN Ulm auf Drs 17/659, Einsatz von LoRaWAN (Long Range Wide Area Network)
 
 Hintergrund: Im Sommer 2016 beschlossen Mitglieder des Unternehmervereins [initiative.ulm.digital](https://ulm-digital.com/), den Aufbau eines freien LoRaWAN-Netzwerks über [The Things Network (TTN)](https://thethingsnetwork.org/) in Ulm voranzutreiben. Gemeinsam mit Akteuren aus dem Digitalen Ehrenamt [wurde eine lokale TTN-Community gegründet](https://www.thethingsnetwork.org/community/ulm/). Auf Betreiben und aus Mitteln des Unternehmervereins konnten binnen weniger Monate bis Ende 2016 fünf  professionelle Gateways im Stadtgebiet in Betrieb gehen, die zum Netzwerk beitrugen. Es folgten vier weitere in 2017 und 2018. Durch die Initiative konnten qualitativ hochwertige Standorte für die Montage gefunden werden (z.B. das Ulmer Münster, wobei die Installation und Anbindung gemeinsam mit Ehrenamtlichen aus dem Verschwörhaus abgestimmt und realisiert wurden).
 

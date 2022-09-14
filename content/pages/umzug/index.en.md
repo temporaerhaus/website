@@ -1,8 +1,9 @@
 ---
-title: Umzug
+title: Das Verschwörhaus zieht um
 type: page
 slug: umzug
-
+sticky: true
+featured_image: /wp-content/uploads/2022/09/umzug.jpg
 ---
 
 Das Verschwörhaus sucht eine neue Bleibe in Ulm oder Neu-Ulm. Einerseits sind wir auf der Suche nach einer kurzfristig verfügbaren Unterkunft mit einer Fläche ab ca. 60 m² als __Zwischenlösung__ für ein paar Monate. Was diese Interimsunterkunft angeht, sind wir recht spontan und flexibel. Gleichzeitig wollen wir wieder eine richtig __gut passende und langfristig nutzbare Bleibe__ ab mind. 200 m² finden, in der wir auch wieder einen größeren Raum für Workshops und Vorträge haben und daneben auch eine Werkstatt aufbauen können. Wenn uns jemand solche Räume anbieten möchten oder hilfreiche Hinweise und Tipps einfallen, bitten wir darum uns zu kontaktieren (umzug@verschwoerhaus.de, 0731/14116501)!!

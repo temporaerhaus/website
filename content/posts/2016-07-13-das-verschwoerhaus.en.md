@@ -9,7 +9,6 @@ featured_image: /wp-content/uploads/2016/07/outdoor_reflection-1200x675.jpg
 categories:
   - bootstrap
   - news
-sticky: true
 ---
 Welcome to the Verschwörhaus – the “Experimentation platform for the world of tomorrow”! We have 3D Printers, an Open Workshop Area, Lecture rooms – and, most importantly, a lot of ideas and content to accompany our home city of Ulm into the future!
 

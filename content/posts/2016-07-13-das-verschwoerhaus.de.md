@@ -6,7 +6,6 @@ date: 2016-07-13T18:42:20+00:00
 url: /das-verschwoerhaus/
 language: de
 featured_image: /wp-content/uploads/2016/07/outdoor_reflection-1200x675.jpg
-sticky: true
 categories:
   - bootstrap
   - news

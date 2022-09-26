@@ -11,9 +11,21 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 +﻿++ Aktuelle Infos +++
 
-D﻿as Verschwörhaus ist auf Locationsuche. Auf das Jugend hackt Lab wollen wir aber dabei nicht verzichten: du findest uns bis Ende 2022 zu folgenden Terminen an gewohnter Stelle am Weinhof 9: 
+D﻿as Verschwörhaus ist auf Locationsuche. Auf das Jugend hackt Lab wollen wir aber dabei nicht verzichten: du findest uns bis Ende 2022 **zu folgenden Terminen an gewohnter Stelle am Weinhof 9**: 
 
+\-﻿ Di. 26. September 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
 
+\-﻿ Di. 4. Oktober 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
+
+\-﻿﻿ Di. 18. Oktober 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
+
+\-﻿﻿ Di. 25. Oktober 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
+
+\-﻿﻿ Di. 8. November 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
+
+\-﻿﻿ Di. 15. November 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
+
+\-﻿﻿ Di. 22. November 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
 
 
 

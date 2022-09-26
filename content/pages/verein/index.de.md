@@ -22,4 +22,4 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 Für alle Dinge rund um den Verein erreichst du uns am besten unter _vorstand (at) verschwoerhaus (punkt) de_.
 
 ### Mitgliedsschaft im Verein
-Du willst Mitglied im Verein werden? Dann schicke uns einfach eine Mail an `vorstand ÄT verschwoerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum die beitreten willst bzw. wie du bisher bei uns aktiv warst.
+Du willst Mitglied im Verein werden? Dann schicke uns einfach eine Mail an `vorstand ÄT verschwoerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.

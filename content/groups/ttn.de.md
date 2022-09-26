@@ -49,7 +49,7 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 
 ![Foto des Hochwassersensors unter der Herdbrücke](/wp-content/uploads/2022/03/ttn_hochwassersensor.jpeg)
 
-**Unnötige Umwege** Die Radwege an der Donau unterhalb der Herdbrücke sowie an der Blau (nahe In der Wanne), werden bei Hochwasser oft überschwemmt und sind dann nicht mehr befahrbar. Damit man das nicht erst merkt, wenn man davor steht, haben wir zusammen mit der [Digitalen Agenda](https://www.ulm.de/leben-in-ulm/digitale-stadt/gs-digitale-agenda) zwei Hochwassersensoren an diesen Stellen angebracht.
+**Unnötige Umwege** Die Radwege an der Donau unterhalb der Herdbrücke sowie an der Blau (nahe In der Wanne), werden bei Hochwasser oft überschwemmt und sind dann nicht mehr befahrbar. Damit man das nicht erst merkt, wenn man davor steht, haben wir zusammen mit der Digitalen Agenda zwei Hochwassersensoren an diesen Stellen angebracht.
 
 **Sensorik** Mit Ultraschall wird der Abstand zwischen Sensor und Fahrbahn gemessen. Der Sensor ist über Kopf angebracht und kann Abweichungen im Millimeterbereich erkennen. Wenn dieser Abstand dauerhaft kleiner wird, steht vermutlich Wasser auf der Fahrbahn. Die Differenz des normalen Abstands und des aktuellen Abstands gibt die Höhe des Wasserpegels an. Ausreißer, Schwankungen und weitere Störfaktoren werden herausgefiltert. Der Sensor arbeitet mit einer Akkuladung bis zu 3 Jahre lang autark und versendet seine Daten per LoRaWAN an eine Datenbank im Internet.
 

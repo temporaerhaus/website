@@ -27,6 +27,10 @@ D﻿as Verschwörhaus ist auf Locationsuche. Auf das Jugend hackt Lab wollen wir
 
 \-﻿﻿ Di. 22. November 2022, 16.00 Uhr bis 19.00 Uhr: Open Lab
 
+\-﻿ Sa, 10. Dezember 2022, 13 Uhr bis 16 Uhr: Game Adventures Workshop
+
+\-﻿ Di 20. Dezember 2022,  16.00 Uhr bis 19.00 Uhr: Xmas Lab (Weihnachtsfeier und Ausblick auf 2023)
+
 
 
 

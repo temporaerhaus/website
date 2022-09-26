@@ -9,15 +9,20 @@ Das Jugend hackt Lab bietet regelmäßig online und offline Workshops und offene
 
 Kontakt: tom \[at] verschwoerhaus.de
 
-Kommende Termine:
++﻿++ Aktuelle Infos +++
 
-* [Di. 24. Mai 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)[](https://verschwoerhaus.de/open-lab-is-back/)
-* [Di. 14. Juni 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [Sa. 25. Juni 2022, 13- 15.30h Queere Lebenswelten Workshop (offen für alle)](https://verschwoerhaus.de/queere-lebenswelten-workshop-mit-young-and-queer-e-v/)
-* [Di. 12. Juli 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [Di. 26. Juli 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [Di. 9. August 2022, 17 - 21.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/) (letztes Lab vor Sommerpause)
-* [Di. 13. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
-* [Di. 27. September 2022, 16 - 19.00 Uhr: Open Lab](https://verschwoerhaus.de/open-lab-is-back/)
+D﻿as Verschwörhaus ist auf neuer Locationsuche. Auf das Jugend hackt Lab wollen wir aber dabei nicht verzichten: du findest uns bis Ende 2022 zu folgenden Terminen an gewohnter Stelle am Weinhof 9: 
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![](/wp-content/uploads/sponsors2022.png)

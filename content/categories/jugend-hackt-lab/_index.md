@@ -11,7 +11,7 @@ Kontakt: tom \[at] verschwoerhaus.de
 
 +﻿++ Aktuelle Infos +++
 
-D﻿as Verschwörhaus ist auf neuer Locationsuche. Auf das Jugend hackt Lab wollen wir aber dabei nicht verzichten: du findest uns bis Ende 2022 zu folgenden Terminen an gewohnter Stelle am Weinhof 9: 
+D﻿as Verschwörhaus ist auf Locationsuche. Auf das Jugend hackt Lab wollen wir aber dabei nicht verzichten: du findest uns bis Ende 2022 zu folgenden Terminen an gewohnter Stelle am Weinhof 9: 
 
 
 

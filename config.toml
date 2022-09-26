@@ -111,12 +111,12 @@ date = [":filename", ":default"]
       url = "/verein/"
       weight = -75
 
-    [[languages.de.menu.main]]
-      parent = "ueber-uns"
-      identifier = "sponsors"
-      name = "Unterstützer*innen & Sponsoren"
-      url = "#"
-      weight = -74
+#    [[languages.de.menu.main]]
+#      parent = "ueber-uns"
+#      identifier = "sponsors"
+#      name = "Unterstützer*innen & Sponsoren"
+#      url = "#"
+#      weight = -74
 
     [[languages.de.menu.main]]
       parent = "ueber-uns"
@@ -274,12 +274,12 @@ date = [":filename", ":default"]
       url = "/en/verein/"
       weight = -75
 
-    [[languages.en.menu.main]]
-      parent = "about-us"
-      identifier = "sponsors"
-      name = "Supporters & Sponsors"
-      url = "#"
-      weight = -74
+#    [[languages.en.menu.main]]
+#      parent = "about-us"
+#      identifier = "sponsors"
+#      name = "Supporters & Sponsors"
+#      url = "#"
+#      weight = -74
 
     [[languages.en.menu.main]]
       parent = "about-us"

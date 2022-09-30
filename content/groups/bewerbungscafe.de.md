@@ -1,10 +1,7 @@
 ---
 title: Bewerbungscafé für Geflüchtete
 slug: bewerbungscafe
-menu: 
-  main:
-    title: 'Bewerbungscafé'
-    parent: groups
+noindex: true
 type: page
 ---
 

@@ -5,21 +5,17 @@ type: page
 
 ---
 
-[Weinhof 9][1] – **_Please *do not* send (small) parcels to this address!_**  
-[89073 Ulm][1]
-  
+Sadly, we don't have a visitable location anymore! But we are working hard to find a place to be and will keep you posted at times!  
 E-Mail: kontakt22 „at“ verschwoerhaus.de  
-Twitter: [@verschwoerhaus][2]
+Twitter: [@verschwoerhaus][1]
 
-Telefon: +49 731 14116501 (please call only in emergency situations, we _really really_ prefer E-Mail)
+Telefon: +49 731 14116501 (please only call in emergency situations, we _really really_ prefer E-Mail)
 
-## Address for Parcels
+## Address of our non-profit
 
-We can only receive simple letters at the Verschwörhaus, which do not have to be processed immediately. For larger items please use this address:
 
 Verschwoerhaus e.V.  
-Weinhof 7  
+Eberhardtstr. 43
 89073 Ulm
 
- [1]: https://www.openstreetmap.org/node/1437402541#map=19/48.39649/9.99047
- [2]: https://twitter.com/verschwoerhaus
+ [1]: https://twitter.com/verschwoerhaus

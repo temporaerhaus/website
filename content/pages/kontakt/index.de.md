@@ -5,21 +5,17 @@ type: page
 
 ---
 
-[Weinhof 9][1] – **_Bitte keine Päckchen/Pakete an diese Adresse schicken!_**  
-[89073 Ulm][1]
+Momentan haben wir keine Besuchslocation mehr! Wir sind aber dran, etwas Neues zu finden und informieren euch baldmöglichst!
   
 E-Mail: kontakt22 „at“ verschwoerhaus.de  
-Twitter: [@verschwoerhaus][2]
+Twitter: [@verschwoerhaus][1]
 
 Telefon: +49 731 14116501 (bitte nur in Notfällen verwenden, wir bevorzugen _wirklich_ E-Mails)
 
-## Adresse für Paketsendungen
-
-Wir können am Verschwörhaus nur einfache Briefe empfangen, die nicht gleich bearbeitet werden müssen. Für größere Sendungen bitte diese Adresse verwenden:
+## Adresse des Vereins 
 
 Verschwörhaus e.V.  
-Weinhof 7  
+Eberhardtstr. 43  
 89073 Ulm
 
- [1]: https://www.openstreetmap.org/node/1437402541#map=19/48.39649/9.99047
- [2]: https://twitter.com/verschwoerhaus
+ [1]: https://twitter.com/verschwoerhaus

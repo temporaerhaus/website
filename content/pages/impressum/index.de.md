@@ -7,8 +7,8 @@ type: page
 
 ## Angaben gemäß § 5 TMG:
 
-Verschwörhaus e.V.  
-Weinhof 9  
+Verschwörhaus e.V.
+Eberhardtstr. 43
 89073 Ulm
 
 ## Kontakt:
@@ -18,8 +18,8 @@ E-Mail:
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Verschwörhaus e.V.  
-Weinhof 9  
+Verschwörhaus e.V.
+Eberhardtstr. 43
 89073 Ulm
 
 # Haftungsausschluss (Disclaimer)

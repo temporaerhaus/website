@@ -17,9 +17,7 @@ Welcome to the Verschwörhaus – the “Experimentation platform for the world 
 
 ## Where is the Verschwörhaus?
 
-<!--StartFragment-->
-
-<!--EndFragment-->
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.950566291809084%2C48.37711928442904%2C10.034680366516115%2C48.41251072575901&amp;layer=mapnik&amp;marker=48.394818082390145%2C9.992623329162598" style="border: 1px solid black; float: right; margin-bottom: 50px;"></iframe>
 
 T﻿he Verschwörhaus [is currently looking for a new location](/umzug/).
 

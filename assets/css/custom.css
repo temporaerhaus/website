@@ -282,6 +282,31 @@ li.active a, li.active a:hover {
   display: none;
 }
 
+@media screen and (max-width: 767px) {
+    .entry-content ul,
+  .entry-summary ul,
+  .comment-content ul,
+  .entry-content ol,
+  .entry-summary ol,
+  .comment-content ol {
+    margin-left: 1em;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .entry-content ul,
+  .entry-summary ul,
+  .comment-content ul,
+  .entry-content ol,
+  .entry-summary ol,
+  .comment-content ol {
+    margin-left: 1.75em;
+  }
+}
+.entry-content blockquote:not(.alignleft):not(.alignright), .entry-summary blockquote, .comment-content blockquote {
+  margin-left: 0;
+}
+
 /* inconsolata-regular - latin */
 @font-face {
   font-family: 'Inconsolata';

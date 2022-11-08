@@ -292,6 +292,10 @@ li.active a, li.active a:hover {
   border-left: 6px solid gray;
 }
 
+.entry-content > .shortcode-infotextbox:first-child {
+  margin-top: 5px;
+}
+
 @media screen and (max-width: 767px) {
     .entry-content ul,
   .entry-summary ul,

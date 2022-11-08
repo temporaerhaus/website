@@ -282,6 +282,16 @@ li.active a, li.active a:hover {
   display: none;
 }
 
+.shortcode-infotextbox {
+  width: 100%;
+  padding: 15px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  background: #e6e6e6;
+  border-left: 6px solid gray;
+}
+
 @media screen and (max-width: 767px) {
     .entry-content ul,
   .entry-summary ul,

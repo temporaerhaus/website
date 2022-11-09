@@ -22,6 +22,7 @@ Daher ist es nun höchste Eisenbahn für eine Erzähl- und Fragestunde mit den A
 **Verschwörhaus, WTF happened?!**<br>
 
 Am Mittwoch, den 09.11.22 um 19:00 Uhr im [Multimediaraum von N27](https://www.uni-ulm.de/einrichtungen/kiz/weiteres/campus-navigation/hoersaalfinder/multimediaraum-n27/n27-2059-multimediaraum/) an der [Uni Ulm](https://www.openstreetmap.org/?mlat=48.42362&mlon=9.95704#map=19/48.42362/9.95704&layers=N).<br>
-Alternativ ist eine Onlineteilnahme über unser BBB möglich: [Hier geht's zum Livestream in BBB](https://bbb.verschwoer.haus/b/wtf-happened).
 
-Keine Zeit am Mittwoch? Viele der Geschehnisse haben wir [hier](/update-2022) auch als Langtext "zusammengefasst". 😊
+<b>Vielen Dank an alle, die vor Ort und online mit dabei waren! &lt;3</b>
+
+Keine Zeit gehabt? Viele der Geschehnisse haben wir [hier](/update-2022) auch als Langtext "zusammengefasst". 😊

@@ -174,7 +174,7 @@ date = [":filename", ":default"]
 
     [[languages.de.menu.social]]
       name = "verschwoerhaus auf YouTube"
-      url = "https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg"
+      url = "https://www.youtube.com/verschwoerhaus"
 
     [[languages.de.menu.social]]
       name = "verschwoerhaus auf Instagram"
@@ -341,7 +341,7 @@ date = [":filename", ":default"]
 
     [[languages.en.menu.social]]
       name = "verschwoerhaus on YouTube"
-      url = "https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg"
+      url = "https://www.youtube.com/verschwoerhaus"
 
     [[languages.en.menu.social]]
       name = "verschwoerhaus on Instagram"

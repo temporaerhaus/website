@@ -9,7 +9,6 @@ Der Verschwörhaus e.V. ist ein eingetragener, gemeinnütziger Verein in Ulm und
 
 Muss ich im Verein Mitglied sein um im Haus aktiv zu sein oder _irgendwas_ zu machen?  
 Nein, denn durch unsere externen Förderungen können wir das Verschwörhaus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw. angewiesen zu sein.
-<!--Nein, denn durch die [Förderung der Stadt](/sponsoren/) können wir das Verschwörhaus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw angewiesen zu sein.-->
 
 <!--
 Warum sollte ich (Förder)mitglied werden?  
@@ -21,5 +20,8 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 
 Für alle Dinge rund um den Verein erreichst du uns am besten unter _vorstand (at) verschwoerhaus (punkt) de_.
 
-### Mitgliedsschaft im Verein
+### Mitgliedschaft im Verein
 Du willst Mitglied im Verein werden? Dann schicke uns einfach eine Mail an `vorstand ÄT verschwoerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.
+
+### Fördermitgliedschaft
+Wir freuen uns auch sehr über deine Unterstützung als Fördermitglied im Verein. Auch dafür schicke uns einfach eine Mail an `vorstand ÄT verschwoerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung). Vielen Dank!

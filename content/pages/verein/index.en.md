@@ -9,7 +9,6 @@ The Verschwörhaus e.V. is a registered, non-profit association in Ulm and suppo
 
 Do I have to be a member of the association to be active in the house or to do _anything_?  
 No, because of the support of our external sponsors we can open the Verschwörhaus to all people without having to rely on membership fees for rent etc.
-<!--Nein, denn durch die [Förderung der Stadt](/sponsoren/) können wir das Verschwörhaus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw angewiesen zu sein.-->
 
 <!--
 Warum sollte ich (Förder)mitglied werden?  
@@ -22,4 +21,7 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 For all things concerning the association you can reach us best at _vorstand (at) verschwoerhaus (dot) de_.
 
 ### Membership 
-You want to join our non-profit association? Please send us an email to `vorstand ÄT verschwoerhaus.de` with your name, e-mail, postal address and a short description why you want to join and how and where you are active in the past at the Verschwörhaus.
+You want to join our non-profit association? Please send us an email to `vorstand ÄT verschwoerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past at the Verschwörhaus.
+
+### Supporting Membershop
+We're happy to welcome you or your organization as a supporting member for our non-profit association. Please send us an email to `vorstand ÄT verschwoerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate).

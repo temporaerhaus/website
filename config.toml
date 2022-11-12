@@ -161,6 +161,10 @@ date = [":filename", ":default"]
       url = "/posts/index.xml"
 
     [[languages.de.menu.social]]
+      name = "verschwoerhaus auf Mastodon"
+      url = "https://chaos.social/@verschwoerhaus"
+
+    [[languages.de.menu.social]]
       name = "verschwoerhaus auf Twitter"
       url = "https://twitter.com/verschwoerhaus"
 
@@ -322,6 +326,10 @@ date = [":filename", ":default"]
       identifier = "rsslink"
       name = "RSS Feed"
       url = "/en/posts/index.xml"
+
+    [[languages.en.menu.social]]
+      name = "verschwoerhaus on Mastodon"
+      url = "https://chaos.social/@verschwoerhaus"
 
     [[languages.en.menu.social]]
       name = "verschwoerhaus on Twitter"

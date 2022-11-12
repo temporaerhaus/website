@@ -49,7 +49,7 @@
 					<ul id="menu-socialmenu" class="social-links-menu">
 						{{ range .Site.Menus.social }}
 						<li class="menu-item menu-item-type-custom menu-item-object-custom">
-							<a href="{{ (.URL | default '#') | absLangURL }}"><span class="screen-reader-text">{{ .Name }}</span></a>
+							<a href="{{ (.URL | default '#') | absLangURL }}" rel="me"><span class="screen-reader-text">{{ .Name }}</span></a>
 						</li>
 						{{ end }}
 					</ul>

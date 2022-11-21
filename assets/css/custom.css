@@ -297,13 +297,19 @@ li.active a, li.active a:hover {
 }
 
 @media screen and (max-width: 767px) {
-    .entry-content ul,
+  .entry-content ul,
   .entry-summary ul,
   .comment-content ul,
   .entry-content ol,
   .entry-summary ol,
   .comment-content ol {
     margin-left: 1em;
+  }
+}
+
+@media screen and (max-width: 56.875em) {
+  .sticky-post {
+    margin-left: 7.6923%;
   }
 }
 

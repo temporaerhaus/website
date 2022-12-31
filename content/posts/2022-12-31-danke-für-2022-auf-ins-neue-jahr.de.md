@@ -2,7 +2,7 @@
 title: Danke für 2022, auf ins neue Jahr!
 author: curtisanne
 date: 2022-12-31T16:02:07.749Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2022/12/hausi_silvester.jpeg
 categories: []
 tags: []

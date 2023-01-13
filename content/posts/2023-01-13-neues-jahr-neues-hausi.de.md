@@ -3,7 +3,7 @@ title: Neues Jahr, neues Hausi?
 author: Jurek Lang
 date: 2023-01-13T14:35:43.452Z
 draft: false
-featured_image: /wp-content/uploads/2023/01/image.png
+featured_image: /wp-content/uploads/2023/01/image.jpg
 categories:
   - news
 tags: []

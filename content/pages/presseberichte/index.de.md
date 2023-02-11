@@ -12,6 +12,7 @@ slug: presse
 [<button>2020</button>](#2020)
 [<button>2021</button>](#2021)
 [<button>2022</button>](#2022)
+[<button>2023</button>](#2023)
 
 ### 2016
 
@@ -56,7 +57,7 @@ slug: presse
   * [netzpolitik.org][38]: So holen wir uns die smarte Stadt zurück <small>(03.12.2018)</small>
   * [Free FM][39]: Wissensstrahlung 307 <small>(16.12.2018)</small>
 
-### 2019  
+### 2019
 
   * [heise.de][40]: Werkstattberichte: Neues aus den Fablabs und der Makerszene <small>(05.02.2019)</small>
   * [Code for Germany][41]: Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt <small>(10.04.2019)</small>
@@ -65,7 +66,7 @@ slug: presse
   * [rbb RadioEins][44]: Digitale Routenplanung <small>(05.05.2019)</small>
   * [Frankfurter Allgemeine Zeitung][45]: Digitalkonferenz re:publica : Daten regeln den Verkehr <small>(06.05.2019)</small>
   * [Neues Deutschland][46]: Daten für die Städte <small>(06.05.2019)</small>
-  * [Tagesspiegel Background (Paywall)][47]: Wie Städte bei der Verkehrswende aktiv werden <small>(07.05.2019)</small>
+  * [Tagesspiegel Background (€)][47]: Wie Städte bei der Verkehrswende aktiv werden <small>(07.05.2019)</small>
   * [ORF Ö1][48]: Offene Mobilität statt Silicon Valley <small>(08.05.2019)</small>
 
 ### 2020
@@ -80,18 +81,41 @@ slug: presse
 
 ### 2021
   * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(25.02.2021)</small>
-  * [Neu-Ulmer Zeitung (Paywall)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
+  * [Neu-Ulmer Zeitung (€)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
   * [Verwaltungsrebellen][62]: Fortschritt, ohne um Erlaubnis zu fragen: Das Verschwörhaus in Ulm <small>(08.07.2021)</small>
-  * [Südwest Presse (Paywall)][63]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
-  * [Südwest Presse (Paywall)][64] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
-  * [Südwest Presse (Paywall)][65] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
+  * [Südwest Presse (€)][63]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
+  * [Südwest Presse (€)][64] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
+  * [Südwest Presse (€)][65] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
 
 ### 2022
-  * [Südwest Presse (Paywall)][66]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
+  * [Südwest Presse (€)][66]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
   * [SWR][67]: Streit um Verschwörhaus in Ulm: Hauptausschuss beschließt neues Nutzungskonzept <small>(06.05.2022)</small>
-  * [Südwest Presse (Paywall)][68]: Verschwörhaus Ulm: Eskaliert der Streit zwischen der Stadt und den Ehrenamtlichen? <small>(08.05.2022)</small>
-  * [Tagesspiegel Background (Paywall)][69]: Ulm: Streit um „Verschwörhaus“ <small>(10.05.2022)</small>
-  * [Tagesspiegel Background (Paywall)][70]: Ulm: Verschwörhaus-Community berät über Forderungen <small>(31.05.2022)</small>
+  * [Südwest Presse (€)][68]: Verschwörhaus Ulm: Eskaliert der Streit zwischen der Stadt und den Ehrenamtlichen? <small>(08.05.2022)</small>
+  * [Tagesspiegel Background (€)][69]: Ulm: Streit um „Verschwörhaus“ <small>(10.05.2022)</small>
+  * [Tagesspiegel Background (€)][70]: Ulm: Verschwörhaus-Community berät über Forderungen <small>(31.05.2022)</small>
+  * [Südwest Presse (€)][71]: Verein spricht von Rauswurf: Stadt und Ehrenamtliche trennen sich <small>(13.06.2022)</small>
+  * [Südwest Presse (€)][88]: Neue Eskalationsstufe: Stadt lässt die Türschlösser austauschen  <small>(14.06.2022)</small>
+  * [Südwest Presse (€)][72]: Harte Kritik an der Stadt nach der Scheidung vom Verein <small>(14.06.2022)</small>
+  * [Tagesspiegel Background (€)][90]: Verschwörhaus-Streit: Lektionen für die Verwaltung  <small>(14.06.2022)</small>
+  * [netzpolitik.org][87]: Verschwörhaus: Stadt Ulm schmeißt Hackerspace raus – und will den Namen auch gleich haben <small>(15.06.2022)</small>
+  * [netzpolitik.org][86]: Stadtverwaltung Ulm: An Peinlichkeit kaum zu überbieten <small>(16.06.2022)</small>
+  * [Südwest Presse (€)][73]: „Unendlich traurig!“ Zwei Experten zur Trennung von Stadt und Verein <small>(24.06.2022)</small>
+  * [Südwest Presse (€)][89]: Forderung an OB Czisch: Konflikt soll öffentlich aufgearbeitet werden  <small>(30.06.2022)</small>
+  * [Südwest Presse (€)][74]: Kaum sind die Ehrenamtlichen weg, wird der neue Claim vorgestellt <small>(13.07.2022)</small>
+  * [Südwest Presse (€)][75]: Eklat zur Kulturnacht: Stadt Ulm verwehrt Verein einen Standplatz <small>(15.09.2022)</small>
+  * [Südwest Presse (€)][76]: Nächste Eskalation: Stadt verklagt Verschwörhaus-Verein <small>(19.10.2022)</small>
+  * [Südwest Presse (€)][77]: „Zwei Handvoll Durchgeknallte“: OB Czisch wettert gegen Ehrenamtliche <small>(25.10.2022)</small>
+  * [Südwest Presse (€)][78]: So reagiert der Verein auf die „Durchgeknallt“-Äußerung von OB Czisch <small>(26.10.2022)</small>
+  * [Südwest Presse (€)][79]: Neuer Ärger: Stadtjugendring fühlt sich „instrumentalisiert“ <small>(09.11.2022)</small>
+  
+### 2023
+  * [Südwest Presse (€)][80]: Der Prozess um die Marke steht bevor <small>(05.01.2023)</small>
+  * [Augsburger Allgemeine (€)][81]: Streit um die Marke "Verschwörhaus": Verein und Stadt Ulm vor Gericht
+<small>(24.01.2023)</small>
+  * [Südwest Presse (€)][82]: Streit um die Marke „Verschwörhaus“: So lief die Gerichtsverhandlung <small>(24.01.2023)</small>
+  * [Stuttgarter Zeitung (€)][83]: Einstige Verschwörhauspartner treffen sich vor Gericht <small>(24.01.2023)</small>
+  * [netzpolitik.org][84]: Stadt Ulm gegen Communityprojekt: Unterlassungsklage gegen „Verschwörhaus“ jetzt vor Gericht <small>(26.01.2023)</small>
+  * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(26.01.2023)</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
@@ -159,3 +183,23 @@ slug: presse
  [68]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-eskaliert-der-streit-zwischen-der-stadt-und-den-ehrenamtlichen_-64277005.html
  [69]: https://background.tagesspiegel.de/smart-city/ulm-streit-um-verschwoerhaus
  [70]: https://background.tagesspiegel.de/smart-city/ulm-verschwoerhaus-community-beraet-ueber-forderungen
+ [71]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-verein-spricht-von-rauswurf_-stadt-und-ehrenamtliche-trennen-sich-64927531.html
+ [72]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-harte-kritik-an-der-stadt-nach-der-scheidung-vom-verein-64945119.html
+ [73]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-interview-_unendlich-traurig_-zwei-experten-zur-trennung-von-stadt-und-verein-65131267.html
+ [74]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-kaum-sind-die-ehrenamtlichen-weg_-wird-der-neue-claim-vorgestellt-65454393.html
+ [75]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-eklat-zur-kulturnacht_-stadt-ulm-verwehrt-verein-einen-standplatz-66560729.html
+ [76]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-naechste-eskalation_-stadt-verklagt-verschwoerhaus-verein-67155699.html
+ [77]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-_zwei-handvoll-durchgeknallte_-ob-czisch-wettert-gegen-ehrenamtliche-67261239.html
+ [78]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-so-reagiert-der-verein-auf-die-_durchgeknallt_-aeusserung-von-ob-czisch-67263313.html
+ [79]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-neuer-aerger_-stadtjugendring-fuehlt-sich-_instrumentalisiert_-67513789.html
+ [80]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-der-prozess-um-die-marke-steht-bevor-68308605.html
+ [81]: https://www.augsburger-allgemeine.de/neu-ulm/ulm-stuttgart-klage-streit-um-die-marke-verschwoerhaus-verein-und-stadt-ulm-vor-gericht-id65280756.html
+ [82]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-streit-um-die-marke-_verschwoerhaus_-so-lief-die-gerichtsverhandlung-68813955.html
+ [83]: https://www.stuttgarter-zeitung.de/inhalt.verschwoerhaus-in-ulm-einstige-verschwoerhaus-partner-treffen-sich-vor-gericht.b00ce682-acf8-4f43-bf50-72a8b94e3d5f.html
+ [84]: https://netzpolitik.org/2023/stadt-ulm-gegen-communityprojekt-unterlassungsklage-gegen-verschwoerhaus-jetzt-vor-gericht/
+ [85]: https://www.freefm.de/artikel/der-konflikt-hinter-dem-verschw%C3%B6rhaus
+ [86]: https://netzpolitik.org/2022/stadtverwaltung-ulm-an-peinlichkeit-kaum-zu-ueberbieten/
+ [87]: https://netzpolitik.org/2022/verschwoerhaus-stadt-ulm-schmeisst-hackerspace-raus-und-will-den-namen-auch-gleich-haben/
+ [88]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-neue-eskalationsstufe_-stadt-laesst-die-tuerschloesser-austauschen-64946689.
+ [89]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-forderung-an-ob-czisch_-konflikt-soll-oeffentlich-aufgearbeitet-werden-65234983.html
+ [90]: https://background.tagesspiegel.de/smart-city/verschwoerhaus-streit-lektionen-fuer-die-verwaltung

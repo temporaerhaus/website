@@ -115,6 +115,8 @@ slug: presse
   * [Stuttgarter Zeitung (€)][83]: Einstige Verschwörhauspartner treffen sich vor Gericht <small>(24.01.2023)</small>
   * [netzpolitik.org][84]: Stadt Ulm gegen Communityprojekt: Unterlassungsklage gegen „Verschwörhaus“ jetzt vor Gericht <small>(26.01.2023)</small>
   * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(26.01.2023)</small>
+  * [Südwest Presse (€)][91] Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(16.03.2023)</small>
+  * [Stuttgarter Zeitung (€)][92] Die digitale Zukunft macht gerade Pause <small>(30.03.2023)</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
@@ -202,3 +204,5 @@ slug: presse
  [88]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-neue-eskalationsstufe_-stadt-laesst-die-tuerschloesser-austauschen-64946689.
  [89]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-forderung-an-ob-czisch_-konflikt-soll-oeffentlich-aufgearbeitet-werden-65234983.html
  [90]: https://background.tagesspiegel.de/smart-city/verschwoerhaus-streit-lektionen-fuer-die-verwaltung
+ [91]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-stadt-sorgt-fuer-neuen-aerger-_-urteil-kommt-erstmal-nicht-69727697.html
+ [92]: https://www.stuttgarter-zeitung.de/inhalt.verschwoerhaus-ulm-die-digitale-zukunft-macht-gerade-pause.30973918-aaee-453d-8582-4b6eb49ca711.html

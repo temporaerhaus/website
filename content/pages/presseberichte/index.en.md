@@ -115,8 +115,8 @@ slug: presse
   * [Stuttgarter Zeitung (€)][83]: Einstige Verschwörhauspartner treffen sich vor Gericht <small>(24.01.2023)</small>
   * [netzpolitik.org][84]: Stadt Ulm gegen Communityprojekt: Unterlassungsklage gegen „Verschwörhaus“ jetzt vor Gericht <small>(26.01.2023)</small>
   * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(26.01.2023)</small>
-  * [Südwest Presse (€)][91] Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(16.03.2023)</small>
-  * [Stuttgarter Zeitung (€)][92] Die digitale Zukunft macht gerade Pause <small>(30.03.2023)</small>
+  * [Südwest Presse (€)][91]: Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(16.03.2023)</small>
+  * [Stuttgarter Zeitung (€)][92]: Die digitale Zukunft macht gerade Pause <small>(30.03.2023)</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507

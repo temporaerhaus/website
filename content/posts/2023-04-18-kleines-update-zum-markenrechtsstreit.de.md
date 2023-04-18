@@ -2,7 +2,7 @@
 title: Kleines Update zum Markenrechtsstreit
 author: Gerhard Habiger
 date: 2023-04-18T20:55:23.858Z
-draft: true
+draft: false
 categories:
   - news
 tags:

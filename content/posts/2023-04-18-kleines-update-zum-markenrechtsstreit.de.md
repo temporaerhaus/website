@@ -24,7 +24,7 @@ Außerdem wurde ein Verkündungstermin für den 21. März 2023 angesetzt, an dem
 Ausgehend von den von uns eingereichten Dokumenten hätte sich die Lage eigentlich bereits am ersten Verhandlungstag klar zu unseren Gunsten klären können - auch weil die Stadt (unserer Einschätzung nach) ihre Behauptungen bisher größtenteils nicht belegt hat und eine von Woche zu Woche interessanter werdende Interpretation der Geschichte um unser aller Verschwörhaus präsentiert.
 Wie euch sicherlich an diesem Punkt aufgefallen ist, liegt der 21. März inzwischen der Vergangenheit. Was ist also passiert?
 
-### Eine neue Markenanmeldung! 🎉 
+### Eine neue Markenanmeldung! 🎉
 
 Die Stadt Ulm hat am 19. Januar, also wenige Tage vor dem ersten Verhandlungstermin, einen **[Antrag auf Anmeldung für die Marke Verschwörhaus beim Deutschen Patent- und Markenamt (DPMA) eingereicht](https://tinyurl.com/2hfmw4qe).** Zum Zeitpunkt der Verhandlung war dieser Antrag öffentlich noch nicht einsehbar, und wurde vom städtischen Anwalt weder dem Gericht noch uns mitgeteilt. Eine erfolgreiche Markenanmeldung beim DPMA böte der Stadt möglicherweise ein direkteres Verbietungsrecht zur Nutzung der Marke, und nötigt uns somit erneut zu einer kurzfristigen Reaktion durch Absprachen mit unserer Anwältin.
 An dieser Stelle möchten wir, natürlich ohne jeglichen thematischen Bezug, einen Hinweis auf einen [interessanten Wikipedia-Artikel](https://de.wikipedia.org/wiki/SLAPP) verlinken.
@@ -46,7 +46,6 @@ Es muss zwar leider aufgrund des laufenden Rechtsstreites weiterhin einem späte
 
 Die aus unserer Sicht sehr eindeutige Faktenlage stimmt uns jedenfalls nach wie vor positiv und ermutigt uns, den nicht ganz leichten Weg dieses Rechtsstreits weiter zu gehen.
 
-
 ### Positiver Ausblick
 
 Um nicht immer nur über Anstrengendes zu berichten, möchten wir gerne mit ein paar positiveren Worten schließen.
@@ -66,3 +65,5 @@ Cheers und bis bald!
 Eure Verschwörhaus-Gemeinschaft
 
 PS: Auch für die nächsten Tage und Wochen ist weitere [Unterstützung](https://verschwoerhaus.de/spenden/) natürlich gerne gesehen, und wird von uns nicht nur für anwaltliche Kosten, sondern auch für spannende neue Hausi-Projekte verwendet werden.
+
+*U﻿pdate des Artikels: 2022-04-19, Formulierung in Absatz über öffentliche Darstellung seitens der Stadt leicht angepasst, keine inhaltliche Änderung ([diff](https://github.com/verschwoerhaus/verschwoerhaus.de/commit/11ad44d11ec73731a0f16bad22d7cab1e11bb4ea))*

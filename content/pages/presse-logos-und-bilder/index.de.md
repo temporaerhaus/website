@@ -9,8 +9,12 @@ Hier gibt es Material für Berichte, Partnereinrichtungen und Co!
 
 ### Logo und Farben
 
+<!--
 [![](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)
 Unser Logo als SVG, Klick für Original
+-->
+
+Logo: coming soon ;)
 
 Unsere Hausfarben sind:
 
@@ -22,7 +26,7 @@ Unsere Hausfarben sind:
 
 Die folgenden Abbildungen können für Veröffentlichungen verwendet werden. Sie sind allesamt unter CC-0 lizenziert.
 Zudem finden sich in der **[Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
-sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creative-Commons-Lizenz.
+<!-- sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** --> viele Bilder unter Creative-Commons-Lizenz.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"
@@ -76,43 +80,43 @@ sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** viele Bilde
 	link="https://commons.wikimedia.org/wiki/File%3AWearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg/512px-Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg"
-	caption="Wearables-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="Wearables-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg/512px-Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg"
-	caption="Wearables-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="Wearables-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg/512px-Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg"
-	caption="Wearables-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="Wearables-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg/512px-Wearables-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg"
-	caption="Teilnehmer*innen eines Wearables-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="Teilnehmer*innen eines Wearables-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3ABlinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm.jpg/512px-Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
-	caption="Teilnehmer*innen und Kursleiter des Blinkenrocket-Workshops im Verschwörhaus" >}}
+	caption="Teilnehmer*innen und Kursleiter des Blinkenrocket-Workshops" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3ABlinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_(2).jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_%282%29.jpg/512px-Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_%282%29.jpg"
-	caption="Blinkenrocket-Lötworkshop im Verschwörhaus Ulm" >}}
+	caption="Blinkenrocket-Lötworkshop" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3ABlinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_(3).jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_%283%29.jpg/512px-Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_%283%29.jpg"
-	caption="Kursleiter des Blinkenrocket-Lötworkshop im Verschwörhaus Ulm" >}}
+	caption="Kursleiter des Blinkenrocket-Lötworkshop" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3ABlinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_(4).jpg"
@@ -124,55 +128,57 @@ sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** viele Bilde
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata-Workshop_im_Innenhof_des_Verschw%C3%B6rhaus_Ulm.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wikidata-Workshop_im_Innenhof_des_Verschw%C3%B6rhaus_Ulm.jpg/512px-Wikidata-Workshop_im_Innenhof_des_Verschw%C3%B6rhaus_Ulm.jpg"
-	caption="Teilnehmer*innen des zweiten Wikidata-Workshops im Verschwörhaus. Wegen des schönen Wetters saßen viele in den Liegestühlen im Innenhof." >}}
+	caption="Teilnehmer*innen des zweiten Wikidata-Workshops. Wegen des schönen Wetters saßen viele in den Liegestühlen im Innenhof." >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg/512px-Wikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
-	caption="Bei der Verpflegungspause des Wikidata-Workshops im Verschwörhaus Ulm" >}}
+	caption="Bei der Verpflegungspause des Wikidata-Workshops" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg/256px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg"
-	caption="3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_02.jpg"
-	caption="3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_03.jpg"
-	caption="3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_04.jpg"
-	caption="3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_05.jpg"
-	caption="3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
-	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm im Verschwörhaus" >}}
+	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
+<!--
 [Außerdem gibt es eine eigene Kategorie mit Bildern unter Freier Lizenz auf Wikimedia Commons!][6]
+-->
 
 
  [2]: https://www.pantone.com/color-finder/7406-C
  [3]: https://www.pantone.com/color-finder/7580-CP
  [4]: https://www.pantone.com/color-finder/3500-CP
  [5]: https://www.flickr.com/photos/okfde/sets/72157686600018431
- [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus
+<!-- [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus -->

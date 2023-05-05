@@ -1,5 +1,5 @@
 baseURL = ""
-title = "verschwoerhaus"
+title = "temporaerhaus"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = false
 languageCode = "de-DE"
@@ -34,7 +34,7 @@ date = [":filename", ":default"]
     [[languages.de.menu.main]]
       identifier = "das-haus"
       name = "Das Haus"
-      url = "/das-verschwoerhaus/"
+      url = "/das-haus/"
       weight = -110
 
     [[languages.de.menu.main]]
@@ -59,7 +59,7 @@ date = [":filename", ":default"]
       parent = "das-haus"
       identifier = "wiki"
       name = "Wiki"
-      url = "https://wiki.verschwoerhaus.de"
+      url = "https://wiki.temporaerhaus.de"
 
     [[languages.de.menu.main]]
       identifier = "make"
@@ -94,7 +94,7 @@ date = [":filename", ":default"]
     [[languages.de.menu.main]]
       identifier = "ueber-uns"
       name = "Über uns"
-      url = "/das-verschwoerhaus/"
+      url = "/das-haus/"
       weight = -70
 
     [[languages.de.menu.main]]
@@ -161,24 +161,24 @@ date = [":filename", ":default"]
       url = "/posts/index.xml"
 
     [[languages.de.menu.social]]
-      name = "verschwoerhaus auf Mastodon"
-      url = "https://chaos.social/@verschwoerhaus"
+      name = "temporaerhaus auf Mastodon"
+      url = "https://chaos.social/@temporaerhaus"
 
     [[languages.de.menu.social]]
-      name = "verschwoerhaus auf Twitter"
-      url = "https://twitter.com/verschwoerhaus"
+      name = "temporaerhaus auf Twitter"
+      url = "https://twitter.com/temporaerhaus"
 
     [[languages.de.menu.social]]
-      name = "verschwoerhaus auf GitHub"
-      url = "https://github.com/verschwoerhaus"
+      name = "temporaerhaus auf GitHub"
+      url = "https://github.com/temporaerhaus"
 
     [[languages.de.menu.social]]
-      name = "verschwoerhaus auf YouTube"
-      url = "https://www.youtube.com/verschwoerhaus"
+      name = "temporaerhaus auf YouTube"
+      url = "https://www.youtube.com/temporaerhaus"
 
     [[languages.de.menu.social]]
-      name = "verschwoerhaus auf Instagram"
-      url = "https://www.instagram.com/verschwoerhaus/"
+      name = "temporaerhaus auf Instagram"
+      url = "https://www.instagram.com/temporaerhaus/"
 
   [languages.en]
     weight = 2
@@ -201,7 +201,7 @@ date = [":filename", ":default"]
     [[languages.en.menu.main]]
       identifier = "das-haus"
       name = "The House"
-      url = "/en/das-verschwoerhaus/"
+      url = "/en/das-haus/"
       weight = -110
 
     [[languages.en.menu.main]]
@@ -226,7 +226,7 @@ date = [":filename", ":default"]
       parent = "das-haus"
       identifier = "wiki"
       name = "Wiki"
-      url = "https://wiki.verschwoerhaus.de"
+      url = "https://wiki.temporaerhaus.de"
 
     [[languages.en.menu.main]]
       identifier = "make"
@@ -261,7 +261,7 @@ date = [":filename", ":default"]
     [[languages.en.menu.main]]
       identifier = "about-us"
       name = "About us"
-      url = "/en/das-verschwoerhaus/"
+      url = "/en/das-haus/"
       weight = -70
 
     [[languages.en.menu.main]]
@@ -328,24 +328,24 @@ date = [":filename", ":default"]
       url = "/en/posts/index.xml"
 
     [[languages.en.menu.social]]
-      name = "verschwoerhaus on Mastodon"
-      url = "https://chaos.social/@verschwoerhaus"
+      name = "temporaerhaus on Mastodon"
+      url = "https://chaos.social/@temporaerhaus"
 
     [[languages.en.menu.social]]
-      name = "verschwoerhaus on Twitter"
-      url = "https://twitter.com/verschwoerhaus"
+      name = "temporaerhaus on Twitter"
+      url = "https://twitter.com/temporaerhaus"
 
     [[languages.en.menu.social]]
-      name = "verschwoerhaus on GitHub"
-      url = "https://github.com/verschwoerhaus"
+      name = "temporaerhaus on GitHub"
+      url = "https://github.com/temporaerhaus"
 
     [[languages.en.menu.social]]
-      name = "verschwoerhaus on YouTube"
-      url = "https://www.youtube.com/verschwoerhaus"
+      name = "temporaerhaus on YouTube"
+      url = "https://www.youtube.com/temporaerhaus"
 
     [[languages.en.menu.social]]
-      name = "verschwoerhaus on Instagram"
-      url = "https://www.instagram.com/verschwoerhaus/"
+      name = "temporaerhaus on Instagram"
+      url = "https://www.instagram.com/temporaerhaus/"
 
 [markup]
   [markup.goldmark]

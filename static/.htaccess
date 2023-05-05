@@ -14,5 +14,8 @@ Redirect 302 /en/impressum/presse-logos-und-bilder/ /en/presse-logos-und-bilder/
 Redirect 302 /jugend-hackt-lab-termine/ /category/jugend-hackt-lab/
 Redirect 302 /en/jugend-hackt-lab/ /en/category/jugend-hackt-lab/
 
+Redirect 301 /das-verschwoerhaus/ /das-haus/
+Redirect 301 /en/das-verschwoerhaus/ /en/das-haus/
+
 Redirect 410 /xmlrpc.php
 Redirect 410 /comments/feed/

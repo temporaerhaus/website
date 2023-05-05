@@ -1,5 +1,5 @@
 ---
-title: Das Verschwörhaus zieht um
+title: Das Temporärhaus zieht um
 type: page
 slug: umzug
 sticky: true

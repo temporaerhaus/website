@@ -26,12 +26,12 @@ Den nächsten Termin findest du im [Kalender]({{< relref "/termine-und-oeffnungs
 **Kontakt**
 
 * Twitter: <https://twitter.com/ttn_ulm/>, bei Bedarf auch gerne DM.
-* Channel im Verschwörhaus-internen Slack: #ttn
+* Channel im Haus-internen Slack: #ttn
 * Mail: info (ätt) ttnulm (pünkt) de
 
 ## Projekte
 
-Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN entstanden. Im Folgenden eine kleine Auswahl.
+Im Umfeld des Hauses sind unzählige spannende Projekte mit LoRaWAN entstanden. Im Folgenden eine kleine Auswahl.
 
 ### Münsterplatine
 
@@ -63,7 +63,7 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 
 ![Foto OpenBike Wifi-Trackers Lortinchen](/wp-content/uploads/2022/03/ttn_wifi-tracker.jpeg)
 
-**Freie Software von der Stadt für alle** Im Rahmen des Projekts [radforschung](https://radforschung.org/) entsteht das Open Source Fahrradverleihsystem [OpenBike](https://openbike.ulm.dev/). Dahinter steckt kein hippes Start-up mit der Suche nach einem privatwirtschaftlichen Businessmodell, sondern die Vision zusammen mit der Stadt Ulm, durch überall verfügbares, gutes Bikesharing unsere Mobilität ein wenig nachhaltiger, vielfältiger und angenehmer zu gestalten. Aktuell befindet sich OpenBike im Test mit Beschäftigten der Stadt Ulm und Freiwilligen des Verschwörhauses.
+**Freie Software von der Stadt für alle** Im Rahmen des Projekts [radforschung](https://radforschung.org/) entsteht das Open Source Fahrradverleihsystem [OpenBike](https://openbike.ulm.dev/). Dahinter steckt kein hippes Start-up mit der Suche nach einem privatwirtschaftlichen Businessmodell, sondern die Vision zusammen mit der Stadt Ulm, durch überall verfügbares, gutes Bikesharing unsere Mobilität ein wenig nachhaltiger, vielfältiger und angenehmer zu gestalten. OpenBike befand sich im Test mit Beschäftigten der Stadt Ulm und Freiwilligen des Hauses - dieser Test endete 2022.
 
 **Aktueller Funktionsumfang** OpenBike umfasst dabei nicht nur eine direkt im Smartphone-Browser aufrufbare Weboberfläche zur Ausleihe eines Rads, sondern auch die auf LoRaWAN aufbauenden Tracker. Der eigens entwickelte Tracker Lortinchen ermittelt seine bzw. die aktuelle Position des Fahrrads nicht über GPS, sondern kalkuliert sie anhand der aktuell verfügbaren WiFi-Netzwerke. Diese Technik wird auch von Smartphones genutzt, um bei schlechtem GPS-Empfang in Häuserschluchten eine räumliche Lokalisierung zu ermöglichen. Die Kommunikation mit dem OpenBike-Server erfolgt energieeffizient über LoRaWAN.
 
@@ -71,9 +71,9 @@ Im Umfeld des Verschwörhauses sind unzählige spannende Projekte mit LoRaWAN en
 
 ### Autarkes Hochbeet
 
-![Fotos des autarken Hochbeets vor dem Verschwörhaus](/wp-content/uploads/2022/03/ttn_hochbeet.jpeg)
+![Fotos des autarken Hochbeets auf dem Weinhof](/wp-content/uploads/2022/03/ttn_hochbeet.jpeg)
 
-**Automatischer grüner Daumen** Man sieht es gar nicht auf den ersten Blick, aber das vor dem Verschwörhaus aufgestellte Hochbeet ist nicht nur eine hübsch anzusehende Blumen-Bank, sondern kompensiert auch so manchen nicht vorhandenen grünen Daumen (Zaubern kann es aber leider auch nicht). Es überwacht völlig autark die Bodenfeuchte und bewässert bei Bedarf die beiden Blumenkästen.
+**Automatischer grüner Daumen** Man sieht es gar nicht auf den ersten Blick, aber das auf dem Weinhof aufgestellte Hochbeet ist nicht nur eine hübsch anzusehende Blumen-Bank, sondern kompensiert auch so manchen nicht vorhandenen grünen Daumen (Zaubern kann es aber leider auch nicht). Es überwacht völlig autark die Bodenfeuchte und bewässert bei Bedarf die beiden Blumenkästen.
 
 **Funktionsweise** Die Bodenfeuchte wird dabei über ein Tensiometer ermittelt. Solch ein Tensiometer misst dabei den Saugdruck, den eine Pflanze in ihren Wurzeln aufbringen muss, um Wasser aus dem Boden zu saugen. Überschreitet der Saugdruck einen bestimmten Schwellwert, wird die Bewässerung gestartet. Dazu pumpt das Beet aus zwei großen Wassertanks, die sich jeweils unterhalb der Blumenkästen befinden, Wasser in die Blumenkästen. Neben Bodenfeuchte und Wasserstand werden auch verschiedene Umweltparameter ermittelt und über LoRaWAN an ein Dashboard übertragen, sodass das Hochbeet bequem aus der Ferne überwacht werden kann.
 

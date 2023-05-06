@@ -10,6 +10,9 @@ other = "Gerade geschlossen"
 [space_door_unknown]
 other = "Unbekannt"
 
+[space_door_soon]
+other = "Bald wieder geöffnet"
+
 [space_when_open]
 other = "Wann das nächste mal offen ist, findest du"
 

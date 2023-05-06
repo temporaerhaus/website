@@ -7,7 +7,7 @@ url: gruppen
 
 # Gruppen
 
-Unser Haus besteht nur dank der zahlreichen Ehrenamtlichen, die es auf viele verschiedene Arten mit Leben füllen. Oben im Menü findest du eine Übersicht und Details zu den im Verschwörhaus beherbergten Gruppen und Veranstaltungsformaten.
+Unser Haus besteht nur dank der zahlreichen Ehrenamtlichen, die es auf viele verschiedene Arten mit Leben füllen. Oben im Menü findest du eine Übersicht und Details zu den im Haus beherbergten Gruppen und Veranstaltungsformaten.
 
 <br>
 

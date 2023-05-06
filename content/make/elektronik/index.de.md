@@ -8,4 +8,4 @@ menu:
 type: page
 ---
 
-Im Erdgeschoss des Verschwörhauses befindet sich das Lötlabor - mit fünf Lötarbeitsplätzen und jede Menge Werkzeug und Material.
+Im Erdgeschoss des Hauses befindet sich das Lötlabor - mit fünf Lötarbeitsplätzen und jede Menge Werkzeug und Material.

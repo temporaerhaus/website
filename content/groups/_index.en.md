@@ -5,7 +5,7 @@ url: groups
 
 ---
 
-Our house only exists thanks to the many volunteers who fill it with life in many different ways. Here is an overview of the groups and event formats hosted at the Verschwörhaus:
+Our house only exists thanks to the many volunteers who fill it with life in many different ways. Here is an overview of the groups and event formats hosted at the Haus:
 
 {{% tabs %}}
 
@@ -13,8 +13,8 @@ Our house only exists thanks to the many volunteers who fill it with life in man
 
 ### Bewerbungscafé für Geflüchtete
 
-{{% warning title="Achtung!" %}}
-Derzeit findet das Bewerbungscafé nicht im Verschwörhaus, sondern in den Räumlichkeiten der Caritas statt (Stand: November 2020)
+{{% warning title="Hinweis!" %}}
+Leider läuft die aktuelle Förderperiode des Europäischen Sozialfonds (ESF) zum 30.09.2022 aus, so dass das Bewerbungscafé nicht weiter angeboten werden kann.
 {{% /warning %}}
 
 Jede Woche ist bei uns im Haus das Bewerbungscafe für Geflüchtete. Dort bietet ein gemeinsames Team aus Stadt, Caritas, Jobcenter, Arbeitsagentur und Freiwilligen Unterstützung für Geflüchtete an, die ihre Bewerbungsunterlagen aktualisieren möchten oder sich gerade auf Stellen bewerben.
@@ -116,16 +116,6 @@ Die OpenStreetMap ist eine frei editierbare und frei nutzbare Weltkarte. Im Vers
 **Regelmäßige Termine:**
 * Austausch zwischen Mappern und Interessierten im Rahmen eines Stammtisches (meist am 1. Dienstag im Monat im Freiraum des Büchsenstadels)
 * Veranstaltungen (z.B. Mapathons) zu bestimmten Themengebieten (z.B. ÖPNV, humanitäres Mappen) im Verschwörhaus
-
-{{% /tab %}}
-
-{{% tab title="Ubuntu-Stammtisch" tag="ubuntu" %}}
-
-### Ubuntu-Stammtisch
-
-Der Ubuntu-Stammtisch wird vom **Generationentreff** organisiert und findet i.d.R. monatlich im **Workshopraum Bär** statt. Er bietet einen ungezwungenen Austausch über das freie Betriebsystem - auch (aber nicht nur) für ältere Generationen!
-
-Web: <http://www.gt-ulm.de/computertraining/>
 
 {{% /tab %}}
 

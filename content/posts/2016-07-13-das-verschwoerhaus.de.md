@@ -11,9 +11,7 @@ categories:
   - bootstrap
   - news
 ---
-Willkommen auf der Website des Temporärhaus – dem „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Stadt Ulm gemeinsam in die Zukunft begleiten zu können!
-
-**Es ist leider immer noch Pandemie – [in diesem Artikel](/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/) kannst du nachlesen, welche Covid-bedingten Regeln derzeit gelten.**
+Willkommen auf der Website des Temporärhaus – dem „Experimentierfeld für die Welt von morgen“, mit 3D-Druckern, offenen Werkstätten, Vortragsräumen und vor allem jeder Menge Inhalte, um unsere Region Ulm/Neu-Ulm gemeinsam in die Zukunft begleiten zu können!
 
 <!--more-->
 

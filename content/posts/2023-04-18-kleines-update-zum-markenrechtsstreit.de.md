@@ -29,7 +29,7 @@ Wie euch sicherlich an diesem Punkt aufgefallen ist, liegt der 21. März inzwisc
 Die Stadt Ulm hat am 19. Januar, also wenige Tage vor dem ersten Verhandlungstermin, einen **[Antrag auf Anmeldung für die Marke Verschwörhaus beim Deutschen Patent- und Markenamt (DPMA) eingereicht](https://tinyurl.com/2hfmw4qe).** Zum Zeitpunkt der Verhandlung war dieser Antrag öffentlich noch nicht einsehbar, und wurde vom städtischen Anwalt weder dem Gericht noch uns mitgeteilt. Eine erfolgreiche Markenanmeldung beim DPMA böte der Stadt möglicherweise ein direkteres Verbietungsrecht zur Nutzung der Marke, und nötigt uns somit erneut zu einer kurzfristigen Reaktion durch Absprachen mit unserer Anwältin.
 An dieser Stelle möchten wir, natürlich ohne jeglichen thematischen Bezug, einen Hinweis auf einen [interessanten Wikipedia-Artikel](https://de.wikipedia.org/wiki/SLAPP) verlinken.
 
-Nachdem wir diese Anmeldung der Marke beim DPMA [wie auch schon bei der EU-Markenanmeldung](https://verschwoerhaus.de/update-2022/#die-markenanmeldung) selbst entdeckten und daraufhin über unsere Anwältin dem Gericht kommunizierten, nehmen wir an, dass sich das Gericht mitunter auch deshalb zu einer Fristverschiebung entschied. Ein neuer Verkündungstermin wurde auf den 18. April 2023 verlegt.
+Nachdem wir diese Anmeldung der Marke beim DPMA [wie auch schon bei der EU-Markenanmeldung](/update-2022/#die-markenanmeldung) selbst entdeckten und daraufhin über unsere Anwältin dem Gericht kommunizierten, nehmen wir an, dass sich das Gericht mitunter auch deshalb zu einer Fristverschiebung entschied. Ein neuer Verkündungstermin wurde auf den 18. April 2023 verlegt.
 Seitdem gingen noch einige weitere Schriftsätze hin und her, und aufgrund gerichtsinterner Gründe wurde auch dieser Termin noch einmal verschoben auf den **24. April 2023**.
 
 Die Auseinandersetzung vor Gericht läuft also aktuell noch, und wird vermutlich auf absehbare Zeit weitergehen, falls das Gericht bis zum 24. April nicht aufgrund der bisher vorliegenden schriftlichen Belege zu einer eindeutigen Entscheidung kommen sollte.
@@ -37,7 +37,7 @@ Die Auseinandersetzung vor Gericht läuft also aktuell noch, und wird vermutlich
 ### Die Öffentliche Darstellung seitens der Stadt
 
 Das immer wieder auch öffentlich vorgetragene Narrativ der Stadt Ulm, demzufolge sie gezwungen gewesen wären uns zu verklagen weil es ja nun zwei Verschwörhäuser gäbe und das die Öffentlichkeit verwirre, ist selbstverständlich grober Unfug.
-Wie auch schon in unserem ausführlichen [Update von 2022](https://verschwoerhaus.de/update-2022/) dargelegt, trug das 2016 zur Anschubfinanzierung unserer Aktivitäten ins Leben gerufene, städtische Projekt stets den Namen "Stadtlabor".
+Wie auch schon in unserem ausführlichen [Update von 2022](/update-2022/) dargelegt, trug das 2016 zur Anschubfinanzierung unserer Aktivitäten ins Leben gerufene, städtische Projekt stets den Namen "Stadtlabor".
 Wir verwendeten unseren Namen, "Verschwörhaus", schon früher in der Öffentlichkeit und waren auch all die Jahre diejenigen, die den Namen mit Leben füllten und bekannt machten.
 Noch während der Verhandlungen um einen Nutzungsvertrag betonten wir von unserer Seite aus immer wieder, dass man durch eine klare Namenstrennung, also durch eine Zuordnung städtischer Aktivitäten zum "Stadtlabor" und ehrenamtlicher Aktivitäten zum "Verschwörhaus", viele Missverständnisse bis hin zu Streitigkeiten vermeiden und weiterhin zusammenarbeiten könnte.
 Das Interesse der Stadt Ulm an unserem Namen war jedoch anscheinend zu groß, um noch eine rationale und auf faktischen Argumenten basierende Lösung anzustreben. Stattdessen wurden wir von der Stadt abgemahnt, verklagt und jetzt vor Gericht gezerrt um uns zur Aufgabe unseres Namens zu zwingen. Währenddessen strickt die Stadt in der Öffentlichkeit ein immer absurderes Narrativ, demzufolge wir diejenigen seien die der Stadt etwas wegnehmen oder gar sie verklagen hätte wollen.
@@ -64,6 +64,6 @@ Cheers und bis bald!
 
 Eure Verschwörhaus-Gemeinschaft
 
-PS: Auch für die nächsten Tage und Wochen ist weitere [Unterstützung](https://verschwoerhaus.de/spenden/) natürlich gerne gesehen, und wird von uns nicht nur für anwaltliche Kosten, sondern auch für spannende neue Hausi-Projekte verwendet werden.
+PS: Auch für die nächsten Tage und Wochen ist weitere [Unterstützung](/spenden/) natürlich gerne gesehen, und wird von uns nicht nur für anwaltliche Kosten, sondern auch für spannende neue Hausi-Projekte verwendet werden.
 
 *U﻿pdate des Artikels: 2022-04-19, Formulierung in Absatz über öffentliche Darstellung seitens der Stadt leicht angepasst, keine inhaltliche Änderung ([diff](https://github.com/verschwoerhaus/verschwoerhaus.de/commit/11ad44d11ec73731a0f16bad22d7cab1e11bb4ea))*

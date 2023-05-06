@@ -16,7 +16,7 @@ Lasst uns über Games sprechen. Der japanische Spieleentwickler Hideo Kojima ist
 
 Um mit euch herauszufinden, was Death Stranding ausmacht, welche Symbole und Anspielungen auch auf unsere gegenwärtige Gesellschaft sich darin finden, haben wir die Gamerin und Kommunikationswissenschaftlerin Marie Friske eingeladen. Marie hat ihre Master-Arbeit über Death Stranding geschrieben und so auch viele Stunden am Analysieren des Spiels verbracht. Neben einem Input  aus ihrer Analyse über Death Stranding von Marie, habt ihr die Möglichkeit ihr Fragen zu stellen und mit ihr über Death Stranding zu diskutieren, aber auch über eure Erfahrungen zu anderen Computerspielen. 
 
-Die Teilnahme ist ohne Anmeldung möglich und offen für alle Interessierten ab 14 Jahren. Nicht-Schüler*innen müssen 2g+ erfüllen: genesen, geimpft und tagesaktueller Test. Beachtet hierzu die aktuellen [Haus-Regeln](https://verschwoerhaus.de/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/). 
+Die Teilnahme ist ohne Anmeldung möglich und offen für alle Interessierten ab 14 Jahren. Nicht-Schüler*innen müssen 2g+ erfüllen: genesen, geimpft und tagesaktueller Test. Beachtet hierzu die aktuellen [Haus-Regeln](/was-in-welcher-inzidenzstufe-gilt-ab-juli-2021/). 
 
 Samstag, 9. April 2022 von 15 - 16 Uhr. 
 

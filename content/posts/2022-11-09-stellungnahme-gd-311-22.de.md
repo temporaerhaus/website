@@ -20,7 +20,7 @@ Wir möchten daher mit dieser Stellungnahme folgendes schriftlich vorab festhalt
 * Die Verwaltung scheint durch eine rückwirkende Umschreibung der Geschichte die Zustimmung des Gemeinderats erreichen zu wollen, und weiter den von uns erfundenen und geprägten Namen „Verschwörhaus“ streitig zu machen. Neben der von uns geprägten Identität und Marke, möchte sie die von uns registrierten, bezahlten und bespielten Domains, sowie Social-Media-Accounts und -Profile unter ihre Kontrolle bringen und diese Kanäle ohne uns Ehrenamtliche mit eigenen Inhalten befüllen.
 * Außerdem soll der in GD 056/21 bereits bis Ende 2023 bewilligte Zuschuss für das Jugend hackt Lab ab 01.01.2023 gestrichen werden – obgleich wir damit bis heute einen Anteil des öffentlichen Programms im Weinhof anbieten und an dieser Förderung ein Arbeitsvertrag hängt. Offenbar möchte die Verwaltung mit diesen Geldern u.A. Geräte neu beschaffen, derer Verfügbarkeit sie sich durch ihre Aufforderung zu unserem Auszug selbst entzogen hat.
 
-Wir haben [in einem kürzlichen Blogpost auf verschwoerhaus.de die Geschichte rund um den Namen und die Verhandlungen](https://verschwoerhaus.de/update-2022/) ausführlicher dargelegt. Die vollständige Lektüre des recht langen Artikels ist zwar nicht erforderlich, aber bietet unserer Ansicht nach wichtige Hintergrundinformationen zur Auseinandersetzung.
+Wir haben [in einem kürzlichen Blogpost auf verschwoerhaus.de die Geschichte rund um den Namen und die Verhandlungen](/update-2022/) ausführlicher dargelegt. Die vollständige Lektüre des recht langen Artikels ist zwar nicht erforderlich, aber bietet unserer Ansicht nach wichtige Hintergrundinformationen zur Auseinandersetzung.
 
 Zusammenfassend bitten wir die Gemeinderatsfraktionen:
 

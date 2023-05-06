@@ -1,11 +1,11 @@
 ---
-title: Der Verschwörhaus e.V.
+title: Der Verein
 type: page
 slug: verein
 
 ---
 
-The Verschwörhaus e.V. is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the Verschwörhaus - such as the organization and handling of workshops and events, with sponsorships and with the offer of the [Jugend hackt Labs](/en/category/jugend-hackt-lab/).
+The Verschwörhaus e.V. ([currently renaming](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the Verschwörhaus - such as the organization and handling of workshops and events and with sponsorships.
 
 Do I have to be a member of the association to be active in the house or to do _anything_?  
 No, because of the support of our external sponsors we can open the Verschwörhaus to all people without having to rely on membership fees for rent etc.
@@ -18,10 +18,10 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 -->
 
 
-For all things concerning the association you can reach us best at _vorstand (at) verschwoerhaus (dot) de_.
+For all things concerning the association you can reach us best at _vorstand (at) temporaerhaus.de_.
 
 ### Membership 
-You want to join our non-profit association? Please send us an email to `vorstand ÄT verschwoerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past at the Verschwörhaus.
+You want to join our non-profit association? Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past at the Verschwörhaus.
 
 ### Supporting Membershop
-We're happy to welcome you or your organization as a supporting member for our non-profit association. Please send us an email to `vorstand ÄT verschwoerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate).
+We're happy to welcome you or your organization as a supporting member for our non-profit association. Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate).

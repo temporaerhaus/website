@@ -14,7 +14,7 @@ Hier gibt es Material für Berichte, Partnereinrichtungen und Co!
 Unser Logo als SVG, Klick für Original
 -->
 
-Logo: coming soon ;)
+Logo: _coming soon_ ;)
 
 Unsere Hausfarben sind:
 
@@ -26,7 +26,7 @@ Unsere Hausfarben sind:
 
 Die folgenden Abbildungen können für Veröffentlichungen verwendet werden. Sie sind allesamt unter CC-0 lizenziert.
 Zudem finden sich in der **[Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
-<!-- sowie in der **[Verschwörhaus-Kategorie auf Wikimedia Commons][6]** --> viele Bilder unter Creative-Commons-Lizenz.
+sowie in der **[Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creative-Commons-Lizenz.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"
@@ -172,13 +172,12 @@ Zudem finden sich in der **[Galerie von Jugend hackt Ulm 2017][5] und [Jugend Ha
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
 	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
-<!--
+
 [Außerdem gibt es eine eigene Kategorie mit Bildern unter Freier Lizenz auf Wikimedia Commons!][6]
--->
 
 
  [2]: https://www.pantone.com/color-finder/7406-C
  [3]: https://www.pantone.com/color-finder/7580-CP
  [4]: https://www.pantone.com/color-finder/3500-CP
  [5]: https://www.flickr.com/photos/okfde/sets/72157686600018431
-<!-- [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus -->
+ [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus

@@ -1,10 +1,10 @@
 ---
-title: Support Verschwörhaus
+title: Support Temporärhaus
 type: page
 slug: donate
 ---
 
-Many activities in and around the Verschwörhaus are made possible not only by time and effort investment the volunteers make, but also by donations.
+Many activities in and around the Temporärhaus are made possible not only by time and effort investment the volunteers make, but also by donations.
 
 We are happy about direct financial support, for example via the betterplace form below (direct bank transfer details on [request](/en/kontakt/), via [GitHub Sponsors](https://github.com/sponsors/verschwoerhaus), a supporting membership in our [association Verschwörhaus e.V.](/en/verein/), but also about tools, electronics, machines and other objects that fit well into a hack and maker space.  If you use the betterplace form below, you will automatically receive a donation receipt via e-mail.
 

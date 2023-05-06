@@ -7,18 +7,18 @@ type: page
 
 ## Angaben gemäß § 5 TMG:
 
-Verschwörhaus e.V.  
+Verschwörhaus e.V. ([in Umbenennung](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
 Eberhardtstr. 43  
 89073 Ulm  
 
 ## Kontakt:
 
 E-Mail:
-:   kontakt21 „at“ verschwoerhaus.de
+:   kontakt „at“ temporaerhaus.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Verschwörhaus e.V.  
+Verschwörhaus e.V. ([in Umbenennung](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
 Eberhardtstr. 43  
 89073 Ulm  
 

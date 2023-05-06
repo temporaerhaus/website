@@ -45,7 +45,7 @@ Wir treffen uns **jeden Freitag von 19:00 Uhr bis (offiziell) 21:00 Uhr im Raum 
 Etwa alle zwei Wochen finden parallel zum offenen Treffen **Workshops** zu verschiedenen Themen statt. Welcher Workshop als nächstes stattfindet und ob eine Anmeldung nötig ist (eigentlich nur, wenn wir Hardware kaufen müssen oder die Plätze aus irgendwelchen Gründen begrenzt sind) lässt sich am besten über den Kalender herausfinden :)
 Beschreibung der Gruppe
 
-Komm gerne einfach freitags zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana und Sabrina unter **fuck (at) verschwoerhaus.de** wenden!
+Komm gerne einfach freitags zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana und Sabrina unter **fuck (at) temporaerhaus.de** wenden!
 
 Wir freuen uns auf dich! :)
 
@@ -55,7 +55,7 @@ Wir freuen uns auf dich! :)
 
 ### Jugend hackt / Jugend hackt Lab
 
-Jugend hackt ist ein **Hackathon** von der Open Knowledge Foundation Deutschland und dem Verein mediale pfade.org für Jugendliche im Alter von zwölf bis achtzehn Jahren, der seit 2017 jährlich im Verschwörhaus stattfindet. (Siehe auch: <https://jugendhackt.org>)
+Jugend hackt ist ein **Hackathon** von der Open Knowledge Foundation Deutschland und dem Verein mediale pfade.org für Jugendliche im Alter von zwölf bis achtzehn Jahren, der seit 2017 jährlich im Haus stattfindet. (Siehe auch: <https://jugendhackt.org>)
 
 Seit 2019 sind wir außerdem ein offizielles _**Jugend hackt Lab**_: Unter diesem Label finden regelmäßig Workshops und offene Treffen für Jugendliche und junge Erwachsene statt. Gemeinsam und mit Unterstützung unserer Mentor\*innen wird an kreativen Lösungen für die großen und kleinen Problemstellungen unserer Gesellschaft gearbeitet, Neues gelernt und sich ausgetauscht. Anfänger*innen und Erfahrene sind gleichermaßen willkommen. Wir freuen uns auf euch!
 
@@ -84,12 +84,12 @@ Dabei gibt's im vierwöchigen Wechsel einmal einen “Offenen Abend” und einma
 
 **Inventar**
 
-Um einen groben Überblick über unsere Hardware zu behalten, führen wir eine [Inventarsliste](https://wiki.verschwoerhaus.de/ttn_inventar).
+Um einen groben Überblick über unsere Hardware zu behalten, führen wir eine [Inventarsliste](https://wiki.temporaerhaus.de/ttn_inventar).
 
 **Kontakt**
 
 * Twitter: <https://twitter.com/ttn_ulm/>, bei Bedarf auch gerne DM.
-* Channel im Verschwörhaus-internen Slack: #ttn
+* Channel im Haus-internen Slack: #ttn
 
 {{% /tab %}}
 
@@ -97,13 +97,13 @@ Um einen groben Überblick über unsere Hardware zu behalten, führen wir eine [
 
 ### Maker-Monday
 
-Am Maker-Monday habt ihr die Möglichkeit die Werkstätten und die darin befindlichen Geräte des Verschwörhaus zu nutzen. Aufgeteilt sind die Werkstätten aktuell in:
+Am Maker-Monday habt ihr die Möglichkeit die Werkstätten und die darin befindlichen Geräte zu nutzen. Aufgeteilt sind die Werkstätten aktuell in:
 * 3D-Druck und Lasercutting (oben)
 * Holzbearbeitung (unten)
 
-Weitere Informationen zu unserem Maschinenpark findet Ihr im [Wiki](https://wiki.verschwoerhaus.de).
+Weitere Informationen zu unserem Maschinenpark findet Ihr im [Wiki](https://wiki.temporaerhaus.de).
 
-**Kontakt:** makermonday (at) verschwoerhaus.de
+**Kontakt:** makermonday (at) temporaerhaus.de
 
 {{% /tab %}}
 
@@ -111,11 +111,11 @@ Weitere Informationen zu unserem Maschinenpark findet Ihr im [Wiki](https://wiki
 
 ### OpenStreetMap Gruppe Ulm
 
-Die OpenStreetMap ist eine frei editierbare und frei nutzbare Weltkarte. Im Verschwörhaus trifft sich regelmäßig die [regionale OSM-Gruppe Ulm/Neu-Ulm](https://wiki.openstreetmap.org/wiki/Ulm_Neu-Ulm).
+Die OpenStreetMap ist eine frei editierbare und frei nutzbare Weltkarte. Im Haus trifft sich regelmäßig die [regionale OSM-Gruppe Ulm/Neu-Ulm](https://wiki.openstreetmap.org/wiki/Ulm_Neu-Ulm).
 
 **Regelmäßige Termine:**
 * Austausch zwischen Mappern und Interessierten im Rahmen eines Stammtisches (meist am 1. Dienstag im Monat im Freiraum des Büchsenstadels)
-* Veranstaltungen (z.B. Mapathons) zu bestimmten Themengebieten (z.B. ÖPNV, humanitäres Mappen) im Verschwörhaus
+* Veranstaltungen (z.B. Mapathons) zu bestimmten Themengebieten (z.B. ÖPNV, humanitäres Mappen)
 
 {{% /tab %}}
 

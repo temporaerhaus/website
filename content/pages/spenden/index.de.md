@@ -1,10 +1,10 @@
 ---
-title: Unterstütze das Verschwörhaus
+title: Unterstütze das Temporärhaus
 type: page
 slug: spenden
 author: Gerhard Habiger
 ---
-Viele Aktivitäten im und um das Verschwörhaus herum sind neben viel ehrenamtlicher Zeit vorallem durch Spenden möglich.
+Viele Aktivitäten im und um das Temporärhaus herum sind neben viel ehrenamtlicher Zeit vorallem durch Spenden möglich.
 
 So freuen wir uns über direkte finanzielle Unterstützung, zum Beispiel über das betterplace-Formular unten (direkte Überweisungsdaten gerne auf [Anfrage](/kontakt/)), über [GitHub Sponsors](https://github.com/sponsors/verschwoerhaus), eine Fördermitgliedschaft in unserem [Verein Verschwörhaus e.V.](/verein/), aber auch über Werkzeug, Elektronik, Maschinen und andere Objekte die gut in einen Hack- und Makespace passen. Spendet ihr über das untenstehende betterplace-Formular, erhaltet ihr automatisch per E-Mail eine Spendenbescheinigung.
 Wollt ihr direkt an uns spenden und benötigt dafür eine Bescheinigung, dann kontaktiert uns bitte vorher kurz [per Mail](/verein/).

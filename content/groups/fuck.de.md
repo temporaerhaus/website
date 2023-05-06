@@ -18,6 +18,6 @@ Wir treffen uns **jeden Freitag von 19:00 Uhr bis (offiziell) 21:00 Uhr im Raum 
 Etwa alle zwei Wochen finden parallel zum offenen Treffen **Workshops** zu verschiedenen Themen statt. Welcher Workshop als nächstes stattfindet und ob eine Anmeldung nötig ist (eigentlich nur, wenn wir Hardware kaufen müssen oder die Plätze aus irgendwelchen Gründen begrenzt sind) lässt sich am besten über den Kalender herausfinden :)
 Beschreibung der Gruppe
 
-Komm gerne einfach freitags zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana und Sabrina unter **fuck (at) verschwoerhaus.de** wenden!
+Komm gerne einfach freitags zu einem unserer Treffen! Alternativ kannst du dich auch per Mail an Jana und Sabrina unter **fuck (at) temporaerhaus.de** wenden!
 
 Wir freuen uns auf dich! :)

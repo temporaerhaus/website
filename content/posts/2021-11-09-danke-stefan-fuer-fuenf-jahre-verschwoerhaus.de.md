@@ -21,7 +21,7 @@ Kurz: Im Digitalen Ehrenamt setzen sich die Menschen hier in ihrer Freizeit daf�
 
 > Im Haus sind ganz verschiedene Menschen aktiv - manche sind nur kurz und für ein einzelnes Projekt da, viele engagieren sich ehrenamtlich und regelmäßig, und ein paar städtische Mitarbeiter:innen kommen auch mal nach Feierabend vorbei. Zur Unterstützung der ehrenamtlichen Struktur haben wir Mitte 2019 auch den Verschwörhaus e.V. gegründet, der sich als Trägerverein aber im Hintergrund hält. Wer mitmachen will im Verschwörhaus, muss kein Mitglied sein.  
 > 
-— sagt Simon, aktiv in der LoRa-Gruppe ([jeden zweiten Mittwochabend](/termine-und-oeffnungszeiten/#ttn)).
+— sagt Simon, aktiv in der LoRa-Gruppe ([jeden zweiten Mittwochabend](/gruppen/ttn)).
 
 Übrigens: Wenn wir hier »wir« schreiben, dann sind »wir« nicht der formale Vorstand des Vereins, sondern die Aktiven im »Hausi« – wie es gerne liebevoll genannt wird.
 
@@ -55,7 +55,7 @@ Dieses Wissen hat es ermöglicht, dass schon zu Beginn der Pandemie in unterschi
 > Wir konnten uns dank BBB die komplette Coronazeit weiter online treffen und sogar Workshops und Projekte gemeinsam durchführen, wie z.B. [unseren kleinen Adventskalender](https://adventskalender.verschwoerhaus.de).
 > Besonders cool war, dass hierbei auch komplett unerfahrene Teilnehmende ein bisschen Programmiererfahrung sammeln und gängige Tools der Softwareentwentwicklung kennen lernen konnten.
 >
-> — berichten Jana und Sabrina von [F.U.C.K.](/termine-und-oeffnungszeiten/#fuck)
+> — berichten Jana und Sabrina von [F.U.C.K.](/gruppen/fuck)
 
 Neben der Pandemie auch noch Hochbeet bauen, OpenBike betreiben, [OpenBikeSensor anschauen](/wir-bauen-openbikesensoren/), [Radwegmapping](/mappt-die-radwege/), mit der [Allgäuer Ring-Fahrraddrängelgitter-Simulation](https://twitter.com/verschwoerhaus/status/1410212401912373250) Probleme aufzeigen, Kulturnacht organisieren – mit all diesen Dingen waren wir gut beschäftigt. Daher waren in den letzten Monaten leider nicht immer genug Kapazitäten übrig, um über alle Projekte auch auf unserer Webseite zu berichten, was sich in den nächsten Wochen wieder bessern soll.
 

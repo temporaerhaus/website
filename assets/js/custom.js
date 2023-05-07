@@ -2,14 +2,13 @@
   // spaceapi currently disabled
   return;
 
-
   function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
   }
 
-  const SPACEAPI_URL = 'https://spaceapi.verschwoerhaus.de/spaceapi/';
+  const SPACEAPI_URL = 'https://spaceapi.temporaerhaus.de/spaceapi/';
 
-  var response, spaceapi;
+  let response, spaceapi;
   try {
     response = await fetch(SPACEAPI_URL);
     if (!response.ok) {
@@ -20,9 +19,10 @@
     console.error(error);
     return;
   }
-  var state = spaceapi.state.open;
-  var stateClass = state ? 'open' : 'closed';
-  var stateClassCap = capitalize(stateClass);
+
+  const state = spaceapi.state.open;
+  const stateClass = state ? 'open' : 'closed';
+  const stateClassCap = capitalize(stateClass);
 
   document.querySelectorAll('.vsh-door-unknown').forEach(el => el.classList.replace('vsh-door-unknown', `vsh-door-${stateClass}`));
   document.querySelectorAll('.space-state').forEach(el => {
@@ -36,42 +36,34 @@
   });
 })();
 
-$(document).ready(function() {
-  if ($('.tabs')) {
-    $('.tabs .tab-content .tab').each(function() {
-      var tabID = $(this).attr("id");
-      var tabTitle = $(this).attr("title");
-
-      var active = "";
-      if ($(this).hasClass("active")) active = "class='active'";
-
-      $('.tabs .tab-links').append("<li " + active + "><a href='#" + tabID + "'>" + tabTitle + "</a></li>");
+document.addEventListener('DOMContentLoaded', () => {
+  if (document.querySelector('.tabs')) {
+    document.querySelectorAll('.tabs .tab-content .tab').forEach((e) => {
+      document.querySelector('.tabs .tab-links').insertAdjacentHTML(
+        'beforeend',
+        `<li${e.classList.contains('active') ? ' class="active"' : ''}><a href="#${e.id}">${e.title}</a></li>`
+      );
     });
 
-    $('.tabs .tab-links a').on('click', function(e) {
-      var currentAttrValue = $(this).attr('href');
+    document.querySelectorAll('.tabs .tab-links a').forEach((a) => a.addEventListener('click', (e) => {
+      e.preventDefault();
+      const hash = decodeURIComponent(new URL(a.href).hash);
 
       // Show/Hide Tabs
-      $('.tab-content ' + currentAttrValue).first().show().siblings().hide();
+      document.querySelectorAll(`.tab-content .tab`).forEach(e => e.classList.remove('active'));
+      document.querySelector(`.tab-content ${hash}`).classList.add('active');
 
       // Change/remove current tab to active
-      $(this).parent('li').addClass('active').siblings().removeClass('active');
+      a.closest('ul').childNodes.forEach(e => e.classList.remove('active'));
+      a.closest('li').classList.add('active');
+    }));
 
-      e.preventDefault();
-    });
-
-    function getURLParameter(name) {
-      return decodeURI(
-        (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1]
-      );
-    }
-
-    var tabName = getURLParameter("tab");
+    const tabName = new URL(document.location)?.searchParams?.get?.('tab');
     if (tabName) {
-      $('.tabs .tab-links a').each(function() {
-				if ($(this).attr("href") == "#" + tabName) $(this).click();
-      });
-      $("#" + tabName)[0].scrollIntoView();
+        document.querySelector(`.tabs .tab-links a[href="#${tabName}"`)?.click?.();
+        document.querySelector(`.tabs .tab-links a[href="#${decodeURIComponent(tabName)}"`)?.click?.();
+        document.querySelector(`#${decodeURIComponent(tabName)}`)?.scrollIntoView?.();
     }
   }
-});
+}, false);
+

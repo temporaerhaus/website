@@ -1,7 +1,7 @@
-verschwoerhaus.de
+temporaerhaus.de
 =================
 
-The new website for the Verschwörhaus. Now based on [Hugo](https://gohugo.io), a static site generator. All the content from the old wordpress website is migrated.
+The new website for the Temporärhaus. Now based on [Hugo](https://gohugo.io), a static site generator. All the content from the old wordpress website is migrated.
 
 ## How to blog
 

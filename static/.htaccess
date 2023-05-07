@@ -16,8 +16,10 @@ Redirect 302 /en/jugend-hackt-lab/ /en/category/jugend-hackt-lab/
 
 Redirect 302 /en/tour/ /tour/
 
-Redirect 302 /en/contact/ /kontact/
-Redirect 302 /en/geschichte/ /geschichte/
+Redirect 302 /en/contact/ /en/kontakt/
+Redirect 302 /en/geschichte/ /en/history/
+Redirect 302 /en/spenden/ /en/donate/
+
 Redirect 302 /en/groups/bewerbungscafe /gruppen/bewerbungscafe
 Redirect 302 /en/groups/ctf /gruppen/ctf
 Redirect 302 /en/groups/fuck /gruppen/fuck
@@ -28,7 +30,6 @@ Redirect 302 /en/groups/sewingcafe /gruppen/sewingcafe
 Redirect 302 /en/groups/ubuntu /gruppen/ubuntu
 Redirect 302 /en/groups/wikidata /gruppen/wikidata
 Redirect 302 /en/make/ /make/
-Redirect 302 /en/spenden/ /spenden/
 
 Redirect 301 /das-verschwoerhaus/ /das-haus/
 Redirect 301 /en/das-verschwoerhaus/ /en/das-haus/

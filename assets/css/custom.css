@@ -44,38 +44,31 @@
 }
 
 .custom-logo-link {
-	display: block;
+    display: block;
+    position: relative;
 }
 
 .custom-logo-link:hover::after {
     content: '🌟';
     position: absolute;
-    top: 32%;
+    top: 25%;
     left: 5%;
-    transition: top 3s ease 0s;
-    animation: stars 3s ease both infinite;
+    animation: stars 1.5s ease-out forwards infinite;
 }
 
 @keyframes stars {
   0% {
-    transform: scale(1) translateY(0px) translateX(0px);
+    transform: scale(1);
+    top: 20%;
+    left: 5%;
     opacity: 100%;
-    transform-origin: bottom center;
-  }
-  90% {
-    transform: scale(0.1) translateY(-200%) translateX(600%);
-    opacity: 0%;
-    transform-origin: bottom center;
   }
   100% {
-    transform: scale(0) translateY(-210%) translateX(610%);
+    transform: scale(0);
+    left: 25%;
+    top: 0%;
     opacity: 0%;
-    transform-origin: bottom center;
   }
-}
-
-.custom-logo-link:hover {
-    position: relative;
 }
 
 /* --------------------- VSH-Door ---------------------- */

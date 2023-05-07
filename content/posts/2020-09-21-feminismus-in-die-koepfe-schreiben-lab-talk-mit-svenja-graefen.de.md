@@ -4,7 +4,7 @@ author: Tom Novy
 type: post
 date: 2020-09-21T13:09:23+00:00
 slug: feminismus-in-die-koepfe-schreiben-lab-talk-mit-svenja-graefen
-featured_image: wp-content/uploads/2020/01/Svenja-Promo-_-Constantin-2018-klein-1024x684.jpg
+featured_image: /wp-content/uploads/2020/01/Svenja-Promo-_-Constantin-2018-klein-1024x684.jpg
 categories:
   - Aktionen
   - Jugend hackt Lab

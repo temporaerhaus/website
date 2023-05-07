@@ -27,5 +27,3 @@ Bewohner*innen sollen zwischen individuellen Rückzug, als auch dem Bedürfnis n
 **Corona-safe-Bedingungen: wollt ihr live dabei sein gilt 3G, da in BW die Schulen noch nicht angefangen haben, bitten wir verpflichtend auch Schüler*innen einen höchstens 24 Stunden alten Test dabei zu haben. Im ganzen Gebäude gilt Masken- und Registrierungspflicht.**
 
 
-
-Link zum heutigen Stream ab 18 Uhr: [verschwoerhaus.de/live](verschwoerhaus.de/live)

@@ -29,7 +29,7 @@ Das Besondere an Wikidata ist, dass es zum Einen die Datenquelle für möglichst
 
 Zum Anderen ist Wikidata aber keine „normale“, klassische Datenbank mit Schlüsseln und Werten, sondern beschreibt Aussagen wie „Ulm hat die Eigenschaft _Einwohnerzahl_, und zum 31.12.2013 war der Wert dieser Eigenschaft _119,218±0_“. Klingt kompliziert, ist aber im Diagramm vielleicht etwas verständlicher:
 
-{{< figure src="/wp-content/uploads/2017/01/Wikidata_statement_de.svg" attr="[Wikidata\_statement\_mk.svg](/wiki/File:Wikidata_statement_mk.svg): *[Wikidata_statement.png](/wiki/File:Wikidata_statement.png): Lydia Pintscher derivative work: [Bjankuloski06en](https://commons.wikimedia.org/wiki/User:Bjankuloski06en) derivative work: [Kolja21](https://commons.wikimedia.org/wiki/User:Kolja21), [Wikidata statement de](https://commons.wikimedia.org/wiki/File:Wikidata_statement_de.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)" >}}
+{{< figure src="/wp-content/uploads/2017/01/Wikidata_statement_de.svg" attr="[Wikidata\_statement\_de.svg](/wp-content/uploads/2017/01/Wikidata_statement_de.svg): Lydia Pintscher derivative work: [Bjankuloski06en](https://commons.wikimedia.org/wiki/User:Bjankuloski06en) derivative work: [Kolja21](https://commons.wikimedia.org/wiki/User:Kolja21), [Wikidata statement de](https://commons.wikimedia.org/wiki/File:Wikidata_statement_de.svg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode)" >}}
 
 Das heißt, dass es zu einem bestimmten Schlüssel (z.B. „Einwohnerzahl“) nicht nur _einen_ Wert geben kann, sondern mehrere – zum Beispiel, wenn sich der Wert über die Zeit hinweg ändert, oder wenn es verschiedene Quellen zu einer Sache gibt, die sich widersprechen.
 

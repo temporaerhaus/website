@@ -174,7 +174,7 @@ date = [":filename", ":default"]
 
     [[languages.de.menu.social]]
       name = "temporaerhaus auf YouTube"
-      url = "https://www.youtube.com/temporaerhaus"
+      url = "https://www.youtube.com/@temporaerhaus"
 
     [[languages.de.menu.social]]
       name = "temporaerhaus auf Instagram"

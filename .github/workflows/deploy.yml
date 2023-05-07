@@ -20,7 +20,7 @@ jobs:
         run: hugo --gc --minify
         env:
           HUGO_ENV: production
-          HUGO_BASEURL: 'https://verschwoerhaus.de/'
+          HUGO_BASEURL: 'https://temporaerhaus.de/'
       
       - name: ssh deploy
         uses: easingthemes/ssh-deploy@v2.2.11

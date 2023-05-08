@@ -6,7 +6,7 @@ slug: donate
 
 Many activities in and around the Temporärhaus are made possible not only by time and effort investment the volunteers make, but also by donations.
 
-We are happy about direct financial support, for example via the betterplace form below (direct bank transfer details on [request](/en/kontakt/), via [GitHub Sponsors](https://github.com/sponsors/verschwoerhaus), a supporting membership in our [association Verschwörhaus e.V.](/en/verein/), but also about tools, electronics, machines and other objects that fit well into a hack and maker space.  If you use the betterplace form below, you will automatically receive a donation receipt via e-mail.
+We are happy about direct financial support, for example via the betterplace form below (direct bank transfer details on [request](/en/kontakt/), via [GitHub Sponsors](https://github.com/sponsors/temporaerhaus), a supporting membership in our [association Verschwörhaus e.V.](/en/verein/), but also about tools, electronics, machines and other objects that fit well into a hack and maker space.  If you use the betterplace form below, you will automatically receive a donation receipt via e-mail.
 
 If you are not sure if we already own or can use something, [please write us](/en/contact/) beforehand. Also for bigger hardware we are happy about [mail contact](/en/contact/) first. :)
 
@@ -26,4 +26,4 @@ If you are not sure if we already own or can use something, [please write us](/e
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bp, s);
   })();
 </script>
-<div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/donate/platform/projects/85727-das-verschwoerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit">Donations for „Das Verschwörhaus gestaltet selbstbestimmte Stadtentwicklung mit“ (The Verschwörhaus takes action in self-determined urban development) at our partner betterplace.org</a></strong></div>
+<div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/donate/platform/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit">Donations for „Das Temporärhaus gestaltet selbstbestimmte Stadtentwicklung mit“ (The Temporärhaus takes action in self-determined urban development) at our partner betterplace.org</a></strong></div>

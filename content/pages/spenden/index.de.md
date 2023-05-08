@@ -28,4 +28,4 @@ Wenn ihr euch nicht sicher seid, ob wir etwas bereits besitzen oder nutzen könn
   })();
 </script>
 
-<div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/donate/platform/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit">Jetzt Spenden für „Das Verschwörhaus gestaltet selbstbestimmte Stadtentwicklung mit“ bei unserem Partner betterplace.org</a></strong></div>
+<div id="betterplace_donation_iframe" style="background: transparent url('https://www.betterplace.org/assets/new_spinner.gif') 275px 20px no-repeat;"><strong><a href="https://www.betterplace.org/de/donate/platform/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit">Jetzt Spenden für „Das Temporärhaus gestaltet selbstbestimmte Stadtentwicklung mit“ bei unserem Partner betterplace.org</a></strong></div>

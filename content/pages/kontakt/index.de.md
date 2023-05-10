@@ -15,7 +15,7 @@ Telefon: +49 731 14116501 (bitte nur in Notfällen verwenden, wir bevorzugen _wi
 
 ## Adresse des Vereins 
 
-Verschwörhaus e.V. ([in Umbenennung](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+Verschwörhaus e.V. ([bislang](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
 Eberhardtstr. 43  
 89073 Ulm
 

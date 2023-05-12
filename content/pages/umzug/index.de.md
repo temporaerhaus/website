@@ -6,6 +6,10 @@ sticky: true
 featured_image: /wp-content/uploads/2022/09/umzug.jpg
 ---
 
+{{% warning title="Neue Location gefunden" %}}
+Wir haben [eine neue Location in Neu-Ulm gefunden](/neuhaus-neuulm/)! Vielen Dank für eure Mithilfe und Tipps!
+{{% /warning %}}
+
 Das Haus sucht eine neue Bleibe in Ulm oder Neu-Ulm. Einerseits sind wir auf der Suche nach einer kurzfristig verfügbaren Unterkunft mit einer Fläche ab ca. 60 m² als __Zwischenlösung__ für ein paar Monate. Was diese Interimsunterkunft angeht, sind wir recht spontan und flexibel. Gleichzeitig wollen wir wieder eine richtig __gut passende und langfristig nutzbare Bleibe__ ab mind. 200 m² finden, in der wir auch wieder einen größeren Raum für Workshops und Vorträge haben und daneben auch eine Werkstatt aufbauen können. Wenn uns jemand solche Räume anbieten möchten oder hilfreiche Hinweise und Tipps einfallen, bitten wir darum uns zu kontaktieren (umzug@temporaerhaus.de, 0731/14116501)!!
 Eine recht großzügige und langfristige neue Förderung ist bereits in Aussicht, die passenden Räume dazu müssen wir jedoch noch finden. Weiter unten auf dieser Seite findet sich eine Liste unserer Anforderungen. Wir haben jedenfalls Power und freuen uns auf einen Neustart.
 

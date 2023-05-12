@@ -2,7 +2,6 @@
 title: Neues Haus! Wir ziehen gemeinsam nach Neu-Ulm
 author: Temporärhaus
 date: 2023-05-12T10:00:00+02:00
-draft: false
 featured_image: /wp-content/uploads/2023/05/neuhaus-header.jpg
 categories:
   - news

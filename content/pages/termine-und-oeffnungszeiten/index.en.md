@@ -6,7 +6,7 @@ type: page
 ---
 
 {{% warning title="We're moving" %}}
-Sadly, we don't have a visitable location anymore! But we are working hard to find a place to be and will keep you posted at times!  
+We've [found a new location in Neu-Ulm](/neuhaus-neuulm/) and are currently moving in. We'll keep you updated, when official events are going to start.
 {{% /warning %}}
 
 

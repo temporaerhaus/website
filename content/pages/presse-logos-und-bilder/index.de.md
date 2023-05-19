@@ -28,23 +28,6 @@ Die folgenden Abbildungen können für Veröffentlichungen verwendet werden. Sie
 Zudem finden sich in der **[Galerie von Jugend hackt Ulm 2017][5] und [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
 sowie in der **[Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creative-Commons-Lizenz.
 
-{{< figure
-	link="https://commons.wikimedia.org/wiki/File%3AWikidata_Vortrag.jpg"
-	alt="von Bleeptrack (Eigenes Werk) [CC0], via Wikimedia Commons"
-	src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wikidata_Vortrag.jpg/512px-Wikidata_Vortrag.jpg"
-	caption="Wikidata Vortrag, von bleeptrack (cc-0)" >}}
-
-{{< figure
-	link="https://commons.wikimedia.org/wiki/File%3AOkwiki16_Einf%C3%BChrung_in_Wikidata_mit_%40wikidatafacts.jpg"
-	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
-	src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Okwiki16_Einf%C3%BChrung_in_Wikidata_mit_%40wikidatafacts.jpg/512px-Okwiki16_Einf%C3%BChrung_in_Wikidata_mit_%40wikidatafacts.jpg"
-	caption="Einführung in Wikidata mit @wikidatafacts" >}}
-
-{{< figure
-	link="https://commons.wikimedia.org/wiki/File%3AOkwiki16_Einf%C3%BChrung_mit_Jens_Ohlig.jpg"
-	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
-	src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Okwiki16_Einf%C3%BChrung_mit_Jens_Ohlig.jpg/512px-Okwiki16_Einf%C3%BChrung_mit_Jens_Ohlig.jpg"
-	caption="Workshop mit Jens Ohlig" >}}
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AOkwiki16_Im_Seminarraum_wird_gehackt!.jpg"
@@ -131,12 +114,6 @@ sowie in der **[Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creativ
 	caption="Teilnehmer*innen des zweiten Wikidata-Workshops. Wegen des schönen Wetters saßen viele in den Liegestühlen im Innenhof." >}}
 
 {{< figure
-	link="https://commons.wikimedia.org/wiki/File%3AWikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
-	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
-	src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Wikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg/512px-Wikidata-Workshop_im_Verschw%C3%B6rhaus_Ulm.jpg"
-	caption="Bei der Verpflegungspause des Wikidata-Workshops" >}}
-
-{{< figure
 	link="https://commons.wikimedia.org/wiki/File%3A3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg"
 	alt="von -stk (Eigenes Werk) [CC0], via Wikimedia Commons"
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg/256px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_01.jpg"
@@ -172,12 +149,14 @@ sowie in der **[Kategorie auf Wikimedia Commons][6]** viele Bilder unter Creativ
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
 	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
-
+<!--
 [Außerdem gibt es eine eigene Kategorie mit Bildern unter Freier Lizenz auf Wikimedia Commons!][6]
-
+-->
 
  [2]: https://www.pantone.com/color-finder/7406-C
  [3]: https://www.pantone.com/color-finder/7580-CP
  [4]: https://www.pantone.com/color-finder/3500-CP
  [5]: https://www.flickr.com/photos/okfde/sets/72157686600018431
+<!--
  [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus
+-->

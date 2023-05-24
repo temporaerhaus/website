@@ -11,20 +11,19 @@ categories:
   - bootstrap
   - news
 ---
-Welcome to the Temporärhaus – the “Experimentation platform for the world of tomorrow”! We have 3D Printers, an Open Workshop Area, Lecture rooms – and, most importantly, a lot of ideas and content to accompany our home city of Ulm into the future!
+Welcome to the Temporärhaus – the “Experimentation platform for the world of tomorrow”! We have 3D Printers, an Open Workshop Area, Lecture rooms – and, most importantly, a lot of ideas and content to accompany our home region of Ulm / Neu-Ulm into the future!
 
 <!--more-->
 
-<!--
 ## Where is the Temporärhaus?
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.950566291809084%2C48.37711928442904%2C10.034680366516115%2C48.41251072575901&amp;layer=mapnik&amp;marker=48.394818082390145%2C9.992623329162598" style="border: 1px solid black; float: right; margin-bottom: 50px;"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.000120103359224%2C48.39563732211802%2C10.00395566225052%2C48.397005066875344&amp;layer=mapnik&amp;marker=48.39632119909295%2C10.00203788280487"></iframe> <small><a href="https://www.openstreetmap.org/?mlat=48.39632&amp;mlon=10.00204#map=19/48.39632/10.00204">Show bigger OpenStreetMap</a> or <a href="https://goo.gl/maps/pDmZJLzoo3Sc8xD69">have a look on Google Maps</a></small><br/><br/>
 
-T﻿he Verschwörhaus [is currently looking for a new location](/umzug/).
--->
+The Temporärhaus is in the old Sport-Sohn building, right at the Augsburger Straße 23-25 in 89231 Neu-Ulm.
+
 
 ## What are the opening hours?
 
 You will find the guaranteed opening hours [on our calendar](/termine-und-oeffnungszeiten/). Usually, all events listed there come with an accompanying text which goes in more detail and offers a signup link, if necessary.
 
-For last-minute-announcements about unforeseen events, make sure to [follow us on Twitter](https://twitter.com/temporaerhaus) or just drop by when the traffic signal in the front window glows green!
+For last-minute-announcements about unforeseen events, make sure to follow us [on Mastodon](https://chaos.social/@temporaerhaus) or [on Twitter](https://twitter.com/temporaerhaus) - or just drop by when the traffic signal in the front window glows green!

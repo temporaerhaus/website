@@ -5,8 +5,6 @@ type: page
 
 ---
 
-Sadly, we don't have a visitable location anymore! But we are working hard to find a place to be and will keep you posted at times!  
-
 E-Mail: kontakt „at“ temporaerhaus.de  
 Twitter: [@temporaerhaus][1]  
 Mastodon: [@temporaerhaus@chaos.social][2]

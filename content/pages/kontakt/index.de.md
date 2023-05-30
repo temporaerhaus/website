@@ -4,8 +4,6 @@ slug: kontakt
 type: page
 
 ---
-
-Momentan haben wir keine Besuchslocation mehr! Wir sind aber dran, etwas Neues zu finden und informieren euch baldmöglichst!
   
 E-Mail: kontakt „at“ temporaerhaus.de  
 Twitter: [@temporaerhaus][1]  

@@ -36,5 +36,6 @@ Seit der Entstehung unserer Gemeinschaft ist viel passiert. Hier eine kleine Üb
   * **September 2022** Die Stadt verklagt uns vor dem LG Stuttgart um zu erwirken, dass wir die Markenrechtswidersprüche zurücknehmen und gegen empfindliche Strafen aufhören uns in der Öffentlichkeit „Verschwörhaus“ zu nennen. Wir erarbeiten detaillierte Erwiderungen und setzen uns anwaltlich zur Wehr.
   * **November 2022** Der Gemeinderat beschließt die Streichung der im März 2021 beschlossenen Förderung für die Jugend hackt Labs. Unser Verein muss die Ausrichtung der Labs wenige Monate danach pausieren.
   * **April 2023** Das LG Stuttgart fällt ein erstinstanzliches Urteil, welches der Klage der Stadt in allen Punkten stattgibt und uns untersagt, unseren alten Namen weiterhin zu verwenden.
-  * **Mai 2023** Wir benennen uns nach der stadseitigen Androhung einer vorläufigen Vollstreckung des zu diesem Zeitpunkt noch nicht rechtskräftigen Urteils zeitweise um in „Temporärhaus“.
-
+  * **Mai 2023** Wir benennen uns nach der stadtseitigen Androhung einer vorläufigen Vollstreckung des zu diesem Zeitpunkt noch nicht rechtskräftigen Urteils zeitweise um in „Temporärhaus“.
+  * **Mai 2023** Neue Räume sind gefunden! Wir ziehen gemeinsam mit dem [Haus der Nachhaltigkeit](https://h-d-n.org) in das ehemalige [Sport-Sohn-Gebäude nach Neu-Ulm](/neuhaus-neuulm/).
+  

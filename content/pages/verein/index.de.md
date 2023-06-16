@@ -23,5 +23,9 @@ Für alle Dinge rund um den Verein erreichst du uns am besten unter _vorstand (a
 ### Mitgliedschaft im Verein
 Du willst Mitglied im Verein werden? Dann schicke uns einfach eine Mail an `vorstand (at) temporaerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.
 
+In der Regel beträgt der Mitgliedsbeitrag 10 € im Monat, kann aber nach Rücksprache angepasst werden.
+
 ### Fördermitgliedschaft
 Wir freuen uns auch sehr über deine Unterstützung als Fördermitglied im Verein. Auch dafür schicke uns einfach eine Mail an `vorstand (at) temporaerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung). Vielen Dank!
+
+Wir empfehlen einen Betrag von 10 € pro Monat für natürliche Personen und 50 € pro Monat für Firmen oder Organisationen.

@@ -9,6 +9,8 @@ Viele Aktivitäten im und um das Temporärhaus herum sind neben viel ehrenamtlic
 So freuen wir uns über direkte finanzielle Unterstützung, zum Beispiel über das betterplace-Formular unten (direkte Überweisungsdaten gerne auf [Anfrage](/kontakt/)), über [GitHub Sponsors](https://github.com/sponsors/temporaerhaus), eine Fördermitgliedschaft in unserem [Verein Verschwörhaus e.V.](/verein/) (aktuell in Umbenennung, bald temporärhaus e.V.), aber auch über Werkzeug, Elektronik, Maschinen und andere Objekte die gut in einen Hack- und Makespace passen. Spendet ihr über das untenstehende betterplace-Formular, erhaltet ihr automatisch per E-Mail eine Spendenbescheinigung.
 Wollt ihr direkt an uns spenden und benötigt dafür eine Bescheinigung, dann kontaktiert uns bitte vorher kurz [per Mail](/verein/).
 
+Möchtet ihr Fördermitglied werden, empfehlen wir einen Betrag von 10 € pro Monat für natürliche Personen und 50 € pro Monat für Firmen oder Organisationen.
+
 Wenn ihr euch nicht sicher seid, ob wir etwas bereits besitzen oder nutzen können, [schreibt uns bitte](/kontakt/) vorher. Auch bei größerer Hardware freuen wir uns über [Absprache per Mail](/kontakt/) vorher :)
 
 <script type="text/javascript">

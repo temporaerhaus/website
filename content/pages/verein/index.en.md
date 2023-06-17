@@ -21,7 +21,11 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 For all things concerning the association you can reach us best at _vorstand (at) temporaerhaus.de_.
 
 ### Membership 
-You want to join our non-profit association? Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past at the Verschwörhaus.
+You want to join our non-profit association? Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past in our group.
 
-### Supporting Membershop
+Usually the membership fee is 10 € per month. In case you need an adaption of the fee, please get in contact with us.
+
+### Supporting Membership
 We're happy to welcome you or your organization as a supporting member for our non-profit association. Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate).
+
+We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for supporting membership.

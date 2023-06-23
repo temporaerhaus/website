@@ -12,7 +12,7 @@ tags:
   - spenden
   - werkzeug
 ---
-fWir kommen gerade gar nicht dazu, all die zahlreichen Bau- und Einrichtungsfortschritte zu posten – es geht in Windeseile mit den Umbaumaßnahmen voran, damit wir so bald wie möglich unsere Türen für erste öffentliche Angebote öffnen können. Gemeinsam mit dem Haus der Nachhaltigkeit bauen wir Trockenwände ein, streichen die bestehenden Wände, sorgen für möglichst weitgehende Barrierefreiheit und richten die bereits bezugsbereiten Teile gemütlich ein.
+Wir kommen gerade gar nicht dazu, all die zahlreichen Bau- und Einrichtungsfortschritte zu posten – es geht in Windeseile mit den Umbaumaßnahmen voran, damit wir so bald wie möglich unsere Türen für erste öffentliche Angebote öffnen können. Gemeinsam mit dem Haus der Nachhaltigkeit bauen wir Trockenwände ein, streichen die bestehenden Wände, sorgen für möglichst weitgehende Barrierefreiheit und richten die bereits bezugsbereiten Teile gemütlich ein.
 
 Die gute Nachricht ist: Wir haben neben unserem Know-How auch viel Material, mit dem wir relativ schnell wieder die grundliegenden gewohnten Programmpunkte für euch alle anbieten können. Wir können bislang auch einen guten Anteil der bisherigen Umbaukosten aus unseren Mitgliedsbeiträgen stemmen.
 
@@ -38,8 +38,7 @@ Manche dieser Lücken in unserem Angebot konnten wir inzwischen durch Sachspende
 
 Einige Maschinen vermissen wir aber immer noch schmerzlich: Eine Tauchsäge für große Holzplatten, einen Industriestaubsauger für die Werkstatt und einen Kompressor beispielsweise. Für die notwendigen Sicherheits- und Brandschutzauflagen brauchen wir außerdem wieder CO2-Löscher für den Lasercutter und müssen die noch im neuen Haus vorhandenen Löscher betriebssicher machen lassen. Auch die Kleinigkeiten wie Erste-Hilfe-Kasten und Brandschutzzeichen kosten Geld.
 
-### \
-U﻿nterstützung
+### U﻿nterstützung
 
 Falls ihr uns hierbei unterstützen mögt, gibt es gleich mehrere Möglichkeiten: Für Neuanschaffungen haben wir [entsprechende Bedarfe für Einzelspenden auf Betterplace angelegt](https://www.betterplace.org/de/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit). Wir werden Anteile dieser Bedarfe aus Spenden unserer Mitglieder decken, denen diese Einrichtung sehr wichtig ist, und hinterlegen die so eingezahlten Beträge jeweils auf Betterplace.
 Auch Sachspenden helfen uns. Das teure an Verbandkästen ist nicht das Material, sondern der Verbandkoffer mit Wandhalterung – und falls so etwas bei euch oder eurer Firma sowieso rausgeflogen wäre, [meldet euch gerne bei uns!](https://temporaerhaus.de/kontakt/)

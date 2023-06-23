@@ -2,7 +2,7 @@
 title: Der Umbau geht voran – und Du kannst uns helfen!
 author: Community
 date: 2023-06-23T10:41:53.842Z
-draft: true
+draft: false
 featured_image: /wp-content/uploads/2023/06/couch.png
 categories:
   - spenden

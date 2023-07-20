@@ -5,7 +5,7 @@ slug: verein
 
 ---
 
-Der Verschwörhaus e.V. ([in Umbenennung](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) ist ein eingetragener, gemeinnütziger Verein in Ulm und unterstützt die Ehrenamtlichen bei Aktivitäten im und um das Haus herum - wie der Organisation und Abwicklung von Workshops und Veranstaltungen und bei Förderungen.
+Der temporärhaus e.V. ([vorübergehend so genannt](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) ist ein eingetragener, gemeinnütziger Verein in Ulm und unterstützt die Ehrenamtlichen bei Aktivitäten im und um das Haus herum - wie der Organisation und Abwicklung von Workshops und Veranstaltungen und bei Förderungen.
 
 Muss ich im Verein Mitglied sein um im Haus aktiv zu sein oder _irgendwas_ zu machen?  
 Nein, denn durch unsere externen Förderungen können wir das Haus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw. angewiesen zu sein.

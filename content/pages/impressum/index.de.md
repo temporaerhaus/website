@@ -7,7 +7,7 @@ type: page
 
 ## Angaben gemäß § 5 TMG:
 
-Verschwörhaus e.V. ([bislang](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+temporärhaus e.V. ([vorübergehend](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
 Eberhardtstr. 43  
 89073 Ulm  
 
@@ -18,7 +18,7 @@ E-Mail:
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-Verschwörhaus e.V. ([bislang](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+temporärhaus e.V. ([vorübergehend](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
 Eberhardtstr. 43  
 89073 Ulm  
 

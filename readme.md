@@ -2,7 +2,7 @@ temporaerhaus.de
 =================
 
 The new website for the Temporärhaus. Now based on [Hugo](https://gohugo.io), a static site generator. All the content from the old wordpress website is migrated.
-
+#
 ## How to blog
 
 ### Option 1: Using User Interface (Netlify CMS)
@@ -13,7 +13,7 @@ The new website for the Temporärhaus. Now based on [Hugo](https://gohugo.io), a
 
 #### Writing
 
-* Visit [vshde.netlify.app/admin](https://vshde.netlify.app/admin) and sign in with your GitHub account.
+* Visit [hausweb.netlify.app/admin](https://hausweb.netlify.app/admin) and sign in with your GitHub account.
 * Click `New Post` and enjoy writing.
 * Hit `Publish` when the post is ready.
 * If you leave the english translation blank, but still want the german version being displayed on the english website, you will have to create a symlink in the `content/posts` directory (see below).

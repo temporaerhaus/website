@@ -1,9 +1,9 @@
 backend:
   name: github
-  repo: verschwoerhaus/verschwoerhaus.de
+  repo: temporaerhaus/website
   branch: main
   use_graphql: true
-  site_domain: vshde.netlify.app
+  site_domain: hausweb.netlify.app
 
 media_folder: "/static/wp-content/uploads"
 public_folder: "/wp-content/uploads"

@@ -78,7 +78,7 @@ Vielen Dank!
 
 <div id="step3" style="scroll-padding-top: 2em;">
 <p>
-<label for="interval">Zahlungsinterval:</label>
+<label for="interval">Zahlungsintervall:</label>
 <select id="interval" name="interval">
     <option>jährlich</option>
     <option>halbjährig</option>

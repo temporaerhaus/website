@@ -135,7 +135,7 @@ Es gelten die Bestimmungen unserer <a href="/datenschutzerklaerung" target="_bla
 <p>
 <label for="message">Nachricht:</label>
 <textarea id="message" name="message"></textarea>
-<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Hier kannst du uns noch weitere Informationen zur Mitgliedschaft übermitteln.</small>
+<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Hier kannst du uns noch weitere Informationen zu deiner Mitgliedschaft übermitteln.</small>
 </p>
 </div>
 

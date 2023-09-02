@@ -35,7 +35,7 @@ Vielen Dank!
 ### Antragsformular
 
 <form style="display: flex; flex-wrap: wrap;" method="POST" action="https://temporaerhaus.de/member-application.php" id="applicationForm">
-<div style="flex-grow: 0; flex-shrink: 1; flex-basis: 230px;">
+<div style="display: none; flex-grow: 0; flex-shrink: 1; flex-basis: 230px;">
   <ol>
     <li><a href="#step1">Persönliche Angaben</a></li>
     <li><a href="#step2">Mitgliedsbeitrag</a></li>
@@ -138,10 +138,12 @@ Es gelten die Bestimmungen unserer <a href="/datenschutzerklaerung" target="_bla
 </p>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: none; align-items: center; justify-content: space-between;">
 <button id="prevStep">◀ Zurück</button>
 <button id="nextStep">▶ Weiter</button>
 </div>
+
+<button type="submit">✉ Antrag Versenden</button>
 </div>
 </form>
 
@@ -150,6 +152,10 @@ Es gelten die Bestimmungen unserer <a href="/datenschutzerklaerung" target="_bla
     const form = document.getElementById('applicationForm');
     const nextStep = document.getElementById('nextStep');
     const prevStep = document.getElementById('prevStep');
+    nextStep.parentNode.style.display = 'flex';
+    document.querySelector('button[type="submit"]').remove();
+    form.children[0].style.display = 'block';
+
     window.addEventListener('hashchange', () => {
         const hash = location.hash.startsWith('#step') ? location.hash : '#step1';
         const a = document.querySelector(`a[href="${hash}"]`);

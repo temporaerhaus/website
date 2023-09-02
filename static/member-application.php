@@ -56,7 +56,7 @@ if (count($errors) !== 0) {
 
 $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/plain; charset=utf-8';
-$headers[] = "To: mail@ech0.de";
+$headers[] = "To: vorstand@temporaerhaus.de";
 $headers[] = "From: mail@ech0.de";
 $header = implode('\r\n', $headers);
 

@@ -642,7 +642,8 @@ input[type="password"],
 input[type="search"],
 input[type="tel"],
 input[type="number"],
-textarea {
+textarea,
+select {
   background: #f7f7f7;
   background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
   border: 1px solid #d1d1d1;
@@ -664,7 +665,8 @@ input[type="password"]:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="number"]:focus,
-textarea:focus {
+textarea:focus,
+select:focus {
   background-color: #fff;
   border-color: #007acc;
   color: #1a1a1a;

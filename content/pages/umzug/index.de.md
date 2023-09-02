@@ -1,8 +1,7 @@
 ---
-title: Das Temporärhaus zieht um
+title: Das Temporärhaus ist zurück!
 type: page
 slug: umzug
-sticky: true
 featured_image: /wp-content/uploads/2022/09/umzug.jpg
 ---
 

@@ -65,9 +65,8 @@ Vielen Dank!
 <p>
 <label for="type">Art der Mitgliedschaft:</label>
 <select id="type" name="type">
-    <option>Fördermitgliedschaft</option>
-    <option>Fördermitgliedschaft für Personen in Schule, Ausbildung und Studium</option>
-    <option>Ideelle Mitgliedschaft</option>
+    <option>Fördermitglied</option>
+    <option>Aktives Mitglied</option>
 </select>
 </p>
 <p>

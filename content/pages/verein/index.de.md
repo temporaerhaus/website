@@ -35,7 +35,7 @@ Vielen Dank!
 
 ### Antragsformular
 
-<form style="display: flex; flex-wrap: wrap;" method="POST" action="https://temporaerhaus.de/member-application.php" id="applicationForm">
+<form style="display: flex; flex-wrap: wrap;" method="POST" action="https://temporaerhaus.de/member-application.php?lang=de" id="applicationForm">
 <div style="display: none; flex-grow: 0; flex-shrink: 1; flex-basis: 230px;">
   <ol>
     <li><a href="#step1">Persönliche Angaben</a></li>
@@ -146,110 +146,12 @@ Es gelten die Bestimmungen unserer <a href="/datenschutzerklaerung" target="_bla
 
 <button type="submit">✉ Antrag Versenden</button>
 </div>
+<div style="display: none" id="application-loading">
+    <h3>⏳ Einen Moment, dein Antrag wird gespeichert.</h3>
+</div>
+<div style="display: none" id="application-error">
+    <h3>💻 Computer sagt "Nein" :(</h3>
+    <p>Bitte überprüfe die hervorgehobenen Formularfelder noch einmal.</p>
+</div>
 </form>
 
-<script type="text/javascript">
-(() => {
-    const form = document.getElementById('applicationForm');
-    const nextStep = document.getElementById('nextStep');
-    const prevStep = document.getElementById('prevStep');
-    nextStep.parentNode.style.display = 'flex';
-    document.querySelector('button[type="submit"]').remove();
-    form.children[0].style.display = 'block';
-
-    window.addEventListener('hashchange', () => {
-        const hash = location.hash.startsWith('#step') ? location.hash : '#step1';
-        const a = document.querySelector(`a[href="${hash}"]`);
-        const e = document.querySelector(hash);
-        if (!a || !e) {
-            return;
-        }
-        a.closest('ol').querySelectorAll('li').forEach(e => {
-            e.style.fontWeight = 'normal';
-            e.style.color = '#666';
-            e.children[0].style.color = '#666';
-        });
-        a.parentNode.style.fontWeight = 'bold';
-        a.parentNode.style.color = 'black';
-        a.style.color = 'black';
-
-        e.parentNode.querySelectorAll('div[id]').forEach(e => {
-            e.style.display = 'none';
-        });
-        e.style.display = 'block';
-
-        prevStep.disabled = (hash === '#step1');
-        nextStep.innerText = (hash === '#step5') ? '✉ Antrag Versenden' : '▶ Weiter';
-    });
-
-    const changeStep = (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-
-        const hash = location.hash.startsWith('#step') ? location.hash : '#step1';
-        const target = (Number(hash.slice(5)) || 0) + (e.target.id === 'nextStep' ? 1 : -1);
-        if (target === 6) {
-            form.dispatchEvent(new Event('submit'));
-            return;
-        }
-
-        location.hash = `#step${target}`;
-        window.dispatchEvent(new Event('hashchange'));
-    };
-    nextStep.addEventListener('click', changeStep);
-    prevStep.addEventListener('click', changeStep);
-
-    form.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        e.stopPropagation();
-
-        form.querySelectorAll('p').forEach(e => e.classList.remove('danger'));
-        nextStep.disabled = true;
-        prevStep.disabled = true;
-
-        let response = document.getElementById('formResponse')
-        if (!response) {
-            response = document.createElement('div');
-            response.id = 'formResponse';
-            form.insertAdjacentElement('beforebegin', response);
-        }
-
-        response.className = 'info';
-        response.innerHTML = '<h3>⏳ Einen Moment, dein Antrag wird gespeichert.</h3>';
-
-        const data = new URLSearchParams(new FormData(form));
-        const res = await fetch(form.action, { method: 'post', body: data });
-        nextStep.disabled = false;
-        prevStep.disabled = false;
-
-        if (res.status === 200) {
-            // show success and clear form?
-            form.reset();
-            location.hash = '#step1';
-            window.dispatchEvent(new Event('hashchange'));
-            response.className = 'success';
-            response.innerHTML = await res.text();
-        } else {
-            const body = await res.json();
-            response.className = 'danger';
-            response.innerHTML = '<h3>💻 Computer sagt "Nein" :(</h3><p>Bitte überprüfe die hervorgehobenen Formularfelder noch einmal.</p>';
-
-            let step = 'step5';
-            for (const field of Object.keys(body)) {
-                const e = document.getElementById(field);
-                e?.closest?.('p')?.classList?.add?.('danger');
-                const id = e?.closest?.('div[id]')?.id;
-                if (id < step) {
-                    step = id;
-                }
-            }
-            if (location.hash !== `#${step}`) {
-                location.hash = `#${step}`;
-                window.dispatchEvent(new Event('hashchange'));
-            }
-        }
-    });
-
-    window.dispatchEvent(new Event('hashchange'));
-})();
-</script>

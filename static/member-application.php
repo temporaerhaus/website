@@ -1,5 +1,6 @@
 <?php
-header('Access-Control-Allow-Origin: *');
+include 'member-application.secrets.php';
+
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
   die();
 }
@@ -48,27 +49,92 @@ foreach($fields as $field => $filter) {
     }
 }
 
+$result = false;
 if (count($errors) !== 0) {
     http_response_code(400);
-    header('Content-Type: application/json; charset=utf-8');
-    die(json_encode($errors));
+} else {
+    $message = implode("\r\n", array_map(function ($field, $value) {
+      return ' * **'.$field . ':**' . ($field === 'message' ? "\r\n\r\n   > " . str_replace("\n", "\n   > ", str_replace("\r", "", $value)) : ' '. $value);
+    }, array_keys($inputs), array_values($inputs)));
+
+    $context = stream_context_create(array(
+        'http' => array(
+            'header' => "Content-type: application/json\r\nAuthorization: Bearer $token\r\n",
+            'method' => 'POST',
+            'content' => json_encode(array(
+                'title' => 'Mitgliedsantrag von ' . $inputs['firstname'] . ' ' . $inputs['lastname'],
+                'description' => $message,
+                'confidential' => true
+            ))
+        ),
+    ));
+
+    $result = file_get_contents($url, false, $context);
+    if ($result === false) {
+        http_response_code(500);
+    }
 }
-
-$headers[] = 'MIME-Version: 1.0';
-$headers[] = 'Content-type: text/plain; charset=utf-8';
-$headers[] = "To: vorstand@temporaerhaus.de";
-$headers[] = "From: kontakt@temporaerhaus.de";
-$headers[] = "Reply-To: " . $inputs['email'];
-$header = implode('\r\n', $headers);
-
-$message = implode('\r\n', array_map(function ($field, $value) {
-  return $field . ':' . ($field === 'message' ? '\r\n\r\n' : ' ') . $value;
-}, array_keys($inputs), array_values($inputs)));
-
-mail('vorstand@temporaerhaus.de', 'Mitgliedsantrag via temporaerhaus.de', $message, $header);
 ?>
-<h3>🥳 Vielen Dank für deine Unterstützung!</h3>
-<p>
-    Die Unterstützung von dir und anderen Fördermitgliedern hilft uns weiterhin unser Programm anzubieten und weiter auszubauen.
-    Wir melden uns bei dir, sobald wir deinen Antrag bearbeitet haben.
-</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <title>temporaerhaus</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+</head>
+<body>
+    <header>
+        <a href="/" rel="home">
+            <img width="240" height="114" src="/spaceicons/logo.svg" alt="temporaerhaus">
+        </a>
+    </header>
+    <main data-errors="<?php echo htmlspecialchars(json_encode($errors)); ?>">
+        <?php if ($_GET['lang'] === 'en') { ?>
+            <?php if (count($errors) !== 0) { ?>
+                <h3>💻 Computer  says "no" :(</h3>
+                <p>
+                    Please check your input again.
+                </p>
+            <?php } else if ($result === false) { ?>
+                <h3>💻 Computer  says "no" :(</h3>
+                <p>
+                    Unfortunately, a squirrel ate the fibre or something like that 🐿️.
+                    Please try it by e-mail &lt;3
+                </p>
+            <?php } else { ?>
+                <h3>🥳 Thank you for your support!</h3>
+                <p>
+                    The support of you and other supporting members helps us to continue to offer and expand our programme.
+                    We will contact you as soon as we have processed your application.
+                </p>
+            <?php } ?>
+        <?php } else { ?>
+            <?php if (count($errors) !== 0) { ?>
+                <h3>💻 Computer sagt "Nein" :(</h3>
+                <p>
+                    Bitte überprüfe deine Eingabe noch einmal.
+                </p>
+            <?php } else if ($result === false) { ?>
+                <h3>💻 Computer sagt "Nein" :(</h3>
+                <p>
+                    Leider hat ein Eichhörnchen die Glasfaser gefressen, oder so ähnlich 🐿️. 
+                    Probier es doch bitte einmal per E-Mail &lt;3
+                </p>
+            <?php } else { ?>
+                <h3>🥳 Vielen Dank für deine Unterstützung!</h3>
+                <p>
+                    Die Unterstützung von dir und anderen Fördermitgliedern hilft uns weiterhin unser Programm anzubieten und weiter auszubauen.
+                    Wir melden uns bei dir, sobald wir deinen Antrag bearbeitet haben.
+                </p>
+            <?php } ?>
+        <?php } ?>
+    </main>
+    <footer>
+        <a href="/">Zurück zur Seite</a>
+    </footer>
+</body>
+</html>

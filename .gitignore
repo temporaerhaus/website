@@ -3,3 +3,4 @@ resources/_gen
 _
 public
 *.lock
+static/member-application.secrets.php

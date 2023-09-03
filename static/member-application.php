@@ -57,7 +57,8 @@ if (count($errors) !== 0) {
 $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/plain; charset=utf-8';
 $headers[] = "To: vorstand@temporaerhaus.de";
-$headers[] = "From: mail@ech0.de";
+$headers[] = "From: kontakt@temporaerhaus.de";
+$headers[] = "Reply-To: " . $inputs['email'];
 $header = implode('\r\n', $headers);
 
 $message = implode('\r\n', array_map(function ($field, $value) {

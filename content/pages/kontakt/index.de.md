@@ -13,7 +13,7 @@ Telefon: +49 731 14116501 (bitte nur in Notfällen verwenden, wir bevorzugen _wi
 
 ## Adresse des Vereins 
 
-temporärhaus e.V. ([vorübergehend](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+temporärhaus e.V.
 Eberhardtstr. 43  
 89073 Ulm
 

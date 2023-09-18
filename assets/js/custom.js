@@ -1,5 +1,5 @@
 (async function() {
-  const SPACEAPI_URL = 'https://spaceapi.temporaerhaus.de/spaceapi/';
+  const SPACEAPI_URL = 'https://spaceapi.temporaerhaus.de/spaceapi.json';
 
   let response, spaceapi;
   try {

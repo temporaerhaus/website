@@ -4,6 +4,9 @@ other = "Door status"
 [space_door_open]
 other = "It's open"
 
+[space_door_member]
+other = "Open for members"
+
 [space_door_closed]
 other = "Currently closed"
 

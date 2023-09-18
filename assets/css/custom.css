@@ -89,15 +89,18 @@
   }
 }
 
-/* --------------------- VSH-Door ---------------------- */
+/* --------------------- TPH-Door ---------------------- */
 
-body.vsh-door-open #page {
+body.tph-door-open {
 	border-top: 3px solid #007236;
 }
-body.vsh-door-unknown #page {
+body.tph-door-member {
+	border-top: 3px solid #f1c400;
+}
+body.tph-door-unknown {
 	border-top: 3px solid orange;
 }
-body.vsh-door-closed #page {
+body.tph-door-closed {
   border-top: 3px solid #c45729;
 }
 
@@ -111,17 +114,21 @@ body.vsh-door-closed #page {
   text-transform: uppercase;
 }
 
-.space-state--closed {
-  color: red;
+.space-state[data-state="closed"] {
+  color: #c45729;
 }
 
-.space-state--unknown {
-  color: orange;
+.space-state[data-state="unknown"] {
+  background-color: orange;
 }
 
-.space-state--open {
-  color: green;
+.space-state[data-state="open"] {
+  color: #007236;
   font-weight: bold;
+}
+
+.space-state[data-state="member"] {
+  background-color: #f1c400;
 }
 
 /* --------------------- TABS ---------------------- */

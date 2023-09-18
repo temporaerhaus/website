@@ -1,11 +1,4 @@
 (async function() {
-  // spaceapi currently disabled
-  return;
-
-  function capitalize(str) {
-    return str.charAt(0).toUpperCase() + str.slice(1);
-  }
-
   const SPACEAPI_URL = 'https://spaceapi.temporaerhaus.de/spaceapi/';
 
   let response, spaceapi;
@@ -20,18 +13,14 @@
     return;
   }
 
-  const state = spaceapi.state.open;
-  const stateClass = state ? 'open' : 'closed';
-  const stateClassCap = capitalize(stateClass);
+  const stateClass = spaceapi?.state?.message || (spaceapi?.state?.open ? 'open' : 'closed');
 
-  document.querySelectorAll('.vsh-door-unknown').forEach(el => el.classList.replace('vsh-door-unknown', `vsh-door-${stateClass}`));
-  document.querySelectorAll('.space-state').forEach(el => {
-    el.classList.replace('space-state--unknown', `space-state--${stateClass}`);
-    var text = el.dataset[`i18n${stateClassCap}`];
-    if (typeof text === 'undefined') {
-      text = stateClassCap;
-    }
-    el.innerText = text;
+  document.querySelectorAll('.tph-door-unknown').forEach((el) => {
+      el.classList.replace('tph-door-unknown', `tph-door-${stateClass}`);
+  });
+
+  document.querySelectorAll('.space-state').forEach((el) => {
+    el.innerText = el.dataset?.[`i18n${stateClass.charAt(0).toUpperCase()}${stateClass.slice(1)}`] || stateClass;
     el.dataset['state'] = stateClass;
   });
 })();

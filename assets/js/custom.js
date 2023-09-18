@@ -13,7 +13,7 @@
     return;
   }
 
-  const stateClass = spaceapi?.state?.message || (spaceapi?.state?.open ? 'open' : 'closed');
+  const stateClass = spaceapi?.state?.message === 'member' ? 'member' : (spaceapi?.state?.open ? 'open' : 'closed');
 
   document.querySelectorAll('.tph-door-unknown').forEach((el) => {
       el.classList.replace('tph-door-unknown', `tph-door-${stateClass}`);

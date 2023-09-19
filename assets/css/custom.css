@@ -92,13 +92,13 @@
 /* --------------------- TPH-Door ---------------------- */
 
 body.tph-door-open {
-	border-top: 3px solid #007236;
+  border-top: 3px solid #007236;
 }
 body.tph-door-member {
-	border-top: 3px solid #f1c400;
+  border-top: 3px solid #f1c400;
 }
 body.tph-door-unknown {
-	border-top: 3px solid orange;
+  border-top: none;
 }
 body.tph-door-closed {
   border-top: 3px solid #c45729;
@@ -119,7 +119,6 @@ body.tph-door-closed {
 }
 
 .space-state[data-state="unknown"] {
-  background-color: orange;
 }
 
 .space-state[data-state="open"] {
@@ -128,7 +127,6 @@ body.tph-door-closed {
 }
 
 .space-state[data-state="member"] {
-  background-color: #f1c400;
 }
 
 /* --------------------- TABS ---------------------- */

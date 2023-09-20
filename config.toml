@@ -105,6 +105,13 @@ date = [":filename", ":default"]
       url = "/verein/"
       weight = -75
 
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "code-of-conduct"
+      name = "Code of Conduct"
+      url = "/code-of-conduct/"
+      weight = -74
+
 #    [[languages.de.menu.main]]
 #      parent = "ueber-uns"
 #      identifier = "sponsors"
@@ -265,6 +272,13 @@ date = [":filename", ":default"]
       name = "The Verein"
       url = "/en/verein/"
       weight = -75
+
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "code-of-conduct"
+      name = "Code of Conduct"
+      url = "/code-of-conduct/"
+      weight = -74
 
 #    [[languages.en.menu.main]]
 #      parent = "about-us"

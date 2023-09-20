@@ -9,7 +9,7 @@ type: page
 Aktuell finden keine Veranstaltungen vor Ort statt, wir hoffen aber sehr bald wieder für euch öffnen zu können!
 {{% /warning %}}
 
-<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=600&wkst=2&bgcolor=%23FFFFFF&src=slaun4l80uh2s0ototiol4qkgo%40group.calendar.google.com&color=%23B1440E&ctz=Europe%2FBerlin" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge uns am besten [auf Twitter](https://twitter.com/temporaerhaus) oder [Mastodon](https://chaos.social/@temporaerhaus)!
 

@@ -5,10 +5,10 @@ slug: verein
 
 ---
 
-The temporärhaus e.V. ([temporarily renamed](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the Verschwörhaus - such as the organization and handling of workshops and events and with sponsorships.
+The temporärhaus e.V. ([temporarily renamed](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the temporärhaus - such as the organization and handling of workshops and events and with sponsorships.
 
 Do I have to be a member of the association to be active in the house or to do _anything_?  
-No, because of the support of our external sponsors we can open the Verschwörhaus to all people without having to rely on membership fees for rent etc.
+No, because of the support of our external sponsors we can open the temporärhaus to all people without having to rely on membership fees for rent etc.
 
 <!--
 Warum sollte ich (Förder)mitglied werden?  

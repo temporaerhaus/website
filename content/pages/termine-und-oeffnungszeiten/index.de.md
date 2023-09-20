@@ -5,9 +5,10 @@ type: page
 
 ---
 
-{{% warning title="Umzug" %}}
-Aktuell finden keine Veranstaltungen vor Ort statt, wir hoffen aber sehr bald wieder für euch öffnen zu können!
-{{% /warning %}}
+{{% infotextbox %}}
+🥳 Seit dem 16. September haben wir in unserem neuen Haus in der [Augsburgerstr. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438) wieder geöffnet! 
+Unser Kalender ist noch nicht vollständig aktualisiert, wird sich aber in den kommenden Wochen wieder füllen.
+{{% /infotextbox %}}
 
 <iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
 

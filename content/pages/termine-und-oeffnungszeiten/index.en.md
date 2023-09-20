@@ -5,10 +5,9 @@ type: page
 
 ---
 
-{{% warning title="We're moving" %}}
-We've [found a new location in Neu-Ulm](/neuhaus-neuulm/) and are currently moving in. We'll keep you updated, when official events are going to start.
-{{% /warning %}}
-
+{{% infotextbox %}}
+🥳 Since September 16th we are open again in our new house in [Augsburgerstr. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438)! Our calendar is not yet fully updated, but will fill up again in the coming weeks.
+{{% /infotextbox %}}
 
 <iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
 

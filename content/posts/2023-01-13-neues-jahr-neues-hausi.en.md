@@ -1,4 +1,1 @@
----
-date: 2023-01-13T14:35:43.495Z
-draft: false
----
+2023-01-13-neues-jahr-neues-hausi.de.md

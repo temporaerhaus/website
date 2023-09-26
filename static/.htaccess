@@ -5,7 +5,7 @@ Redirect 302 /live https://www.youtube.com/channel/UChI22atUFzyO-E40Ks3Wrlg/live
 
 Redirect 302 /wunschliste https://werbringtwas.com/poll/0604bce
 
-Redirect 302 /feed/spaceapi https://spaceapi.temporaerhaus.de/spaceapi/
+Redirect 302 /feed/spaceapi https://spaceapi.temporaerhaus.de/spaceapi.json
 Redirect 302 /feed/ /posts/index.xml
 
 Redirect 302 /wp-admin/ /admin/
@@ -39,3 +39,5 @@ Redirect 301 /en/das-verschwoerhaus/ /en/das-haus/
 Redirect 410 /xmlrpc.php
 Redirect 410 /comments/feed/
 
+# so our feeds get delivered with the right encoding
+AddCharset UTF-8 .xml

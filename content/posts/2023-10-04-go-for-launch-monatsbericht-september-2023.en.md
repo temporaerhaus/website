@@ -3,7 +3,7 @@ sticky: false
 title: Go for Launch – Monthly Review September 2023
 author: Community
 date: 2023-10-04T16:42:23.000Z
-draft: true
+draft: false
 categories:
   - news
   - monatsbericht

@@ -181,6 +181,10 @@ date = [":filename", ":default"]
       name = "temporaerhaus auf Instagram"
       url = "https://www.instagram.com/temporaerhaus/"
 
+    [[languages.de.menu.social]]
+      name = "temporaerhaus auf twitch"
+      url = "https://twitch.com/temporaerhaus"
+
   [languages.en]
     weight = 2
     languageCode = "en-us"
@@ -348,6 +352,10 @@ date = [":filename", ":default"]
     [[languages.en.menu.social]]
       name = "temporaerhaus on Instagram"
       url = "https://www.instagram.com/temporaerhaus/"
+
+    [[languages.en.menu.social]]
+      name = "temporaerhaus on twitch"
+      url = "https://twitch.com/temporaerhaus"
 
 [markup]
   [markup.goldmark]

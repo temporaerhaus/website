@@ -291,7 +291,7 @@ date = [":filename", ":default"]
       parent = "about-us"
       identifier = "donation"
       name = "Donate"
-      url = "/en/spenden/"
+      url = "/en/donate/"
       weight = -73
 
     [[languages.en.menu.main]]

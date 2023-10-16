@@ -2,7 +2,7 @@
 sticky: false
 title: Back to the roots – wir sind beim Uniforum im WS 2023/24
 author: Community
-date: 2023-10-16T10:42:23.000Z
+date: 2023-10-16T08:42:23.000Z
 draft: false
 categories:
   - news

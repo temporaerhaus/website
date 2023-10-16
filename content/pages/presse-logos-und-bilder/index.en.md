@@ -25,8 +25,8 @@ Our house colors are:
 ### Photos
 
 The following illustrations can be used for publications. They are all licensed under CC-0.
-In addition, the **[Gallery of Jugend hackt Ulm 2017][5] and [Jugend Hackt 2018](https://www.flickr.com/photos/okfde/albums/72157703390617581)**
-as well as in the **[Category on Wikimedia Commons][6]** contain many pictures under Creative Commons license.
+In addition, the **[Gallery of Jugend hackt Ulm 2017][5] and [Jugend Hackt 2018][6]**
+as well as in the **[Category on Wikimedia Commons][7]** contain many pictures under Creative Commons license.
 
 {{< figure
 	link="https://commons.wikimedia.org/wiki/File%3AOkwiki16_Im_Seminarraum_wird_gehackt!.jpg"
@@ -148,14 +148,13 @@ as well as in the **[Category on Wikimedia Commons][6]** contain many pictures u
 	src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg/512px-3D-Drucker-Workshop_mit_der_e.tage_Ulm_im_Verschw%C3%B6rhaus_06.jpg"
 	caption="Die Kursleiterinnen des 3D-Drucker-Workshop mit der e.tage Ulm" >}}
 
-<!--
-[There is also an own category with pictures under free license on Wikimedia Commons!][6]
--->
+
+[There is also an own category with pictures under free license on Wikimedia Commons!][7]
+
 
  [2]: https://www.pantone.com/color-finder/7406-C
  [3]: https://www.pantone.com/color-finder/7580-CP
  [4]: https://www.pantone.com/color-finder/3500-CP
  [5]: https://www.flickr.com/photos/okfde/sets/72157686600018431
-<!--
- [6]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus
--->
+ [6]: https://www.flickr.com/photos/okfde/albums/72157703390617581
+ [7]: https://commons.wikimedia.org/wiki/Category:Verschw%C3%B6rhaus

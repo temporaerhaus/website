@@ -26,4 +26,4 @@ The Temporärhaus is in the old Sport-Sohn building, right at the Augsburger Str
 
 You will find the guaranteed opening hours [on our calendar](/termine-und-oeffnungszeiten/). Usually, all events listed there come with an accompanying text which goes in more detail and offers a signup link, if necessary.
 
-For last-minute-announcements about unforeseen events, make sure to follow us [on Mastodon](https://chaos.social/@temporaerhaus) or [on Twitter](https://twitter.com/temporaerhaus) - or just drop by when the traffic signal in the front window glows green!
+For last-minute-announcements about unforeseen events, make sure to follow us [on Mastodon](https://chaos.social/@temporaerhaus) or [on Twitter](https://twitter.com/temporaerhaus)!

@@ -12,7 +12,7 @@ tags:
 featured_image: /wp-content/uploads/2023/10/uniforum_stand.jpg
 ---
 
-Wir kehren wieder einmal zurück zu den Wurzeln, aus denen wir erwachsen sind: Die datalove-Hochschulgruppe (auch bekannt als UlmAPI) war die 2011 offiziell von der Studierendenvertretung anerkannte Keimzelle, aus der heraus unter anderem 2015 das erste Jugend hackt in Ulm entstand – und dort dann die Idee für einen Dritten Ort in der Stadt. Der Rest ist, wie man so schön sagt, Geschichte :)
+Wir kehren wieder einmal zurück zu den Wurzeln, aus denen wir erwachsen sind: Die datalove-Hochschulgruppe (auch bekannt als UlmAPI) war die 2011 offiziell von der Studierendenvertretung anerkannte Keimzelle, aus der heraus unter anderem 2015 das erste Jugend hackt in Ulm entstand – und dort dann die Idee für einen Dritten Ort in der Stadt. Der Rest ist, wie man so schön sagt, Geschichte.
 
 ![Zum Anfassen: Ein 3D-Drucker und eine bei uns in der Werkstatt gebaute Pong-Konsole, die mit einem Turntablecontroller bedient werden kann.](/wp-content/uploads/2023/10/uniforum_exponate.jpg)
 

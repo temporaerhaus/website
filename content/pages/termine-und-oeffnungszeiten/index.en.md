@@ -9,7 +9,7 @@ type: page
 🥳 Since September 16th we are open again in our new house in [Augsburgerstr. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438)! Our calendar is not yet fully updated, but will fill up again in the coming weeks.
 {{% /infotextbox %}}
 
-<iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="no"></iframe>
 <small><a href="/calendar/public.ics">Subscribe to this calendar (<code>.ics</code> file)</a></small><br/><br/>
 
 Apart from these "official" events, the Haus is open at other times as well. Just follow us [on twitter][1] or [mastodon][2]!

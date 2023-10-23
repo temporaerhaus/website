@@ -6,11 +6,11 @@ slug: donate
 
 Many activities in and around the Temporärhaus are made possible not only by time and effort investment the volunteers make, but also by donations.
 
-We are happy about direct financial support, for example via the betterplace form below (direct bank transfer details on [request](/en/kontakt/), via [GitHub Sponsors](https://github.com/sponsors/temporaerhaus), a supporting membership in our [association Verschwörhaus e.V.](/en/verein/), but also about tools, electronics, machines and other objects that fit well into a hack and maker space.  If you use the betterplace form below, you will automatically receive a donation receipt via e-mail.
+We are happy about direct financial support, for example via the betterplace form below (direct bank transfer details on [request](/en/kontakt/), via [GitHub Sponsors](https://github.com/sponsors/temporaerhaus), a supporting membership in our [association temporärhaus e.V.](/en/verein/), but also about tools, electronics, machines and other objects that fit well into a hack and maker space.  If you use the betterplace form below, you will automatically receive a donation receipt via e-mail.
 
-If you want to become a supporting member, we recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations.
+If you want to become a supporting member, we recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations. We welcome your [email](/en/verein/#supporting-membership) - or just submit the [application form](/en/verein/#application-form).
 
-If you are not sure if we already own or can use something, [please write us](/en/contact/) beforehand. Also for bigger hardware we are happy about [mail contact](/en/contact/) first. :)
+If you are not sure if we already own or can use something, [please write us](/en/contact/) beforehand. Also for bigger hardware we are happy about [mail contact](/en/contact/) first. Thanks :)
 
 <script type="text/javascript">
   var _bp_iframe        = _bp_iframe || {};

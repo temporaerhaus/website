@@ -105,6 +105,13 @@ date = [":filename", ":default"]
       url = "/verein/"
       weight = -75
 
+    [[languages.de.menu.main]]
+      parent = "ueber-uns"
+      identifier = "code-of-conduct"
+      name = "Code of Conduct"
+      url = "/code-of-conduct/"
+      weight = -74
+
 #    [[languages.de.menu.main]]
 #      parent = "ueber-uns"
 #      identifier = "sponsors"
@@ -173,6 +180,10 @@ date = [":filename", ":default"]
     [[languages.de.menu.social]]
       name = "temporaerhaus auf Instagram"
       url = "https://www.instagram.com/temporaerhaus/"
+
+    [[languages.de.menu.social]]
+      name = "temporaerhaus auf twitch"
+      url = "https://twitch.com/temporaerhaus"
 
   [languages.en]
     weight = 2
@@ -266,6 +277,13 @@ date = [":filename", ":default"]
       url = "/en/verein/"
       weight = -75
 
+    [[languages.en.menu.main]]
+      parent = "about-us"
+      identifier = "code-of-conduct"
+      name = "Code of Conduct"
+      url = "/code-of-conduct/"
+      weight = -74
+
 #    [[languages.en.menu.main]]
 #      parent = "about-us"
 #      identifier = "sponsors"
@@ -277,7 +295,7 @@ date = [":filename", ":default"]
       parent = "about-us"
       identifier = "donation"
       name = "Donate"
-      url = "/en/spenden/"
+      url = "/en/donate/"
       weight = -73
 
     [[languages.en.menu.main]]
@@ -334,6 +352,10 @@ date = [":filename", ":default"]
     [[languages.en.menu.social]]
       name = "temporaerhaus on Instagram"
       url = "https://www.instagram.com/temporaerhaus/"
+
+    [[languages.en.menu.social]]
+      name = "temporaerhaus on twitch"
+      url = "https://twitch.com/temporaerhaus"
 
 [markup]
   [markup.goldmark]

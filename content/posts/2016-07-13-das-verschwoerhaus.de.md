@@ -23,8 +23,6 @@ Das Temporärhaus befindet sich im ehemaligen Sport-Sohn-Gebäude, an der Augsbu
 
 ## Wann ist dort offen?
 
-{{% warning title="Umzug" %}} Aktuell befinden wir uns noch mitten im Einzug und richten die Räume her. Wir freuen uns aber schon sehr bald auf euch! {{% /warning %}}
-
 Garantierte Öffnungszeiten haben wir zu den angekündigten [Veranstaltungen und Terminen, die Du im Kalender findest.](/termine-und-oeffnungszeiten/) In der Regel haben alle Termine auch einen Begleittext, bei dem Du genaueres über die Veranstaltung und ggf. auch mehr zur Anmeldung findest.
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge uns am besten [auf Mastodon](https://chaos.social/@temporaerhaus) oder auf [unserem Twitter-Account](https://twitter.com/temporaerhaus)!

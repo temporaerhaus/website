@@ -10,7 +10,7 @@ type: page
 Unser Kalender ist noch nicht vollständig aktualisiert, wird sich aber in den kommenden Wochen wieder füllen.
 {{% /infotextbox %}}
 
-<iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="no"></iframe>
+<iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="yes"></iframe>
 <small><a href="/calendar/public.ics">Kalender abonnieren (<code>.ics</code>-Datei)</a></small><br/><br/>
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge uns am besten [auf Twitter](https://twitter.com/temporaerhaus) oder [Mastodon](https://chaos.social/@temporaerhaus)!

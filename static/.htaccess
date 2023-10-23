@@ -8,6 +8,9 @@ Redirect 302 /wunschliste https://werbringtwas.com/poll/0604bce
 Redirect 302 /feed/spaceapi https://spaceapi.temporaerhaus.de/spaceapi/
 Redirect 302 /feed/ /posts/index.xml
 
+# Redirect 302 /calendar/public.ics https://calendar.google.com/calendar/ical/slaun4l80uh2s0ototiol4qkgo%40group.calendar.google.com/public/basic.ics
+Redirect 302 /calendar/public.ics https://share.temporaerhaus.de/remote.php/dav/public-calendars/taAW2Y3axm4wzBqm?export
+
 Redirect 302 /wp-admin/ /admin/
 Redirect 302 /wp-login.php /admin/
 

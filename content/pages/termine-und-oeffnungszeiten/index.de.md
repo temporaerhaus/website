@@ -11,6 +11,7 @@ Unser Kalender ist noch nicht vollständig aktualisiert, wird sich aber in den k
 {{% /infotextbox %}}
 
 <iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
+<small><a href="/calendar/public.ics">Kalender abonnieren (<code>.ics</code>-Datei)</a></small><br/><br/>
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge uns am besten [auf Twitter](https://twitter.com/temporaerhaus) oder [Mastodon](https://chaos.social/@temporaerhaus)!
 

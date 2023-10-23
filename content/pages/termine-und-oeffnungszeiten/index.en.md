@@ -10,6 +10,7 @@ type: page
 {{% /infotextbox %}}
 
 <iframe style="border-width: 0;" width="100%" height="600" src="https://share.temporaerhaus.de/apps/calendar/embed/taAW2Y3axm4wzBqm/listMonth/now" frameborder="0" scrolling="no"></iframe>
+<small><a href="/calendar/public.ics">Subscribe to this calendar (<code>.ics</code> file)</a></small><br/><br/>
 
 Apart from these "official" events, the Haus is open at other times as well. Just follow us [on twitter][1] or [mastodon][2]!
 

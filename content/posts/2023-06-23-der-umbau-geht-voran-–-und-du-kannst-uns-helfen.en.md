@@ -1,4 +1,1 @@
----
-date: 2023-06-23T10:41:53.862Z
-draft: false
----
+2023-06-23-der-umbau-geht-voran-–-und-du-kannst-uns-helfen.de.md

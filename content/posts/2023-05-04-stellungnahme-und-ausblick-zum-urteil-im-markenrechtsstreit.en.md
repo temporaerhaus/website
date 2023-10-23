@@ -1,4 +1,1 @@
----
-date: 2023-05-04T11:05:41.679Z
-draft: false
----
+2023-05-04-stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit.de.md

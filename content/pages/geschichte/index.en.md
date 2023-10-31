@@ -23,3 +23,4 @@ A lot has happened before and since the opening of the Verschwörhaus. Here is a
   * **May 2019** The Verschwörhaus is now officially a [Jugend hackt Lab](/en/category/jugend-hackt-lab)!
   * **August 2019** The Verschwörhaus e.V. is founded.
   * **December 2019** [„Frauen Und Computer Kram“ (F.U.C.K.)](/en/groups/fuck) has its kickoff.
+  * **September 2023** After several months of renovations [we open our new rooms to the public](/go-for-launch-monatsbericht-september-2023/)].

@@ -38,4 +38,5 @@ Seit der Entstehung unserer Gemeinschaft ist viel passiert. Hier eine kleine Üb
   * **April 2023** Das LG Stuttgart fällt ein erstinstanzliches Urteil, welches der Klage der Stadt in allen Punkten stattgibt und uns untersagt, unseren alten Namen weiterhin zu verwenden.
   * **Mai 2023** Wir benennen uns nach der stadtseitigen Androhung einer vorläufigen Vollstreckung des zu diesem Zeitpunkt noch nicht rechtskräftigen Urteils zeitweise um in „Temporärhaus“.
   * **Mai 2023** Neue Räume sind gefunden! Wir ziehen gemeinsam mit dem [Haus der Nachhaltigkeit](https://h-d-n.org) in das ehemalige [Sport-Sohn-Gebäude nach Neu-Ulm](/neuhaus-neuulm/).
+  * **September 2023** Nach mehreren Monaten Umbau [eröffnen wir die neuen Räume zur Kulturnacht](/go-for-launch-monatsbericht-september-2023/)].
   

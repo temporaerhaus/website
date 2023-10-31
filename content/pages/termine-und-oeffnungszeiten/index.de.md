@@ -6,7 +6,7 @@ type: page
 ---
 
 {{% infotextbox %}}
-🥳 Seit dem 16. September haben wir in unserem neuen Haus in der [Augsburgerstr. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438) wieder geöffnet! 
+🥳 Seit dem 16. September haben wir in unserem neuen Haus in der [Augsburger Str. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438) wieder geöffnet! 
 Unser Kalender ist noch nicht vollständig aktualisiert, wird sich aber in den kommenden Wochen wieder füllen.
 {{% /infotextbox %}}
 

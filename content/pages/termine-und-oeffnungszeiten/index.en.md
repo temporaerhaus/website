@@ -6,7 +6,7 @@ type: page
 ---
 
 {{% infotextbox %}}
-🥳 Since September 16th we are open again in our new house in [Augsburgerstr. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438)! Our calendar is not yet fully updated, but will fill up again in the coming weeks.
+🥳 Since September 16th we are open again in our new house in [Augsburger Str. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438)! Our calendar is not yet fully updated, but will fill up again in the coming weeks.
 {{% /infotextbox %}}
 
 <iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="yes"></iframe>

@@ -11,13 +11,13 @@ tags:
 featured_image: /wp-content/uploads/2023/11/naehmaschine_pfaff.jpg
 ---
 
-Dürfen wir vorstellen? Diese Hübschies sind zwei von sechs Neuzugängen von der Hochschulgruppe für Nachhaltigkeit und der Nähcafé-Crew. Das Nähcafé ist am 9. Oktober wieder gestartet und deswegen brauchen wir natürlich wieder ganz viele gut funktionierende Maschinen für alle, die mitmachen wollen!
+Dürfen wir vorstellen? Diese Hübschies sind drei von sechs Neuzugängen von der Hochschulgruppe für Nachhaltigkeit und der Nähcafé-Crew. Das Nähcafé ist am 9. Oktober wieder gestartet und deswegen brauchen wir natürlich wieder ganz viele gut funktionierende Maschinen für alle, die mitmachen wollen!
 
 Die Pfaff Hobbymatik 801 ist jetzt dreck- und flusenfrei und frisch geölt und schnurrt wie ein Kätzchen! Sie kann Geradstich und Zickzack und kommt garantiert durch viele Lagen Jeans.
 
 ![Die Kayser-Nähmaschine brauchte etwas mehr Liebe](/wp-content/uploads/2023/11/naehmaschine_kayser.jpg)
 
-Die Kayser 45 (im Gussgehäuse steht btw Janome-1) war leider nicht so fit, irgendwas schliff sehr und die Nadel traf unten aufs Metall des Greifers (die Mechanik des Unterfadens). Ein perfekter Anlass, nach dem Reinigen auch das Einstellen zu lernen. Höhe der Nadelstange geändert – mit viel Trial-and-Error geändert, wann sich der Greifer dreht, und siehe da, es geht wieder!
+Die Kayser 45 (im Gussgehäuse steht btw Janome-1) war leider nicht so fit, irgendwas schliff sehr und die Nadel traf unten aufs Metall des Greifers (die Mechanik des Unterfadens). Ein perfekter Anlass, nach dem Reinigen auch das Einstellen zu lernen. Höhe der Nadelstange geändert – mit viel Trial-and-Error geändert, wann sich der Greifer dreht, und siehe da, es geht wieder! Danach war aber die Mechanik des Transporteurs verstellt – ups, die Kayser bleibt also erstmal eine Baustelle.
 
 ![Eine Adlerette 420 (no pun intended) aus den 1960er-Jahren, ursprünglich offenbar bei Jehle gekauft.)](/wp-content/uploads/2023/11/naehmaschine_adlerette.jpg)
 

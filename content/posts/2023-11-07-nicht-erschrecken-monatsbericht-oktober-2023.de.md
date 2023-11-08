@@ -32,7 +32,7 @@ Am 3. Oktober haben wir außerdem spontan unseren sowieso stattfindenden Bau- un
 
 Auch den [Streamingkoffer von WMDE](https://de.wikipedia.org/wiki/Wikipedia%3AF%C3%B6rderung%2FPrototyp_Streamingkoffer_fuer_Communityspaces) konnten wir wieder in unseren Alltag einbauen und bereits mehrmals Teststreams aus dem Wohnzimmer auf Twitch übertragen. Damit wollen wir künftig noch mehr Live-Einblicke in die Aktivitäten bei uns geben, auch wenn sie nicht auf der „großen Bühne“ im Salon stattfinden. Und natürlich laufen uns immer noch spannende Geräte zu – fürs Elektroniklabor, für die Werkstatt, oder einfach weil sie lustig sind.
 
-[Platzhalter fluep]
+![Immer aktuelle Infos: Unsere neue Fluepdot-Anzeige](/wp-content/uploads/2023/11/monatsbericht_fluep.gif)
 
 ![Wegweisend: Unser Samsung Flip als Übergangsgerät zum Anzeigen, was gerade wo ist. Und wie man sieht, ist da ziemlich viel auf einmal los.](/wp-content/uploads/2023/11/monatsbericht_wegweiser.jpg)
 

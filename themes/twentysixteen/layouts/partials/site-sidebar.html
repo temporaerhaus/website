@@ -17,14 +17,6 @@
         </ul>
     </section>
 
-    {{/* sponsors */}}
-    <section class="widget qtranxs_widget">
-        <h2 class="widget-title">{{ i18n "sponsors" }}</h2>
-        <ul>
-            <a href="https://www.wikimedia.de/" title="{{ i18n "wikimedia_thank_you" }}"><img src="/wp-content/sponsors/wikimedia-logo.svg" alt="{{ i18n "wikimedia_thank_you" }}"></a>
-        </ul>
-    </section>
-
     {{/* newest posts */}}
     {{ with (.Site.GetPage "section" "posts").Pages.ByLastmod.Reverse | first 5  }}
     <section id="recent-posts-2" class="widget widget_recent_entries">
@@ -49,5 +41,13 @@
             {{ end }}
             </ul>
         </div>
+    </section>
+
+    {{/* sponsors */}}
+    <section class="widget qtranxs_widget">
+        <h2 class="widget-title">{{ i18n "sponsors" }}</h2>
+        <ul>
+            <a href="https://www.wikimedia.de/" title="{{ i18n "wikimedia_thank_you" }}. {{ i18n "wikimedia_logo_license" }}"><img src="/wp-content/sponsors/wikimedia_deutschland-logo.svg" alt="{{ i18n "wikimedia_thank_you" }}. {{ i18n "wikimedia_logo_license" }}"></a>
+        </ul>
     </section>
 </aside>

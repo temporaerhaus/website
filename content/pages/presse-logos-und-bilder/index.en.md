@@ -9,12 +9,8 @@ Here you can find material for reports, partner institutions and others!
 
 ### Logo and Colors
 
-<!--
-[![](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)
+[![](/spaceicons/logo.svg)](/spaceicons/logo.svg)
 Our logo as SVG, click for original
--->
-
-Logo: coming soon ;)
 
 Our house colors are:
 

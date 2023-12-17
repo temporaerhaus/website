@@ -9,12 +9,8 @@ Hier gibt es Material für Berichte, Partnereinrichtungen und Co!
 
 ### Logo und Farben
 
-<!--
-[![](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)](/wp-content/uploads/2017/09/Logo_VSH_a5_ungrouped.svg)
+[![](/spaceicons/logo.svg)](/spaceicons/logo.svg)
 Unser Logo als SVG, Klick für Original
--->
-
-Logo: _coming soon_ ;)
 
 Unsere Hausfarben sind:
 

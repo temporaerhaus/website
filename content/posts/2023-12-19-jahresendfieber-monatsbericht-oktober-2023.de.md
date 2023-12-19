@@ -14,7 +14,7 @@ tags:
 featured_image: /wp-content/uploads/2023/12/monatsbericht_holzwerkstatt.jpg
 ---
 
-Es ist schon Mitte Dezember und draußen war schon ein paar Mal so richtig Winter – und wenn ihr euch jetzt fragt, warum wir so wenig gepostet haben, findet ihr weiter unten die Antwort – Spoiler: Es hat mit euren Spenden und einer unverhofften Förderung zu tun, mit der wir gerade bis zum Jahresende beschäftigt sind. Mit beiden gemeinsam stellen wir bis zum Januar im neuen Haus noch einen besseren Zustand her, als ihr ihn schon am alten Ort gewohnt wart \<\3
+Es ist schon Mitte Dezember und draußen war schon ein paar Mal so richtig Winter – und wenn ihr euch jetzt fragt, warum wir so wenig gepostet haben, findet ihr weiter unten die Antwort – Spoiler: Es hat mit euren Spenden und einer unverhofften Förderung zu tun, mit der wir gerade bis zum Jahresende beschäftigt sind. Mit beiden gemeinsam stellen wir bis zum Januar im neuen Haus noch einen besseren Zustand her, als ihr ihn schon am alten Ort gewohnt wart
 
 ### Das war der November
 

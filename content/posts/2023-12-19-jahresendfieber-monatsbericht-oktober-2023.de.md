@@ -3,7 +3,7 @@ sticky: false
 title: Jahresendfieber – Monatsbericht November 2023
 author: Community
 date: 2023-12-19T20:23:23.000Z
-draft: false
+draft: true
 categories:
   - news
   - monatsbericht

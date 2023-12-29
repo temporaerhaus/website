@@ -364,6 +364,19 @@ li.active a, li.active a:hover {
   margin-left: 0;
 }
 
+/* --- sidebar --- */
+.supporter-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.supporter-list li {
+  margin: 0;
+  padding: 0;
+  opacity: 1;
+}
+
 /* inconsolata-regular - latin */
 @font-face {
   font-family: 'Inconsolata';

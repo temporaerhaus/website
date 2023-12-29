@@ -5,7 +5,7 @@ slug: verein
 
 ---
 
-The temporärhaus e.V. ([temporarily renamed](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/)) is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the temporärhaus - such as the organization and handling of workshops and events and with sponsorships.
+The temporärhaus e.V. is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the temporärhaus - such as the organization and handling of workshops and events and with sponsorships.
 
 Do I have to be a member of the association to be active in the house or to do _anything_?  
 No, because of the support of our external sponsors we can open the temporärhaus to all people without having to rely on membership fees for rent etc.
@@ -21,14 +21,14 @@ Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Din
 For all things concerning the association you can reach us best at _vorstand (at) temporaerhaus.de_.
 
 ### Membership 
-You want to join our non-profit association? Please send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past in our group.
+You want to join our non-profit association? Please use [the application form below](#applicationForm) - or send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past in our group.
 
 Usually the membership fee is 10 € per month. In case you need an adaption of the fee, please get in contact with us.
 
 ### Supporting Membership
-We're happy to welcome you or your organization as a supporting member for our non-profit association. Please use the form below or simply send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate).
+We're happy to welcome you or your organization as a supporting member for our non-profit association. Please use [the form below](#applicationForm) or send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail and postal address (needed for the charitable donation certificate).
 
-We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for supporting membership.
+We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for the supporting membership.
 
 ### Application Form
 

@@ -1,14 +1,14 @@
 ---
-title: Frauen* Und Computer Kram (F.U.C.K)
+title: FLINTA* Und Computer Kram (F.U.C.K)
 slug: fuck
 menu: 
   main:
-    title: 'Frauen* Und Computer Kram (F.U.C.K)'
+    title: 'FLINTA* Und Computer Kram (F.U.C.K)'
     parent: groups
 type: page
 ---
 
-F.U.C.K – Frauen* Und Computer Kram – richtet sich an alle Frauen (damit meinen wir alle Personen, die sich, zumindest hauptsächlich, als weiblich identifizieren), die sich für Computer, Hardware, Hacken, Basteln, Coden, Löten und allen anderen ähnlichen Kram interessieren.
+F.U.C.K – FLINTA* Und Computer Kram – richtet sich an alle Frauen (damit meinen wir alle Personen, die sich, zumindest hauptsächlich, als weiblich identifizieren), die sich für Computer, Hardware, Hacken, Basteln, Coden, Löten und allen anderen ähnlichen Kram interessieren.
 
 Inspiriert von Heart of Code und dem CCC München wollen auch wir einen Raum schaffen, in dem sich Frauen frei von Ängsten und Vorurteilen über Computer Kram austauschen und lernen können – egal ob du noch ganz am Anfang stehst, oder schon mittendrin bist, du bist herzlich willkommen!
 Kontakt

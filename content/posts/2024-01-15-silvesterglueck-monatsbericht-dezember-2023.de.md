@@ -51,7 +51,7 @@ Jugendarbeit und das Programm „Jugend hackt“ sind eng in unsere Community ve
 
 ![Der Eingang zur dezentrale in Leipzig beim Jugend-hackt-Vernetzungswochenende](/wp-content/uploads/2024/01/monatsbericht_jugendhackt.jpg)
 
-In der [dezentrale](https://dezentrale.space/), einem der Hackspaces in Leipzig, tauschten sich die regionalen Jugend-hackt-Teams ein Wochenende lang aus. Und Eli konnte viele Ideen mitnehmen, wie wir nicht nur unsere Liste quasi schon fertiger Workshopideen für eine Wiederbelebung des Jugend hackt Labs verwenden können, sondern welche Ideen für politische Bildung noch mehr in das Programm einfließen können. 
+Neben dem obligatorischen Besuch in der [dezentrale](https://dezentrale.space/), einem der Hackspaces in Leipzig, tauschten sich die regionalen Jugend-hackt-Teams ein Wochenende lang im Coworking Space „Urban Jungle“ aus. Und Eli konnte viele Ideen mitnehmen, wie wir nicht nur unsere Liste quasi schon fertiger Workshopideen für eine Wiederbelebung des Jugend hackt Labs verwenden können, sondern welche Ideen für politische Bildung noch mehr in das Programm einfließen können. 
 
 Denn natürlich geht es bei Jugend hackt nicht allein darum, mit Technik umgehen zu können. Seit Anfang an gehört auch die kritische Auseinandersetzung mit der Rolle von Technologie und Code und der damit verbundenen Macht in der Gesellschaft dazu. Diese Selbstwirksamkeit insbesondere auch den bisher Macht-vollen Institutionen spiegelte sich über die Jahre nicht nur [in den Jahresmottos wider.](https://jugendhackt.org/blog/macht-code-das-inhaltliche-programm-bei-jugend-hackt-in-berlin/)
 

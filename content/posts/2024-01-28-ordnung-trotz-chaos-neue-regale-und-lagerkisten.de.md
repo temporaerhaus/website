@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Ordnung trotz Chaos: Neue Regale und Lagerkisten
+title: Ordnung trotz Chaos – Neue Regale und Lagerkisten
 author: Matthias Schneider
 date: 2024-01-28T18:25:23.000Z
 draft: false

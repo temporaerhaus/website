@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Bring order to Chaos: New shelves and boxes
+title: Bring order to Chaos - New shelves and boxes
 author: Matthias Schneider
 date: 2024-01-28T18:25:23.000Z
 draft: false

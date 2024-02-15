@@ -1,7 +1,13 @@
 {{ range first 1 (where .Site.Pages ".Params.sticky" true) }}
   <section class="fullwidth">
     <div class="fullwidth-bg">
-      <img src="{{ .Params.featured_image }}" />
+      {{- $featured_image := .Params.featured_image }}
+      {{- if not $featured_image }}
+        {{- range first 1 .Params.images }}
+          {{- $featured_image = . }}
+        {{- end }}
+      {{- end }}
+      <img src="{{ $featured_image }}" />
     </div>
     <div class="fullwidth-content">
       <div class="floating-teaser">

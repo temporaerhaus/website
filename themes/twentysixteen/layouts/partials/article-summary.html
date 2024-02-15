@@ -7,9 +7,16 @@
     </header>
     <!-- .entry-header -->
 
-    {{ if .Params.featured_image }}
+    {{- $featured_image := .Params.featured_image }}
+    {{- if not $featured_image }}
+      {{- range first 1 .Params.images }}
+        {{- $featured_image = . }}
+      {{- end }}
+    {{- end }}
+
+    {{ if $featured_image }}
     <a class="post-thumbnail" href="{{ .Permalink }}" aria-hidden="true">
-        <img src="{{ .Params.featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
+        <img src="{{ $featured_image }}" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="{{ .Title }}" />
     </a>
     {{ end }}
 

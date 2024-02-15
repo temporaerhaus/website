@@ -10,7 +10,8 @@ categories:
 tags:
   - finanzierung
   - meta
-featured_image: /wp-content/uploads/2024/02/dsee_bambu1.jpg
+images:
+  - /wp-content/uploads/2024/02/dsee_bambu1.jpg
 ---
 
 _Dieser Artikel ist Teil einer Serie, in der wir einige unserer neuen, wertvollen Anschaffungen vorstellen möchten, die wir dank einer Förderung durch die [Deutsche Stiftung für Engagement und Ehrenamt](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/) umsetzen konnten._

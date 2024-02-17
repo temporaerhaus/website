@@ -2,7 +2,7 @@
   <section class="fullwidth">
     <div class="fullwidth-bg">
       {{- $featured_image := .Params.featured_image }}
-      {{- if not $featured_image }}
+      {{- if and (not $featured_image) .Params.images }}
         {{- range first 1 .Params.images }}
           {{- $featured_image = . }}
         {{- end }}

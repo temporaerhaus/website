@@ -5,13 +5,14 @@ type: post
 date: {{ .Date }}
 url: /{{ .Name | urlize }}/
 language: de
-# featured_image:
 # categories:
 #   - Workshops
 # tags:
 #   - LoRaWAN
 #   - Open Data Day
 #   - TTN
+# images:
+#   - /wp-content/uploads/..../../titleimage.jpg
 draft: true
 ---
 

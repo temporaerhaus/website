@@ -8,6 +8,16 @@ menu:
 type: page
 ---
 
-"Capture the Flag" ist ein Wettbewerbsformat für Hacker, bei dem es darum geht, Security-Aufgaben zu lösen.
+Beim CTF (Capture The Flag) geht es darum, in einer Lab-Umgebung verwundbare Systeme zu hacken. Diese Systeme sind in verschiedene Themenbereiche unterteilt, sodass du dich in das Thema deiner Wahl vertiefen kannst – sei es Web Hacking, Reverse Engineering oder das Lösen von Krypto-Aufgaben. Es gibt für jeden Bereich passende Herausforderungen.
 
-Zusätzlich zum monatlichen CTF-Treffen trifft sich die CTF/PPP-Gruppe auch wöchentlich fürs gemeinsame Grübeln an den Challenges. Kommt zum Einstieg am besten zum monatlichen CTF-Treffen vorbei.
+Wir treffen uns zwei mal im Monat im Temporärhaus um gemeinsam ein paar Challenges zu lösen.
+
+Unsere Gruppe ist super entspannt und offen für alle, die Grundkenntnisse in IT mitbringen. Du musst kein Security-Pro sein, nur Spaß daran haben, kreativ zu denken und mit Systemen zu experimentieren.
+
+Wer noch mehr wissen möchte:
+
+https://www.youtube.com/watch?v=8ev9ZX9J45A&pp=ygUQbGl2ZW92ZXJmbG93IGN0Zg%3D%3D
+
+### Kontakt 
+
+Kontakt: ctf (at) temporaerhaus.de

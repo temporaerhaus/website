@@ -16,7 +16,7 @@ Unsere Gruppe ist super entspannt und offen für alle, die Grundkenntnisse in IT
 
 Wer noch mehr wissen möchte:
 
-https://www.youtube.com/watch?v=8ev9ZX9J45A&pp=ygUQbGl2ZW92ZXJmbG93IGN0Zg%3D%3D
+https://www.youtube.com/watch?v=8ev9ZX9J45A
 
 ### Kontakt 
 

@@ -24,4 +24,6 @@ Deine Welt - Deine Regeln!
 
 Samstag: 2. Oktober 2021, 10 - 17 Uhr (mit einer Stunde Pause zwischen 13-14h)
 
-Anmeldung: tom@verschwoerhaus.de
+Anmeldung: kontakt@temporaerhaus.de
+
+*Update 03/2024: Kontaktadresse aktualisiert*

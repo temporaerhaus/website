@@ -29,7 +29,7 @@ Voraussichtlich ab morgen werden wir uns an die offiziellen Releases der gesende
  [2]: https://events.ccc.de/2020/12/26/rc3-takeoff/
  [3]: https://rc3.world/rc3/public_fahrplan/
  [4]: https://pretalx.com/rc3/schedule/
- [5]: https://cfp.verschwoerhaus.de/rc3-2020/schedule/
+ [5]: https://cfp.temporaerhaus.de/rc3-2020/schedule/
  [7]: https://streaming.media.ccc.de/rc3
  [8]: https://streaming.media.ccc.de/rc3/wikipaka
  [9]: https://streaming.media.ccc.de/rc3/relive

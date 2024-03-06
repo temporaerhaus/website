@@ -19,7 +19,7 @@ Im vierwöchigen Wechsel gibt's einmal einen “Offenen Abend” und einmal den 
 
 Alle zwei Wochen am Mittwochabend, ab 18:30 Uhr.
 
-Dabei gibt's im vierwöchigen Wechsel einmal einen “Offenen Abend” und einmal den “Bastelabend”. komm' rein und einfach durchgehen, bis zum Lötlabor (Raum „Hase“). Wenn du dich nicht zurecht findest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
+Dabei gibt's im vierwöchigen Wechsel einmal einen “Offenen Abend” und einmal den “Bastelabend”. komm' rein und einfach durchgehen, bis zum Lötlabor. Wenn du dich nicht zurecht findest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
 
 Den nächsten Termin findest du im [Kalender]({{< relref "/termine-und-oeffnungszeiten.md" >}}).
 
@@ -43,7 +43,7 @@ Im Umfeld des Hauses sind unzählige spannende Projekte mit LoRaWAN entstanden. 
 
 **Ergebnis** Die Münsterplatine basiert auf dem Microcontroller Arduino Pro Mini (ATmega328, 8 MHz, 3,3 V), einem RFM95-LoRa-Funkmodul und hat die Form des Ulmer Münsters. Sie kann über einen externen Akku betrieben werden und diesen auch über USB laden. Wir verwenden sie auf verschiedenste Arten in unseren eigenen Projekten und Workshops.
 
-* [Platinendesign auf github](https://github.com/verschwoerhaus/ttn-ulm-pcb)
+* [Platinendesign auf github](https://github.com/temporaerhaus/ttn-ulm-pcb)
 
 ### Hochwassersensor
 
@@ -78,7 +78,7 @@ Im Umfeld des Hauses sind unzählige spannende Projekte mit LoRaWAN entstanden. 
 **Funktionsweise** Die Bodenfeuchte wird dabei über ein Tensiometer ermittelt. Solch ein Tensiometer misst dabei den Saugdruck, den eine Pflanze in ihren Wurzeln aufbringen muss, um Wasser aus dem Boden zu saugen. Überschreitet der Saugdruck einen bestimmten Schwellwert, wird die Bewässerung gestartet. Dazu pumpt das Beet aus zwei großen Wassertanks, die sich jeweils unterhalb der Blumenkästen befinden, Wasser in die Blumenkästen. Neben Bodenfeuchte und Wasserstand werden auch verschiedene Umweltparameter ermittelt und über LoRaWAN an ein Dashboard übertragen, sodass das Hochbeet bequem aus der Ferne überwacht werden kann.
 
 * [Hochbeet Dashboard](https://ttndata.cortex-media.de/grafana/d/c80ycHXWk/hochbeet-verschworhaus?orgId=1&from=now-7d&to=now)
-* [Source Code auf github](https://github.com/verschwoerhaus/ttn-ulm-hochbeet-node)
+* [Source Code auf github](https://github.com/temporaerhaus/ttn-ulm-hochbeet-node)
 
 ### Rissüberwachung
 

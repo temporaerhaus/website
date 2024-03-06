@@ -24,7 +24,7 @@ Durch ihren interdisziplinären Hintergrund verbindet sie dabei vielfach Horizon
 
 Juka hat sich zu unserem großen Bedauern im Herbst 2020 dazu entschlossen, über die zum 31.12.2020 auslaufende Förderung hinaus keine Verlängerung ihrer Anstellung im Verschwörhaus anzustreben, sondern sich beruflich zu verändern. Dieser Ort wäre ohne sie nicht das geworden, was er ist – deswegen freuen wir uns sehr, dass sie nach dem Ende ihrer hauptamtlichen Tätigkeit weiter ehrenamtlich im Haus aktiv sein wird. Vielen Dank Juka für deine Arbeit – wir wünschen dir für deine Zukunft nicht weniger als das allerbeste und auch weiterhin viel Erfolg!
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2021/02/juka2.jpg
+ [1]: https://temporaerhaus.de/wp-content/uploads/2021/02/juka2.jpg
  [2]: http://www.opencitycamp.de/
  [3]: https://jugendhackt.org/
  [4]: https://jugendhackt.org/ueber/

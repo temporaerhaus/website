@@ -19,7 +19,7 @@ Computerspiele werden oft nur als Unterhaltung wahrgenommen - trotzdem sind sie 
 \
 Im Rahmen der *Aktionstage Netzpolitik & Demokratie 2021* spricht der Neu-Ulmer Kulturwissenschaftler **Arno Görgen** über das Politische in digitalen Spielen. Denn Computerspiele existieren nicht einfach unabhängig von der Gesellschaft in der wir leben, sondern spiegeln sie in bestimmten Aspekten auch wieder. Wie das mit Narrationen von Pandemien und Zombies einhergeht wollen wir nach dem Talk mit euch diskutieren.\
 \
-Der Talk und die anschließende Diskussionsrunde wird als Hybridformat angeboten. Gäste bitten wir sich an die 3G-Regel (Getestet/Genesen/Geimpft) zu halten und Mund-Nasenschutz während der Veranstaltung zu tragen. Der Talk wird auch online übertragen (verschwoerhaus.de/live).
+Der Talk und die anschließende Diskussionsrunde wird als Hybridformat angeboten. Gäste bitten wir sich an die 3G-Regel (Getestet/Genesen/Geimpft) zu halten und Mund-Nasenschutz während der Veranstaltung zu tragen. Der Talk wird auch online übertragen (temporaerhaus.de/live).
 
 **Wann?** 
 

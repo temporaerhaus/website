@@ -28,11 +28,8 @@ Der Vorteil einer CO2-Ampel ist zudem, dass ihr damit auch indirekt angezeigt be
 
 #### Gratis für dich und dEIn Klassenzimmer
 
-Das Verschwörhaus hat einige [CO2-Ampel-Kits auf Lager.][1] Willst du bereits eine fertige CO2-Ampel für dein Klassenzimmer haben, dann kontaktiere [uns][2] gerne. Für alle die Löten können und selbst basteln wollen, aber bspw. Zuarbeit am 3D-Drucker und Lasercutter brauchen &#8211; auch das ist kein Problem: du bekommst von uns den Kit und das fertige Gehäuse zum Fertigstellen.
-
-*Update 03/2024: Kontaktadresse aktualisiert*
+Das Verschwörhaus hat einige [CO2-Ampel-Kits auf Lager.][1] Willst du bereits eine fertige CO2-Ampel für dein Klassenzimmer haben, dann kontaktiere uns gerne. Für alle die Löten können und selbst basteln wollen, aber bspw. Zuarbeit am 3D-Drucker und Lasercutter brauchen &#8211; auch das ist kein Problem: du bekommst von uns den Kit und das fertige Gehäuse zum Fertigstellen.
 
 &nbsp;
 
  [1]: /co2-ampeln-fuer-klassenzimmer-und-wie-du-uns-im-advent-dabei-unterstuetzen-kannst/
- [2]: mailto:kontakt@temporaerhaus.de

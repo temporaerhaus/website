@@ -22,9 +22,7 @@ Für alle von 13 bis 18 Jahren &#8211; kostenlos.
 
 Der Workshop geht **am Montag 24. Mai 2021 los und dauert bis zum 26. Mai von jeweils 11-16 Uhr (mit einer Pause zwischen 13-14 Uhr)**.
 
-Bitte meldet euch hierzu an: <kontakt@temporaerhaus.de>
-
-*Update 03/2024: Kontaktadresse aktualisiert*
+Bitte meldet euch hierzu an.
 
 Technische Voraussetzungen:
 

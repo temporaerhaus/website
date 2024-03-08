@@ -31,9 +31,7 @@ Beim ersten Treffen bauen wir [einen universalen TV-Abschalter.][2] Wir werden l
 
 Das Angebot ist natürlich kostenfrei und offen für alle! Du brauchst keine Vorkenntnisse &#8211; Neugier und Spaß am Ausprobieren reichen. [Melde dich einfach an, komm vorbei und lass dir alle Fragen beantworten.][3]
 
-Noch Fragen? Melde dich gerne bei Lena unter kontakt (at) temporaerhaus.de!
-
-*Update 03/2024: Kontaktadresse aktualisiert*
+Noch Fragen? Melde dich gerne per Mail!
 
  [1]: https://commons.wikimedia.org/wiki/File:Blinkenrocket-L%C3%B6tworkshop_im_Verschw%C3%B6rhaus_Ulm_(4).jpg
  [2]: https://github.com/stkdiretto/uulmduino

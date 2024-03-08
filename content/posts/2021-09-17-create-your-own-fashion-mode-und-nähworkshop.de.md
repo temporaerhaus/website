@@ -9,9 +9,7 @@ categories:
 ---
 Genug fast fashion gekauft, werde zu deiner/m eigenen Modeschöpfer*in. Egal ob Rucksack, Laptoptasche, Jutebeutel oder aber ein cooles Stoffarmband - alles ist möglich. Und das sogar aus qualitativem und nachhaltigem Stoff und Nähfaden. Wie das geht wollen wir uns in einem Jugend hackt Lab Workshop anschauen, wir packen für euch die Nähmaschinen aus und für das Knowhow sorgt die Fashion-Designerin und Schneiderin Anna Mills. Es sind keine Vorkenntnisse nötig und alles an Stoff- und Nähmaterial haben wir vor Ort. Einfach vorbei kommen.
 
-Habt ihr spezielle Nähwünsche, würden wir uns freuen, wenn ihr die vorab mit uns abklärt, wir sind für alle Experimente offen, brauchen dafür aber natürlich genügend Material vor Ort. Kontakt: kontakt\[at]temporaerhaus.de
-
-*Update 03/2024: Kontaktadresse aktualisiert*
+Habt ihr spezielle Nähwünsche, würden wir uns freuen, wenn ihr die vorab mit uns abklärt, wir sind für alle Experimente offen, brauchen dafür aber natürlich genügend Material vor Ort.
 
 Wann?
 

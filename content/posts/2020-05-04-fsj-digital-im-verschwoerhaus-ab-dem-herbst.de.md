@@ -23,8 +23,6 @@ Das FSJ dient der Berufsvorbereitung, und wir bieten dir im Verschwörhaus einen
   * Pflege und Betrieb der Infrastruktur (von der Werkstatt über das FabLab mit 3D-Druckern und Lasercutter bis zu Netzwerkdiensten und der Server-Infrastruktur in unserem 10-Gigabit-Netz)
   * Unterstützung bei den Projekten der Geschäftsstelle Digitale Agenda der Stadt Ulm: Digitale Technologien für die UlmerInnen be-greifbar und anschaulich machen
 
-[Die offizielle Ausschreibung ist bei unserem Träger, dem internationalen Bund, zu finden.][2] Wir freuen uns sehr über deine Bewerbung per E-Mail an kontakt20 (at) temporaerhaus.de **bis zum 18. Mai 2020**. Die Kennenlerngespräche werden dann per Videokonferenz stattfinden.
-
-*Update 03/2024: Kontaktadresse aktualisiert*
+[Die offizielle Ausschreibung ist bei unserem Träger, dem internationalen Bund, zu finden.][2] Wir freuen uns sehr über deine Bewerbung per E-Mail **bis zum 18. Mai 2020**. Die Kennenlerngespräche werden dann per Videokonferenz stattfinden.
 
  [2]: https://ib-freiwilligendienste.de/job/1085

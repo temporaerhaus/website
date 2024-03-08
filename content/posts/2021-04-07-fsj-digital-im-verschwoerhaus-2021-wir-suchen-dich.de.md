@@ -27,7 +27,6 @@ Unser aktueller FSJler Jan [hat im Dezember 2020 die Videoproduktion für das ge
 
 [Die offizielle Ausschreibung ist bei unserem Träger, dem internationalen Bund, zu finden. ][5] Wir freuen uns sehr über deine Bewerbung per E-Mail **bis zum 1. Mai 2021**. Die Kennenlerngespräche werden dann per Videokonferenz stattfinden.
 
- [1]: https://temporaerhaus.de/wp-content/uploads/2020/11/L1006114_2000px.jpg
  [3]: /wie-das-verschwoerhaus-zum-nicht-ganz-fernseh-studio-wurde/
  [4]: https://ulm.dev/projects/openbike/
  [5]: https://ib-freiwilligendienste.de/job/1085

@@ -65,7 +65,7 @@ Betterplace hat in der Adventszeit wieder eine Sonderaktion: Auf alle Spenden, d
 
 Selbstverständlich kannst du uns aber auch ganz klassisch per Banküberweisung spenden:
 
-Temporaerhaus e.V.
+temporärhaus e.V.
   
 IBAN: DE35 6305 0000 0021 3027 70
   

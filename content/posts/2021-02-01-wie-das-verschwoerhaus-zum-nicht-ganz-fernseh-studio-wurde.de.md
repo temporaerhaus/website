@@ -83,9 +83,7 @@ Alles in Allem war das eine spannende Erfahrung mit einem tollen Team aller bete
   </p>
 </blockquote>
 
- [1]: https://temporaerhaus.de/wp-content/uploads/2021/02/audio_gong-scaled.jpg
  [2]: https://chaosradio.de/cr265-rc3-world
- [3]: https://temporaerhaus.de/wp-content/uploads/2021/02/masterregie-scaled.jpg
  [4]: https://wikipaka.wtf/
  [5]: http://bleeptrack.de/
  [6]: https://morr.cc/

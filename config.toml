@@ -6,6 +6,7 @@ languageCode = "de-DE"
 theme = "twentysixteen"
 paginate = 10
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
 siteLogoUrl = "/spaceicons/logo.svg"

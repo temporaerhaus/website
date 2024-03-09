@@ -10,7 +10,7 @@ categories:
 ---
 Jährlich produzieren wir mega viel Elektroschrott – vieles nur, weil es easy ist neu zu kaufen und altes wegzuschmeißen. Dabei lässt sich mit wenig Aufwand ältere oftmals qualitativ bessere Elektrotechnik wieder fit machen und beispielsweise mit Bluetooth erweitern. In diesem Workshop wollen wir uns speziell alten Bang & Olufsen Lautsprechern widmen und diese mit einem Raspberry Pi und einem HiFiBerry-Verstärkermodul für den Kabellosen Stream ready machen. Und das als Stereo-Bluetooth-Lautsprecher. Zusammen gehen wir die einzelnen Schritte durch, angefangen beim Löten über Bohren bis hin zum Flashen.
 
-Habt ihr eure eigenen HiFi-Projekte, welche ihr mit bringen möchtet, dann schreibt [uns](mailto:tom@verschwoerhaus.de) gerne vorab bzw. bringt gerne Ersatzteile und benötigtes Material (bspw. Sicken und Kleber) mit.
+Habt ihr eure eigenen HiFi-Projekte, welche ihr mit bringen möchtet, dann schreibt uns gerne vorab bzw. bringt gerne Ersatzteile und benötigtes Material (bspw. Sicken und Kleber) mit.
 
 <s>Sa. 26.02.2022 | 13:00 – 18:00</s>
 

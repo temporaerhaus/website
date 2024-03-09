@@ -65,13 +65,13 @@ Betterplace hat in der Adventszeit wieder eine Sonderaktion: Auf alle Spenden, d
 
 Selbstverständlich kannst du uns aber auch ganz klassisch per Banküberweisung spenden:
 
-Verschwörhaus e.V.
+temporärhaus e.V.
   
 IBAN: DE35 6305 0000 0021 3027 70
   
 Sparkasse Ulm
 
-Falls du uns mit einer Fördermitgliedschaft unterstützen möchtest, schreib uns gerne an vorstand (at) verschwoerhaus.de!
+Falls du uns mit einer Fördermitgliedschaft unterstützen möchtest, schreib uns gerne an vorstand (at) temporaerhaus.de!
 
 ### Wie kann ich sonst noch helfen, und wem?
 

@@ -66,4 +66,4 @@ Eure Verschwörhaus-Gemeinschaft
 
 PS: Auch für die nächsten Tage und Wochen ist weitere [Unterstützung](/spenden/) natürlich gerne gesehen, und wird von uns nicht nur für anwaltliche Kosten, sondern auch für spannende neue Hausi-Projekte verwendet werden.
 
-*U﻿pdate des Artikels: 2022-04-19, Formulierung in Absatz über öffentliche Darstellung seitens der Stadt leicht angepasst, keine inhaltliche Änderung ([diff](https://github.com/verschwoerhaus/verschwoerhaus.de/commit/11ad44d11ec73731a0f16bad22d7cab1e11bb4ea))*
+*Update des Artikels: 2022-04-19, Formulierung in Absatz über öffentliche Darstellung seitens der Stadt leicht angepasst, keine inhaltliche Änderung ([diff](https://github.com/temporaerhaus/website/commit/11ad44d11ec73731a0f16bad22d7cab1e11bb4ea))*

@@ -52,7 +52,7 @@ Konkretes Wissen über Digitalisierung, das wir über die Jahre im Haus gesammel
 
 Dieses Wissen hat es ermöglicht, dass schon zu Beginn der Pandemie in unterschiedliche Richtungen [Hilfestellungen, Expertise, und konkrete Unterstützung aus dem Haus kam](/was-wir-gerade-tun/). Beispielsweise entstanden auf den Servern im Haus BigBlueButton-Instanzen (BBB) – also eine Open Source-Videokonferenzlösung. Besonders zu Beginn der Pandemie wurde diese von dankbaren Ulmer Schulen und Abteilungen der Stadtverwaltung verwendet – teilweise ist das bis heute so. Des Weiteren kamen aus den hauseigenen 3D-Druckern Face Shields und Ohrenschoner für Uniklinik und Pflegepersonal, sowie [CO2-Ampel-Bauteile](/co2-ampeln-fuer-klassenzimmer-und-wie-du-uns-im-advent-dabei-unterstuetzen-kannst/). Auch wenn das Haus also von außen eher unbelebt schien, passierte innen sehr viel – über die Kabel und Server darin. Auch die Frauen\* und Computerkram Gruppe (F.U.C.K.) konnte von der aufgebauten Infrastuktur, wie beispielsweise dem bereits erwähnten BigBlueButton, profitieren.
 
-> Wir konnten uns dank BBB die komplette Coronazeit weiter online treffen und sogar Workshops und Projekte gemeinsam durchführen, wie z.B. [unseren kleinen Adventskalender](https://adventskalender.verschwoerhaus.de).
+> Wir konnten uns dank BBB die komplette Coronazeit weiter online treffen und sogar Workshops und Projekte gemeinsam durchführen, wie z.B. [unseren kleinen Adventskalender](https://adventskalender.temporaerhaus.de).
 > Besonders cool war, dass hierbei auch komplett unerfahrene Teilnehmende ein bisschen Programmiererfahrung sammeln und gängige Tools der Softwareentwentwicklung kennen lernen konnten.
 >
 > — berichten Jana und Sabrina von [F.U.C.K.](/gruppen/fuck)

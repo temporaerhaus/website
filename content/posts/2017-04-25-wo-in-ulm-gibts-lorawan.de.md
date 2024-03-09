@@ -31,7 +31,7 @@ Die EBU-Messungen sind indes schon fast wieder obsolet, denn die festgestellte V
 Wer immer die aktuellen Geschehnisse rund um LoRaWAN und TTN mitbekommen will, darf gerne dem Twitter-Account [@ttn_ulm][8] folgen – oder sich ganz klassisch für den [TTN-Ulm-Newsletter][9] anmelden!
 
  [1]: http://ebu-ulm.de/
- [2]: https://github.com/verschwoerhaus/ttn-ulm-doku/wiki/ITalk-MCS-1608
+ [2]: https://github.com/temporaerhaus/ttn-ulm-doku/wiki/ITalk-MCS-1608
  [3]: https://lora.ulm-digital.com/#map
  [4]: http://ttnmapper.org/
  [6]: https://twitter.com/JayDi_

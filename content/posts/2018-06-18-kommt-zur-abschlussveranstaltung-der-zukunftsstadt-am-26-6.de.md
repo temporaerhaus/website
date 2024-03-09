@@ -18,7 +18,7 @@ Lange lange haben mehrere Projektgruppen in der zweiten Runde des bundesweiten P
 
 Neben der Vorstellung von Prototypen aus Phase 2 und einer Podiumsdiskussion wird Dr. Sven J. Körner in einem spannenden Impulsvortrag einen verständlichen Einblick in das Themenfeld Künstliche Intelligenz (KI) geben. Körner zeigt Beispiele wie KI heute schon eingesetzt wird und in welchen Bereichen sie stark im Kommen ist. Welchen Nutzen hat sie? Ein Vortrag der unterhaltsam ist, nachdenklich macht und in manchen Themenbereichen provokant den Spiegel vorhält. Eine Podiumsdiskussion und die Vorstellung der Prototypen der Zukunftsstadt 2030 bilden den Rahmen um diesen Vortrag.
 
-[Kostenlose Tickets gibt es – solange noch Platz ist – im Verschwörhaus-Pretix-System.][1]
+Kostenlose Tickets gibt es – solange noch Platz ist – im Verschwörhaus-Pretix-System.
 
 <!--more-->
 
@@ -43,5 +43,3 @@ Keynote und anschließende Diskussion
 Dr. Sven Körner, The thingsthinking, Karlsruhe
 
 **21:00 Uhr Ausklang mit Imbiss**
-
- [1]: https://tickets.verschwoerhaus.de/ulm/zstab/

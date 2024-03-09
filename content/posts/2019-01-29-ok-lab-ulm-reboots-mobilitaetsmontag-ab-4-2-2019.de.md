@@ -25,7 +25,7 @@ Wir möchten beim Auftakt ausprobieren, was wir uns in Zukunft für diese Termin
 
 Wer Interesse hat, komme vorbei! Eine Anmeldung ist nicht erforderlich.
 
-Von unterwegs zuschauen? →  <https://verschwoerhaus.de/live>
+Von unterwegs zuschauen? →  <https://temporaerhaus.de/live>
 
  [1]: https://stefan.bloggt.es/2009/10/swu-daten-befreit-d/
  [2]: https://wiki.ulmapi.de/index.php?title=Hauptseite&oldid=12

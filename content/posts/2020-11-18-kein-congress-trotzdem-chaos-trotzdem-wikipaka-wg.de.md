@@ -29,4 +29,4 @@ Beim Format sind uns diesmal ganz andere Grenzen gesetzt als das auf der Bühne 
 
  [2]: https://de.wikipedia.org/wiki/Chaos_Communication_Congress
  [3]: https://events.ccc.de/2020/11/05/rc3-call-for-participation
- [4]: https://cfp.verschwoerhaus.de/rc3-2020/cfp
+ [4]: https://cfp.temporaerhaus.de/rc3-2020/cfp

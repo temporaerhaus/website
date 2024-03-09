@@ -13,6 +13,6 @@ Das Verschwörhaus wird zwei! [Anfang Juli 2016][1] gab es den Schlüssel zu den
 
 Um 14:00 Uhr eröffnet Oberbürgermeister Gunter Czisch, danach finden kurze Lightning-Talks von vielen Menschen aus dem Haus statt.
 
-Eine Liste der Talks und eine Anmeldung findest du  unter <https://tickets.verschwoerhaus.de/ulm/vshzwei/> — Klick dir dort bitte ein Ticket, damit wir die Kuchenversorgung passend planen können und komm gerne mit vielen Menschen vorbei &#x1f389;
+Eine Liste der Talks und eine Anmeldung findest du im Ticketsystem (*03/24  mittlerweile offline*) — Klick dir dort bitte ein Ticket, damit wir die Kuchenversorgung passend planen können und komm gerne mit vielen Menschen vorbei &#x1f389;
 
  [1]: /macht-hoch-die-tuer/

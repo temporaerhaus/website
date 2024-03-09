@@ -27,7 +27,6 @@ Damit es solche Daten auch für Ulm gibt, hat sich eine Gruppe aus Verschwörhau
 
 Hast Du auch Interesse, Dich zu beteiligen? [In unserem Kalender][5] findest Du mehr Informationen dazu!
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2021/07/2021-obs.jpg
  [2]: https://www.deutschlandfunknova.de/beitrag/radfahrer-und-abstand
  [3]: https://www.openbikesensor.org/
  [4]: https://de.wikipedia.org/wiki/Open-Source-Hardware

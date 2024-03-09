@@ -37,7 +37,6 @@ Lange Rede, kurzer Sinn: Diese Nominierung ist ausdrücklich für _alle_, die ü
 
 Die Preisverleihung wird in der ersten Dezemberwoche abends online gestreamt. Wir sind sehr gespannt, was da noch passiert :D
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2020/11/L1006114_2000px.jpg
  [2]: https://vm.baden-wuerttemberg.de/de/politik-zukunft/zukunftskonzepte/strategiedialog-automobilwirtschaft/wir-machen-mobilitaetswende-bewerber/auszeichnung-mobilitaetswende/
  [3]: https://github.com/transportkollektiv/meetup/wiki
  [4]: https://transportkollektiv.github.io/digitransit-setup/index.html

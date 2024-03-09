@@ -29,9 +29,7 @@ Falls ihr also auf der Karte noch zu wenig kartierte Wege oder Hindernisse in eu
 
 (Im Ernst: Falls das Stress mit Ordnungsbehörden geben sollte, lasst uns gerne davon wissen).
 
- [1]: https://verschwoerhaus.de/wp-content/uploads/2021/05/800px-Kienlesbergbruecke_Ulm-7.jpg
  [2]: https://cargorocket.de
- [3]: https://verschwoerhaus.de/wp-content/uploads/2021/05/Bildschirmfoto-von-2021-05-03-21-02-22.png
  [4]: https://api.cargorocket.de/dr/docs/datenrennen_maps/Ulm_map.html
  [5]: https://cargorocket.de/2021/04/17/mapping-tutorial.html
  [6]: https://wiki.openstreetmap.org/wiki/StreetComplete

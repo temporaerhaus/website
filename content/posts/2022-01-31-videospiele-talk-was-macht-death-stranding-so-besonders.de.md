@@ -20,7 +20,7 @@ Die Teilnahme ist ohne Anmeldung möglich und offen für alle Interessierten ab 
 
 Samstag, 9. April 2022 von 15 - 16 Uhr. 
 
-Parallel gibts einen live-stream: verschwoerhaus.de/live
+Parallel gibts einen live-stream: temporaerhaus.de/live
 
 \---
 

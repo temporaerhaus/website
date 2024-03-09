@@ -23,5 +23,3 @@ Deine Welt - Deine Regeln!
  *\- (Einen Laptop mit installiertem Chrome-Browser, Kopfhörern und einer Maus)*
 
 Samstag: 2. Oktober 2021, 10 - 17 Uhr (mit einer Stunde Pause zwischen 13-14h)
-
-Anmeldung: tom@verschwoerhaus.de

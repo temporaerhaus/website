@@ -54,6 +54,6 @@ Des Weiteren haben wir verschiedene weitere Geräte, die potentiell etwas mehr S
 
 Weitere Informationen zu unserem Maschinenpark findet Ihr auch im [Wiki](https://wiki.temporaerhaus.de).
 
-Es kommt immer wieder vor, dass wir unseren Maschinenpark erweitern - sei es durch Leihgaben oder Spenden. Es lohnt sich also immer, mal spontan vorbei zu schauen  	:slightly_smiling_face:.
+Es kommt immer wieder vor, dass wir unseren Maschinenpark erweitern - sei es durch Leihgaben oder Spenden. Es lohnt sich also immer, mal spontan vorbei zu schauen :slightly_smiling_face:.
 
 Ihr habt noch weitere Fragen? Dann meldet euch an **makermonday (at) temporaerhaus.de** oder kommt einfach mal vorbei. Wir freuen uns auf euch.

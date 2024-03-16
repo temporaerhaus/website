@@ -17,4 +17,4 @@ In diesem Vortrag erörtert Mophat Okinyi, was für eine hohe psychische Last da
 
 Als Menschenrechtsaktivist, Vorstandsmitglied der African Content Moderators Union und CEO der Techworker Community Africa setzt sich Mophat für faire Arbeitsbedingungen und die berufliche Entwicklung afrikanischer Techworker ein. Eines seiner Hauptanliegen ist die Wahrung der Menschenwürde bei der Entwicklung von KI.
 
-Der Vortrag wird auf Englisch gehalten und auch live gestreamt. Der Link zum Stream am Samstag hier.
+Der Vortrag wird auf Englisch gehalten und auch live gestreamt. Der Link zum Stream [hier](https://www.youtube.com/watch?v=YE5ZKZYNKp4).

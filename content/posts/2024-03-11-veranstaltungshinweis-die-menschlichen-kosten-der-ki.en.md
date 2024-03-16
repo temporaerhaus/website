@@ -18,4 +18,4 @@ On **Saturday, 16.03.2024, 16.00** a lecture will take place in cooperation with
 
 As a human rights activist, board member of the African Content Moderators Union and CEO of Techworker Community Africa, Mophat is committed to fair working conditions and the professional development of African techworkers. One of his main concerns is the preservation of human dignity in the development of AI.
 
-The talk will be held in English and will also be streamed live. The link to the stream on Saturday here.
+The talk will be held in English and will also be streamed live. The link to the stream on Saturday [here](https://www.youtube.com/watch?v=YE5ZKZYNKp4).

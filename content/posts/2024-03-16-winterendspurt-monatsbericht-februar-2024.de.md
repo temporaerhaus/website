@@ -41,7 +41,7 @@ Spätestens seit dem Chaos Communication Camp 2023 ist die Vernetzung mit andere
 
 Neben all unseren Veranstaltungen gab es natürlich wieder eine ganze Reihe Veranstaltungen des Haus der Nachhaltigkeit in den gemeinsamen Räumen. Hervorheben möchten wir das **Methodenlabor Liberating Structures,** das wir auch über unseren Kalender beworben haben. Und abseits der Öffentlichkeit gab es wieder viel hinter den Kulissen zu tun.
 
-![Sophie lehnt an zwei LED-Matrizen aus Holz](/wp-content/uploads/2024/03/monatsbericht-matrix.jpg)
+![Sophie lehnt an zwei LED-Matrizen aus Holz](/wp-content/uploads/2024/03/monatsbericht_matrix.jpg)
 
 Wir bringen nicht nur nach und nach immer noch die Beschaffungen aus der DSEE-Förderung in Betrieb, uns laufen weiterhin immer noch spannende Sachen zu :)
 Einen lustigen Zuwachs bekamen wir im Februar vom Team von [Widerstand und Söhne](https://www.widerstandundsoehne.de/), die uns zwei große LED-Matrizen vermachten, für die sie keine Verwendung mehr hatten.

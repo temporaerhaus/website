@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Better stitching with PR1X – our new stitching machine
+title: Better stitching with PR1X – our new embroidery machine
 author: Jurek
 date: 2024-02-29T13:12:23.000Z
 draft: false

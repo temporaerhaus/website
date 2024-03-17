@@ -50,7 +50,11 @@ Wir wissen zwar noch nicht _ganz_ genau, wo wir diese passend aufstellen, aber d
 
 ![Henning schaut sehr zufrieden in die Kamera. Er stützt sich dabei mit der Hand auf dem frisch aufgebauten Frästisch in der Holzwerkstatt ab.](/wp-content/uploads/2024/03/monatsbericht-fraestisch.jpg)
 
-Auch richtig hübsch ist unser neuer Frästisch, über den sich Henning hier im Bild freut. Bei dem wissen wir außerdem schon, wo wir ihn aufstellen wollen (also den Frästisch, nicht den Henning). Nachdem der Tisch von Seppi angepasst und umgebaut wurde, erweitert er unsere Fähigkeiten in der Holzwerkstatt. Auch das ist wieder ein tolles neues Stück Hardware, das wir aus der DSEE-Förderung beschaffen konnten – aufgrund der vielen Neuanschaffungen wird die Holzwerkstatt demnächst aber noch einmal einen ganz eigenen Bericht bekommen. Und noch etwas hat sich im Februar in Werkstatt geändert: Der provisorische Staubschutzvorhang wurde durch einen nicht-mehr-ganz-so-provisorischen Moltonvorhang getauscht. 
+Auch richtig hübsch ist unser neuer Frästisch, über den sich Henning hier im Bild freut. 
+Bei dem wissen wir außerdem schon, wo wir ihn aufstellen wollen (also den Frästisch, nicht den Henning). 
+Nachdem der Tisch von Seppi angepasst und umgebaut wurde, erweitert er unsere Fähigkeiten in der Holzwerkstatt. 
+Auch das ist wieder ein tolles neues Stück Hardware, das wir aus der DSEE-Förderung beschaffen konnten – aufgrund der vielen Neuanschaffungen wird die Holzwerkstatt demnächst aber noch einmal einen ganz eigenen Bericht bekommen. 
+Und noch etwas hat sich im Februar in der Werkstatt geändert: Der provisorische Staubschutzvorhang wurde durch einen nicht-mehr-ganz-so-provisorischen Moltonvorhang getauscht. 
 
 Auch unsere Mitbewohner\*innen vom Haus der Nachhaltigkeit waren im Februar vor und hinter den Kulissen fleißig.
 Was gemeinsame Infrastruktur angeht, hat die Küche einen ordentlichen Ausbau genossen und ist jetzt besser ausgestattet denn je zuvor.

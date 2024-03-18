@@ -37,7 +37,7 @@ foreach($fields as $field => $filter) {
     if ($value === false || ((!$value || trim($value) === '') && $field !== 'suffix' && $field !== 'message')) {
         $errors[$field] = true;
     } else if ($field === 'iban') {
-        $value = str_replace(' ', '', $value);
+        $value = strtoupper(str_replace(' ', '', $value));
         $res = filter_var($value, FILTER_VALIDATE_REGEXP, array('options' => array('regexp' => $options['iban'])));
         if (!$res || trim($res) === '') {
             $errors[$field] = true;

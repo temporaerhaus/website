@@ -2,7 +2,7 @@
 sticky: false
 title: Die LokaliCon, das Treffen der lokalen Wikipedia-Community-Räume in Neu-Ulm
 author: Community
-date: 2024-03-23T19:34:23.000Z
+date: 2024-03-23T8:44:23.000Z
 draft: false
 categories:
   - news

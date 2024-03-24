@@ -28,3 +28,5 @@ Erstmals treffen sich nun Aktive aus den verschiedenen Räumen an diesem Wochene
 Wir haben uns bereits von vielen schönen Beispielen inspirieren lassen können, die wir in der Doppelstadt in die Praxis umsetzen möchten. Beim temporärhaus-erleben-Ausklang des heutigen Nachmittags konnten wir uns hoffentlich revanchieren, beispielsweise mit ganz persönlich auf der Stickmaschine veredelten Kleidungsstücken, auf denen nun ein Wikipedia-Ball und andere Dinge prangen. Morgen geht es noch einmal weiter – und wir hoffen, die vorher ausgemachten Ziele konnten am Ende rundum erfüllt werden :)
 
 ![Die Post-it-Wand mit einem Teil der vorab festgehaltenen Wunschziele für das Wochenende](/wp-content/uploads/2024/03/lokalicon-erfolgreich.jpg)
+
+[In dieser Wikimedia-Commons-Kategorie findet ihr Fotos vom Workshopwochenende!](https://commons.wikimedia.org/wiki/Category:LokaliCon_2024)

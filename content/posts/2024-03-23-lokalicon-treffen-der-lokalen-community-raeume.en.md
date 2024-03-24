@@ -28,3 +28,5 @@ For the first time, activists from the various spaces meet on this weekend for t
 We have already been inspired by many beautiful examples that we would like to put into practice in the twin city. At this afternoon's temporärhaus-erleben event, we were hopefully able to return the favor, for example with items of clothing personally embellished on the embroidery machine, which now feature a Wikipedia ball and other things. Tomorrow we will continue – and we hope that the goals we set ourselves beforehand will have been fully achieved :)
 
 ![Die Post-it-Wand mit einem Teil der vorab festgehaltenen Wunschziele für das Wochenende](/wp-content/uploads/2024/03/lokalicon-erfolgreich.jpg)
+
+[You can find photos of the workshop weekend in this Wikimedia Commons category!](https://commons.wikimedia.org/wiki/Category:LokaliCon_2024)

@@ -21,7 +21,7 @@ Egal ob Arbeit an Wikipedia-Artikeln [zur Stadtgeschichte,](https://www.fuerthwi
 
 ![Demonstration der Zeitreise-Bildslider aus Fürth auf unserer Bühne](/wp-content/uploads/2024/03/lokalicon-slider.jpg)
 
-Erstmals treffen sich nun Aktive aus den verschiedenen Räumen an diesem Wochenende zu einer eigenen Austausch-Minikonferenz und wir freuen uns sehr, wieder Gastgeber\*innen für eine Wikimedia-Veranstaltung sein zu können. Von der Nachwuchsgewinnung über die Öffentlichkeitsarbeit geht es bis zu ganz praktischen Beispielen wie den beeindruckenden [Zeitverschiebungs-Bildern](https://www.fuerthwiki.de/wiki/index.php/Neumannstra%C3%9Fe#.C2.BBZeitverschiebung.C2.AB) aus Fürth, mit denen historische und aktuelle Aufnahmen desselben Orts miteinander verglichen und erlebbar gemacht werden.
+Erstmals treffen sich nun Aktive aus den verschiedenen Räumen an diesem Wochenende zu einer eigenen Austausch-Minikonferenz und wir freuen uns sehr, wieder Gastgeber\*innen für eine Wikimedia-Veranstaltung sein zu können. Von der Nachwuchsgewinnung über die Öffentlichkeitsarbeit geht es bis zu ganz praktischen Beispielen wie den beeindruckenden [Zeitverschiebungs-Bildern](https://www.klein-aber-fein.de/zeitverschiebungen/) aus Fürth, mit denen historische und aktuelle Aufnahmen desselben Orts miteinander verglichen und erlebbar gemacht werden.
 
 ![Auf der Stickmaschine wird ein Hoodie mit dem Wikipedia-Ball bestickt](/wp-content/uploads/2024/03/lokalicon-hoodie.jpg)
 

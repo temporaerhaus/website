@@ -17,7 +17,7 @@ Vom 22. bis zum 24. März treffen sich gerade über 20 ehrenamtliche Wikipedia-A
 
 ![Zwischenmoderation beim Praxisaustausch, wie die einzelnen Räume die örtliche Öffentlichkeit erreichen](/wp-content/uploads/2024/03/lokalicon-programm.jpg)
 
-Egal ob Arbeit an Wikipedia-Artikeln [zur Stadtgeschichte,](https://www.fuerthwiki.de/wiki/index.php/Kategorie:Geschichte) für [Drohnenfotografie](https://de.wikipedia.org/wiki/Wikipedia:Lokal_K/Drohnenfotografie) oder der Fotodokumentation aktueller Ereignisse in der Region sowie [spannender alter Technik](https://de.wikipedia.org/wiki/Wikipedia:Lokal_K/Lokalfotografie): Das alles geht viel besser und mit mehr Spaß, wenn man es gemeinsam tut. Deswegen gibt es seit 2014 in mittlerweile sechs großen Städten in Deutschland Lokale Räume als Vernetzungsorte für die örtliche Ehrenamtscommunity. Sie werden alle von [Wikimedia Deutschland](https://www.wikimedia.de/https://www.wikimedia.de/) finanziell gefördert.
+Egal ob Arbeit an Wikipedia-Artikeln [zur Stadtgeschichte,](https://www.fuerthwiki.de/wiki/index.php/Kategorie:Geschichte) für [Drohnenfotografie](https://de.wikipedia.org/wiki/Wikipedia:Lokal_K/Drohnenfotografie) oder der Fotodokumentation aktueller Ereignisse in der Region sowie [spannender alter Technik](https://de.wikipedia.org/wiki/Wikipedia:Lokal_K/Lokalfotografie): Das alles geht viel besser und mit mehr Spaß, wenn man es gemeinsam tut. Deswegen gibt es seit 2014 in mittlerweile sechs großen Städten in Deutschland Lokale Räume als Vernetzungsorte für die örtliche Ehrenamtscommunity. Sie werden alle von [Wikimedia Deutschland](https://www.wikimedia.de/) finanziell gefördert.
 
 ![Demonstration der Zeitreise-Bildslider aus Fürth auf unserer Bühne](/wp-content/uploads/2024/03/lokalicon-slider.jpg)
 

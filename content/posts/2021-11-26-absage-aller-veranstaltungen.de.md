@@ -1,6 +1,6 @@
 ---
 title: Absage aller Veranstaltungen
-author: dome Meißner
+author: Echo Meißner
 type: post
 slug: absage-aller-veranstaltungen
 date: 2021-11-26T12:18:50.123Z

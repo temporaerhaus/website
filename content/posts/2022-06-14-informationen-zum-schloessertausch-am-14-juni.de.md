@@ -1,7 +1,7 @@
 ---
 title: "Information zum Schlössertausch am 14. Juni"
 slug: information-zum-schloessertausch-am-14-juni
-author: dome Meißner
+author: Echo Meißner
 date: 2022-06-14T13:00:00.000Z
 draft: false
 featured_image: /wp-content/uploads/2022/06/vsh-key.png

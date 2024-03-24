@@ -1,6 +1,6 @@
 ---
 title: Danke Stefan, für fünf Jahre Verschwörhaus
-author: dome Meißner
+author: Echo Meißner
 type: post
 slug: danke-stefan-fuer-fuenf-jahre-verschwoerhaus
 date: 2021-11-09T22:49:50.123Z

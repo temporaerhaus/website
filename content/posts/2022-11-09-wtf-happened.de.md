@@ -1,6 +1,6 @@
 ---
 title: "Erzähl- und Frageabend am 09.11."
-author: dome Meißner
+author: Echo Meißner
 date: 2022-11-07T19:24:20.0Z
 type: post
 categories:

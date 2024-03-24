@@ -1,7 +1,7 @@
 ---
 title: "Das Verschwörhaus zieht um und braucht deine Hilfe!"
 slug: das-verschwoerhaus-zieht-um
-author: dome Meißner
+author: Echo Meißner
 date: 2022-06-13T13:00:00.000Z
 draft: false
 featured_image: /wp-content/uploads/2022/06/vsh-brainstorming.jpg

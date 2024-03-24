@@ -11,4 +11,4 @@ Hier habt ihr die Möglichkeit kaputte Kleidungsstücke zu reparieren oder euren
 
 Das Nähcafé wird im Wintersemester '23/'24 jeden ersten Montag im Monat stattfinden.
 
-Beachtet was die Ausstattung und den Maschinenpark angeht auch die Überschneidungen zum [Maker Monday](/gruppen/makermonday/) und zur [Textil-Ausstattung!](/gruppen/textil)
+Beachtet was die Ausstattung und den Maschinenpark angeht auch die Überschneidungen zum [Maker Monday](/gruppen/makermonday/) und zur [Textil-Ausstattung!](/make/textil)

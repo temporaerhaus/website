@@ -6,7 +6,7 @@ menu:
     title: 'Nähcafé'
     parent: groups
 type: page
-featured_image: /wp-content/2023/12/monatsbericht_naehcafe.jpg
+featured_image: /wp-content/uploads/2023/12/monatsbericht_naehcafe.jpg
 ---
 Hier habt ihr die Möglichkeit kaputte Kleidungsstücke zu reparieren oder euren eigenen kreativen Ideen freien Lauf zu lassen! Außerdem haben wir auch oft eine Reihe von Näh-Ideen für Anfänger vorbereitet. Bei der Umsetzung  oder Problemen unterstützen euch fleißige Näher\*innen der [HSG Nachhaltigkeit](https://www.uni-ulm.de/misc/hg-nachhaltigkeit/hsgn/) und die liebe Annemarie von [Krawall & Liebe Ulm](https://krawallundliebe-fairfashion.de/) als Schneiderin vom Fach.
 

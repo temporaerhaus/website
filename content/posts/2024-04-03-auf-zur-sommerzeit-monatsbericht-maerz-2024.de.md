@@ -65,7 +65,7 @@ Und die durch den Regalabbau freigewordene Fläche dient nun einer anderen mobil
 
 Andererseits haben wir in der Mitte der Holzwerkstatt nun Platz für die weiteren, aus der [DSEE-Förderung](/jahresendfieber-monatsbericht-november-2023/) beschafften Holzverarbeitungswerkzeuge, die nun an ihrem Platz stehen. 
 Wir haben in den nun über sieben Jahren viele Erfahrungen mit dem Betrieb einer offenen Werkstatt sammeln können – was möchten Menschen bei uns bauen, welche Geräte braucht es dafür und vor allem: Mit welchen Geräten bekommt man auch dann gute Ergebnisse, wenn man nicht jeden Tag professionell mit ihnen arbeitet. 
-Wir möchten noch gar nicht zu viel hier verraten und das viel lieber in einem separaten Post ausführlich beschreiben. 
+Wir möchten hier noch gar nicht zu viel verraten und viel lieber ausführlich in einem separaten Post beschreiben. 
 Wer zu den Maker Mondays kommt, kann die Maschinen aber schon jetzt bewundern – und nach dokumentierter Unterweisung auch damit arbeiten!
 
 ### Der Ausblick

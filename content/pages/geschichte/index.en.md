@@ -1,5 +1,5 @@
 ---
-title: The history of the Verschwörhaus
+title: Our history
 type: page
 slug: history
 

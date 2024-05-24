@@ -15,7 +15,7 @@ featured_image: /wp-content/uploads/2024/05/monatsbericht-hej.jpg
 Der April ist nun schon ein paar Wochen vorbei – eventuell berichten wir erst jetzt davon, weil wir erst einmal einen im März erreichten Meilenstein nachholend feiern mussten ;)  
 Wir zählen bei allen Veranstaltungen (eher konservativ) die Besucher\*innen und bereits zum Maker Monday am 18. März haben wir die 1000-Personen-Marke gerissen. Wenn das kein Grund zum Feiern war!
 
-![Beim ersten Jugend hackt Lab wurden blinkende und leuchtende Anhänger gelötet, um einen Einstieg in den Umgang mit Elektronik zu finden](/wp-content/uploads/2024/05/monatsbericht-jhl.jpg)
+![Beim ersten Jugend hackt Lab wurden blinkende und leuchtende Anhänger gelötet, um einen Einstieg in den Umgang mit Elektronik zu finden](/wp-content/uploads/2024/05/monatsbericht-jhlab.jpg)
 
 Auch ein Grund zum Feiern ist [die Wiederbelebung des Jugend hackt Lab,](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) das jetzt [Jugend hackt Lab Neu-Ulm](https://jugendhackt.org/lab/neu-ulm/) heißt. 
 Am 27. April war die Auftaktveranstaltung und wir freuen uns sehr, dieses Nachwuchsprogramm wieder fest in der Doppelstadt verankern zu können.
@@ -28,7 +28,7 @@ Beim **Nähcafé**, zwei offenen **Maker Mondays** und zwei **TTN/LoRaWAN-Abende
 **RAD-ikal technisch** kümmert sich weiterhin um interessante Technikinfrastruktur für die Mobilitätswende, beim **OpenStreetMap-Stammtisch** ging es um Freies Wissen, zweimal traf sich die **F.U.C.K.-Gruppe** (immer häufiger auch mit weit angereisten Gästen), dreimal ging es bei **Live Let's Plays** um Computerspielekultur und zweimal lud die **CTF/PPP-Gruppe** zum spielerischen Umgang mit IT-Sicherheitsthemen ein. 
 Zum zweiten Mal fand außerdem eine **Küche für alle** statt.
 
-![Vor knapp 15 Jahren fing an der Uni Ulm an, was letztlich in unserem Haus mündete – und wir halten bis heute den Kontakt!](/wp-content/uploads/2024/05/monatsbericht-uniforum.jpg)
+![Vor knapp 15 Jahren fing an der Uni Ulm an, was letztlich in unserem Haus mündete – und wir halten bis heute den Kontakt](/wp-content/uploads/2024/05/monatsbericht-uniforum.jpg)
 
 Wie immer war auch außerhalb dieser öffentlichen Termine viel los. 
 Eine Gruppe kümmerte sich um eine Wandbemalung als Willkommensnachricht beim Hintereingang, die ihr im Titelbild seht. 

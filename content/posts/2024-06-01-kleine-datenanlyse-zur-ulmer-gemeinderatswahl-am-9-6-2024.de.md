@@ -1,7 +1,7 @@
 ---
 draft: false
 sticky: false
-title: Kleine Datenanlyse zur Ulmer Gemeinderatswahl am 9.6.2024
+title: Analyse der Alters-Daten zur Gemeinderatswahl in Ulm am 9.6.2024
 author: Simon Lüke, Jakob Pietron
 date: 2024-06-01T13:27:38.763Z
 featured_image: /wp-content/uploads/2024/06/datenalanyse-wahl2024-gemeinderat-bevoelkerung-listen_einzeln.png
@@ -39,3 +39,7 @@ Zum einene einen Vergleich der Altersverteilung der zur Wahl stehenden Listen mi
 ... und dann ein Vergleich Listen zusammengenommen (Mitte) mit der Bevölkerung (oben) und dem aktuellen Gemeinderat (unten).
 
 ![Vergleich der Altersstruktur der zur Wahl stehenden Listen zusammengenommen (Mitte) mit der Bevölkerung (oben) und dem aktuellen Gemeinderat (unten). Die schwarzen Punkte auf der x-Achse markieren das Alter jeder einzelnen Person der jeweiligen Gruppe. Die schwarzen Kurven stellen annäherungsweise die jeweilige Altersverteilung dar, fassen also sozusagen die Punkte auf der x-Achse zusammen. Die etwas dickeren blauen Linien zeigen das Median-Alter der jeweiligen Personengruppe an. Die gestrichelte blaue Linie markiert durchgehend das aktuelle Median-Alter der Ulmer Bevölkerung (40 Jahre). Die orange Linie markiert das Wahlalter 16.](/wp-content/uploads/2024/06/datenalanyse-wahl2024-gemeinderat-bevoelkerung-listen_zusammen-gemeinderat.png "Vergleich der Altersstruktur der zur Wahl stehenden Listen zusammengenommen (Mitte) mit der Bevölkerung (oben) und dem aktuellen Gemeinderat (unten). Die schwarzen Punkte auf der x-Achse markieren das Alter jeder einzelnen Person der jeweiligen Gruppe. Die schwarzen Kurven stellen annäherungsweise die jeweilige Altersverteilung dar, fassen also sozusagen die Punkte auf der x-Achse zusammen. Die etwas dickeren blauen Linien zeigen das Median-Alter der jeweiligen Personengruppe an. Die gestrichelte blaue Linie markiert durchgehend das aktuelle Median-Alter der Ulmer Bevölkerung (40 Jahre). Die orange Linie markiert das Wahlalter 16.")
+
+
+
+*Am wichtigsten ist natürlich am 9.6.2024 zum Wählen zu gehen! Und deine Stimmen den vielen tollen Kandidat:innen aus den demokratischen Listen zu geben.*

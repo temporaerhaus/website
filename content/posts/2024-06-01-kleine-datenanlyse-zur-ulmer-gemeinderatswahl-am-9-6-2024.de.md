@@ -1,9 +1,10 @@
 ---
+draft: false
 sticky: false
 title: Kleine Datenanlyse zur Ulmer Gemeinderatswahl am 9.6.2024
 author: Simon Lüke, Jakob Pietron
 date: 2024-06-01T13:27:38.763Z
-draft: false
+featured_image: /wp-content/uploads/2024/06/datenalanyse-wahl2024-gemeinderat-bevoelkerung-listen_einzeln.png
 categories:
   - news
 tags:

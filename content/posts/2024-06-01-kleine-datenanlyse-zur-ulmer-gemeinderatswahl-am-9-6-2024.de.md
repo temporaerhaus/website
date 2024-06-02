@@ -1,7 +1,8 @@
 ---
 draft: false
 sticky: false
-title: Analyse der Alters-Daten zur Gemeinderatswahl in Ulm am 9.6.2024
+title: Wie alt sind unsere Kandidat:innen? Kleine Daten-Analyse zur
+  Gemeinderatswahl in Ulm am 9.6.2024
 author: Simon Lüke, Jakob Pietron
 date: 2024-06-01T13:27:38.763Z
 featured_image: /wp-content/uploads/2024/06/datenalanyse-wahl2024-gemeinderat-bevoelkerung-listen_einzeln.png

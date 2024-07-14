@@ -42,19 +42,19 @@ Neben all der akuten Gefahrenabwehr lief natürlich weiterhin unser regelmäßig
 
 ![Immer gerne nachgefragt: Der Lasercutter des Fablabs](/wp-content/uploads/2024/07/monatsbericht-maker.jpg)
 
-Wir hatten wieder zwei offene **Maker Mondays** mit angeschlossener offener Holz- und Metallwerkstatt.
+Wir hatten wie gewohnt zwei offene **Maker Mondays** mit angeschlossener offener Holz- und Metallwerkstatt.
 Bei **RAD-ikal technisch** ging es wieder um technische Werkzeuge zur Förderung des Radverkehrs in der Doppelstadt, gemeinsam mit dem ADFC. 
 Die **Live let's plays** verabschieden sich nun erst einmal in die Sommerpause, fanden aber im Juni noch einmal wöchentlich mit vier Ausgaben statt. 
 Immer noch zum Kernprogramm gehören die zweiwöchentlichen Abende um **The Things Network/LoRaWAN**, die zudem zwei Mal im Juni unsere Elektronikwerkstatt für alle Interessierten öffneten. 
 Die **CTF/PPP-Gruppe** traf sich zwei Mal und spricht auch zunehmend Jugendliche an, die in die Welt des spielerischen Umgangs mit  Computersicherheit eintauchen möchten. 
-Beim **Nähcafé** reparierten Besucher\*innen wieder ihre mitgebrachte Kleidung oder nähte Sommerstücke passend zur Saison um. 
+Beim **Nähcafé** reparierten Besucher\*innen wieder ihre mitgebrachte Kleidung oder nähten Sommerstücke passend zur Saison um. 
 Die **F.U.C.K.-Gruppe** hatte im Juni zwei Treffen für alle nicht-männlichen Menschen, die sich mit IT beschäftigen möchten, und das **Jugend hackt Lab** bot erneut seinen monatlichen Anlaufpunkt für alle jungen Menschen, die spielerisch einen Zugang zu IT und Freiem Wissen bekommen möchten. 
 Um Freies Wissen ging es auch im 3. Viertel von **Wiki loves Basketball,** wo lokale Aktive einen maschinenlesbaren Zugang zu Stammdaten von Basketball-Spieler\*innen in der semantischen Wissensdatenbank Wikidata schafften.
 
 ![In der Werkstatt geht es weiter, hier mit der Inbetriebnahme der Metall-Fräsmaschine](/wp-content/uploads/2024/07/monatsbericht-werkstatt.jpg)
 
-Wie in quasi jedem Monat gab es auch im Juni wieder eine Menge Hausmeisterei zu tun.
-Die Holzwerkstatt beispielsweise sieht derzeit von Woche zu Woche anders aus, denn die eher provisorische Erst-Einrichtung direkt nach dem Einzug weicht nun Schritt für Schritt einer durchdachteren Aufteilung, durch die auch die neu angeschafften Maschinen besser nutzbar werden.
+Wie quasi jeden Monat gab es auch im Juni wieder eine Menge Hausmeistereiaufgaben.
+Die Holzwerkstatt beispielsweise sieht derzeit von Woche zu Woche anders aus, denn die eher provisorische Ersteinrichtung direkt nach dem Einzug weicht nun Schritt für Schritt einer durchdachteren Aufteilung, durch die auch die neu angeschafften Maschinen besser nutzbar werden.
 Gleichzeitig gehen wir systematisch den über die Jahre gewachsenen Fundus durch und markieren die Geräte und Werkzeuge, deren Nutzen für unsere Werkstatt eher gering scheint.
 
 Auch im Atelier geht es voran: Eli hat eine weitere Druckpresse gebaut und getestet.
@@ -68,6 +68,6 @@ Egal ob vor Ort oder aus der Ferne, wir freuen uns immer wieder über alle, die 
 Sei es durch eine regelmäßige oder Einzelspende zum Beispiel auf [betterplace](https://www.betterplace.org/de/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit) oder [direkt](https://temporaerhaus.de/spenden/), aber auch über Erwähnungen und Erzählungen unserer Geschichte.
 
 Ein besonderer Dank gilt diesen Monat der mehrfachen Erwähnung auf dem Panel [„Caring for our Web – Software-Projekte als Care-Work“](http://cdn.re-publica.com/de/session/caring-our-web-software-projekte-als-care-work-0) auf der re:publica 2024. 
-Dort stellte [tante](https://tante.cc/), der zuletzt auf den [Denkanstößen 2024](https://ulmer-denkanstoesse.de/juergen-geuter/) als Referent in Ulm war, ab Minute 0:50:07 im heraus, dass eine Stadt mit sehr viel Wucht und Dominanz in Ehrenamtsprojekte hineingrätschen kann. 
+Dort stellte [tante](https://tante.cc/), der zuletzt auf den [Denkanstößen 2024](https://ulmer-denkanstoesse.de/juergen-geuter/) als Referent in Ulm war, ab Minute 0:50:07 heraus, dass eine Stadt mit sehr viel Wucht und Dominanz in Ehrenamtsprojekte hineingrätschen kann. 
 Ab Minute 0:53:56 erklärt er auf eine Publikumsnachfrage noch einmal kurz die Geschichte und nennt das Vorgehen der Stadt Ulm „the best practice for doing it the worst way“ – und [Franziska Heine](https://de.wikipedia.org/wiki/Franziska_Heine) von Wikimedia Deutschland stellt klar, dass Wikimedia uns am neuen Standort unterstützt und dass das Vorgehen der Stadt kein gutes Beispiel für den Umgang einer Kommune mit der lokalen Ehrenamtscommunity ist. 
-Vielen herzlichen Dank für diese shout-outs – und natürlich auch für die Förderung durch Wikimedia Deutschland, durch das wir unseren ursprünglichen selbst gewählten Auftrag weiter verfolgen können!
+Vielen herzlichen Dank für diese shout-outs – und natürlich auch für die Förderung durch Wikimedia Deutschland, durch das wir unseren ursprünglichen und selbst gewählten Auftrag weiter verfolgen können!

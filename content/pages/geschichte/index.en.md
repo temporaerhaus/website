@@ -39,3 +39,6 @@ A lot has happened since our community came to be. Here is a small overview &mda
   * **May 2023** We temporarily change our name to "Temporärhaus" following the city's threat of provisional enforcement of the judgment, which was not yet legally binding at the time.
   * **May 2023** New premises are found! We move together with the House of Sustainability to the former Sport-Sohn building in Neu-Ulm.
   * **September 2023** After several months of renovations [we open our new rooms to the public](/go-for-launch-monatsbericht-september-2023/)].
+  * **November 2023** We were able to secure another [grant from the DSEE](/jahresendfieber-monatsbericht-november-2023/). This enabled us to fill the gaps caused by our move from Ulm and to extend our capabilities
+  * **März 2024** LokaliCon, [the meetup of all German local Community Spaces](/lokalicon-treffen-der-lokalen-community-raeume/) took place at temporärhaus. Also, we began [implementing an artist's workshop](/auf-zur-sommerzeit-monatsbericht-maerz-2024/)
+  * **April 2024** [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) rebootet

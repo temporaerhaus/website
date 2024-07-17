@@ -9,7 +9,7 @@ E-Mail: kontakt „at“ temporaerhaus.de
 Mastodon: [@temporaerhaus@chaos.social][1]  
 Twitter: [@temporaerhaus][2]  
 
-Telefon: +49 731 14116501 (please only call in emergency situations, we _really really_ prefer E-Mail)
+Telefon: +49 731 14116501 (please only call in emergency situations, we _really really_ prefer E-Mail. Use the contact information of [Haus der Nachhaltigkeit](https://www.h-d-n.org/) for reaching them.)
 
 
 ## Briefpostadresse

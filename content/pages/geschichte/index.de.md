@@ -39,4 +39,7 @@ Seit der Entstehung unserer Gemeinschaft ist viel passiert. Hier eine kleine Üb
   * **Mai 2023** Wir benennen uns nach der stadtseitigen Androhung einer vorläufigen Vollstreckung des zu diesem Zeitpunkt noch nicht rechtskräftigen Urteils zeitweise um in „Temporärhaus“.
   * **Mai 2023** Neue Räume sind gefunden! Wir ziehen gemeinsam mit dem [Haus der Nachhaltigkeit](https://h-d-n.org) in das ehemalige [Sport-Sohn-Gebäude nach Neu-Ulm](/neuhaus-neuulm/).
   * **September 2023** Nach mehreren Monaten Umbau [eröffnen wir die neuen Räume zur Kulturnacht](/go-for-launch-monatsbericht-september-2023/)].
+  * **November 2023** Wir konnten erneut eine [Förderung durch die DSEE](/jahresendfieber-monatsbericht-november-2023/) einwerben, mit der wir die durch unseren Umzug entstandenen Lücken füllen und unsere Fähigkeiten ausbauen können
+  * **März 2024** Die LokaliCon, [das deutschlandweite Treffen der Lokalen Community-Räume](/lokalicon-treffen-der-lokalen-community-raeume/) findet bei uns statt. Außerdem beginnen wir mit dem [Aufbau eines Ateliers](/auf-zur-sommerzeit-monatsbericht-maerz-2024/)
+  * **April 2024** Das [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) startet wieder
   

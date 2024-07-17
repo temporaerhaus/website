@@ -13,6 +13,7 @@ slug: presse
 [<button>2021</button>](#2021)
 [<button>2022</button>](#2022)
 [<button>2023</button>](#2023)
+[<button>2024</button>](#2024)
 
 ### 2016
 
@@ -118,7 +119,32 @@ slug: presse
   * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(26.01.2023)</small>
   * [Südwest Presse (€)][91]: Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(16.03.2023)</small>
   * [Stuttgarter Zeitung (€)][92]: Die digitale Zukunft macht gerade Pause <small>(30.03.2023)</small>
+  * [taz][93]: Technologische Ermächtigung <small>(30.03.2023)</small>
+  * [Südwest Presse (€)][94]: Urteil im Markenrechtsstreit erneut verschoben <small>(18.04.2023)</small>
+  * [Südwest Presse (€)][95]: Markenrechtsstreit: Stadt Ulm gewinnt vor Gericht <small>(24.04.2023)</small>
+  * [Schwäbische][96]: Gegen Ehrenamtliche geklagt: Gericht gibt Stadt Ulm Recht <small>(24.04.2023)</small>
+  * [Stuttgarter Zeitung][97]: Stadt Ulm siegt im Verschwörhaus-Streit <small>(24.04.2023)</small>
+  * [netzpolitik.org][98]: Verschwörhaus verliert seinen Namen an die Stadt <small>(24.04.2023)</small>
+  * [SWR][99]: "Verschwörhaus": Verein verliert Namensstreit gegen Stadt Ulm <small>(24.04.2023)</small>
+  * [Tagesspiegel Background][100]: Verschwörhaus-Streit: Was hätte anders laufen müssen? <small>(25.04.2023)</small>
+  * [Logbuch Netzpolitik][101]: LNP 458 (ab 1:15:15) <small>(29.04.2023)</small>
+  * [Südwest Presse(€)][102]: Nach Niederlage vor Gericht: Verein ändert seinen Namen <small>(08.05.2023)</small>
+  * [Code for Germany][103]: A SLAPP in the Face – Out in the Open April 2023 <small>(08.05.2023)</small>
+  * [Augsburger Allgemeine (€)][104]: Leihladen und früheres Verschwörhaus-Team ziehen in Ex-Sport-Sohn <small>(12.05.2023)</small>
+  * [Südwest Presse (€)][105]: Ex-Sport-Sohn-Haus wird Heimat der Zivilgesellschaft <small>(12.05.2023)</small>
+  * [SWR][106]: Ehemaliger Verschwörhaus-Verein zieht nach Neu-Ulm <small>(12.05.2023)</small>
+  * [Regio-TV][107]: Ehrenamtliche beziehen gemeinsam das frühere Sport-Sohn-Stammhaus in Neu-Ulm <small>(12.05.2023)</small>
+  * [Augsburger Allgemeine (€)][114]: Ex-Verschwörhaus zieht in Ex-Sport-Sohn: Was bringt das für Neu-Ulm? <small>(18.05.2023)</small>
+  * [Kompetenzzentrum öffentliche IT][108]: Gastbeitrag „Digitales Ehrenamt und Verwaltungsdigitalisierung in der Praxis – Erfahrungen und Ausblicke <small>(24.05.2023)</small>
+  * [Code for Germany][109]: Leere Hüllen – Out in the Open Mai 2023 <small>(01.06.2023)</small>
+  * [Südwest Presse (€)][110]: Streit um die Markenrechte: Warum der Verein jetzt aufgibt <small>(21.06.2023)</small>
+  * [Logbuch Netzpolitik][111]: LNP 468 (ab 1:08:10) <small>(07.09.2023)</small>
+  * [Südwest Presse (€)][112]: Wiedergeburt der Maker-Spaces rechts und links der Donau <small>(14.09.2023)</small>
+  * [Südwest Presse (€)][113]: Wie die Eröffnung des Temporärhauses lief <small>(18.09.2023)</small>
 
+### 2024
+  * [Ulm-News][115]: Jugend hackt Lab startet wieder im "temporärhaus" in Neu-Ulm <small>(25.04.2024)</small>
+  * Südwest Presse (Print): Jugend hackt in Neu-Ulm: Temporärhaus bietet wieder Workshops und offene Treffs <small>(16.05.2024)</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
@@ -208,3 +234,26 @@ slug: presse
  [90]: https://background.tagesspiegel.de/smart-city/verschwoerhaus-streit-lektionen-fuer-die-verwaltung
  [91]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-stadt-sorgt-fuer-neuen-aerger-_-urteil-kommt-erstmal-nicht-69727697.html
  [92]: https://www.stuttgarter-zeitung.de/inhalt.verschwoerhaus-ulm-die-digitale-zukunft-macht-gerade-pause.30973918-aaee-453d-8582-4b6eb49ca711.html
+ [93]: https://taz.de/Hackaday-Treffen-in-Berlin/!5924468/
+ [94]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-urteil-im-markenrechtsstreit-erneut-verschoben-70274849.html
+ [95]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-markenrechtsstreit_-stadt-ulm-gewinnt-vor-gericht-70382793.html
+ [96]: https://www.schwaebische.de/regional/ulm-alb-donau/ulm/gegen-ehrenamtliche-geklagt-gericht-gibt-stadt-ulm-recht-1564217#
+ [97]: https://www.stuttgarter-zeitung.de/inhalt.landgericht-stuttgart-stadt-ulm-siegt-im-verschwoerhaus-streit.aaa5b297-03c6-4b9d-8a42-7a0b1f74df61.html
+ [98]: https://netzpolitik.org/2023/hackspace-in-ulm-verschwoerhaus-verliert-seinen-namen-an-die-stadt/
+ [99]: https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/verschwoerhaus-ulm-104.html
+ [100]: https://background.tagesspiegel.de/smart-city-und-stadtentwicklung/briefing/verschwoerhaus-streit-was-haette-anders-laufen-muessen
+ [101]: https://logbuch-netzpolitik.de/lnp458-shedhallenfittinge?t=1%3A15%3A16%2C1%3A19%3A56
+ [102]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-nach-niederlage-vor-gericht_-verein-aendert-seinen-namen-70562521.html
+ [103]: https://codefor.de/blog/out-in-the-open-april-2023/
+ [104]: https://www.augsburger-allgemeine.de/neu-ulm/ulm-neu-ulm-leihladen-und-frueheres-verschwoerhaus-team-ziehen-in-ex-sport-sohn-id66466326.html
+ [105]: https://www.swp.de/lokales/neu-ulm/verschwoerhaus-und-haus-der-nachhaltigkeit-ex-sport-sohn-haus-wird-heimat-der-zivilgesellschaft-70608019.html
+ [106]: https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/ehemaliges-verschwoerhaus-temporaerhaus-in-neu-ulm-100.html
+ [107]: https://www.regio-tv.de/mediathek/video/ehrenamtliche-beziehen-gemeinsam-das-fruehere-sport-sohn-stammhaus-in-neu-ulm/
+ [108]: https://www.oeffentliche-it.de/-/digitales-ehrenamt-und-verwaltungsdigitalisierung-in-der-praxis-erfahrungen-und-ausblicke
+ [109]: https://codefor.de/blog/out-in-the-open-mai-2023/
+ [110]: https://www.swp.de/lokales/ulm/verschwoerhaus-ulm-streit-um-die-markenrechte_-warum-der-verein-jetzt-aufgibt-70959853.html
+ [111]: https://logbuch-netzpolitik.de/lnp468-steirische-suende?t=1%3A08%3A12
+ [112]: https://www.swp.de/lokales/neu-ulm/verschwoerhaus-ulm-wiedergeburt-der-maker-spaces-rechts-und-links-der-donau-71627869.html
+ [113]: https://www.swp.de/lokales/neu-ulm/neues-verschwoerhaus-in-neu-ulm-so-lief-der-eroeffnung-der-neuen-heimat-der-zivilgesellschaft-71741819.html
+ [114]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-ex-verschwoerhaus-zieht-in-ex-sport-sohn-was-bringt-das-fuer-neu-ulm-id66514071.html
+ [115]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/95247/Jugend_hackt_Lab_startet_wieder_im_-quot-tempor-auml-rhaus-quot-_in_Neu-Ulm.html

@@ -6,6 +6,7 @@ date: 2024-04-24T09:44:23.000Z
 draft: false
 categories:
   - news
+  - Jugend hackt Lab
 tags:
   - JugendhacktLab
   - Workshop

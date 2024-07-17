@@ -6,7 +6,7 @@ menu:
     title: 'FLINTA* Und Computer Kram (F.U.C.K)'
     parent: groups
 type: page
-featured_image: /wp-content/uploads/2024/04/monatsbericht-fuck2.jpg
+featured_image: /wp-content/uploads/2024/03/monatsbericht-fuck2.jpg
 ---
 
 F.U.C.K. – FLINTA* und Computer Kram – richtet sich an alle Frauen, Lesben, Intergeschlechtliche, nichtbinäre, trans und agender Personen, die sich für Computer, Hardware, Hacken, Basteln, Coden, Löten und allen anderen ähnlichen Kram interessieren.

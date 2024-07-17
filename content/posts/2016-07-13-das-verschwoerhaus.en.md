@@ -19,7 +19,7 @@ Welcome to the Temporärhaus – the “Experimentation platform for the world o
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=10.000120103359224%2C48.39563732211802%2C10.00395566225052%2C48.397005066875344&amp;layer=mapnik&amp;marker=48.39632119909295%2C10.00203788280487"></iframe> <small><a href="https://www.openstreetmap.org/?mlat=48.39632&amp;mlon=10.00204#map=19/48.39632/10.00204">Show bigger OpenStreetMap</a> or <a href="https://goo.gl/maps/pDmZJLzoo3Sc8xD69">have a look on Google Maps</a></small><br/><br/>
 
-The Temporärhaus is in the old Sport-Sohn building, right at the Augsburger Straße 23-25 in 89231 Neu-Ulm.
+The Temporärhaus is in the old Sport-Sohn building, together with [Haus der Nachhaltigkeit](https://www.h-d-n.org/), right at the Augsburger Straße 23-25 in 89231 Neu-Ulm.
 
 
 ## What are the opening hours?

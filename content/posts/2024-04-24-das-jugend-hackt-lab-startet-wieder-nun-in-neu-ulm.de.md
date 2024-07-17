@@ -7,7 +7,7 @@ draft: false
 categories:
   - news
 tags:
-  - Jugend hackt
+  - JugendhacktLab
   - Workshop
   - Löten
 featured_image: /wp-content/uploads/2024/04/jhacktlab-titel.jpg

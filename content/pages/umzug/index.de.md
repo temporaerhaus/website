@@ -31,7 +31,7 @@ Wir freuen uns, wenn uns passende Räumlichkeiten angeboten oder empfohlen werde
 
 Eure
 
-Verschwörhaus-Community
+Temporärhaus-Community
 
 
 ---

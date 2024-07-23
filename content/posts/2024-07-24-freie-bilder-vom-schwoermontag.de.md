@@ -55,6 +55,8 @@ Im Idealfall mit einer Satzung, die genau dieses Prinzip festlegt.
 Aber auch, indem sie selber [die Fotos ihrer Mandatsträger\*innen unter eine Freie Lizenz stellen](https://commons.wikimedia.org/wiki/File:Handreichung_Parlamentsfotos_in_Wikimedia_Commons.pdf).
 Wer mehr dazu wissen will: Wir helfen gerne :)
 
+Alle Fotos von der Schwörfeier findet ihr [in der zugehörigen Kategorie auf Wikimedia Commons!](https://commons.wikimedia.org/wiki/Category:Schw%C3%B6rmontag_2024)
+
 PS: Zwei Stunden und 14 Minuten nach dem Schwur war auch [der Wikipedia-Artikel zum Schwörmontag neu bebildert](https://de.wikipedia.org/wiki/Schw%C3%B6rmontag).
 Das vorherige Update von einem OB zum nächsten hatte noch vier Jahre gedauert.
 Die lokale Community scheint schneller zu werden :)

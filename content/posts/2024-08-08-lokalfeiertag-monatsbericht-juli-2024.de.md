@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Katastrophenalarm und Hausmeisterei – Monatsbericht Juni 2024
+title: Lokalfeiertag – Monatsbericht Juli 2024
 author: Community
 date: 2024-08-08T11:12:23.000Z
 draft: false

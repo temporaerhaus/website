@@ -15,6 +15,8 @@ featured_image: /wp-content/uploads/2024/03/dsee-titel.jpg
 
 _Dieser Artikel ist Teil einer Serie, in der wir einige unserer neuen, wertvollen Anschaffungen vorstellen möchten, die wir dank einer Förderung durch die [Deutsche Stiftung für Engagement und Ehrenamt](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/) umsetzen konnten._
 
+_Update: Für die mit der Drohne gemachten Fotos und Videos gibt es nun die Kategorie [Drohnenfotografie temporärhaus](https://commons.wikimedia.org/wiki/Category:Drohnenfotografie_tempor%C3%A4rhaus) auf Wikimedia Commons. Dort sind die Inhalte nach Jahr sortiert abgelegt._
+
 Durch unsere enge Verbindung zu [Wikimedia Deutschland](https://www.wikimedia.de/) und den vielen Projekten zu Freiem Wissen wie Wikipedia, Wikimedia Commons, Wikidata und so weiter haben wir schon immer sehr gerne zu Freiem Wissen beigetragen. So haben wir [historische Bilder Ulmer Straßenbahnen](https://temporaerhaus.de/digitale-erinnerungsstuecke-fuer-alle-eine-rueckschau/) aus der Bevölkerung gesammelt und mit der [Scannerstation der Stuttgarter Community](https://de.wikipedia.org/wiki/Wikipedia:Stuttgart/Scannerstation) der Allgemeinheit unter Freier Lizenz verfügbar gemacht.
 
 Was uns aber schon immer ein bisschen gefehlt hat, auch weil [andere lokale Räume](https://commons.wikimedia.org/wiki/Category:Files_by_User:Raymond_from_de.wikipedia/Potsdam,_Barberini_2023,_Drohne) damit so wunderschöne Fotos machen, ist eine Drohne mit guter Kamera.

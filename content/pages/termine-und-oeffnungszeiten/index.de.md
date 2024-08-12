@@ -5,11 +5,6 @@ type: page
 
 ---
 
-{{% infotextbox %}}
-🥳 Seit dem 16. September haben wir in unserem neuen Haus in der [Augsburger Str. 23-25 in Neu-Ulm](https://www.openstreetmap.org/node/10889781438) wieder geöffnet! 
-Unser Kalender ist noch nicht vollständig aktualisiert, wird sich aber in den kommenden Wochen wieder füllen.
-{{% /infotextbox %}}
-
 <iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="yes"></iframe>
 <small><a href="/calendar/public.ics">Kalender abonnieren (<code>.ics</code>-Datei)</a></small><br/><br/>
 

@@ -5,12 +5,12 @@ date: 2023-06-23T10:41:53.842Z
 draft: false
 featured_image: /wp-content/uploads/2023/06/couch.png
 categories:
-  - donate
+  - spenden
 tags:
-  - renovation
-  - move-in
-  - donate
-  - tools
+  - umbau
+  - einzug
+  - spenden
+  - werkzeug
 ---
 We're not even getting around to posting all the numerous construction and furnishing progresses—the renovation work is progressing at lightning speed so that we can open our doors for the first public events as soon as possible. Together with Haus der Nachhaltigkeit, we are installing drywall, painting the existing walls, ensuring the greatest possible accessibility and furnishing the parts that are already ready for occupancy.
 

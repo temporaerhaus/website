@@ -7,7 +7,7 @@ draft: false
 categories:
   - news
 tags:
-  - 3D printing
+  - 3D-Druck
   - Uni Ulm
 featured_image: /wp-content/uploads/2023/10/uniforum_stand.jpg
 ---

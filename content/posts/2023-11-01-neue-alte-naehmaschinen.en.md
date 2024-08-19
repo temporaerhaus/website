@@ -7,7 +7,7 @@ draft: false
 categories:
   - news
 tags:
-  - sewing café
+  - Nähcafe
 featured_image: /wp-content/uploads/2023/11/naehmaschine-pfaff.jpg
 ---
 

@@ -6,7 +6,7 @@ draft: false
 categories:
   - news
 tags:
-  - Trademark dispute
+  - Markenrechtsstreit
 ---
 Today, the Regional Court of Stuttgart issued a judgment against us in the [trademark dispute](/kleines-update-zum-markenrechtsstreit/) of the city of Ulm.
 Unfortunately, the court ruled in favor of the city on all points 😔

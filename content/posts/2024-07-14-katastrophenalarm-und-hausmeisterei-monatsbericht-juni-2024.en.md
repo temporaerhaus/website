@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Disaster alarm and janitorial services – Monthly Report June 2024
+title: Disaster alarm and janitorial services—Monthly Report June 2024
 author: Community
 date: 2024-07-14T11:12:23.000Z
 draft: false
@@ -15,14 +15,14 @@ featured_image: /wp-content/uploads/2024/07/monatsbericht-titel.jpg
 June began with a heap of warnings from the German Weather Service and the Bavarian Flood Information Service:
 Heavy rain was forecast and significant flooding was also expected for the Iller and Danube.
 
-With several instances of water damage caused by heavy rain last year in mind, we took precautions.
-We had to check the drains around the building and the downpipes on the canopy, and make sure that even a heavy downpour could drain away well.
+With several instances of water damage caused by heavy rain last year in mind, we began to take precautions.
+We had to check the drains around the building and the downpipes on the canopy in order to make sure that even a heavy downpour could drain away well.
 At the same time, we monitored [the level of the Iller at the Kempten gauge](https://www.hnd.bayern.de/pegel/iller_lech/kempten-11402001), which would also affect the level of the Danube with a few hours' delay.
 
 During the hundred-year flood (of which we have experienced several in the region since then) [in 1999, Neu-Ulm city center was spectacularly flooded](https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/rueckblick-hochwasser-pfingsten-1999-neu-ulm-100.html).
-Since then, both cities have implemented comprehensive flood protection measures, including mobile sheet piling, so that [according to the Bavarian forecast maps](https://www.lfu.bayern.de/wasser/hw_ue_gebiete/info_uegef_gebiete_uab/index.htm) a hundred-year flood would be unlikely to affect our house, which is operated jointly with the [Haus der Nachhaltigkeit](https://www.h-d-n.org/).
-However, according to the forecast, we would have been in the middle of an extreme flood in excess of a hundred-year flood.
-So we had to check the cellar and make sure that, if the worst came to the worst, there was nothing on the floor that would be spoiled by water, or could contaminate the water.
+Since then, both cities have implemented comprehensive flood protection measures, including mobile levees, so that [according to the Bavarian forecast maps](https://www.lfu.bayern.de/wasser/hw_ue_gebiete/info_uegef_gebiete_uab/index.htm) a hundred-year flood would be unlikely to affect our house, which is operated jointly with the [Haus der Nachhaltigkeit](https://www.h-d-n.org/).
+However, according to the forecast, in case of extreme flooding exceeding the hundred-year-flood mark, we would have been right in the middle of it.
+So we had to check the basement and make sure that, if the worst came to the worst, there was nothing on the floor that would be spoiled by water, or could contaminate the water.
 
 In the end, unlike the south-eastern district of Neu-Ulm, the city did not experience extreme flooding and the measures were sufficient.
 Nevertheless, it still looked spectacular in the town.
@@ -33,9 +33,9 @@ Immediately afterwards, one of the photos was also one of the first images in th
 ![It's good to have a small construction depot in the basement to secure dangerous areas ;)](/wp-content/uploads/2024/07/monatsbericht-bauhof.jpg)
 
 The floods still hit us in the end. The Bavarian HND [also measures the groundwater level at various measuring points,](https://www.hnd.bayern.de/grundwasser) and it rose very rapidly as the flood crests of the Iller and Danube passed through.
-And so it also slowly pressed in at the lowest point in our cellar.
-The area was sealed off very professionally using equipment from our mini construction depot and the water was pumped out.
-For a few weeks afterwards, the drying equipment already familiar from last year's water damage had to suck the residual moisture out of the cellar.
+And so the water also slowly sept in at the lowest point in our basement.
+The area was cordoned off very professionally using equipment from our mini construction depot and the water was subsequently pumped out.
+For a few weeks afterwards, the drying equipment already familiar from last year's water damage had to suck the residual moisture out of the basement.
 
 ### Our regular activities
 
@@ -68,8 +68,7 @@ So if you haven't visited us for a while, you should definitely catch up – bec
 Whether locally or from afar, we are always happy about everyone who thinks of us and supports us.
 Be it through a regular or individual donation, for example on [betterplace](https://www.betterplace.org/de/projects/85727-das-temporaerhaus-gestaltet-selbstbestimmte-stadtentwicklung-mit) or [directly](https://temporaerhaus.de/spenden/), but also by mentions and telling our stories.
 
-Ein besonderer Dank gilt diesen Monat der mehrfachen Erwähnung auf dem Panel [„Caring for our Web – Software-Projekte als Care-Work“](http://cdn.re-publica.com/de/session/caring-our-web-software-projekte-als-care-work-0) auf der re:publica 2024. 
-Special thanks this month to the multiple mentions on the panel ["Caring for our Web – Software Projects as Care Work"](http://cdn.re-publica.com/de/session/caring-our-web-software-projekte-als-care-work-0) at re:publica 2024.
+Special thanks this month to the multiple mentions on the panel [“Caring for our Web – Software Projects as Care Work”](http://cdn.re-publica.com/de/session/caring-our-web-software-projekte-als-care-work-0) at re:publica 2024.
 There, [tante](https://tante.cc/), who was recently a speaker at [Denkanstöße 2024](https://ulmer-denkanstoesse.de/juergen-geuter/) in Ulm, explained from minute 0:50:07 onwards how a city can interfere with volunteering projects with a great deal of force and dominance.
-From minute 0:53:56, in response to a question from the audience, he briefly explains the story again and calls the city of Ulm's approach "the best practice for doing it the worst way" – and [Franziska Heine](https://de.wikipedia.org/wiki/Franziska_Heine) from Wikimedia Deutschland makes it clear that Wikimedia supports us at the new location and that the city's approach is not a good example of how a municipality should deal with the local volunteer community.
-Thank you very much for these shout-outs – and of course also for the support from Wikimedia Deutschland, which enables us to continue pursuing our original and self-chosen mission!
+From minute 0:53:56, in response to a question from the audience, he briefly explains the story again and calls the city of Ulm's approach “the best practice for doing it the worst way”—and [Franziska Heine](https://de.wikipedia.org/wiki/Franziska_Heine) from Wikimedia Deutschland makes it clear that Wikimedia supports us at the new location and that the city's approach is not a good example of how a municipality should deal with the local volunteer community.
+Thank you very much for these shout-outs—and of course also for the support from Wikimedia Deutschland, which enables us to continue pursuing our original and self-chosen mission!

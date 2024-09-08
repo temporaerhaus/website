@@ -14,6 +14,7 @@ tags:
 
 
 <link rel="stylesheet" href="/twentytwenty/twentytwenty.css" />
+<script src="/twentytwenty/jquery-3.7.1.js"></script>
 <script src="/twentytwenty/jquery.twentytwenty.js"></script>
 <script src="/twentytwenty/jquery.event.move.js"></script>
 

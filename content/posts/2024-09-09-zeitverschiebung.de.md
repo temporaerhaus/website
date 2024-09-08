@@ -24,7 +24,7 @@ tags:
 </div>
 
 <script>
-$(window).load(function() {
+$(function(){
   $("#slider-container").twentytwenty();
 });
 </script>

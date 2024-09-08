@@ -13,9 +13,9 @@ tags:
 ---
 
 
-<link rel="stylesheet" href="/assets/css/twentytwenty.css" />
-<script src="/assets/js/jquery.twentytwenty.js"></script>
-<script src="/assets/js/jquery.event.move.js"></script>
+<link rel="stylesheet" href="/twentytwenty/twentytwenty.css" />
+<script src="/twentytwenty/jquery.twentytwenty.js"></script>
+<script src="/twentytwenty/jquery.event.move.js"></script>
 
 <div id="slider-container" class="twentytwenty-container">
   <img src="/wp-content/uploads/2024/09/Donauabsenkung_0000.jpg" alt="Bild 1">

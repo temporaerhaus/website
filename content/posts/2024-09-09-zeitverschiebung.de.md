@@ -17,13 +17,13 @@ tags:
 <script src="/assets/js/jquery.twentytwenty.js"></script>
 <script src="/assets/js/jquery.event.move.js"></script>
 
-<div class="twentytwenty-container">
+<div id="slider-container" class="twentytwenty-container">
   <img src="/wp-content/uploads/2024/09/Donauabsenkung_0000.jpg" alt="Bild 1">
   <img src="/wp-content/uploads/2024/09/Donauabsenkung_0001.jpg" alt="Bild 2">
 </div>
 
 <script>
-$(function(){
-  $(".twentytwenty-container").twentytwenty();
+$(window).load(function() {
+  $("#slider-container").twentytwenty();
 });
 </script>

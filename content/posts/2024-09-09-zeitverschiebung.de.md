@@ -12,7 +12,7 @@ tags:
   - wikimedia
 ---
 
-{{ partial "twenty-twenty.html" . }}
+{{ partial "/layout/partials/twenty-twenty.html" . }}
 
 <div class="twentytwenty-container">
   <img src="/wp-content/uploads/2024/09/" alt="Bild 1">

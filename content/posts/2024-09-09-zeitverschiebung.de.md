@@ -15,8 +15,8 @@ tags:
 {{ partial "twenty-twenty.html" . }}
 
 <div class="twentytwenty-container">
-  <img src="/wp-content/uploads/2024/09/" alt="Bild 1">
-  <img src="/wp-content/uploads/2024/09/" alt="Bild 2">
+  <img src="/wp-content/uploads/2024/09/Donauabsenkung_0000.jpg" alt="Bild 1">
+  <img src="/wp-content/uploads/2024/09/Donauabsenkung_0001.jpg" alt="Bild 2">
 </div>
 
 <script>

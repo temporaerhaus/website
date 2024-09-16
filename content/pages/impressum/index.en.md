@@ -7,7 +7,7 @@ type: page
 
 ## Angaben gemäß § 5 TMG:
 
-temporärhaus e.V. ([temporarily](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+temporärhaus e.V.  
 Eberhardtstr. 43  
 89073 Ulm  
 
@@ -18,7 +18,7 @@ E-Mail:
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-temporärhaus e.V. ([temporarily](/stellungnahme-und-ausblick-zum-urteil-im-markenrechtsstreit/))  
+temporärhaus e.V.  
 Eberhardtstr. 43  
 89073 Ulm  
 

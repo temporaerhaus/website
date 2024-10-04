@@ -11,7 +11,7 @@ featured_image: /groups/makermonday/loetlabor.jpg
 
 The Maker-Monday is our evening where we are open for everyone, without a dedicaded agenda. Here you can take a look at our house, the machines or just come to chill and have a chat with the people.
 
-You already have an idea for your project? Awesome, we can help you to realize it. You don't have a glue yet? Just come and take a look at the projects that where already realized in our location. Or just exchange with other people in the house and develop creative ideas together.
+You already have an idea for your project? Awesome, we can help you realize it. You don't have a glue yet? Just come and take a look at the projects that where already realized in our location. Or just exchange with other people in the house and develop creative ideas together.
 
 Please take a look at our [calendar](/en/termine-und-oeffnungszeiten/) when we are open next time.
 
@@ -56,4 +56,4 @@ Additional information about our tools can also be found in our [Wiki](https://w
 
 From time to time we get the chance to extend our machinery - either as a loan or via donations. So it's always worth to spontaniously take a look :slightly_smiling_face:.
 
-You have additional questions? Feel free to send us an e-mail at **makermonday (at) temporaerhaus.de** just come by. We are looking forward for your visit.
+You have additional questions? Feel free to send us an e-mail at **makermonday (at) temporaerhaus.de** or just come by. We are looking forward for your visit.

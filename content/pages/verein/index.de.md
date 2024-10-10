@@ -77,7 +77,7 @@ Vielen Dank!
 </p>
 <p>
 <label for="slackuser">Benutzername im temporärhaus-Slack:</label>
-<input type="number" id="slackuser" name="slackuser">
+<input type="text" id="slackuser" name="slackuser">
 <small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Diese Angabe hilft uns bei aktiven Mitgliedern, dir nach erfolgter Aufnahme die passenden Kanäle und Gruppen zuzuordnen.</small>
 </p>
 </div>

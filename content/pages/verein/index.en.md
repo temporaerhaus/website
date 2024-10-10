@@ -74,7 +74,7 @@ We recommend an amount of 10 € per month for private persons and 50 € per mo
 </p>
 <p>
 <label for="slackuser">Your user in the temporärhaus Slack:</label>
-<input type="number" id="slackuser" name="slackuser">
+<input type="text" id="slackuser" name="slackuser">
 <small class="info" style="padding-block: 0.25em;"><b>ℹ</b> This information helps us place active members in the right channels and groups after they join.</small>
 </p>
 </div>

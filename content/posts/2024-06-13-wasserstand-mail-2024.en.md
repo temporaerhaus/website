@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/06/monatsbericht-schild.jpg
+images: 
+  - /wp-content/uploads/2024/06/monatsbericht-schild.jpg
 ---
 
 May is over—and until the floods at the end of the month, it was almost business as usual. 

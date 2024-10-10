@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/04/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/04/monatsbericht-titel.jpg
 ---
 
 Sun! 

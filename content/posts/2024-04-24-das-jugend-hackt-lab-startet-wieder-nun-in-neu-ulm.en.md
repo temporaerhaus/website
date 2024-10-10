@@ -11,7 +11,8 @@ tags:
   - JugendhacktLab
   - Workshop
   - Löten
-featured_image: /wp-content/uploads/2024/04/jhacktlab-titel.jpg
+images: 
+  - /wp-content/uploads/2024/04/jhacktlab-titel.jpg
 ---
 
 From Saturday, April 27 at 2 p.m., there will be another Jugend hackt Lab in the twin city—now on the other side of the Danube. The first workshop is all about learning to solder, as this is the basis for many hardware projects. And by the way, you'll have built something nice in the end!

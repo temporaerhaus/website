@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/09/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/09/monatsbericht-titel.jpg
 ---
 
 August: Lange Sommerabende, die Menschen kehren in die Stadt zurück und verbringen die langen Abende am Ufer der Donau, das dieses Jahr wegen der angeschwemmten Kiesbänke und des abgesenkten Flusspegels _ganz_ anders aussieht und zum Verweilen auf Strandstühlen einlädt.

@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/07/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/07/monatsbericht-titel.jpg
 ---
 
 June began with a heap of warnings from the German Weather Service and the Bavarian Flood Information Service:

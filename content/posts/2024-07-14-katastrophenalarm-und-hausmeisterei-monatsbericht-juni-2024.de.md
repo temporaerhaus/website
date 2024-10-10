@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/07/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/07/monatsbericht-titel.jpg
 ---
 
 Der Juni begann mit sich stapelnden Warnungen des Deutschen Wetterdienstes und des Hochwassernachrichtendienst Bayern: 

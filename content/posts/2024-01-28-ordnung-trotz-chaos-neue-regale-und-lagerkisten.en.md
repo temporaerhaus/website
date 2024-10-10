@@ -11,7 +11,8 @@ categories:
 tags:
   - finanzierung
   - meta
-featured_image: /wp-content/uploads/2024/01/dsee_regal.jpg
+images: 
+  - /wp-content/uploads/2024/01/dsee_regal.jpg
 ---
 
 _This post is part of a series in which we want to present some of our new and valuable material that we were able to procure due to a grant by [Deutsche Stiftung für Engagement und Ehrenamt](https://www.deutsche-stiftung-engagement-und-ehrenamt.de/)._

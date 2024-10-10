@@ -3,7 +3,8 @@ title: "Wiki loves Monuments 2024, der Fotowettbewerb rund um Kulturdenkmäler s
 author: Stefan Kaufmann
 date: 2024-08-24T15:23:49.793Z
 draft: false
-featured_image: /wp-content/uploads/2024/08/wlm_muenster.jpg
+images: 
+  - /wp-content/uploads/2024/08/wlm_muenster.jpg
 categories:
   - news
 tags:

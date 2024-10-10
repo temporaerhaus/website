@@ -9,7 +9,8 @@ categories:
 tags:
   - Freies Wissen
   - Wikipedia
-featured_image: /wp-content/uploads/2024/07/schwoemo-titel.jpg
+images: 
+  - /wp-content/uploads/2024/07/schwoemo-titel.jpg
 ---
 
 Exakt zwei Stunden. 

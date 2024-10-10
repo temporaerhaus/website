@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/05/monatsbericht-hej.jpg
+images: 
+  - /wp-content/uploads/2024/05/monatsbericht-hej.jpg
 ---
 
 Der April ist nun schon ein paar Wochen vorbei – eventuell berichten wir erst jetzt davon, weil wir erst einmal einen im März erreichten Meilenstein nachholend feiern mussten ;)  

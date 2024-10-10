@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/02/monatsbericht_naehcafe.jpg
+images: 
+  - /wp-content/uploads/2024/02/monatsbericht_naehcafe.jpg
 ---
 
 Another month has passed, time to look back on January! With **18 public events**, one official visit to us and at least one away mission, we set a new record at the start of the year.

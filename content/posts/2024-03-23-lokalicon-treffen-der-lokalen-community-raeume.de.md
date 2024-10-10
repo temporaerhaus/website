@@ -10,7 +10,8 @@ tags:
   - WMDE
   - Wikimedia
   - Wikipedia
-featured_image: /wp-content/uploads/2024/03/lokalicon-titel.jpg
+images: 
+  - /wp-content/uploads/2024/03/lokalicon-titel.jpg
 ---
 
 Vom 22. bis zum 24. März treffen sich gerade über 20 ehrenamtliche Wikipedia-Aktive aus Berlin, Fürth, Hannover, München und Neu-Ulm für ein Vernetzungstreffen im temporärhaus. Sie alle sind in den über Deutschland verteilten [Lokalen Community-Räumen](https://de.wikipedia.org/wiki/Wikipedia:F%C3%B6rderung/Lokale_Community-R%C3%A4ume) aktiv, also Anlaufpunkten in Ladenlokalen, in denen sie gemeinsam mit der jeweiligen Stadtgesellschaft an Freiem Wissen in der Wikipedia und ihren Schwesterprojekten arbeiten können.

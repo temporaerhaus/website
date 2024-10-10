@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/08/monatsbericht-brennofen.jpg
+images: 
+  - /wp-content/uploads/2024/08/monatsbericht-brennofen.jpg
 ---
 
 Es ist Sommer in der Stadt und das merkt man auch: Menschen tummelten sich im Juli an und auf der Donau und sonstigen Badegewässern und spätestens mit Beginn der Ferien leerten sich die Straßen. 

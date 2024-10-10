@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/10/monatsbericht-titel.jpg
+images:
+  - /wp-content/uploads/2024/10/monatsbericht-titel.jpg
 ---
 
 Das Ende des September heißt auch: Wir haben das erste Jahr seit der offiziellen Wiedereröffnung am neuen Standort in Neu-Ulm gemeinsam mit dem [Haus der Nachhaltigkeit](https://www.h-d-n.org/) vollendet. 

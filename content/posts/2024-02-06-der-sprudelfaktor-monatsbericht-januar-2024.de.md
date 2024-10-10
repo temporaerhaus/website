@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/02/monatsbericht_naehcafe.jpg
+images: 
+  - /wp-content/uploads/2024/02/monatsbericht_naehcafe.jpg
 ---
 
 Schon wieder ist ein Monat vorbei, Zeit für den Rückblick auf den Januar! Mit **18 öffentlichen Veranstaltungen**, einem offiziellen Besuch bei uns und mindestens einem Auswärtstermin haben wir zum Jahresauftakt gleich einen neuen Rekord geschafft.

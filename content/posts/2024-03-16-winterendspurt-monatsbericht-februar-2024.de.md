@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/03/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/03/monatsbericht-titel.jpg
 ---
 
 Der Februar ist zwar der kürzeste Monat im Jahr, in den 29 Tagen haben wir es aber dennoch geschafft, **16 eigene öffentliche Termine** unterzubringen – und zusätzlich einen Auswärtsbesuch in Backnang, einen F.U.C.K.-Vernetzungsworkshop bei uns im Haus und natürlich wieder viele interne Arbeitseinsätze.

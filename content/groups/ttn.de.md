@@ -21,7 +21,7 @@ Alle zwei Wochen am Mittwochabend, ab 18:30 Uhr.
 
 Dabei gibt's im vierwöchentlichen Wechsel einmal einen “Offenen Abend” und einmal den “Bastelabend”. komm' rein und einfach durchgehen, bis zum Lötlabor. Wenn du dich nicht zurecht findest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
 
-Den nächsten Termin findest du im [Kalender]({{< relref "/termine-und-oeffnungszeiten.md" >}}).
+Den nächsten Termin findest du im [Kalender](/termine-und-oeffnungszeiten/).
 
 **Kontakt**
 

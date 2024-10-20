@@ -13,7 +13,8 @@ tags:
   - SPARQL
   - Wikidata
   - Workshop
-featured_image: /wp-content/uploads/2024/10/wikidata-titel.jpg
+images: 
+  - /wp-content/uploads/2024/10/wikidata-titel.jpg
 ---
 
 Am 25.10.2012 war die erste Bearbeitung der weltweiten Wissensdatenbank [Wikidata](https://de.wikipedia.org/wiki/Wikidata). Seither sind dort über 113 Millionen Datenobjekte entstanden, die Orte, Personen und Konzepte beschreiben und miteinander verbinden. Wer in den letzten Jahren dem Sprachassistenzsystem auf einem Handy Fragen gestellt hat, bekam ziemlich wahrscheinlich eine Antwort aus Wikidata. Und anders als generative KI und Chatbots sind die Ergebnisse von Abfragen aus dieser Wissensdatenbank beweisbar, nachvollziehbar und frei von „Halluzinationen“.

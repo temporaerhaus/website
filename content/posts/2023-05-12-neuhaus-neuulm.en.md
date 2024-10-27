@@ -11,9 +11,9 @@ Now it's public: [„Haus der Nachhaltigkeit“](https://h-d-n.org) and our volu
 
 ### Two groups that go well together
 
-Our two associations had already been loosely connected in the past through personal acquaintances and mutual visits. As we were both looking for a suitable place to stay, Neu-Ulm city councillor Christina Richtmann gave us the impetus to give it a try together and put us in touch with the real estate company Munk. “It's a great match,” we quickly agreed. Our two groups want to make it possible to experience today how we can shape a better future ourselves.
+Our two associations had already been loosely connected in the past through personal acquaintances and mutual visits. As we were both looking for a suitable place to stay, Neu-Ulm city councilwoman Christina Richtmann gave us the impulse to give it a try together and put us in touch with local real estate developer Munk. “It's a great match,” we quickly agreed. Our two groups want to make it possible to experience today how we can shape a better future ourselves.
 
-For example, Haus der Nachhaltigkeit will set up a loan store on the premises. Anyone who needs tools, gardening equipment or catering equipment can borrow them there—instead of buying things that are only used a few times a year. Reduced resource consumption and social aspects are also the focus of the repair workshop for large electrical appliances “repair4U”, the winner of the Berblinger Contest 2022. The two initiatives are now also working together on these points. The two groups therefore spent several months developing a usage concept and, following mediation by Richtmann, drew up a rental agreement with the Munk company.
+For example, Haus der Nachhaltigkeit will set up a borrowing shop on the premises. Anyone who needs tools, gardening equipment or catering equipment can borrow them there—instead of buying things that are only used a few times a year. Reduced resource consumption and social aspects are also the focus of the repair workshop for large electrical appliances “repair4U”, the winner of the Berblinger Contest 2022. The two initiatives are now also working together on these points. The two groups therefore spent several months developing a usage concept and, following mediation by Richtmann, drew up a rental agreement with the Munk company.
 
 ### An open house by civil society for civil society
 
@@ -24,7 +24,7 @@ After all, it's not far from the repair workshop to our electronics lab equipmen
 ### Eight weeks of renovation sprint
 ![](/wp-content/uploads/2023/05/neuhaus-klo.jpg)
 
-To make this possible, we will first invest a lot of working time in construction and organizational measures. Much of the necessary work will be carried out in a joint volunteer effort, especially over the next eight weeks. We want to fill the rooms as quickly as possible with a wide range of offers for the public—with the program offered voluntarily at the Weinhof until summer 2022, with the offers of Haus der Nachhaltigkeit, and of course we are particularly excited to see what new things will emerge together that we have not yet had on our radar. That is why the first offers are to start in parallel with the ongoing construction and refurbishment work as soon as the city of Neu-Ulm has granted the necessary official approvals.
+To make this possible, we will first invest a lot of volunteer time for construction and organizational measures. Much of the necessary work will be carried out in a joint volunteer effort, especially over the next eight weeks. We want to fill the rooms as quickly as possible with a wide range of offers for the public—with the program offered voluntarily at the Weinhof until summer 2022, with the offers of Haus der Nachhaltigkeit, and of course we are particularly excited to see what new things will emerge together that we have not yet had on our radar. That is why the first offers are to start in parallel with the ongoing construction and refurbishment work as soon as the city of Neu-Ulm has granted the necessary official approvals.
 
 ### Sponsoring memberships and support possible
 

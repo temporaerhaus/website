@@ -72,6 +72,11 @@ We recommend an amount of 10 € per month for private persons and 50 € per mo
 <input type="number" id="amount" name="amount">
 <small class="info" style="padding-block: 0.25em;"><b>ℹ</b> We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for supporting membership.</small>
 </p>
+<p>
+<label for="slackuser">Your user in the temporärhaus Slack:</label>
+<input type="text" id="slackuser" name="slackuser">
+<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> This information helps us place active members in the right channels and groups after they join.</small>
+</p>
 </div>
 
 <div id="step3" style="scroll-padding-top: 2em;">

@@ -14,7 +14,7 @@ Eberhardtstr. 43
 ## Kontakt:
 
 E-Mail:
-:   kontakt „at“ temporaerhaus.de
+:   kontakt (at) temporaerhaus.de
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 

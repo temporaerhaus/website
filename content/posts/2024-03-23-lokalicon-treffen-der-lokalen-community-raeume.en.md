@@ -10,7 +10,8 @@ tags:
   - WMDE
   - Wikimedia
   - Wikipedia
-featured_image: /wp-content/uploads/2024/03/lokalicon-titel.jpg
+images: 
+  - /wp-content/uploads/2024/03/lokalicon-titel.jpg
 ---
 
 From March 22 to 24, more than 20 Wikipedia volunteers from Berlin, Fürth, Hanover, Munich and Neu-Ulm are meeting for a networking event at temporärhaus. They are all active in the [Local Community Spaces](https://de.wikipedia.org/wiki/Wikipedia:F%C3%B6rderung/Lokale_Community-R%C3%A4ume) spread across Germany, i.e. contact points in former stores within the city where they can work together with the respective urban community on Free Knowledge in Wikipedia and its sister projects.

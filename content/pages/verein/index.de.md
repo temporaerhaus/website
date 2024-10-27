@@ -73,6 +73,12 @@ Vielen Dank!
 <p>
 <label for="amount">Monatlicher Förderbeitrag:</label>
 <input type="number" id="amount" name="amount">
+<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Wir empfehlen mindestens 10 € / Monat für natürliche Personen und 50 € / Monat für Firmen und Organisationen bei einer Fördermitgliedschaft.</small>
+</p>
+<p>
+<label for="slackuser">Benutzername im temporärhaus-Slack:</label>
+<input type="text" id="slackuser" name="slackuser">
+<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Diese Angabe hilft uns bei aktiven Mitgliedern, dir nach erfolgter Aufnahme die passenden Kanäle und Gruppen zuzuordnen.</small>
 </p>
 </div>
 

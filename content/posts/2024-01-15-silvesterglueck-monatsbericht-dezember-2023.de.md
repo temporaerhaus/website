@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/01/monatsbericht_titel.jpg
+images: 
+  - /wp-content/uploads/2024/01/monatsbericht_titel.jpg
 ---
 
 Das erste Silvester im neuen Haus ist gefeiert, der Dezember und das damit verbundene Jahresendfieber sind abgeschlossen. Zeit für einen Rückblick!

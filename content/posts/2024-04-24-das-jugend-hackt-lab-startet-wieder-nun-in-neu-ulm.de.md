@@ -11,7 +11,8 @@ tags:
   - JugendhacktLab
   - Workshop
   - Löten
-featured_image: /wp-content/uploads/2024/04/jhacktlab-titel.jpg
+images: 
+  - /wp-content/uploads/2024/04/jhacktlab-titel.jpg
 ---
 
 Ab Samstag, dem 27. April um 14 Uhr gibt es wieder ein Jugend hackt Lab in der Doppelstadt – nun auf der anderen Seite der Donau. Beim ersten Workshop geht es ums Löten lernen, denn das ist die Grundlage für viele Hardwareprojekte. Und ganz nebenbei hat man am Ende etwas schönes gebaut!

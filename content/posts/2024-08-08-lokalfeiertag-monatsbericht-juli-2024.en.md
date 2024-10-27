@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/08/monatsbericht-brennofen.jpg
+images: 
+  - /wp-content/uploads/2024/08/monatsbericht-brennofen.jpg
 ---
 
 You can tell it's summer in the city: people frolicked on the Danube and other bodies of water in July and the streets emptied out as soon as the vacations began.

@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/06/monatsbericht-schild.jpg
+images: 
+  - /wp-content/uploads/2024/06/monatsbericht-schild.jpg
 ---
 
 Der Mai ist vorbei – und bis zur Hochwasserlage am Monatsende war es beinahe Business as Usual. Beinahe, denn in Süddeutschland war das wieder so ein Monat, in dem praktisch in jeder Woche ein Feiertag lag, weswegen (und wegen einer Erkrankung) ein paar der Termine ausfielen. 

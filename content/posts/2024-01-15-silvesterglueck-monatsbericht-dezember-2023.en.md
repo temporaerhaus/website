@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/01/monatsbericht_titel.jpg
+images: 
+  - /wp-content/uploads/2024/01/monatsbericht_titel.jpg
 ---
 
 We just celebreated our first new year's eve in the new space, December and the year-end sprint that came with it are over. Time for a look back!

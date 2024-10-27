@@ -9,7 +9,8 @@ categories:
   - monatsbericht
 tags:
   - transparenz
-featured_image: /wp-content/uploads/2024/05/monatsbericht-hej.jpg
+images: 
+  - /wp-content/uploads/2024/05/monatsbericht-hej.jpg
 ---
 
 April has been over for a few weeks now—we may only be reporting on it now because we first had to catch up and celebrate a milestone we reached in March ;)

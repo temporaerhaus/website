@@ -11,7 +11,8 @@ categories:
 tags:
   - umbau
   - transparenz
-featured_image: /wp-content/uploads/2024/03/monatsbericht-titel.jpg
+images: 
+  - /wp-content/uploads/2024/03/monatsbericht-titel.jpg
 ---
 
 Although February is the shortest month of the year, we still managed to fit in **16 of our own public appointments** in the 29 days – plus an external visit to Backnang, an F.U.C.K. networking workshop in our premises and, of course, lots of internal work assignments.

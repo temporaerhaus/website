@@ -31,7 +31,7 @@ Unser frühere Snackautomat wurde derweil in den Ruhestand entlassen und im Okto
 Den alten Automaten hatte Maxi bereits im Sommer 2017 bei einer bekannten Kleinanzeigenplattform gefunden und nach Ulm gefahren, wo er lange im Eingangsbereich neben Kaffee-Ecke und später Getränkeautomat stand. 
 Mit der Zeit machten immer mehr Funktionen des betagten Wurlitzer-Geräts schlapp und auch die Münzannahme machte ihn mehr zum Glückspiel- als zum Warenautomaten.
 
-Da das [OpenLab in Augsburg](https://www.openlab-augsburg.de/) seinen alten Snackautomat loswerden wollte, der aber auch wirklich nun funktionierte, stand im Oktober ein Ausflug mit Klein-LKW an. 
+Da das [OpenLab in Augsburg](https://www.openlab-augsburg.de/) seinen alten Snackautomat loswerden wollte, der allerdings noch problemlos funktionierte, stand im Oktober ein Ausflug mit Klein-LKW an. 
 Am späten Abend rollte der „neue alte“ Automat in unseren Küchenbereich und nach ein paar Abenden Anpassungen verkauft er nun Snacks gegen den kleinen Hunger zwischendurch!
 
 {{< figure src="/wp-content/uploads/2024/11/monatsbericht-automat-neu.jpg" caption="…und so die Inbetriebnahme des neuen Automaten!" >}}

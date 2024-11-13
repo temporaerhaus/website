@@ -37,7 +37,7 @@ $errors = array();
 
 foreach($fields as $field => $filter) {
     $value = filter_input(INPUT_POST, $field, $filter, isset($options[$field]) ? array('options' => array('regexp' => $options[$field])) : 0);
-    if ($value === false || ((!$value || trim($value) === '') && !in_array($field, $optional)) {
+    if ($value === false || ((!$value || trim($value) === '') && !in_array($field, $optional))) {
         $errors[$field] = true;
     } else if ($field === 'iban') {
         $value = strtoupper(str_replace(' ', '', $value));

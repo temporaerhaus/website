@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Aktionstage Netzpolitik und Demokratie: Einführung in logikbasierte KI und Linked Open Data
+title: Aktionstage Netzpolitik und Demokratie – Einführung in logikbasierte KI und Linked Open Data
 author: Stefan Kaufmann
 date: 2024-11-14T20:13:37.000Z
 draft: false

@@ -27,4 +27,4 @@ Sie ist zudem der öffentliche Teil des deutschlandweiten Treffens der Jungwikip
 
 Wer selber erste Schritte mit Wikidata unternehmen möchte, kann einen eigenen Laptop mitbringen. Idealerweise sollte schon vorher ein eigener Wikipedia-Account angelegt werden.
 
-_Titelbild: Looniverse, [„Wikidata birthday 2024 linked open data“,](https://commons.wikimedia.org/wiki/File:Wikidata_birthday_2024_linked_open_data.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+_Titelbild: Looniverse, [„Wikidata birthday 2024 linked open data“,](https://commons.wikimedia.org/wiki/File:Wikidata_birthday_2024_linked_open_data.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)_

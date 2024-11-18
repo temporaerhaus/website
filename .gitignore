@@ -4,3 +4,4 @@ _
 public
 *.lock
 static/member-application.secrets.php
+.idea

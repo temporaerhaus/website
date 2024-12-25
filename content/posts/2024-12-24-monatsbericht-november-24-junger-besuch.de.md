@@ -28,7 +28,7 @@ Als Teil der [Aktionstage Netzpolitik und Demokratie](https://netzpolitische-bil
 
 {{< figure src="/wp-content/uploads/2024/12/monatsbericht-druck.jpg" caption="Egal ob mit Linoleum oder gar mit in Tetrapack-Verpackungen geritzte Vorlagen: Mit der 3D-gedruckten Druckpresse lassen sich ganz besondere eigene Werke drucken" >}}
 
-Dazu kam natürlich unser ganz „normales“ Programm wie jeden Monat mit 18 weiteren öffentlichen Angeboten. 
+Dazu kam natürlich unser ganz „normales“ Programm wie jeden Monat mit 17 weiteren öffentlichen Angeboten. 
 Das Atelier erfreut sich wachsender Beliebtheit, so dass es im November sowohl eine **Einführung ins Tonatelier,** einen **Druckkunst-Workshop** und einen **offenen Abend im Tonatelier** gab. 
 Das **Nähcafé** konnte mittlerweile gar seinen achten Geburtstag feiern – seit Dezember 2016 gehörte es schon am alten Ort zum regelmäßigen Programm und ist bis heute Anlaufpunkt für Upcycling, das Anpassen und das Reparieren von Kleidung und anderen Textilien. 
 Ein Grund, zu feiern!

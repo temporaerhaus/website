@@ -14,7 +14,7 @@ tags:
   - Chaos Communication Congress
 
 ---
-Wir haben auch dieses Jahr wieder viele Kisten für den Chaos Communication Congress gepackt – nicht so viele wie zu den [Materialschlacht-Zeiten der Wikipaka-WG in Leipzig,](/resource-exhaustion-wir-waren-auf-dem-36c3/), aber genug, um [eine schöne Assembly zu bespielen](https://events.ccc.de/congress/2024/hub/de/assembly/tph/) und das [Bits-und-Bäume-Habitat](https://events.ccc.de/congress/2024/hub/de/assembly/bitsundbaeume_aboutfreedom/) mit Exponaten zu Freiem Wissen zu versorgen.
+Wir haben auch dieses Jahr wieder viele Kisten für den Chaos Communication Congress gepackt – nicht so viele wie zu den [Materialschlacht-Zeiten der Wikipaka-WG in Leipzig,](/resource-exhaustion-wir-waren-auf-dem-36c3/) aber genug, um [eine schöne Assembly zu bespielen](https://events.ccc.de/congress/2024/hub/de/assembly/tph/) und das [Bits-und-Bäume-Habitat](https://events.ccc.de/congress/2024/hub/de/assembly/bitsundbaeume_aboutfreedom/) mit Exponaten zu Freiem Wissen zu versorgen.
 Gleichzeitig fahren nicht _alle_ von uns nach Hamburg, so dass es auch die Gelegenheit gibt, gemeinsam ausgewählte Congress-Vorträge im Rahmen von [Chaos Everywhere](https://events.ccc.de/2024/12/24/38c3-everywhere/) bei uns in Neu-Ulm anzusehen.
 
 Ihr habt also gleich drei Möglichkeiten, den Congress mit und bei uns zu erleben:

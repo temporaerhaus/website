@@ -3,7 +3,7 @@ sticky: false
 title: hausi beim 38C3 – vor Ort in Hamburg und als Chaos Everywhere in Neu-Ulm
 author: Community
 type: post
-date: 2024-12-25T16:04:30+00:00
+date: 2024-12-26T10:04:30+00:00
 language: de
 draft: false
 images: 

@@ -144,7 +144,14 @@ slug: presse
 ### 2024
   * [Ulm-News][115]: Jugend hackt Lab startet wieder im "temporärhaus" in Neu-Ulm <small>(25.04.2024)</small>
   * Südwest Presse (Print): Jugend hackt in Neu-Ulm: Temporärhaus bietet wieder Workshops und offene Treffs <small>(16.05.2024)</small>
-
+  * [Südwest Presse (€)][116]: Engagiert in Neu-Ulm: Haus der Zivilgesellschaft geht in die Verlängerung <small>(09.08.2024)</small>
+  * [Regio-TV][117]: Das temporärhaus Neu-Ulm: Workspace für Kreative <small>06.09.2024</small>
+  * [Regio-TV][118]: Das erwartet Sie bei der Kulturnacht 2024 <small>17.09.2024</small>
+  * [Südwest Presse (€)][119]: Kulturnacht Ulm/Neu-Ulm 2024: Heiteres und Absurdes aus allen Sparten – Was am Samstag geboten ist <small>18.09.2024</small>
+  * [Ulm-News][120]: Kulturnacht Ulm / Neu-Um - die Vielfalt der gesamtem Kultur an einem Abend <small>21.09.2024</small>
+  * [Neu-Ulmer Zeitung][121]: Nachhaltigkeitszentrum im ehemaligen Sport-Sohn feiert einjähriges Bestehen <small>23.09.2024</small>
+  * [Ulm-News][122]: Infotag: Wikidata und die KI <small>13.11.2024</small>
+  * [Neu-Ulmer Zeitung][123]: Bundesweites Vernetzungstreffen von Häusern der Nachhaltigkeit und des Engagements in Neu-Ulm <small>25.11.2024</small>
 
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
@@ -257,3 +264,10 @@ slug: presse
  [113]: https://www.swp.de/lokales/neu-ulm/neues-verschwoerhaus-in-neu-ulm-so-lief-der-eroeffnung-der-neuen-heimat-der-zivilgesellschaft-71741819.html
  [114]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-ex-verschwoerhaus-zieht-in-ex-sport-sohn-was-bringt-das-fuer-neu-ulm-id66514071.html
  [115]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/95247/Jugend_hackt_Lab_startet_wieder_im_-quot-tempor-auml-rhaus-quot-_in_Neu-Ulm.html
+ [117]: https://www.regio-tv.de/mediathek/video/das-temporaerhaus-neu-ulm-workspace-fuer-kreative/
+ [118]: https://www.regio-tv.de/mediathek/video/das-erwartet-sie-bei-der-kulturnacht-2024/
+ [119]: https://www.swp.de/kultur/kulturnacht-ulmneu-ulm-2024-heiteres-und-absurdes-aus-allen-sparten-77515253.html
+ [120]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/97119/Kulturnacht_Ulm___Neu-Um_-_die_Vielfalt_der_gesamtem_Kultur_an_einem_Abend.html
+ [121]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-ehemaliges-sport-sohn-wird-kreativzentrum-fuer-nachhaltigkeit-103068938
+ [122]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/98042/Infotag%3A_Wikidata_und_die_KI.html
+ [123]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-bundesweites-vernetzungstreffen-von-haeusern-der-nachhaltigkeit-und-des-engagements-in-neu-ulm-103658433

@@ -17,7 +17,7 @@ Mit dem Dezember ging unser zweites Jahr im neuen gemeinsamen Haus zu Ende – f
 
 Dort sind wir schon seit vielen Jahren immer wieder präsent. 2014 schrieben wir dort den Förderantrag für das erste Jugend hackt in Ulm 2015, 2017–2019 waren wir bei den Congressen in Leipzig Teil der großen [Wikipaka-WG](/rebooting) mit eigenem Vortragssaal und -Programm. 2023 und 24 stand der Congress ganz im Zeichen des Neustarts nach der Pandemie-Zwangspause und der Rückkehr nach Hamburg und auch wir haben uns eher langsam wieder an die Veranstaltung herangetastet.
 
-{{< figure src="/wp-content/uploads/2025/01/monatsbericht-guessr.jpg" caption="Ein Boxenstativ, ein Touch-Bildschirm und ein kleiner Rechner – fertig ist das Wikidata- und Wikimedia-Commons-basierte Geo-Ratespiel!" >}}
+{{< figure src="/wp-content/uploads/2025/01/monatsbericht-guessr.jpeg" caption="Ein Boxenstativ, ein Touch-Bildschirm und ein kleiner Rechner – fertig ist das Wikidata- und Wikimedia-Commons-basierte Geo-Ratespiel!" >}}
 
 
 Anstelle eines riesigen Habitats mit eigener Bühne haben wir deshalb dieses Jahr mehrere kleine Dinge bespielt: Wir haben die Präsenz von Wikimedia Deutschland mit unserer Elektro- und Lichttechnik und dem [Wikidata-basierten Georatespiel](https://guessr.blinry.org/) von [blinry](https://blinry.org/) versorgt, das über alle Tage hinweg ständig gefragt war. Der dafür verwendete Touchscreen kann frei auf einem Stativ an beliebigen Orten aufgestellt werden – das war ein Experiment, das wir gerne auch in anderen Kontexten einsetzen werden!
@@ -36,7 +36,7 @@ Wer den Weg nach Hamburg nicht auf sich nehmen wollte oder konnte, hatte natürl
 
 Der Congress war aber nicht die einzige Besonderheit im Dezember. [Chaos.jetzt](https://chaos.jetzt/) als Netzwerk für junge Menschen von 14–25 im CCC-Umfeld war bereits beim letzten vor-pandemischen Congress 2019 Teil unseres gemeinsam bespielten Habitats. In der Zwischenzeit hat sich das Netzwerk trotz Pandemie weiterentwickelt und trifft sich regelmäßig zu Austauschveranstaltungen vor Ort – und so auch erstmals vom 6.–8. Dezember in unseren Räumen in Neu-Ulm, was uns sehr gefreut hat!
 
-{{< figure src="/wp-content/uploads/2025/01/monatsbericht-leuchtturm.jpg" caption="Weniger Leuchtturmprojekte – Mehr Infrastrukturförderung. Unsere Rede mindestens seit 2016 ;)" >}}
+{{< figure src="/wp-content/uploads/2025/01/monatsbericht-leuchtturm.jpeg" caption="Weniger Leuchtturmprojekte – Mehr Infrastrukturförderung. Unsere Rede mindestens seit 2016 ;)" >}}
 
 Neben all diesen Besonderheiten war das Haus auch im Dezember wieder für das regelmäßige Programm von uns und unseren Mitbewohner\*innen des Haus der Nachhaltigkeit geöffnet – gemeinsam haben wir es im Dezember geschafft, dass fast nur an den Weihnachtsfeiertagen selbst _kein_ Programm im Haus war.
 

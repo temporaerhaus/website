@@ -50,7 +50,7 @@ Damit das klappt, trafen wir im Januar zwei Mal, um uns mit Sicherheitsregeln un
 Weitere Termine dafür werden wir das ganze Jahr über immer wieder haben.
 Und natürlich ist das alles auch eine Metapher.
 
-{{< figure src="/wp-content/uploads/2025/01/monatsbericht-heizung.jpeg" caption="Evidenzbasierte Heizoptimierung mit jeder Menge Sensorik, Versuchen und aktiver Belüftung von Heizkörpern. Vielen Dank an die Arbeitsgruppe Einheizgreis!" >}}
+{{< figure src="/wp-content/uploads/2025/01/monatsbericht-heizung.jpg" caption="Evidenzbasierte Heizoptimierung mit jeder Menge Sensorik, Versuchen und aktiver Belüftung von Heizkörpern. Vielen Dank an die Arbeitsgruppe Einheizgreis!" >}}
 
 Daneben macht sich gerade eine Gruppe Aktiver an die Herausforderung, das alte Gemäuer mit seinen riesigen Schaufensterflächen halbwegs energieeffizient zu beheizen.
 Direkt nach dem Einzug hatten wir uns erst einmal darauf konzentriert, möglichst reduziert zu heizen und Kältebrücken zu dämmen – beispielsweise haben wir die riesigen Spalte der Glastüren am Eingang mit Dichtlippen versehen und [einen Molton-Vorhang vor der Türe installiert.](/der-sprudelfaktor-monatsbericht-januar-2024/#weitere-umbauarbeiten-im-sposo)

@@ -15,7 +15,7 @@ tags:
   - Wikidata
   - SPARQL
 images: 
-  - /wp-content/uploads/2025/02/tonstudio.jpg
+  - /wp-content/uploads/2025/03/Willkommen_zu_Mit_Wikipedia_unterwegs_Neu-Ulm_2024.jpg
 ---
 
 Im Februar waren wir einmal mehr Veranstaltungsort für eine Veranstaltung für Wikipedianer\*innen aus dem deutschsprachigen Raum: [Mit Wikipedia unterwegs](https://de.wikipedia.org/wiki/Wikipedia:Mit_Wikipedia_unterwegs) heißt das Veranstaltungsformat von Wikimedia Deutschland, bei dem sich rund 30 Erfahrenere mit weniger erfahrenen Ehrenamtlichen treffen und sich gegenseitig Tipps und Kniffe zu den Wikiprojekten beibringen.
@@ -25,6 +25,8 @@ Wie auch schon bei den vorangegangenen zwei Ausgaben verschwammen bei [der Veran
 Denn das macht auch den Charme dieses Formats aus: Anders als Einführungskurse, die sich oft rein auf die Wikipedia fokussieren, geht es bei „mWu“ häufig darum, Wikipedia, Wikidata und [Wikimedia Commons](https://commons.wikimedia.org/) als miteinander verzahntes, sich gegenseitig unterstützendes Ökosystem zu sehen.
 
 Wir konnten bereits von der [WikiCon 2024](https://de.wikipedia.org/wiki/Wikipedia:WikiCon_2024) Inspirationen für solche verzahnten Projekte mitnehmen. Beim [Straßenprojekt Neu-Ulm und Ulm](https://www.wikidata.org/wiki/Wikidata:WikiProject_tempor%C3%A4rhaus/wikidata_completes_streets_in_Ulm_and_Neu-Ulm) pflegen wir beispielsweise die Daten aller Innerortsstraßen in der Doppelstadt. Inspiriert [von einem ähnlichen Projekt in Chemnitz](https://de.wikipedia.org/wiki/Benutzer:Kleeblatt187/Chemnitz/Stra%C3%9Fen) ist es hier vergleichsweise einfach für interessierte neue Beitragende, einfach ein Foto eines Straßenschilds in der Nachbarschaft auf Wikimedia Commons hochzuladen, von dem es bislang noch kein Foto gibt. Und durch die Zuordnung, nach wem eine Straße benannt ist, lassen sich auch statistische Auswertung beispielsweise über die Geschlechterverteilung bei den Namensgeber\*innen von Straßen machen.
+
+{{< figure src="/wp-content/uploads/2025/03/2025-02_MwU_NU_P1046967.jpg" caption="Neben Austausch gab es auch Kuchen!" >}}
 
 In eine ähnliche Kerbe schlägt auch das [Stolpersteine-Projekt](https://de.wikipedia.org/wiki/Benutzer:Cookroach/Projekt:Stolpersteine), das Wikidata, Wikipedia und Wikimedia Commons verknüpft. Einer der Initiatoren des Projekts war nicht nur zum Mit-Wikipedia-unterwegs-Wochenende in Neu-Ulm, sondern berichtete dieser Tage auch [in einem Blogpost von den Ideen hinter dem Projekt.](https://blog.wikimedia.de/2025/03/05/digitale-stolpersteine/) Wir finden die Idee und den Wissenstransfer in diesem Projekt klasse – die Verbindung mit anderen Projekten Freien Wissens wie [OpenStreetMap](https://www.openstreetmap.org/) liegt geradezu auf der Hand. Und am Ende profitiert dadurch das gesamte System Freien Wissens und offener Plattformen als Gegenmodell zu profitorientierten Angeboten.
 

@@ -2,7 +2,7 @@
 sticky: false
 title: Mit Wikipedia unterwegs – diesmal in Neu-Ulm
 author: Community
-date: 2025-03-08T06:07:23.000Z
+date: 2025-03-08T06:13:12.000Z
 draft: false
 categories:
   - news

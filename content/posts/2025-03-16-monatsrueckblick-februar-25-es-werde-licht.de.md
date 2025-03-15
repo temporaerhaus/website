@@ -19,6 +19,8 @@ Was dabei passierte und was unsere lokale Gruppe dabei über Wikidata und Talksh
 Im Februar waren wir zudem – wie vermutlich alle – sowohl mit der Bundestagswahl als auch den Veränderungen in den USA und ihren Auswirkungen beschäftigt. 
 Die sich immer weiter ändernden Bedingungen insbesondere in der IT-Tech-Welt werfen für unsere beiden Vereine Fragen auf: Auf welchen Plattformen wollen wir künftig sein, welche Systeme wollen wir weiter nutzen – und welche ausdrücklich nicht mehr.
 
+{{< figure src="/wp-content/uploads/2025/03/monatsbericht-fedipol.png" caption="Welche Parteien sind im Fediverse aktiv? Der Zustand auf [fedipol](https://rstockm.github.io/fedipol/) zum Zeitpunkt des Monatsberichts." >}}
+
 Der Berliner Podcaster und Bibliothekar Ralf Stockmann hat sich darüber ebenfalls Gedanken gemacht und [mit Hilfe von Wikidata analysiert, welche Politiker\*innen und Parteien im Fediverse Accounts haben und pflegen.](https://chaos.social/@rstockm/114048015759874041) 
 Im Gegensatz zu den großen sozialen Netzwerken im Eigentum von Konzernen oder Milliardären ist das [Fediverse](https://de.wikipedia.org/wiki/Fediverse) ein verteiltes, unabhängiges System, das nicht so einfach für populistische Meinungsbildung missbraucht werden kann. 
 [Ralfs Analyse lässt sich hier einsehen!](https://rstockm.github.io/fedipol/)

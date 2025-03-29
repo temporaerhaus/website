@@ -2,7 +2,7 @@
 sticky: false
 title: Was fördert, was behindert geschlechtsneutrales Deutsch?
 author: Community
-date: 2025-03-28T16:13:12.000Z
+date: 2025-03-29T15:13:12.000Z
 draft: false
 categories:
   - news

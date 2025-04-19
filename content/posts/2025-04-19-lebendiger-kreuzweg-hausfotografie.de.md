@@ -33,5 +33,6 @@ Mit dem Lebendigen Kreuzweg haben wir ganz nebenbei auch einen Meilenstein errei
 **Auch Du kannst dazu beitragen, dieses Archiv auszubauen** und dazu reicht meist schon Deine Smartphone-Kamera!
 Mit [**WikiShootMe**](https://wikishootme.toolforge.org/) kannst Du Dir auf einer Karte anzeigen lassen, von welchen Dingen in Deiner Umgebung ein illustrierendes Foto hilfreich wäre.
 Das können Denkmäler sein, in Ulm und Neu-Ulm derzeit aber vor allem auch Ansichten von Straßen und Straßennamensschildern, [die wir gerade in einem WikiProjekt vollständig mit Daten und Fotos abbilden möchten](https://www.wikidata.org/wiki/Wikidata:WikiProject_tempor%C3%A4rhaus/wikidata_completes_streets_in_Ulm_and_Neu-Ulm).
+
 Für Android kannst Du hierfür auch die [Commons-App nutzen](https://commons.wikimedia.org/wiki/Commons:Mobile_app/de), die Dir auch direkt die Objekte mit gewünschten Fotos in der Umgebung anzeigen kann.
 Und falls Du mehr darüber herausfinden möchtest, komm doch einfach bei einem unserer Open-Data-Montage vorbei – der nächste ist trotz Feiertag am Ostermontag, die weiteren Termine findest Du [wie immer im Kalender!](/termine-und-oeffnungszeiten/)

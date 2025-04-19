@@ -9,6 +9,7 @@ categories:
   - monatsbericht
 tags:
   - transparenz
+  - Hausfotografie
 images:
   - /wp-content/uploads/2025/04/monatsbericht-titel.jpg
 ---

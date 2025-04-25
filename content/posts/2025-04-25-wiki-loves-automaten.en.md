@@ -1,0 +1,1 @@
+2025-04-25-wiki-loves-automaten.de.md

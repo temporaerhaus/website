@@ -14,6 +14,7 @@ slug: presse
 [<button>2022</button>](#2022)
 [<button>2023</button>](#2023)
 [<button>2024</button>](#2024)
+[<button>2025</button>](#2025)
 
 ### 2016
 
@@ -153,6 +154,10 @@ slug: presse
   * [Neu-Ulmer Zeitung][121]: Nachhaltigkeitszentrum im ehemaligen Sport-Sohn feiert einjähriges Bestehen <small>23.09.2024</small>
   * [Ulm-News][122]: Infotag: Wikidata und die KI <small>13.11.2024</small>
   * [Neu-Ulmer Zeitung][123]: Bundesweites Vernetzungstreffen von Häusern der Nachhaltigkeit und des Engagements in Neu-Ulm <small>25.11.2024</small>
+  
+### 2025
+  * [Schwäbische][124]: Sie ist eine der wenigen Frauen hinter Wikipedia – und das stört sie gewaltig <small>mit Video, (08.04.2025)</small>
+  * [Regio-TV][125]: Wie kann die Wikipedia diverser werden? Wir fragen bei einer Wikipedianerin nach <small> (08.04.2025)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -272,3 +277,5 @@ slug: presse
  [121]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-ehemaliges-sport-sohn-wird-kreativzentrum-fuer-nachhaltigkeit-103068938
  [122]: https://www.ulm-news.de/weblog/ulm-news/view/dt/3/article/98042/Infotag%3A_Wikidata_und_die_KI.html
  [123]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-bundesweites-vernetzungstreffen-von-haeusern-der-nachhaltigkeit-und-des-engagements-in-neu-ulm-103658433
+ [124]: https://www.schwaebische.de/regional/ulm-alb-donau/ulm/sie-ist-eine-der-wenigen-frauen-hinter-wikipedia-und-das-stoert-sie-gewaltig-3478530
+ [125]: https://www.regio-tv.de/mediathek/video/wie-kann-die-wikipedia-diverser-werden-wir-fragen-bei-einer-wikipedianerin-nach/

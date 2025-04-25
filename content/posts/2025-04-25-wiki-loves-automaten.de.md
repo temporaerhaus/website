@@ -2,7 +2,7 @@
 sticky: false
 title: Kennst Du spannende Automaten in Neu-Ulm und Ulm?
 author: Stefan Kaufmann
-date: 2025-04-25T14:13:37.000Z
+date: 2025-04-25T14:03:37.000Z
 draft: false
 categories:
   - news

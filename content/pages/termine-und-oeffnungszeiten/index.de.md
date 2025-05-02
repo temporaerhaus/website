@@ -5,7 +5,7 @@ type: page
 
 ---
 
-<iframe style="border-width: 0;" width="100%" height="600" src="https://cal.ech0.fiber.garden/" frameborder="0" scrolling="yes"></iframe>
+<iframe style="border-width: 0;" width="100%" height="600" src="https://cal.fiber.garden/" frameborder="0" scrolling="yes"></iframe>
 <small><a href="/calendar/public.ics">Kalender abonnieren (<code>.ics</code>-Datei)</a></small><br/><br/>
 
 Auch außerhalb dieser Termine ist immer wieder offen – folge uns am besten [auf Mastodon](https://chaos.social/@temporaerhaus)! ([Twitter/X](https://twitter.com/temporaerhaus) haben wir inzwischen verlassen)

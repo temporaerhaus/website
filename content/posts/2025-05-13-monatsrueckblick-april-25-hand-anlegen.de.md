@@ -2,7 +2,7 @@
 sticky: false
 title: Monatsrückblick April 2025 – Hand anlegen an die Gesellschaft
 author: Community
-date: 2025-05-13T13:12:10.000Z
+date: 2025-05-12T13:12:10.000Z
 draft: false
 categories:
   - news
@@ -33,7 +33,7 @@ Vielen lieben Dank an alle FemNetz-Aktiven und die Orga von WMDE, dass ihr euch 
 
 {{< figure src="/wp-content/uploads/2025/05/monatsbericht-automaten.jpg" caption="Live getestet: Der linke Schacht des Gedichteautomaten gibt Gedichte aus, der rechte funktionierte leider beim Test nicht." >}}
 
-Wir haben im April auch selber an vielen Stellen für Freies Wissen gesorgt. 
+Wir haben im April auch selbst an vielen Stellen für Freies Wissen gesorgt. 
 
 Ganz besonders freut uns dabei, dass sich mittlerweile auch wieder verschiedene Teile der örtlichen öffentlichen Verwaltung mit uns austauschen. 
 Denn auch der Austausch von Wissen und Erfahrungen aus dem Digitalen Ehrenamt mit der Verwaltung gehört zu den Gründungsideen, warum es uns gibt!

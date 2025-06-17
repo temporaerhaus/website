@@ -41,5 +41,10 @@ Seit der Entstehung unserer Gemeinschaft ist viel passiert. Hier eine kleine Üb
   * **September 2023** Nach mehreren Monaten Umbau [eröffnen wir die neuen Räume zur Kulturnacht](/go-for-launch-monatsbericht-september-2023/)].
   * **November 2023** Wir konnten erneut eine [Förderung durch die DSEE](/jahresendfieber-monatsbericht-november-2023/) einwerben, mit der wir die durch unseren Umzug entstandenen Lücken füllen und unsere Fähigkeiten ausbauen können
   * **März 2024** Die LokaliCon, [das deutschlandweite Treffen der Lokalen Community-Räume](/lokalicon-treffen-der-lokalen-community-raeume/) findet bei uns statt. Außerdem beginnen wir mit dem [Aufbau eines Ateliers](/auf-zur-sommerzeit-monatsbericht-maerz-2024/)
-  * **April 2024** Das [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) startet wieder
+  * **April 2024** Das [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) startet wieder.
+  * **Juli 2024** Wir haben nun auch eine [Töpferwerkstatt](https://temporaerhaus.de/lokalfeiertag-monatsbericht-juli-2024/). 
+  * **November 2024** Das Treffen der Jungwikipedianer findet [bei uns statt](https://de.wikipedia.org/wiki/Wikipedia:Jungwikipedianer/Treffen/2024-II).
+  * **Dezember 2024** Wir sind wieder beim [38C3 vor Ort](https://temporaerhaus.de/hausi-beim-38c3-hamburg-oder-congress-everywhere/).
+  * **März 2025** Die Veranstaltung "Mit Wikipedia unterwegs" findet [in unserem Lokalen Raum statt](https://temporaerhaus.de/mit-wikipedia-unterwegs-25/).
+  * **April 2025** Die FemNetzCon von Wikimedia [findet auch bei uns statt](https://temporaerhaus.de/monatsrueckblick-april-25-hand-anlegen/).
   

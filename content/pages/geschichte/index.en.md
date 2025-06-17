@@ -41,4 +41,8 @@ A lot has happened since our community came to be. Here is a small overview &mda
   * **September 2023** After several months of renovations [we open our new rooms to the public](/go-for-launch-monatsbericht-september-2023/)].
   * **November 2023** We were able to secure another [grant from the DSEE](/jahresendfieber-monatsbericht-november-2023/). This enabled us to fill the gaps caused by our move from Ulm and to extend our capabilities
   * **März 2024** LokaliCon, [the meetup of all German local Community Spaces](/lokalicon-treffen-der-lokalen-community-raeume/) took place at temporärhaus. Also, we began [implementing an artist's workshop](/auf-zur-sommerzeit-monatsbericht-maerz-2024/)
-  * **April 2024** [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) rebootet
+  * **April 2024** [Jugend hackt Lab](/das-jugend-hackt-lab-startet-wieder-nun-in-neu-ulm/) rebootet.
+  * **November 2024** The meeting of the Jungwikipedianer takes [place at our location](https://de.wikipedia.org/wiki/Wikipedia:Jungwikipedianer/Treffen/2024-II).
+  * **Dezember 2024** We are again visiting the [38C3](https://temporaerhaus.de/hausi-beim-38c3-hamburg-oder-congress-everywhere/).
+  * **März 2025** The event "Mit Wikipedia unterwegs" takes [place at our Lokalen Raum](https://temporaerhaus.de/mit-wikipedia-unterwegs-25/).
+  * **April 2025** The event "FemNetzCon" of Wikimedia [takes place at our location](https://temporaerhaus.de/monatsrueckblick-april-25-hand-anlegen/).

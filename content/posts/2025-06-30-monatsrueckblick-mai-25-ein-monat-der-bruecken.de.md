@@ -27,7 +27,7 @@ Dieses Krankheitsbild ist in der allgemeinen Öffentlichkeit immer noch nur bedi
 Wir haben gemeinsam mit dem [Haus der Nachhaltigkeit](https://www.h-d-n.org/) zum Aktionstag beigetragen, indem wir am 12. Mai alle Schaufenster des SpoSo-Gebäudes in blaues Licht getaucht haben. 
 Wer mehr über ME/CFS erfahren möchte, kann das unter anderem auf [der Website der deutschen Gesellschaft für ME/CFS](https://www.mecfs.de/) tun!
 
-{{< figure src="/wp-content/uploads/2025/06/monatsbericht-hbf.jpg" caption="Ganz schön viel Baustelle. So sieht es gerade aus, wenn man durch den Bauzaun vor dem Haupteingang durchspitzelt." >}}
+{{< figure src="/wp-content/uploads/2025/06/monatsbericht-hbf.jpg" caption="Ganz schön viel Baustelle. So sieht es gerade aus, wenn man durch den Bauzaun vor dem Haupteingang des Hauptbahnhofs durchspitzelt." >}}
 
 Der gesamte Monat war außerdem noch viel intensiver als sonst von Beiträgen zu Freiem Wissen geprägt. 
 Zum 1. Juni sollte [der Wikipedia-Artikel zum Ulmer Hauptbahnhof](https://de.wikipedia.org/wiki/Ulm_Hauptbahnhof) prominent als [Artikel des Tages](https://de.wikipedia.org/wiki/Wikipedia:Hauptseite/Artikel_des_Tages) auf der Wikipedia-Startseite platziert werden – denn am 1. Juni wurde der Hauptbahnhof offiziell als Bahnhof der [Württembergischen Südbahn](https://de.wikipedia.org/wiki/Bahnstrecke_Ulm%E2%80%93Friedrichshafen) eröffnet. 

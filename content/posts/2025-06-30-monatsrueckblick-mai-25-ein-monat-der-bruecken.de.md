@@ -14,11 +14,11 @@ images:
   - /wp-content/uploads/2025/06/monatsbericht-titel.jpg
 ---
 
-Wir trotzen der Hitze – auch im Sommer ist so viel los bei uns, dass dieser Rückblick… etwas länger gedauert hat 😅 Neben dem gewohnten „normalen“ Programm gab es im Mai rückblickend überraschend viele Sonderaktionen, die wir auflisten können.
+Wir trotzen der Hitze – auch im Sommer ist so viel los bei uns, dass dieser Rückblick… etwas länger gedauert hat 😅 Neben dem gewohnten „normalen“ Programm gab es im Mai überraschend viele Sonderaktionen, die wir auflisten können.
 
 Im Mai ist eine professionelle, mit LoRaWAN/[The Things Network](https://www.thethingsnetwork.org/) arbeitende Wetterstation zu uns gewandert, die seither auf dem Dach des SpoSo-Gebäudes Daten misst und mit der Welt teilt. 
 Wir haben diese Station und eine weitere Station im Tierpark aus dem mittlerweile beendeten [KLUGA-Projekt](https://www.uni-ulm.de/nawi/nawi-wichem/forschung/verbundprojekt-kluga/) übernommen, in dem der bei uns beheimatete [ehrenamtliche Part der regionalen TTN-Gruppe](https://lora.ulm-digital.com/) Projektpartner war. 
-Alle Daten sind unter anderem [über ein Dashboard abrufbar,](https://grafana.ttnulm.de/public-dashboards/1794b568e22744acb9fcbb38fd4bc6da) in maschinenlesbarer Form können sie zudem derzeit aus dem [Datenhub der Stadt Ulm](https://datenhub.ulm.de/ckan/dataset/kluga-klimawandelanpassung-in-ulm-durch-sensorgestutzte-internet-of-things-iot-anwendungen/resource/ddf91cec-e88e-4e7d-899d-c5f987076f25) abgerufen und wiederverwendet werden!
+Alle Daten sind unter anderem [über ein Dashboard abrufbar](https://grafana.ttnulm.de/public-dashboards/1794b568e22744acb9fcbb38fd4bc6da). In maschinenlesbarer Form können sie zudem derzeit aus dem [Datenhub der Stadt Ulm](https://datenhub.ulm.de/ckan/dataset/kluga-klimawandelanpassung-in-ulm-durch-sensorgestutzte-internet-of-things-iot-anwendungen/resource/ddf91cec-e88e-4e7d-899d-c5f987076f25) abgerufen und wiederverwendet werden!
 
 {{< figure src="/wp-content/uploads/2025/06/monatsbericht-mecfs.jpg" caption="Alle Schaufenster blau beleuchtet – und das Matelight zeigt mecfs.de an" >}}
 
@@ -47,21 +47,21 @@ Das war aber nicht die einzige Foto- und Freies-Wissen-Tour, für die Ehrenamtli
 
 Und als sei das alles nicht genug, gab es im Mai noch eine weitere „Brückenveranstaltung“: Das [Deutsche Musikfest](https://de.wikipedia.org/wiki/Deutsches_Musikfest) fand parallel zum Abbruch in beiden Städten statt, ausgerechnet unter dem Motto „Musik baut Brücken“.
 
-Hunderte Musikkapellen waren auf vielen Plätzen und Bühnen in Neu-Ulm und Ulm zu sehen und zu hören und trotzden selbst dem Unwetter am Samstagabend und dem sporadischen Regen am Sonntag. Auch dies alles [haben wir mit Hauskamera und -Drohne](https://commons.wikimedia.org/wiki/Category:Deutsches_Musikfest_2025) eingefangen – umso wichtiger, da es bis dahin noch gar keine Bebilderung des Musikfests unter Freier Lizenz gab!
+Hunderte Musikkapellen waren auf vielen Plätzen und Bühnen in Neu-Ulm und Ulm zu sehen und zu hören und trotzten selbst dem Unwetter am Samstagabend und dem sporadischen Regen am Sonntag. Auch dies alles [haben wir mit Hauskamera und -Drohne](https://commons.wikimedia.org/wiki/Category:Deutsches_Musikfest_2025) eingefangen – umso wichtiger, da es bis dahin noch gar keine Bebilderung des Musikfests unter Freier Lizenz gab!
 
 {{< figure src="/wp-content/uploads/2025/06/monatsbericht-vermessung.jpg" caption="(Ehren)amtliche Vermessungsarbeiten!" >}}
 
 Dass wir das Know-How, wie wir Freies Wissen produzieren und teilen können, an die nächsten Generationen weitergeben, ist Teil unserer DNA: Seit [dem ersten „Jugend hackt“ an der Uni Ulm](https://jugendhackt.org/event-rueckblick/ulm-2015/) vor 10 Jahren(!) vermitteln wir diese Werte an Kinder und Jugendliche. Damals wurde nicht nur der Grundstein für einen physischen Ort in der Stadt gelegt, sondern auch für unsere Nachwuchsarbeit!
 
-Beim Jugend hackt Lab im Mai boten wir einen [StreetComplete](https://streetcomplete.app/)-Workshop an, wie spielerisch die Qualität der Freien Weltkarte [OpenStreetMap](https://www.openstreetmap.org/) verbessert werden kann.
+Beim Jugend hackt Lab im Mai boten wir einen [StreetComplete](https://streetcomplete.app/)-Workshop darüber an, wie spielerisch die Qualität der Freien Weltkarte [OpenStreetMap](https://www.openstreetmap.org/) verbessert werden kann.
 
-Nach einer Einführung von [looniverse](https://mastodon.social/@looniverse) gingen wir mit den Jugendlichen auf Tour und suchten Challenges: Gemeinsam tasteten wir uns an die App heran, indem wir Öffnungszeiten von Geschäften eingetragen und Straßenbreiten vermessen haben. Danach ging es in Teams auf die Jagd: Höhenbegrenzungen von Tiefgaragen, die Anzahl von Treppenstufen, barrierefreie Eingangsbereiche, Ampeln mit taktilen Markierungen und die Beleuchtung von Haltestellen sind nur ein paar der Dinge, die sich in OpenStreetMap eintragen lassen. Das hilft beispielsweise Menschen, die auf Barrierefreiheit angewiesen sind. Und wenn diese Informationen in der OpenStreetMap verzeichnet sind und nicht nur in kommerziellen Kartendiensten, können diese Informationen auch frei für spezialisierte Anwendungen wiederverwendet werden.
+Nach einer Einführung von [looniverse](https://mastodon.social/@looniverse) gingen wir mit den Jugendlichen auf Tour und suchten Challenges: Gemeinsam tasteten wir uns durch Eintragung von Öffnungszeiten von Geschäften und die Vermessung von Straßenbreiten an die App heran. Danach ging es in Teams auf die Jagd: Höhenbegrenzungen von Tiefgaragen, die Anzahl von Treppenstufen, barrierefreie Eingangsbereiche, Ampeln mit taktilen Markierungen und die Beleuchtung von Haltestellen sind nur ein paar der Dinge, die sich in OpenStreetMap eintragen lassen. Das hilft beispielsweise Menschen, die auf Barrierefreiheit angewiesen sind. Und wenn solche Informationen in der OpenStreetMap verzeichnet sind und nicht nur in kommerziellen Kartendiensten, können diese Informationen auch frei für spezialisierte Anwendungen wiederverwendet werden.
 
 Als Abschluss gab es Eis für alle Teilnehmenden – denn Engagement für Freies Wissen soll belohnt werden!
 
 {{< figure src="/wp-content/uploads/2025/06/monatsbericht-strassen.jpg" caption="Nur einer von vielen Ordnern: Wer ist eigentlich dieser Bürgermeister Schiele? Stellt sich heraus, es sind gleich zwei. Nämlich [Jakob](https://www.wikidata.org/wiki/Q107126667) und [Johann Georg](https://www.wikidata.org/wiki/Q107126981)." >}}
 
-Was uns ganz besonders freut: Der Austausch mit der Stadt Neu-Ulm und anderen offiziellen Stellen in Ulm klappt immer besser! Neben Jugendarbeit und einem immer weiteren Communitywachstum ist schließlich auch der Wissenstransfer in die Verwaltung hinein eine unserer Gründungsmotivationen gewesen.
+Was uns ganz besonders freut: Der Austausch mit der Stadt Neu-Ulm und anderen offiziellen Stellen in Ulm klappt immer besser! Neben Jugendarbeit und einem immer weiteren Communitywachstum war schließlich auch der Wissenstransfer in die Verwaltung hinein eine unserer Gründungsmotivationen.
 
 Im Mai konnten wir beispielsweise unseren bestehenden Austausch mit Menschen aus der Stadtverwaltung zum aktuellen Hypethema „Künstliche Intelligenz“ fortsetzen. Wo eignen sich die aktuell für alles als Lösung vorgeschlagenen Chatbots überhaupt für öffentliche Aufgaben? Und an welchen Stellen können unsere Erfahrungen mit Linked Data und Wissensgraphen [die für eine Verwaltung langfristig bessere Option sein?](https://www.wikimedia.de/wp-content/uploads/2025/06/Generative-KI-in-der-Verwaltung-Einzelseiten.pdf) Wir sind total gespannt, wie der Austausch weitergeht und welchen Beitrag wir in die Diskussion einbringen können!
 

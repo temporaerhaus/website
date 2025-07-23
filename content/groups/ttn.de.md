@@ -1,5 +1,5 @@
 ---
-title: LoRaWAN / TTN
+title: LoRaWAN, TTN und Lötlabor
 slug: ttn
 menu: 
   main:
@@ -8,30 +8,34 @@ menu:
 type: page
 ---
 
-Wir treffen uns jeden zweiten Mittwoch zum Thema LoRaWAN/The Things Network (TTN). Im weiteren Sinne geht's also um dieses “Internet of Things” und darüber wollen wir nicht abstrakt faseln, sondern selber machen, ausprobieren was möglich ist und dann gerne, aber eben auf dieser Basis, philosophieren.
+Wir treffen uns jeden zweiten Mittwoch zum Thema LoRaWAN / The Things Network (TTN) sowie allen Themen rund um Elektronik. Im weiteren Sinne geht's also um Internet of Things, E-Technik, Platinen, Löten, Funken und vieles mehr. Und darüber wollen wir nicht abstrakt faseln, sondern selber machen, ausprobieren was möglich ist und dann gerne, aber eben auf dieser Basis, philosophieren.
 
-Im vierwöchentlichen Wechsel gibt's einmal einen “Offenen Abend” und einmal den “Bastelabend”:
+ Die Abende stehen auch unter dem Motto "Hilfe zur Selbsthilfe". Sprich, wir sind kein Reparaturcafé oder ähnliches, sondern treffen uns zum Erfahrungsaustausch, zum Weiterführen eigener Projekte, zum Starten neue  Projekte oder einfach nur zum gemütlich zusammen sitzen. Eure defekten Elektronikgeräte können (und wollen) wir leider nicht reparieren.
 
-* Beim **OFFENEN ABEND** haben wir Zeit für alle deine/eure Fragen und Ideen. Alle Anwesenden und das Kernteam erklären gerne alles zum Thema und zwar von A bis Z. Manchmal gibt's zum Anfang vielleicht sogar einen Vortrag.
-* Beim **BASTELABEND** soll Zeit sein an konkreten Projekten zu arbeiten. Auch hier sind natürlich alle willkommen und vor allem könnt' ihr eure eigenen Bastelprojekte mitbringen um daran zu arbeiten – Werkzeug und Unterstützung ist vorhanden. Evtl. hat das Kernteam an diesem Abend aber leider nicht Zeit Neulingen alle Grundlagen ganz in Ruhe zu erklären. Das soll aber niemanden vom Reinschauen abhalten.
+Vor allem könnt' ihr aber eure eigenen Projekte mitbringen, um daran zu arbeiten – Werkzeug und Unterstützung ist vorhanden. Eventuell hat das Kernteam auch mal Zeit Neulingen alle Grundlagen ganz in Ruhe zu erklären. Versprechen können wir das aber nicht, manchmal ist einfach keine Zeit.
 
 **Regelmäßige Termine**
 
-Alle zwei Wochen am Mittwochabend, ab 18:30 Uhr.
-
-Dabei gibt's im vierwöchentlichen Wechsel einmal einen “Offenen Abend” und einmal den “Bastelabend”. komm' rein und einfach durchgehen, bis zum Lötlabor. Wenn du dich nicht zurecht findest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
+Alle zwei Wochen am Mittwochabend, ab 18:30 Uhr. Komm' rein und einfach durchgehen, bis zum Lötlabor. Wenn du dich nicht zurechtfindest, trau' dich gerne jede:n anzusprechen. Manchmal ist in den vorderen Räumen wenig Licht an, lass' dich davon nicht aufhalten und komm nach hinten.
 
 Den nächsten Termin findest du im [Kalender](/termine-und-oeffnungszeiten/).
 
 **Kontakt**
 
-* Twitter: <https://twitter.com/ttn_ulm/>, bei Bedarf auch gerne DM.
-* Channel im Haus-internen Slack: #ttn
 * Mail: info (ätt) ttnulm (pünkt) de
+* Channel im Haus-internen Slack: #loetlabor-und-lorawan
 
 ## Projekte
 
 Im Umfeld des Hauses sind unzählige spannende Projekte mit LoRaWAN entstanden. Im Folgenden eine kleine Auswahl.
+
+### Wetterstation auf dem temporärhaus und im Tiergarten Ulm
+
+Seit Sommer 2025 haben wir zwei professionelle Wetterstationen, die uns zum Ende des KLUGA Projektes an der Uni Ulm übergeben wurden. Eine steht bei uns auf dem Dach des temporärhauses, die andere im Tiergarten Ulm in der Friedrichsau.
+
+Aktuell zeigen wir die Daten auf einem öffentlichen Dashboard an, vielleicht gibt es auch irgendwann nochmal eine API oder ähnliches.
+
+[Öffentliches Grafana-Dashboard mit allen Daten](https://grafana.ttnulm.de/public-dashboards/1794b568e22744acb9fcbb38fd4bc6da)
 
 ### Münsterplatine
 

@@ -37,7 +37,7 @@ Und wie quasi jeden Monat waren wir zudem mit Hauskamera und Drohne unterwegs, u
 
 Damit sich noch mehr unserer Aktiven mit der Kamera auskennen, gab es im Juli auch einen Erfahrungsaustausch-Workshop mit unserem sehr improvisierten Fotostudio: Wie beleuchtet man ein zu fotografierendes Objekt, wie funktioniert das mit Blende und Blitz-Leitzahl, und wie bedient man das doch manchmal etwas wackelige Studio, ohne dass man hinterher sieht, dass der Hintergrund die Rückseite eines alten Filmplakats ist :D
 
-{{< figure src="/wp-content/uploads/2025/08/monatsbericht-opendata.jpg" caption="Eine der Projekte beim Open-Data-Montag – Datenpflege bei Wikidata." >}}
+{{< figure src="/wp-content/uploads/2025/08/monatsbericht-opendata.jpg" caption="Eines der Projekte beim Open-Data-Montag – Datenpflege bei Wikidata." >}}
 
 
 Aber auch sonst war im Schnitt wieder beinahe an jedem zweiten Tag des Monats Programm bei uns zu erleben: 

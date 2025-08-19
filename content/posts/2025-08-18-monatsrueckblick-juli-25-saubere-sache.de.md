@@ -25,7 +25,7 @@ Respekt für diesen Einsatz und vielen Dank an Hanna Werner, die uns von dieser 
 {{< figure src="/wp-content/uploads/2025/08/monatsbericht-armadillo.jpg" caption="Ausnahmsweise werden hier nun keine Computerhardwareteile zerlegt, sondern ein sehr besonderes Lastenrad." >}}
 
 Unser Schwerlastrad [Armadillo](https://cargo.temporaerhaus.de/vehicle/velove-armadillo/) war wegen eines kompliziert zu behebenden Schadens eine Zeit lang ausgefallen. 
-Da ohnehin eine Rundum-Wartung angestanden wäre, funktionierte Matthias das Hackcenter im Juli zur Fahrradwerkstatt um und tauschte Ritzel, Bremsbeläge und Schaltöl, führte eine Grundreinigung durch und kontrollierte die Wartungs-Checkliste von oben nach unten und einmal zurück, so dass es nun wieder einsatzbereit und im Verleih ist.
+Da ohnehin eine Rundum-Wartung angestanden wäre, funktionierte Matthias das Hackcenter im Juli zur Fahrradwerkstatt um und tauschte Ritzel, Bremsbeläge und Schaltöl, führte eine Grundreinigung durch und kontrollierte die Wartungs-Checkliste von oben nach unten und einmal zurück, so dass es nun wieder Einsatzbereit und im Verleih ist.
 
 {{< figure src="/wp-content/uploads/2025/08/monatsbericht-fischerstechen.jpg" caption="Ganz eigenes Brauchtum, das es nur in (Neu-)Ulm gibt, und dazu auch nur alle vier Jahre. Klar, dass wir das dokumentierten – die ersten Fotos auf Wikimedia Commons davon seit 2009!" >}}
 
@@ -41,9 +41,9 @@ Damit sich noch mehr unserer Aktiven mit der Kamera auskennen, gab es im Juli au
 
 
 Aber auch sonst war im Schnitt wieder beinahe an jedem zweiten Tag des Monats Programm bei uns zu erleben: 
-Ganze vier Mal traf sich die IT-Sicherheitsgruppe **CTF/PPP,** zwei Mal war das Elektroniklabor beim Treffen der **LoRaWAN/TTN-Gruppe** geöffnet, ebenfalls zwei Mal waren die Türen zum **Open-Data-Montag** geöffnet – einmal davon parallel mit dem Fotografie-Workshop für mehr Freies Wissen. 
+Ganze vier Mal traf sich die IT-Sicherheitsgruppe **CTF/PPP,** zwei Mal war das Elektroniklabor beim Treffen der **LoRaWAN/TTN-Gruppe** geöffnet, ebenfalls zwei Mal waren die Türen zum **Open-Data-Montag** geöffnet – einmal davon parallel mit dem Fotografie-Workshop für mehr freies Wissen. 
 Auch das **Nähcafé**, **RAD-ikal technisch**, der **OpenStreetMap-Stammtisch** und das **Jugend hackt Lab** fanden turnusgemäß statt. 
-Weil der andere Termin auf den Schwörmontag fiel, gab es im Juli nur einen offenen Werkstattabend des **Maker Monday** mit Fablab und Holz- und Metallwerkstatt – das wird hoffentlich durch den September wieder gut gemacht, in dem es drei passende Montage geben wird.
+Weil der andere Termin auf den Schwörmontag fiel, gab es im Juli nur einen offenen Werkstattabend des **Maker Monday** mit Fablab, Holz- und Metallwerkstatt – das wird hoffentlich durch den September wieder gut gemacht, in dem es drei passende Montage geben wird.
 
 Neben einer ganzen Reihe weiterer interner Organisations- und Arbeitstermine trafen wir uns im Juli zudem zu einem gemeinsamen **Hausabend** für gemeinsame Ideenentwicklung und Absprachen. 
 Und nachdem uns die in den letzten Jahren immer häufiger werdenden Starkregenereignisse immer wieder unangenehme Folgen beschert hatten, haben wir im Juli in mehreren Arbeitseinsätzen diverse Fallrohre und Schlammeimer gereinigt und eine Quelle regelmäßiger Überschwemmungen mit Folien gesichert.

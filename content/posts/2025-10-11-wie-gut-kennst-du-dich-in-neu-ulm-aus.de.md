@@ -15,7 +15,7 @@ images:
   - /wp-content/uploads/2025/10/guessr.jpg
 ---
 
-Seit über 12 Jahren raten Leute anhand von 360°-Aufnahmen bei [GeoGuessr](https://de.wikipedia.org/wiki/GeoGuessr) und vergleichbaren Spielen, wo eine zufällig ausgewählte Aufnahme gemacht wurde.
+Seit 2013 raten Leute anhand von 360°-Aufnahmen bei [GeoGuessr](https://de.wikipedia.org/wiki/GeoGuessr) und vergleichbaren Spielen, wo eine zufällig ausgewählte Aufnahme gemacht wurde.
 [Seit 2017](https://github.com/blinry/wikidata-guessr/commit/d99166765e4c50f15440b0d5d9bb55ec96fd0db5) gibt es mit dem [Wikidata-Guessr](http://guessr.morr.cc/) von [blinry](https://blinry.org/) auch ein Ratespiel, mit dem man Städte, Parlamentsgebäude, Berge, Achterbahnen oder [beliebige andere Dinge](https://blinry.org/wikidata-guessr/) erraten kann.
 
 Für die Kulturnacht 2025 haben wir [eine eigene Variante von blinrys Wikidata-Guessr mit einem speziellen Augenmerk auf Neu-Ulm gebaut.](https://temporaerhaus.github.io/wikidata-guessr/)

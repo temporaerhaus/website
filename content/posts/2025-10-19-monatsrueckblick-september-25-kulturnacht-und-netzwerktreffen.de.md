@@ -8,7 +8,6 @@ categories:
   - news
   - monatsbericht
   - jugend-hackt-lab
-  - 
 tags:
   - transparenz
   - jugend-hackt

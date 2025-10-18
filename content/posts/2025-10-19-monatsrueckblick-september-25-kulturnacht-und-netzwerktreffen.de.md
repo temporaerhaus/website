@@ -30,6 +30,7 @@ Die Nachfrage war dabei so groß, dass sich zwischenzeitlich sogar Warteschlange
 
 Später hatte das HdN für die Bühne Improtheater und Livemusik organisiert, während bei uns Installationen mit GameBoy-Kameras, Fernseh-Störungsbildern, Ratespielen wie dem [Wikidata-Guessr](/wie-gut-kennst-du-dich-in-neu-ulm-aus/) oder [WikiTrivia](https://wikitrivia.tomjwatson.com/) und anderen Highlights zum Erkunden und Stöbern einluden. 
 Während der ganzen Zeit gab es Essen und Getränke im Eingangsbereich und die Möglichkeit, die Möglichkeiten in unseren Werkstätten gezeigt zu bekommen.
+Einige Aufnahmen der Kulturnacht unter Freier Lizenz [findet ihr auf Wikimedia Commons!](https://commons.wikimedia.org/wiki/Category:Kulturnacht_2025_at_tempor%C3%A4rhaus_and_Haus_der_Nachhaltigkeit)
 
 {{< figure src="/wp-content/uploads/2025/10/monatsbericht-werkstatt.jpg" caption="Egal ob Shaper-Fräse oder Kreissäge: Die Angebote der Werkstatt stießen den ganzen Abend lang auf Interesse" >}}
 

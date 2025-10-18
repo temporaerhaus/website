@@ -15,7 +15,7 @@ images:
 ---
 
 Es war Ferien- und Urlaubszeit, deswegen ist dieser Rückblick im Telegrammstil – das heißt aber keinesfalls, dass im August nichts los war, im Gegenteil! 
-Nicht zuletzt bereiteten wir auch die Kulturnacht im September vor, wegen der dieser Rückblick auch im Beinahe-Fertig-Modus beinahe drei Monate vor sich herumdümpelte 😅
+Nicht zuletzt bereiteten wir auch die Kulturnacht im September vor, wegen der dieser Rückblick auch im Beinahe-Fertig-Modus beinahe drei Wochen vor sich herumdümpelte 😅
 
 Im August haben wir derweil gleich zwei Zielmarken überschritten: 
 Über 1000 mit unserer Hauskamera angefertigte Fotos und über 100 Fotos und Videos unserer Drohne haben wir mittlerweile auf Wikimedia Commons hochgeladen, so dass sie von der ganzen Welt wiederverwendet werden können. 

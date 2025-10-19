@@ -43,7 +43,7 @@ Unsere Jugend-hackt-Lab-Mentor\*innen waren vom 5.–7. September außerdem beim
 
 Als Temporärhaus hatten wir außerdem einen Beitrag bei der [Herbstakademie an der Uni Ulm](https://www.uni-ulm.de/einrichtungen/zawiw/programmlinien-und-themen/akademiewochen/), wo wir für einen kritischen Umgang mit generativen KI-Systemen und den Unterschieden zu logikbasierten Systemen wie [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) warben.
 
-{{< figure src="/wp-content/uploads/2025/10/monatsbericht-lora.jpg" caption="Nur ein Teil der Ausbeute: Nitek war selber etwas überrascht, wie viele und wie große LoRa-Antennen er da eingekauft hatte :D" >}}
+{{< figure src="/wp-content/uploads/2025/10/monatsbericht-lora.jpg" caption="Nur ein Teil der Ausbeute: Nitek war selbst etwas überrascht, wie viele und wie große LoRa-Antennen er da eingekauft hatte :D" >}}
 
 Nebenbei entspann sich noch ein lustiges Seitenprojekt rund um das freie IoT-Netzwerk [The Things Network (TTN):](https://www.thethingsnetwork.org/) Seit 2016 [beschäftigen wir uns](/gruppen/ttn/) mit [Netzen und Geräten rund um die LoRa-Funktechnik](https://de.wikipedia.org/wiki/Long_Range_Wide_Area_Network) und wollten eigentlich „nur mal schnell“ überlegen, wo wir im ländlichen Umland noch weitere Gateways aufstellen könnten. 
 Wie wir dann herausfanden, sind mittlerweile viele der – vor neun Jahren noch relativ teuren – dafür nötigen Komponenten mittlerweile günstig zu haben. 

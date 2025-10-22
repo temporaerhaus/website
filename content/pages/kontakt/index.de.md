@@ -7,7 +7,6 @@ type: page
   
 E-Mail: kontakt „at“ temporaerhaus.de  
 Mastodon: [@temporaerhaus@chaos.social][1]  
-Twitter: [@temporaerhaus][2]  
 
 *Notfall*rufnummer: +49 731 14116501 (hier **nur** in Notfällen anrufen (Feuer, Einbruch, sonstige Gefahr), das ist keine allgemeine Kontaktrufnummer. Das [Haus der Nachhaltigkeit](https://www.h-d-n.org/) bitte über deren angegebene Kontaktkanäle kontaktieren!)
 
@@ -33,5 +32,4 @@ Eberhardtstr. 43
 89073 Ulm
 
  [1]: https://chaos.social/@temporaerhaus
- [2]: https://twitter.com/temporaerhaus
 

@@ -7,7 +7,6 @@ type: page
 
 E-Mail: kontakt „at“ temporaerhaus.de  
 Mastodon: [@temporaerhaus@chaos.social][1]  
-Twitter: [@temporaerhaus][2]  
 
 Emergency phone number: +49 731 14116501 (**only** for emergency situations, please contact us via E-Mail for general requests. Use the contact information of [Haus der Nachhaltigkeit](https://www.h-d-n.org/) for reaching them.)
 
@@ -35,4 +34,3 @@ Eberhardtstr. 43
 
  
  [1]: https://chaos.social/@temporaerhaus
- [2]: https://twitter.com/temporaerhaus

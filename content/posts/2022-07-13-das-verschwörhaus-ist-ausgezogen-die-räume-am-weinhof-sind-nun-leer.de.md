@@ -4,6 +4,9 @@ author: Gerhard Habiger
 date: 2022-07-13T10:31:24.101Z
 draft: false
 featured_image: /wp-content/uploads/2022/07/foto-10.07.22-21-07-54.jpg
+tags:
+  - Markenrechtsstreit
+  - Panorama
 ---
 Nachdem die Ulmer Stadtspitze sich endgültig entschieden hatte uns aus den bisherigen Räumen [heraushaben zu wollen](/das-verschwoerhaus-zieht-um/), haben wir in den letzten Wochen unsere Sachen gepackt. Wie von der Stadtverwaltung gewünscht verlässt das Verschwörhaus demnach zum heutigen Mittwoch die Räume am Ulmer Weinhof. Die ehemaligen Sparkassenbüros sind damit wieder zu einer leeren Hülle geworden.
 Wie das Haus sich über die Jahre entwickelte, und wie es jeweils vor und nach dem Auszug aussah, kann man in unseren [virtuellen Touren](/tour/) durch das ehemalige Verschwörhaus wunderbar selbst erkunden.

@@ -158,6 +158,9 @@ slug: presse
 ### 2025
   * [Schwäbische][124]: Sie ist eine der wenigen Frauen hinter Wikipedia – und das stört sie gewaltig <small>mit Video, (08.04.2025)</small>
   * [Regio-TV][125]: Wie kann die Wikipedia diverser werden? Wir fragen bei einer Wikipedianerin nach <small> (08.04.2025)</small>
+  * [Südwest Presse][126]: Mietvertrag endet: „Aber es muss einfach weitergehen!“ <small> (12.09.2025)</small>
+  * [Südwest Presse][127]: Stadt sichert Hilfe bei Suche nach neuer Immobilie zu <small> (17.09.2025)</small>
+  * [Neu-Ulmer Zeitung (€)][128]: Leihbar, Reparaturcafé und mehr: Bleibt das Haus der Nachhaltigkeit in Neu-Ulm? <small> (22.09.2025)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -279,3 +282,6 @@ slug: presse
  [123]: https://www.augsburger-allgemeine.de/neu-ulm/neu-ulm-bundesweites-vernetzungstreffen-von-haeusern-der-nachhaltigkeit-und-des-engagements-in-neu-ulm-103658433
  [124]: https://www.schwaebische.de/regional/ulm-alb-donau/ulm/sie-ist-eine-der-wenigen-frauen-hinter-wikipedia-und-das-stoert-sie-gewaltig-3478530
  [125]: https://www.regio-tv.de/mediathek/video/wie-kann-die-wikipedia-diverser-werden-wir-fragen-bei-einer-wikipedianerin-nach/
+ [126]: https://www.swp.de/lokales/ulm/haus-der-zivilgesellschaft-bedroht-mietvertrag-endet-aber-es-muss-einfach-weitergehen-78305408.html
+ [127]: https://www.swp.de/lokales/neu-ulm/neu-ulmer-vereine-in-not-stadt-sichert-hilfe-bei-suche-nach-neuer-immobilie-zu-78317078.html
+ [128]: https://www.augsburger-allgemeine.de/neu-ulm/leihbar-reparaturcafe-und-mehr-bleibt-das-haus-der-nachhaltigkeit-in-neu-ulm-111214232

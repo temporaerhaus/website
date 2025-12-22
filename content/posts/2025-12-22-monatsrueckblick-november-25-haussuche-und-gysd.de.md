@@ -36,6 +36,8 @@ Unsere groben Anforderungen für beide Vereine sind:
 Mehr Informationen zur Suche sowie unsere Anforderungen im Detail findet man auf dieser separaten Unterseite:
 https://temporaerhaus.de/umzug/
 
+Über Hinweise und Tips für geeignete Immobilien würden wir uns freuen.
+
 
 ### GYSD: Get your shit done-Wochenende
 
@@ -62,9 +64,8 @@ Mehr Informationen zum VOW findet man auch in deren tollem [Jahresbericht 2025](
 ### Jugendbasketball fotografiert - Unter freier Lizenz
 Als [Lokaler Raum](https://de.wikipedia.org/wiki/Wikipedia:F%C3%B6rderung/Lokale_Community-R%C3%A4ume) von Wikimedia Deutschland sind wir immer unterwegs, um Stadtgeschichte sowie auch Alltägliches für die Zukunft festzuhalten. Ein einfaches Foto hat vielleicht in 50 Jahren eine Relevanz, an die man heute noch gar nicht denkt. 
 
-Thomas und Felix sind deswegen seit ein paar Monaten im [Jugendbasketball unterwegs](https://commons.wikimedia.org/wiki/Category:2025-12-12_OrangeAcademy_gegen_Fellbach_Flashers) und fotografieren aktuelle und kommende Talente der Region und darüber hinaus. So auch das Heimspiel der Orange Academy gegen die Fellbach Flashers am 12. Dezember. Der Basketballstandort Ulm bietet sich dafür besonders an: Mit ratiopharm ulm ist der Deutsche Meister 2023 vor Ort, sowie mit dem [Orange Campus](https://orangecampus.one/) eines der bekanntesten Ausbildungs- und Trainingszentren Europas an der Donau beheimatet.
+Thomas und Felix sind deswegen seit ein paar Monaten im Jugendbasketball unterwegs und fotografieren aktuelle und kommende Talente der Region und darüber hinaus. So auch die Heimspiel der [Orange Academy gegen die Ahorn Camp Baskets](https://commons.wikimedia.org/wiki/Category:2025-11-02_OrangeAcademy_gegen_Ahorn_Camp_Baskets) am 02. November sowie [gegen die BG Hessing Leitershofen](https://commons.wikimedia.org/wiki/Category:2025-11-14_OrangeAcademy_gegen_BG_Hessing_Leitershofen) am 14. November. Der Basketballstandort Ulm bietet sich dafür besonders an: Mit ratiopharm ulm ist der Deutsche Meister 2023 vor Ort, sowie mit dem [Orange Campus](https://orangecampus.one/) eines der bekanntesten Ausbildungs- und Trainingszentren Europas an der Donau beheimatet.
 
 Und alle Fotos sind natürlich unter freier Lizenz und via [Wikimedia Commons](https://commons.wikimedia.org) abrufbar, damit in Folge Wikipedia-Artikel oder Wikidata-Objekte damit bebildert und verknüpft werden können.
 
-{{< figure src="/wp-content/uploads/2025/12/basketball-orange-academy-vs-fellbach.jpg" caption="Vielleicht der nächste Nowitzki im Bild: Orange Academy gegen Fellbach Flashers - via [Wiki Commons](https://commons.wikimedia.org/wiki/File:2025-12-12_OrangeAcademy_gegen_Fellbach_Flashers_P1100001.jpg)." >}}
-
+{{< figure src="/wp-content/uploads/2025/12/basketball-orange-academy-vs-hessing-leitershofen.jpg" caption="Vielleicht der nächste Nowitzki im Bild: Orange Academy gegen die BG Hessing Leitershofen - via [Wiki Commons](https://commons.wikimedia.org/wiki/File:2025-11-14_OrangeAcademy_gegen_BG_Hessing_Leitershofen_P1090724.jpg)." >}}

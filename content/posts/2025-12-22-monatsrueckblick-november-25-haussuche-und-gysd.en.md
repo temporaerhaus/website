@@ -1,0 +1,1 @@
+2025-12-22-monatsrueckblick-november-25-haussuche-und-gysd.de.md

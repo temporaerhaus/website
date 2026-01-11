@@ -14,7 +14,7 @@ tags:
 featured_image: "/wp-content/uploads/2026/01/weihnachtsmarkt_neu_ulm_baum.jpg"
 ---
 
-Zum Jahresende 2025 wurde noch ein Meilenstein in unserer [Hausfotografie](https://commons.wikimedia.org/wiki/Category:Drohnenfotografie_tempor%C3%A4rhaus_(2025)) erreicht:
+Zum Jahresende 2025 wurde ein weiterer ein Meilenstein in unserer [Hausfotografie](https://commons.wikimedia.org/wiki/Category:Drohnenfotografie_tempor%C3%A4rhaus_(2025)) erreicht:
 
 Nachdem wir bereits im August die tausendste Aufnahme auf Wikimedia Commons [verkünden konnten](/monatsrueckblick-august-25-tausend-fotos-hundert-luftaufnahmen), wurde nun zusätzlich zum Jahresende 2025 das tausendste Bild von unserer Hauskamera innerhalb eines Jahres unter freier Lizenz veröffentlicht.
 

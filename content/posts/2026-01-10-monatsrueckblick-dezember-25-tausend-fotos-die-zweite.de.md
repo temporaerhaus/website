@@ -41,4 +41,4 @@ Zum Jahresabschluss gab es außerdem gute Nachrichten: Unsere Förderung von [Wi
 
 Ebenso einen Dank an all die Menschen vor und hinter den Kulissen des Hausis, die uns aktiv (durch ehrenamtliche Arbeit) oder passiv (z.B. durch [Spenden](/spenden)) unterstützen. Ohne euch wäre das alles nicht möglich!
 
-_PS: Wir sind immer noch auf der Suche nach einer neuen Immobilie, ab allerspätestens 2027. Solltet ihr jemand kennen, der jemand kennt, ... ihr wisst schon ..., dann gebt bitte [Bescheid](/umzug), damit wir auch in Zukunft unsere tollen Aktivitäten weiter führen können!_
+_PS: Wir sind immer noch auf der Suche nach einer neuen Immobilie, ab allerspätestens Ende 2026. Solltet ihr jemand kennen, der jemand kennt, ... ihr wisst schon ..., dann gebt bitte [Bescheid](/umzug), damit wir auch in Zukunft unsere tollen Aktivitäten weiter führen können!_

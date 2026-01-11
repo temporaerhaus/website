@@ -24,7 +24,7 @@ Und auch in diesem Monat wurden wieder Spieler der [2. Basketball Bundesliga Pro
 
 {{< figure src="/wp-content/uploads/2026/01/weihnachtsmarkt_neu_ulm_stand.jpg" caption="So wie auch das Titelbild des Monatsberichtes ist dieses Bild eines der ersten, das den Weihnachtsmarkt Neu-Ulm auf Wikimedia Commons zeigt." >}}
 
-Natürlich waren wir auch dieses Jahr wieder auf dem [Chaos Community Congress](https://events.ccc.de/congress/2025/) (39C3) vertreten. Im Free Knowledge Hub informierten wir zusammen mit [Wikimedia](https://wikimedia.de), [CodeForGermany](https://codefor.de/) und [FragDenStaat](https://fragdenstaat.de/) über freies Wissen.
+Natürlich waren wir dieses Jahr auch wieder auf dem [Chaos Community Congress](https://events.ccc.de/congress/2025/) (39C3) vertreten. Im Free Knowledge Hub informierten wir zusammen mit [Wikimedia](https://wikimedia.de), [CodeForGermany](https://codefor.de/) und [FragDenStaat](https://fragdenstaat.de/) über freies Wissen.
 Nebenbei gab es einen Teil unseres umfangreichen Maschinenparks sowie diverse Projekte aus dem temporärhaus zu bewundern.
 
 [Eli](https://mastodon.social/@kiselazelka) hatte sich im Vorfeld des Congress' schwer ins Zeug gelegt und in stundenlanger Handarbeit eine mehrlagige Stempelvorlage erstellt, mit welcher verschiedenfarbige Postkartenmotive gedruckt werden konnten. Eines der Ergebnisse könnt ihr auf [unserem Mastodon-Kanal](https://chaos.social/@temporaerhaus/115797878782733585) bewundern.
@@ -33,7 +33,7 @@ Nebenbei gab es einen Teil unseres umfangreichen Maschinenparks sowie diverse Pr
 
 Um freies Wissen ging es auch hier lokal bei einem ersten Kennenlern-Treffen mit Menschen aus dem Stadtarchiv Neu-Ulm. Es gibt beispielsweise die Idee, gemeinsam eine Retrospektive der Augsburger Straße 23-25 (unser aktuelles Zuhause) zu erstellen und die Veränderungen im Lauf der Zeit zu präsentieren. Außerdem haben wir das Angebot für eine Führung durch das Stadtarchiv bekommen. Wir sind gespannt, was für spannende Projekte sich daraus in Zukunft noch entwickeln werden.
 
-Auch im Rest des Monats war im Haus einiges los. Zweimal fand der Open Data Monday statt und unsere TTN/LoRaWAN-Gruppe sowie die CTF/PPP-Gruppe trafen sich ebenso jeweils an zwei Tagen. Außerdem fanden sich während des 39C3 einige Menschen im Haus zusammen, um gemeinsam Livestreams der Vorträge zu schauen. Auch das Nähcafé öffnete einmal seine Türen und unsere Kooperation mit dem [ADFC Ulm](https://ulm.adfc.de/) wurde mit einem Termin von "RAD-ikal technisch" fortgeführt. Zu guter Letzt war der letzte MakerMonday im Jahr ein voller Erfolg und konnte mit 38 Besuchern viele Menschen begeistern.
+Im Rest des Monats war im Haus zusätzlich einiges los. Zweimal fand der Open Data Monday statt und unsere TTN/LoRaWAN-Gruppe sowie die CTF/PPP-Gruppe trafen sich ebenso jeweils an zwei Tagen. Außerdem fanden sich während des 39C3 einige Menschen im Haus zusammen, um gemeinsam Livestreams der Vorträge zu schauen. Das Nähcafé öffnete einmal seine Türen und unsere Kooperation mit dem [ADFC Ulm](https://ulm.adfc.de/) wurde mit einem Termin von "RAD-ikal technisch" fortgeführt. Zu guter Letzt war der letzte MakerMonday im Jahr ein voller Erfolg und konnte mit 38 Besuchern viele Menschen begeistern.
 
 {{< figure src="/wp-content/uploads/2026/01/c64_beim_maker_monday.jpg" caption="Historische Hardware beim MakerMonday: Ein C64 wurde mittels Mikrocontroller mit dem Internet verbunden und ist nun in der Lage, Online-Karten anzuzeigen." >}}
 

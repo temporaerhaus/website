@@ -1,0 +1,18 @@
+<div class="slider-container">
+    <div id="before-after-slider">
+        <div id="before-image">
+            {{ with .Get "before" }}
+            <img src="/files/slider/{{ . }}" alt="before"/>
+            {{ end }}
+        </div>
+
+        <div id="after-image">
+            {{ with .Get "after" }}
+            <img src="/files/slider/{{ . }}" alt="After"/>
+            {{ end }}
+        </div>
+
+        <div id="resizer"></div>
+
+    </div>
+</div>

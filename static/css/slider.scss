@@ -1,0 +1,71 @@
+.slider-container {
+  box-sizing: border-box;
+
+  display: block;
+  margin: 30px auto;
+
+  @media (max-width: 767px) {
+    width: 100%;
+    padding: 0 20px
+  }
+
+  img {
+    width: 100%;
+    display: block;
+    max-width: none;
+  }
+
+  #before-after-slider {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    border: 3px solid white;
+  }
+
+  #after-image {
+    display: block
+  }
+
+  #before-image {
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: 2;
+  }
+
+  #resizer {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    z-index: 5;
+    top: 0;
+    left: 50%;
+    height: 100%;
+    width: 4px;
+    background: white;
+    /*Stop vertical scrolling on touch*/
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+  }
+
+  #resizer:after {
+    background: linear-gradient(62deg, #f1c400 5%, #f1c400);
+    content: '< >';
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    margin: 0 0 0 -18px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid white;
+
+  }
+
+}

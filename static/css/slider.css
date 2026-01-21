@@ -13,6 +13,7 @@
   width: 100%;
   display: block;
   max-width: none;
+  user-select: none;
 }
 .slider-container #before-after-slider {
   width: 100%;

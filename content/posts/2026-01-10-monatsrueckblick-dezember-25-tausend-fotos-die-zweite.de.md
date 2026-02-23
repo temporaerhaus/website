@@ -16,11 +16,11 @@ featured_image: "/wp-content/uploads/2026/01/weihnachtsmarkt_neu_ulm_baum.jpg"
 
 Zum Jahresende 2025 wurde ein weiterer ein Meilenstein in unserer [Hausfotografie](https://commons.wikimedia.org/wiki/Category:Drohnenfotografie_tempor%C3%A4rhaus_(2025)) erreicht:
 
-Nachdem wir bereits im August die tausendste Aufnahme auf Wikimedia Commons [verkünden konnten](/monatsrueckblick-august-25-tausend-fotos-hundert-luftaufnahmen), wurde nun zusätzlich zum Jahresende 2025 das tausendste Bild von unserer Hauskamera innerhalb eines Jahres unter freier Lizenz veröffentlicht.
+Nachdem wir bereits im August die tausendste Aufnahme auf Wikimedia Commons [verkünden konnten](/monatsrueckblick-august-25-tausend-fotos-hundert-luftaufnahmen), wurde nun zusätzlich zum Jahresende 2025 das tausendste Bild von unserer Hauskamera innerhalb eines Jahres unter Creative-Commons-Lizenz veröffentlicht.
 
-So wurde dieses Jahr unter anderem der Abriss der Gänstorbrücke und der Kühltürme in Gundremmingen dokumentiert. Auch der "Lebendige Kreuzweg" in Ulm und Neu-Ulm wurde fotografisch festgehalten, ebenso wie das deutsche Musikfest, das 2025 in Ulm zu Gast war. Neben Fotos verschiedenster weiterer Veranstaltungen und Objekten wurde das Jahr mit den ersten lizenzfrei veröffentlichten Fotos vom mittelalterlichen Weihnachtsmarkt in Neu-Ulm abgeschlossen.
+So wurde dieses Jahr unter anderem der Abriss der Gänstorbrücke und der Kühltürme in Gundremmingen dokumentiert. Auch der "Lebendige Kreuzweg" in Ulm und Neu-Ulm wurde fotografisch festgehalten, ebenso wie das deutsche Musikfest, das 2025 in Ulm zu Gast war. Neben Fotos verschiedenster weiterer Veranstaltungen und Objekten haben wir das Jahr mit den allerersten überhaupt unter Freier Lizenz veröffentlichten Fotos vom mittelalterlichen Weihnachtsmarkt in Neu-Ulm abgeschlossen.
 
-Und auch in diesem Monat wurden wieder Spieler der [2. Basketball Bundesliga ProB](https://de.wikipedia.org/wiki/ProB) in der Orange Academy fotografiert, um nach und nach die verschiedenen Mannschaften in Wikimedia Commons festzuhalten.
+Und auch in diesem Monat haben wir wieder Spieler der [2. Basketball Bundesliga ProB](https://de.wikipedia.org/wiki/ProB) in der Orange Academy fotografiert, um nach und nach die verschiedenen Mannschaften in Wikimedia Commons festzuhalten.
 
 {{< figure src="/wp-content/uploads/2026/01/weihnachtsmarkt_neu_ulm_stand.jpg" caption="So wie auch das Titelbild des Monatsberichtes ist dieses Bild eines der ersten, das den Weihnachtsmarkt Neu-Ulm auf Wikimedia Commons zeigt." >}}
 

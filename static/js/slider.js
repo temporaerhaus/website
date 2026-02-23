@@ -1,83 +1,75 @@
-const slider = document.getElementById('before-after-slider');
-const before = document.getElementById('before-image');
-const beforeImage = before.getElementsByTagName('img')[0];
-const resizer = document.getElementById('resizer');
+function initBeforeAfterSliders(selector = '.slider-container') {
+    const containers = document.querySelectorAll(selector);
 
-let active = false;
+    containers.forEach((container) => {
+        const slider = container.querySelector('.before-after-slider');
+        const before = container.querySelector('.before-image');
+        const beforeImg = before?.querySelector('img');
+        const resizer = container.querySelector('.resizer');
 
-document.addEventListener("DOMContentLoaded", function() {
-    let width = slider.offsetWidth;
-    beforeImage.style.width = width + 'px';
-});
+        if (!slider || !before || !beforeImg || !resizer) return;
 
-window.addEventListener('resize', function() {
-    let width = slider.offsetWidth;
-    beforeImage.style.width = width + 'px';
-})
+        const syncWidth = () => {
+            beforeImg.style.width = slider.offsetWidth + 'px';
+        };
 
-resizer.addEventListener('mousedown',function(){
-    active = true;
-    resizer.classList.add('resize');
-});
+        const slideTo = (x) => {
+            const w = slider.offsetWidth;
+            const clamped = Math.max(0, Math.min(x, w));
+            before.style.width = clamped + 'px';
+            resizer.style.left = clamped + 'px';
+        };
 
-document.body.addEventListener('mouseup',function(){
-    active = false;
-    resizer.classList.remove('resize');
-});
+        const setInitial = () => {
+            syncWidth();
+            slideTo(slider.offsetWidth / 2);
+        };
 
-document.body.addEventListener('mouseleave', function() {
-    active = false;
-    resizer.classList.remove('resize');
-});
+        let dragging = false;
 
-document.body.addEventListener('mousemove',function(e){
-    if (!active) return;
-    let x = e.pageX;
-    x -= slider.getBoundingClientRect().left;
-    slideIt(x);
-    pauseEvent(e);
-});
+        const clientXToLocalX = (clientX) => {
+            const rect = slider.getBoundingClientRect();
+            return clientX - rect.left;
+        };
 
-resizer.addEventListener('touchstart',function(){
-    active = true;
-    resizer.classList.add('resize');
-});
+        resizer.addEventListener('pointerdown', (e) => {
+            dragging = true;
+            resizer.classList.add('resize');
 
-document.body.addEventListener('touchend',function(){
-    active = false;
-    resizer.classList.remove('resize');
-});
+            // Capture pointer so move/up are delivered even if pointer leaves the handle
+            resizer.setPointerCapture?.(e.pointerId);
 
-document.body.addEventListener('touchcancel',function(){
-    active = false;
-    resizer.classList.remove('resize');
-});
+            slideTo(clientXToLocalX(e.clientX));
+            e.preventDefault();
+        });
 
-document.body.addEventListener('touchmove',function(e){
-    if (!active) return;
-    let x;
+        const stop = () => {
+            dragging = false;
+            resizer.classList.remove('resize');
+        };
 
-    let i;
-    for (i=0; i < e.changedTouches.length; i++) {
-        x = e.changedTouches[i].pageX;
-    }
+        resizer.addEventListener('pointerup', stop);
+        resizer.addEventListener('pointercancel', stop);
+        resizer.addEventListener('lostpointercapture', stop);
 
-    x -= slider.getBoundingClientRect().left;
-    slideIt(x);
-    pauseEvent(e);
-});
+        resizer.addEventListener('pointermove', (e) => {
+            if (!dragging) return;
+            slideTo(clientXToLocalX(e.clientX));
+            e.preventDefault();
+        });
 
-function slideIt(x){
-    let transform = Math.max(0,(Math.min(x,slider.offsetWidth)));
-    before.style.width = transform+"px";
-    resizer.style.left = transform-0+"px";
+        window.addEventListener('resize', () => {
+            const rect = slider.getBoundingClientRect();
+            const current = parseFloat(before.style.width) || (rect.width / 2);
+            const pct = rect.width ? (current / rect.width) : 0.5;
+
+            syncWidth();
+            slideTo(slider.offsetWidth * pct);
+        });
+
+        // Init
+        setInitial();
+    });
 }
 
-function pauseEvent(e){
-    if(e.stopPropagation) e.stopPropagation();
-    if(e.preventDefault) e.preventDefault();
-    e.cancelBubble=true;
-    e.returnValue=false;
-    return false;
-}
-
+document.addEventListener('DOMContentLoaded', () => initBeforeAfterSliders());

@@ -13,7 +13,7 @@ tags:
 
 ---
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/El_primer_viaje_en_%E2%80%9Cvideo_mapping%E2%80%9D_por_la_historia_de_la_Plaza_Mayor_%2801%29.jpg/512px-El_primer_viaje_en_%E2%80%9Cvideo_mapping%E2%80%9D_por_la_historia_de_la_Plaza_Mayor_%2801%29.jpg" attr="Nicht die Skulptur im Workshop, aber so sieht Videomapping aus 😉 Bild von Diario de Madrid [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_primer_viaje_en_%E2%80%9Cvideo_mapping%E2%80%9D_por_la_historia_de_la_Plaza_Mayor_(01).jpg)" >}}
+{{< figure src="/wp-content/uploads/2018/04/El_primer_viaje_en_%E2%80%9Cvideo_mapping%E2%80%9D_por_la_historia_de_la_Plaza_Mayor_%2801%29.jpg" attr="Nicht die Skulptur im Workshop, aber so sieht Videomapping aus 😉 Bild von Diario de Madrid [CC BY 4.0](https://creativecommons.org/licenses/by/4.0), [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_primer_viaje_en_%E2%80%9Cvideo_mapping%E2%80%9D_por_la_historia_de_la_Plaza_Mayor_(01).jpg)" >}}
 
 Ein kleiner Veranstaltungshinweis:
   

@@ -15,7 +15,7 @@ tags:
 
 ---
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Stolperstein_Neu-Ulm_Anna_Wolff.jpg/512px-Stolperstein_Neu-Ulm_Anna_Wolff.jpg" attr="[Stolperstein Neu-Ulm Anna Wolff von @chris_vd_post](https://commons.wikimedia.org/wiki/File:Stolperstein_Neu-Ulm_Anna_Wolff.jpg) [CC0], via Wikimedia Commons" >}}
+{{< figure src="/wp-content/uploads/2018/05/Stolperstein_Neu-Ulm_Anna_Wolff.jpg" attr="[Stolperstein Neu-Ulm Anna Wolff von @chris_vd_post](https://commons.wikimedia.org/wiki/File:Stolperstein_Neu-Ulm_Anna_Wolff.jpg) [CC0], via Wikimedia Commons" >}}
 
 Am Mittwoch, dem **23. Mai 2018 ab 19:00 Uhr** wollen wir die [Liste der Stolpersteine in Ulm][2] und [Neu-Ulm][3] vervollständigen, Fotos anfertigen und Orte in den Wikipedia-Listen, OpenStreetMap und Wikidata eintragen.
   

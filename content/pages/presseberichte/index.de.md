@@ -52,7 +52,7 @@ slug: presse
   * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder <small>(28.03.2018)</small>
   * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (ab 6:10) <small>(29.04.2018)</small>
   * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen <small>(29.05.2018)</small>
-  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel
+  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel <small>(30.05.2018)</small>
   * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille <small>(19.06.2018)</small>
   * [Südwest Presse][35]: Gemeinsam tüfteln im Verschwörhaus <small>(12.09.2018)</small>
   * [Schwäbische Zeitung][36]: Kulturnacht lädt zur Entdeckungsreise vor der eigenen Haustür ein <small>(16.09.2018)</small>

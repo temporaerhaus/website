@@ -13,6 +13,8 @@ slug: presse
 [<button>2022</button>](#2022)
 [<button>2023</button>](#2023)
 [<button>2024</button>](#2024)
+[<button>2025</button>](#2025)
+[<button>2026</button>](#2026)
 
 ### 2016
 
@@ -160,6 +162,10 @@ slug: presse
   * [Südwest Presse][127]: Stadt sichert Hilfe bei Suche nach neuer Immobilie zu <small> (17.09.2025)</small>
   * [Neu-Ulmer Zeitung (€)][128]: Leihbar, Reparaturcafé und mehr: Bleibt das Haus der Nachhaltigkeit in Neu-Ulm? <small> (22.09.2025)</small>
 
+### 2026
+  * [Neu-Ulmer Zeitung (€)][129]: Das Haus der Nachhaltigkeit ist gerettet – und was ist mit dem Temporärhaus? <small>(22.04.2026)</small>
+  * [Südwest Presse (€)][130]: Erstes Barcamp in Neu-Ulm: Aber was ist das eigentlich? <small>(22.04.2026)</small>
+
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
  [8]: http://www.ulmapi.de/news/2016/07/10/weinhof9.html
@@ -282,3 +288,5 @@ slug: presse
  [126]: https://www.swp.de/lokales/ulm/haus-der-zivilgesellschaft-bedroht-mietvertrag-endet-aber-es-muss-einfach-weitergehen-78305408.html
  [127]: https://www.swp.de/lokales/neu-ulm/neu-ulmer-vereine-in-not-stadt-sichert-hilfe-bei-suche-nach-neuer-immobilie-zu-78317078.html
  [128]: https://www.augsburger-allgemeine.de/neu-ulm/leihbar-reparaturcafe-und-mehr-bleibt-das-haus-der-nachhaltigkeit-in-neu-ulm-111214232
+ [129]: https://www.augsburger-allgemeine.de/neu-ulm/temporaerhaus-in-neu-ulm-sucht-dringend-neue-raeume-fuer-vereinsarbeit-114026672
+ [130]: https://www.swp.de/lokales/neu-ulm/event-im-haus-der-nachhaltigkeit-erstes-barcamp-in-neu-ulm-aber-was-ist-das-eigentlich-78796325.html

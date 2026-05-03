@@ -52,7 +52,7 @@ slug: presse
   * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder <small>(28.03.2018)</small>
   * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (ab 6:10) <small>(29.04.2018)</small>
   * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen <small>(29.05.2018)</small>
-  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel <small>(30.05.2018)</small>
+  * [Schwäbische Zeitung][33] ([Archivlink][33a]): Jugendliche entwickeln Onlinespiel <small>(30.05.2018)</small>
   * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille <small>(19.06.2018)</small>
   * [Südwest Presse][35]: Gemeinsam tüfteln im Verschwörhaus <small>(12.09.2018)</small>
   * [Schwäbische Zeitung][36]: Kulturnacht lädt zur Entdeckungsreise vor der eigenen Haustür ein <small>(16.09.2018)</small>
@@ -195,6 +195,7 @@ slug: presse
  [31]: https://www.br.de/mediathek/video/respekt-29042018-mitmachen-sich-engagieren-zutaten-fuer-die-moderne-demokratie-av:5ab3d4a44001e50018939daf
  [32]: https://www.swp.de/suedwesten/staedte/ulm/gesucht_-bilder-und-dias-von-alten-strassenbahnen-26844278.html
  [33]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
+ [33a]: https://web.archive.org/web/20191017123458/https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
  [34]: https://www.swp.de/suedwesten/staedte/ulm/_jugend-hackt_-erhaelt-theodor-heuss-medaille-27006564.html
  [35]: https://www.swp.de/suedwesten/staedte/ulm/gemeinsam-tuefteln-im-verschwoerhaus-27622024.html
  [36]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_artikel,-kulturnacht-l%C3%A4dt-zur-entdeckungsreise-vor-der-eigenen-haust%C3%BCr-ein-_arid,10933590.html

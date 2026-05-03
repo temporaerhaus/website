@@ -2,7 +2,7 @@
 sticky: false
 title: Jugend Hackt Netzwerktreffen 2026
 author: Community
-date: 2026-05-03T12:00:00.000Z
+date: 2026-05-07T12:00:00.000Z
 draft: false
 categories:
   - news
@@ -10,8 +10,8 @@ categories:
 tags:
   - Jugend Hackt
   - Netzwerktreffen
-images: 
-  - https://pad.fiber.garden/uploads/d71d2e62-b096-432d-96d9-a67c1e4b3197.jpg
+images:
+  - /wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-03.jpg
 ---
 
 Vor 8 Jahren fand in Ulm am Weinhof eines der ersten Netzwerktreffen der jugend hackt Community mit zwei handvoll Teilnehmern statt. Dieses Jahr haben wir mehr als 40 Leute in unseren Räumen für das jährliche Netzwerktreffen von ehren- und hauptamtlich Engagierten im temporärhaus empfangen.

@@ -18,7 +18,7 @@ Vor 8 Jahren fand in Ulm am Weinhof eines der ersten Netzwerktreffen der jugend 
 
 Aus ganz Deutschland und Österreich von Salzburg über Heilbronn, Frankfurt, Leipzig, Hamburg und Berlin bis nach Schwerin sind Menschen nach Neu-Ulm ins temporärhaus gekommen.
 
-An 3 Tagen von Freitag bis Sonntag hat die Community an Themen gearbeitet, diskutiert und geplant. Mit guter Stimmung, leckerem Essen und kalten Getränken aus unseren Automaten vergingen die Tage viel zu schell.
+An 3 Tagen von Freitag bis Sonntag hat die Community an Themen gearbeitet, diskutiert und geplant. Mit guter Stimmung, leckerem Essen und kalten Getränken aus unseren Automaten vergingen die Tage viel zu schnell.
 
 ![](/wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-04.jpg)
 

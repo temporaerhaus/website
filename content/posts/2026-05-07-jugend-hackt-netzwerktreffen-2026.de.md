@@ -2,7 +2,7 @@
 sticky: false
 title: Jugend Hackt Netzwerktreffen 2026
 author: Community
-date: 2026-05-07T12:00:00.000Z
+date: 2026-05-07T13:00:00.000Z
 draft: false
 categories:
   - news

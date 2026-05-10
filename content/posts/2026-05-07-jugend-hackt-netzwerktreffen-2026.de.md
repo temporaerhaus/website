@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Jugend Hackt Netzwerktreffen 2026
+title: Jugend hackt Netzwerktreffen 2026
 author: Community
 date: 2026-05-07T13:00:00.000Z
 draft: false
@@ -8,7 +8,7 @@ categories:
   - news
   - jugend-hackt-lab
 tags:
-  - Jugend Hackt
+  - Jugend hackt
   - Netzwerktreffen
 images:
   - /wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-03.jpg
@@ -26,14 +26,14 @@ Es wurden Erfahrungen ausgetauscht, Pläne für die Zukunft geschmiedet und übe
 
 Durch die vielfältigen Möglichkeiten, die unsere temporärhaus bietet, war es trotz der großen Gruppe immer einfach sich in Arbeitsgruppen zurückzuziehen. Vom Salon mit Bühne, Beamer und Audiotechnik, über den Besprecher und das Wohnzimmer bis zum Innenhof mit Liegestühlen: Immer hat sich ein Plätzchen gefunden um produktiv und mit guter Laune die einzelnen Themen zu bearbeiten.
 
-![](/wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-02.jpg)
+![](/wp-content/uploads/2026/05/jugend--netzwerktreffen-02.jpg)
 
 Die Organisatorinnen aus dem Berliner Team waren über die vorhandene Infrastruktur, die für solche Wochenenden benötigt wird, sehr erfreut. Von Pinnwänden und Moderationskoffern zu Wasserprudler, heißen und kalten Getränken – was man für so ein Event braucht, war vorhanden.
 
 
 In den Pausen wurden die Möglichkeiten des Hauses erforscht und spontan für die daheim gebliebenen Kinder auf der Stickmaschine Patches mit Ulmer Spatzen als Mitbringsel hergestellt.
 
-![](/wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-01.jpg)
+![](/wp-content/uploads/2026/05/jugend--netzwerktreffen-01.jpg)
 
 Am Samstagabend haben wir mit den Teilnehmenden eine Stadttour durch die Ulmer Altstadt gemacht und ein Eis gegessen.
 

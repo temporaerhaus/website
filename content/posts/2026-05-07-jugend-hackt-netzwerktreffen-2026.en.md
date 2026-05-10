@@ -1,6 +1,6 @@
 ---
 sticky: false
-title: Jugend Hackt network meeting 2026
+title: Jugend hackt network meeting 2026
 author: Community
 date: 2026-05-07T13:00:00.000Z
 draft: false
@@ -8,7 +8,7 @@ categories:
   - news
   - jugend-hackt-lab
 tags:
-  - Jugend Hackt
+  - Jugend hackt
   - Netzwerktreffen
 images: 
   - /wp-content/uploads/2026/05/jugend-hackt-netzwerktreffen-03.jpg

@@ -1,1 +1,37 @@
-2026-02-23-monatsrueckblick-januar-26-geschenke-fuer-wikipedia.de.md
+---
+sticky: false
+title: Monthly Report January 2026 – Presents for Wikipedia
+author: Community
+date: 2026-02-23T19:00:10.000Z
+draft: false
+categories:
+  - news
+  - monatsbericht
+tags:
+  - wikipedia
+  - freies wissen
+  - hausfotografie
+  - transparenz
+featured_image: "/wp-content/uploads/2026/02/Humboldt_Gymnasium_01_G711_00052_olgastrasse_57_S1691_2011.jpg"
+---
+
+A new year has begun – the fourth year in the former Sport Sohn building, and unfortunately also the last year that we will spend on Augsburger Straße in Neu-Ulm. We are still looking for new spaces into which we can move together with our “roommates” from Haus der Nachhaltigkeit after the end of our time in Augsburger Straße. We are looking forward to [any suggestions for suitable properties!](https://temporaerhaus.de/umzug)
+
+Just like almost every year, 2026 started off with unpacking loads of boxes we had just brought back from Hamburg. As reported in the December retrospective, we had brought quite a lot of equipment, art installations, and miscellaneous items to the [39th Chaos Communication Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress), and it took us the first weeks of January and a few concerted evening sessions to unpack all this material from countless transport boxes and returning it to its original location. And, because “after congress” is also already “before the next congress”, we have already been discussing with all involved parties what we could be doing at the 40th edition of Congress.
+
+{{<figure src="/wp-content/uploads/2026/02/monatsbericht-multitel.jpg" caption="Just one of many historic communication devices which we are currently taking pictures of to upload them to Wikimedia Commons: A [BTX Terminal Multitel-D](https://commons.wikimedia.org/wiki/File:MultiTel-D_P1110267.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)">}}
+
+Another thing to unpack were new lighting stands and accessories for our object photography studio. We are currently refining our setup, which we use to photograph curious and interesting items for the media archive [Wikimedia Commons](https://commons.wikimedia.org/wiki/Hauptseite). In addition to new aerial photographs of [Adenauer](https://commons.wikimedia.org/wiki/File:2026-01-13_Adenauerbr%C3%BCcke_04.jpg) and [Gänstor bridge](https://commons.wikimedia.org/wiki/File:2026-01-15_Gaenstorbruecke_03.jpg), we have to date already uploaded over 359 photographs taken with our Verein's own camera ([Category:Hausfotografie temporärhaus (2026)](https://commons.wikimedia.org/wiki/Category:Hausfotografie_tempor%C3%A4rhaus_(2026))) and another 52 photographs taken with personal cameras by our active members ([Category:Hausfotografie temporärhaus – Gemeinschaftsfotografie  (2026)](https://commons.wikimedia.org/wiki/Category:Hausfotografie_tempor%C3%A4rhaus_%E2%80%93_Gemeinschaftsfotografie_(2026))), all under a Free License. That is more than we managed to achieve over the entire year 2024 – although this is still far from the bench mark by our role model, [Lokal  K in Cologne](https://commons.wikimedia.org/wiki/Category:Hauskamera_Lokal_K) with over 6000 photos in 2025 :)
+
+{{<figure src="/wp-content/uploads/2026/02/monatsbericht-basketball.jpg" caption="Because we have fans of both Free Knowledge as well as of Basketball within our ranks, we also contribute to providing photos of Basketball players for Wikipedia articels. This image is from a game between OrangeAcademy and BBC Coburg, [Photo](https://commons.wikimedia.org/wiki/File:2026-01-05_OrangeAcademy_gegen_BBC_Coburg_P1110194.jpg) by [Felix](https://commons.wikimedia.org/wiki/User:FelixWo), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)">}}
+
+But not only Wikipedia volunteers have been sharing freely licensed images with the world in January. [The City Archive of Ulm also officially contributed](https://de.wikipedia.org/wiki/Wikipedia:25_Jahre_Wikipedia/Geschenke/Stadtarchiv_Ulm) imagery from their repositories! To mark the [25th anniversary of Wikipedia](https://www.wikimedia.de/wikipedia25/), the new head archivist, Dr. Antje Diener-Staeckling, celebrated not only with a message of congratulations, but also licensed 25 digital copies from the archive's holdings under a Creative Commons license for free use and [blogged about it.](https://ulmarchiv.hypotheses.org/10221) This is also something to celebrate for us, because since our inception, we have been committed to making documents owned by public authorities available under a free license whenever possible – this way they can contribute to the knowledge of the whole world! As [the Glamorous Tool shows,](https://glamtools.toolforge.org/glamorous.php?doit=1&category=Stadtarchiv+Ulm&use_globalusage=1&ns0=1&show_details=1&projects[wikipedia]=1shows](https://glamtools.toolforge.org/glamorous.php?doit=1&category=Stadtarchiv+Ulm&use_globaluage=1&ns0=1&show_details=1&projects[wikipedia]=1&projects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikprojects[wikimedia]=1&projects[wikisource]=1&projects[wikibooks]=1&projects[wikiquote]=1&projects[wiktionary]=1&projects[wikinews]=1&projects[wikivoyage]=1&projects[wikispecies]=1&projects[mediawiki]=1&projects[wikidata]=1&projects[wikiversity]=1), the contributed media is already being used in many articles, for example, in that of [Humboldt-Gymnasium](https://de.wikipedia.org/w/index.php?title=Humboldt-Gymnasium_Ulm) (see the title image of this post), [Herdbrücke](https://de.wikipedia.org/w/index.php?title=Herdbr%C3%BCcke) or [Straßenbahn Ulm.](https://de.wikipedia.org/w/index.php?title=Stra%C3%9Fenbahn_Ulm). We would like to thank the City Archives very much for this wonderful gift!
+
+This event will not have been the last in this year of celebrations around the 25th birthday of Wikipedia. More special events will be announced on the project page [25 Jahre Wikipedia](https://de.wikipedia.org/wiki/Wikipedia:25_Jahre_Wikipedia) throughout the year.
+
+{{<figure src="/wp-content/uploads/2026/02/monatsbericht-vergolden.jpg" caption="But now for something completely different: Art through gilding things. One of many activities you can learn to do at temporaerhaus!">}}
+
+In parallel, with the exception of New Year's Day, our regular programming went on as usual: The month began with the [**Nähcafé**](/gruppen/naehcafe/) and the 
+first of four meetings of the [**CTF/PPP Group**](/gruppen/ctf/). Every other week, we opened for [**Open Data Monday**](/gruppen/opendatamonday/) and [**TTN/LoRaWAN and electronics lab**](/gruppen/ttn/-). Due to the holidays, Fablab and the Woodworking Workshop opened only once for [**Maker Monday**](/gruppen/makermonday/), and as in every month, **RAD-ikal technisch** and the [**OpenStreetMap**](/gruppen/openstreetmap/) meetup took place. Finally, everybody interested could learn how to gild objects during the [**Mixed Media Arts Workshop**].
+
+All these activities, including those with [Haus der Nachhaltigkeit](https://www.h-d-n.org/), are part of a larger idea: Gilding is only done for artistic purposes, not for seeking profit expectations at every possible opportunity. Our focus remains on making our twin cities a better place, where more things can be used as Commons by everybody. If you also want to contribute to this idea, drop by at any of our events!

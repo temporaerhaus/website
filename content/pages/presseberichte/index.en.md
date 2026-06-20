@@ -165,6 +165,9 @@ slug: presse
 ### 2026
   * [Neu-Ulmer Zeitung (€)][129]: Das Haus der Nachhaltigkeit ist gerettet – und was ist mit dem Temporärhaus? <small>(2026-04-22)</small>
   * [Südwest Presse (€)][130]: Erstes Barcamp in Neu-Ulm: Aber was ist das eigentlich? <small>(2026-04-22)</small>
+    * [Südwest Presse (€)][131]: So geht das Temporärhaus die Suche nach neuen Räumen an <small>(2026-05-04)</small>
+  * [Neu-Ulmer Zeitung][132]: Größte Regenbogenflagge Deutschlands: Bei der diesjährigen CSD-Parade werden Rekorde gebrochen <small>(2026-06-08)</small>
+  * [Regio-TV][133]: Die größte Regenbogenflagge Deutschlands kommt aus der Doppelstadt <small>(2026-06-19)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac

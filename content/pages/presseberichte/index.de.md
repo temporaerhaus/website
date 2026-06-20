@@ -166,6 +166,9 @@ slug: presse
 ### 2026
   * [Neu-Ulmer Zeitung (€)][129]: Das Haus der Nachhaltigkeit ist gerettet – und was ist mit dem Temporärhaus? <small>(22.04.2026)</small>
   * [Südwest Presse (€)][130]: Erstes Barcamp in Neu-Ulm: Aber was ist das eigentlich? <small>(22.04.2026)</small>
+  * [Südwest Presse (€)][131]: So geht das Temporärhaus die Suche nach neuen Räumen an <small>(04.05.2026)</small>
+  * [Neu-Ulmer Zeitung][132]: Größte Regenbogenflagge Deutschlands: Bei der diesjährigen CSD-Parade werden Rekorde gebrochen <small>(08.06.2026)</small>
+  * [Regio-TV][133]: Die größte Regenbogenflagge Deutschlands kommt aus der Doppelstadt <small>(19.06.2026)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -293,3 +296,6 @@ slug: presse
  [128]: https://www.augsburger-allgemeine.de/neu-ulm/leihbar-reparaturcafe-und-mehr-bleibt-das-haus-der-nachhaltigkeit-in-neu-ulm-111214232
  [129]: https://www.augsburger-allgemeine.de/neu-ulm/temporaerhaus-in-neu-ulm-sucht-dringend-neue-raeume-fuer-vereinsarbeit-114026672
  [130]: https://www.swp.de/lokales/neu-ulm/event-im-haus-der-nachhaltigkeit-erstes-barcamp-in-neu-ulm-aber-was-ist-das-eigentlich-78796325.html
+ [131]: https://www.swp.de/lokales/neu-ulm/immobilien-not-in-neu-ulm-so-geht-das-ex-verschwoerhaus-die-suche-nach-neuen-raeumen-an-78818487.html
+ [132]: https://www.augsburger-allgemeine.de/neu-ulm/groesste-regenbogenflagge-deutschlands-bei-der-csd-parade-2026-in-ulm-und-neu-ulm-werden-rekorde-gebrochen-1-114328182
+ [133]: https://www.regio-tv.de/mediathek/video/csd-ulm/

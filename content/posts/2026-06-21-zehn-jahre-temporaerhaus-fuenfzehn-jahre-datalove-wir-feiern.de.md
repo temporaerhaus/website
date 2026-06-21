@@ -1,5 +1,5 @@
 ---
-title: Zehn Jahre temporärhaus, 15 Jahre datalove: Wir feiern! Aber nur klein!
+title: Zehn Jahre temporärhaus, 15 Jahre datalove – Wir feiern! Aber nur klein!
 author: Stefan Kaufmann
 type: post
 date: 2026-06-20T18:01:00+00:00

@@ -19,7 +19,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --gc --minify
+        run: make production
         env:
           HUGO_ENV: production
           HUGO_BASEURL: 'https://temporaerhaus.de/'

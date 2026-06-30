@@ -1,0 +1,6 @@
+# this is the robots.txt override for preview environments
+
+# Sitemap: {{ .Site.BaseURL }}sitemap.xml
+
+User-agent: *
+Disallow: /

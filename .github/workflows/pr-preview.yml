@@ -1,0 +1,30 @@
+name: PR preview
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+concurrency:
+  group: gitlab-preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  trigger-gitlab:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger GitLab preview pipeline
+        env:
+          GITLAB_BASE_URL: ${{ secrets.GITLAB_BASE_URL }}
+          GITLAB_PROJECT_ID: ${{ secrets.GITLAB_PROJECT_ID }}
+          GITLAB_TRIGGER_TOKEN: ${{ secrets.GITLAB_TRIGGER_TOKEN }}
+        run: |
+          curl --fail-with-body --request POST \
+            --form token="$GITLAB_TRIGGER_TOKEN" \
+            --form ref="main" \
+            --form "variables[ACTION]=deploy" \
+            --form "variables[GITHUB_PR_NUMBER]=${{ github.event.pull_request.number }}" \
+            --form "variables[GITHUB_PR_HEAD_SHA]=${{ github.event.pull_request.head.sha }}" \
+            --form "variables[GITHUB_PR_HEAD_REPO]=${{ github.event.pull_request.head.repo.full_name }}" \
+            --form "variables[GITHUB_REPOSITORY]=${{ github.repository }}" \
+            --form "variables[GITHUB_PR_URL]=${{ github.event.pull_request.html_url }}" \
+            "$GITLAB_BASE_URL/api/v4/projects/$GITLAB_PROJECT_ID/trigger/pipeline"

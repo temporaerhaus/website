@@ -1,8 +1,8 @@
 ---
-title: "CTF Gruppe trifft sich für die HTB Cyber Apocalypse 2026"
+title: "Rückblick: Unsere CTF-Gruppe bei der HTB Cyber Apocalypse 2026"
 author: CTF Team
 type: post
-date: 2026-07-27T18:12:41+02:00
+date: 2026-07-25T22:00:00+02:00
 url: /2026-07-25-ctf-cyber-apocalypse-2026/
 language: de
 categories:
@@ -15,12 +15,13 @@ draft: false
 ---
 
 Auch dieses Jahr hat [Hack The Box](https://www.hackthebox.com/events/cyber-apocalypse-2026) erneut ein Cyber Apocalypse CTF veranstaltet.
+Das Event startete am 24.07. um 15:00 Uhr Ortszeit und lief fünf Tage.
 Das Temporärhaus war mit den üblichen Verdächtigen aus dem CTF-Team [PowerPuffPwn](https://powerpuffpwn.de/) dabei.
 
 CTF ist eine Abkürzung für "Capture The Flag".
 Bei diesen Events werden über einen kurzen Zeitraum Rätsel online gestellt, die die Teilnehmer versuchen zu lösen.
 Hack the Box ist die weltweit größte Plattform für diese Form von Events und die Cyber Apokalypse ist das größte Event im Jahr.
-Dieses Mal lief das CTF über 5 Tage und es waren weltweit mehr als 6.700 Teams dabei.
+Dieses Mal waren weltweit mehr als 6.700 Teams dabei.
 Den kompletten Samstag über hat sich die Gruppe getroffen und es wurden viele Challenges gelöst.
 
 Das Thema dieses Jahres war "The Salt Crown" und wir durften mit unseren Kenntnissen ein Königreich aufbauen und stärken.

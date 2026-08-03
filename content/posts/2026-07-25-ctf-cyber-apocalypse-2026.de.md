@@ -141,7 +141,7 @@ KI-Assistenten werden weiterhin von uns beobachtet und getestet.
 #### Coding
 
 Als Mensch, der viel programmiert, habe ich die Coding-Challenges deutlich unterschätzt.
-Die Eigentliche Schwierigkeit liegt oft darin, die Aufgabenstellung richtig zu verstehen.
+Die eigentliche Schwierigkeit liegt oft darin, die Aufgabenstellung richtig zu verstehen.
 Der Lösungsweg ist weniger das Problem.
 
 Der Aufbau der Coding-Challenges war immer gleich:

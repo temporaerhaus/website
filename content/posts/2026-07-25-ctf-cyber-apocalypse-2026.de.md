@@ -20,7 +20,7 @@ Das Temporärhaus war mit den üblichen Verdächtigen aus dem CTF-Team [PowerPuf
 
 CTF ist eine Abkürzung für "Capture The Flag".
 Bei diesen Events werden über einen kurzen Zeitraum Rätsel online gestellt, die die Teilnehmer versuchen zu lösen.
-Hack the Box ist die weltweit größte Plattform für diese Form von Events und die Cyber Apokalypse ist das größte Event im Jahr.
+Hack The Box ist die weltweit größte Plattform für diese Form von Events und die Cyber Apokalypse ist das größte Event im Jahr.
 Dieses Mal waren weltweit mehr als 6.700 Teams dabei.
 Den kompletten Samstag über hat sich die Gruppe getroffen und es wurden viele Challenges gelöst.
 
@@ -64,6 +64,13 @@ Auf den ersten Blick wirkt die Website recht unscheinbar.
 Auf der Weboberfläche gibt es keine Hinweise darauf, was zu tun ist.
 
 ![Gatery-Website](/wp-content/uploads/2026/07/ChallengeGatery.png)
+
+Die Challenge benutzt das Framework `Elysia`.
+Das ergibt sich aus einer kurzen Quellcodeanalyse.
+Die App benutzt einen geheimen Schlüssel, der sich aus 32 zufälligen Symbolen ergibt.
+Dieser Schlüssel wird aber nicht richtig angewendet, dadurch werden Cookies nicht signiert.
+
+Über einen einfachen Web-Request mit dem Cookie `session=Admin` werden die eigenen Rechte zu Admin-Rechten eskaliert.
 
 Wenn man sich den Quellcode ansieht, wird die Flag über den Endpoint "/api/flag/" erreicht.
 Dort muss ein POST-Request hingeschickt werden.

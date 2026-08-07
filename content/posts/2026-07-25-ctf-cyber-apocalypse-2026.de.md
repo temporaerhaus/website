@@ -18,9 +18,9 @@ Auch dieses Jahr hat [Hack The Box](https://www.hackthebox.com/events/cyber-apoc
 Das Event startete am 24.07. um 15:00 Uhr Ortszeit und lief fünf Tage.
 Das Temporärhaus war mit den üblichen Verdächtigen aus dem CTF-Team [PowerPuffPwn](https://powerpuffpwn.de/) dabei.
 
-CTF ist eine Abkürzung für "Capture The Flag".
+[CTF](https://wiki.temporaerhaus.de/ctf#ctf) ist eine Abkürzung für "Capture The Flag".
 Bei diesen Events werden über einen kurzen Zeitraum Rätsel online gestellt, die die Teilnehmer versuchen zu lösen.
-Hack the Box ist die weltweit größte Plattform für diese Form von Events und die Cyber Apokalypse ist das größte Event im Jahr.
+Hack The Box ist die weltweit größte Plattform für diese Form von Events und die Cyber Apokalypse ist das größte Event im Jahr.
 Dieses Mal waren weltweit mehr als 6.700 Teams dabei.
 Den kompletten Samstag über hat sich die Gruppe getroffen und es wurden viele Challenges gelöst.
 
@@ -65,12 +65,21 @@ Auf der Weboberfläche gibt es keine Hinweise darauf, was zu tun ist.
 
 ![Gatery-Website](/wp-content/uploads/2026/07/ChallengeGatery.png)
 
-Wenn man sich den Quellcode ansieht, wird die Flag über den Endpoint "/api/flag/" erreicht.
+Die Challenge benutzt das Framework `Elysia`.
+Das ergibt sich aus einer kurzen Quellcodeanalyse.
+Die App benutzt einen geheimen Schlüssel, der sich aus 32 zufälligen Symbolen ergibt.
+Dieser Schlüssel wird aber nicht richtig angewendet.
+Mit einer custom Funktion überschreibt das Framework die Cookie-Validierung.
+Der Cookie-Wert vom User wird dann ohne Validierung genutzt.
+
+Über einen einfachen Web-Request mit dem Cookie `session=Admin` werden die eigenen Rechte zu Admin-Rechten eskaliert.
+
+Beim Durchschauen vom Quellcode wird offensichtlich, dass die Flag über den Endpoint "/api/flag/" erreicht werden kann.
 Dort muss ein POST-Request hingeschickt werden.
 
 Die Flag ist aber nicht frei verfügbar.
 Zuerst muss ein Sicherheitscheck überwunden werden.
-In den sourcen sieht das so aus:
+Im Quelltext sieht das folgendermaßen aus:
 
 ``` javascript
 .post('/api/flag', ({ cookie: { session }, set }) => {
@@ -283,8 +292,8 @@ In den Dateien kamen lediglich 3 verschiedene Bytewerte vor:
 - 0xFE
 
 Mehrere Filter und Konvertierungsversuche scheiterten.
-Den entsprechenden Hinweis gab ein Metadaten-Datei.
-Darin enteckten wir eine "Abtastrate" von 2 MHz.
+Den entsprechenden Hinweis gab eine Metadaten-Datei.
+Darin entdeckten wir eine "Abtastrate" von 2 MHz.
 Außerdem gab es dort das Schlüsselwort "sigrok".
 
 Sigrok ist ein Open-Source-Projekt zur Analyse digitaler Messdaten.
@@ -324,7 +333,7 @@ Folgende Strategie wurde bei der Lösung angewendet:
 Alle UART Frames liegen nicht direkt nebeneinander.
 Die Anzahl der Lücken zwischen einem Ende und einem Anfang beträgt entweder 19 Messwerte oder 62 Messwerte.
 Zwei Messwerte haben immer den exakt gleichen Zeitabstand.
-Somit ist eine "Lücke" mit 19 Werten eine "kurze Pause" und eine Lücke von 62 Werten eine "lange Pause".
+Somit ist eine Lücke mit 19 Werten eine "kurze Pause" und eine Lücke von 62 Werten eine "lange Pause".
 
 Das erstellte Skript hat die Lücken zuerst gefiltert und danach analysiert.
 
@@ -344,14 +353,14 @@ Super Challenge!
 Das Event war ein voller Erfolg und hat wie immer motiviert Neues zu lernen und auszuprobieren.
 Wir haben alle versucht möglichst viele Aufgaben zu lösen und dabei möglichst viel mitzunehmen.
 Ein paar Hacker haben sich früh an Aufgaben festgebissen und andere haben viele einfache Probleme gelöst.
-Interessante Probleme wurden auf einem Großen Bildschirm in der Gruppe geteilt.
+Interessante Probleme wurden auf einem großen Bildschirm in der Gruppe geteilt.
 
 Die Anzahl der Aufgaben ist effektiv nicht machbar an einem Tag.
 
 Wir fanden, dass die Aufgaben dieses Mal sehr einsteigerfreundlich waren.
 Das ist bei anderen CTFs nicht selbstverständlich.
 
-Unterm Strich haben wir 60 von 136 Flags geholt und sind damit sehr zufrieden.
+Unterm Strich haben wir 60 von 136 Flags geholt und sind in Anbetracht der Zeit damit sehr zufrieden.
 Wir belegen den 801. Rang von 6743 Teams.
 Ich würde sagen, wir haben das Königreich gerettet und die salzige Krone gegessen. (Oder so ähnlich)
 

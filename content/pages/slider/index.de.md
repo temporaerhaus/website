@@ -41,7 +41,7 @@ Dieser zweite Versuch im Sommer scheitert an dem Bewuchs, der einen relevanten T
 
 ## Panorama-Aufnahme -- Stadtmauer bei der Donauwiese
 
-{{< slider before="panorama_donauwiese_orig.jpg" after="panorama_donauwiese_new.jpg" >}}
+{{< slider before="panorama_donauwiese_orig.jpg" after="panorama_donauwiese_neu.jpg" >}}
 
 Die Persepektive ist in der Horizontalen nicht perfekt ausgerichtet. Durch den heutigen Pflanzenbewuchs am Neu-Ulmer Uferbereich ist es aktuell nicht möglich die exakte Perspektive nachzustellen. 
 

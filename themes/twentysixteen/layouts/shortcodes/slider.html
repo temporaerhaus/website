@@ -1,18 +1,18 @@
-<div class="slider-container">
-    <div id="before-after-slider">
-        <div id="before-image">
+<div class="slider-container" {{ with .Get "id" }}id="{{ . }}"{{ end }}>
+    <div id="before-after-slider" class="before-after-slider">
+        <div id="before-image" class="before-image">
             {{ with .Get "before" }}
             <img src="/files/slider/{{ . }}" alt="before"/>
             {{ end }}
         </div>
 
-        <div id="after-image">
+        <div id="after-image" class="after-image">
             {{ with .Get "after" }}
             <img src="/files/slider/{{ . }}" alt="After"/>
             {{ end }}
         </div>
 
-        <div id="resizer"></div>
+        <div id="resizer" class="resizer"></div>
 
     </div>
 </div>

@@ -5,16 +5,16 @@ slug: umzug
 featured_image: /wp-content/uploads/2022/09/umzug.jpg
 ---
 
-Das temporärhaus sucht eine neue Bleibe in Ulm oder Neu-Ulm. Unsere Zwischennutzung im [ehemaligen Sport-Sohn-Gebäude in der Innenstadt von Neu-Ulm](/das-haus/#wo-ist-das) endet 2026, sodass wir wieder eine __gut passende und langfristig nutzbare Bleibe__ ab mind. 300 m² suchen, in der wir wieder einen größeren Raum für Workshops und Vorträge haben und daneben auch unsere Werkstatt betreiben können.
+Das temporärhaus sucht eine neue Bleibe in Ulm oder Neu-Ulm. Unsere Zwischennutzung im [ehemaligen Sport-Sohn-Gebäude in der Innenstadt von Neu-Ulm](/das-haus/#wo-ist-das) endet 2026, sodass wir wieder eine __gut passende und langfristig nutzbare Bleibe__ ab mind. 200 m² suchen, in der wir wieder einen größeren Raum für Workshops und Vorträge haben und daneben auch unsere Werkstatt betreiben können.
 
 Wenn uns jemand solche Räume anbieten kann oder dir Hinweise einfallen, freuen wir uns über eine Nachricht an kontakt@temporaerhaus.de.
 
-Wir suchen wieder gemeinsam mit unserem Mitbewohner-Verein [_Haus der Nachhaltigkeit_](https://h-d-n.org). Daher ist der Platzbedarf auch größer. Falls wir aber gemeinsam nichts finden, sind auch getrennte neue Orte möglich.
+Anfangs suchten wir gemeinsam mit unserem Mitbewohner-Verein [_Haus der Nachhaltigkeit_](https://h-d-n.org). Diese sind aber mittlerweile fündig geworden (was uns sehr freut!), daher suchen wir aktuell alleine weiter.
 
 ### Unsere Anforderungen
 
 ##### Zusammengefasst
-- Ab mind. 300 qm, besser mehr (500 qm)
+- Ab mind. 200 qm, besser mehr (>= 400 qm)
 - Langfristig
 - Barrierefreiheit (am besten ebenerdig)
 - Vortragsraum für Veranstaltungen
@@ -26,17 +26,17 @@ Wir suchen wieder gemeinsam mit unserem Mitbewohner-Verein [_Haus der Nachhaltig
 
 Generell gilt: Über alles lässt sich reden und wir schauen uns gerne mögliche Immobilien an. Wenn z.B. 4 von 5 wichtige Punkten passen, aber einer nicht, wird man vermutlich schon zusammen finden.
 
-- Fläche **ab mind. 300 qm** für das temporärhaus alleine. Ab ca. 700 qm  mit dem HdN. **Best-case wären 500 qm alleine**, 1200 qm zusammen.
+- Fläche ab mind. 200 qm. **Best-case wären 500 qm**.
 - **Langfristig** anmietbar. Am besten 10 Jahre plus.
 - Stabile **Förderung vorhanden** via Wikimedia Deutschland ("Wikipedia").
 - **Barrierefreiheit** (Förderungsbedingung). Mindestens eine barrierefreie Toilette. Gemeinsamer Umbau möglich.
 - Gut erreichbar via öffentlichen Verkehrsmitteln oder per Fahrrad. Gerne zentral gelegen, aber auch dem Stadtrand nicht abgeneigt, falls passend.
 - (Wenige) Parkplätze wären nett, aber kein muss.
-- Mindestens ein größerer **Raum für (Rede-)Veranstaltungen** für ca. 50 Personen, bestuhlbar. Weitere Räume für Büros.
+- Mindestens ein größerer **Raum für (Rede-)Veranstaltungen** für ca. 30-50 Personen, bestuhlbar. Weitere Räume für Büros.
 - Möglichkeit für eine **Holzwerkstatt und Elektrolabore**. Belüftung, Maschinenbetrieb (Sägen, Lasercutter, etc.) an ca. 1-2 Tagen die Woche nach 17 Uhr. Am besten ebenerdig gelegen oder Lastenaufzug (wegen größeren Maschinen, z.B. Formatkreissäge).
 - Toll wären Schaufenster bzw. Möglichkeiten zur Außenwerbung.
 - **24/7 Zugang** an allen Tagen der Woche (kein Empfang oder Zugang erst nach Anmeldung)
-- Gebäude mit Denkmalschutz und/oder fehlende Möglichkeiten zu (gemeinsam vereinbarten) Umbauten sind oft nicht geeignet, aber je nach Fall auch kein K.O.-Kriterium.
+- Gebäude mit Denkmalschutz im Inneren und/oder fehlende Möglichkeiten zu (gemeinsam vereinbarten) Umbauten sind oft nicht geeignet, aber je nach Fall auch kein K.O.-Kriterium.
 - Wichtig, aber i.d.R. gegeben: Gute Internetanbindung, gute Heizung, trocken, gute sanitäre Anlagen und Rohrleitungen, gute Elektrik (gerne Drehstrom/Starkstrom).
 
 ### Wer wir sind und was wir machen

@@ -15,7 +15,7 @@ tags:
   - ubuntu
 
 ---
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ubuntu_5.04_CDs.jpg/512px-Ubuntu_5.04_CDs.jpg" attr="[Enochlau](https://commons.wikimedia.org/wiki/User:Enochlau), [Ubuntu 5.04 CDs](https://commons.wikimedia.org/wiki/File:Ubuntu_5.04_CDs.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). Beim Kurs wird das eher vom USB-Stick installiert und zwar in neuerer Version, aber das Symbolbild hatten wir schon 😀" >}}
+{{< figure src="/wp-content/uploads/2018/01/Ubuntu_5.04_CDs.jpg" attr="[Enochlau](https://commons.wikimedia.org/wiki/User:Enochlau), [Ubuntu 5.04 CDs](https://commons.wikimedia.org/wiki/File:Ubuntu_5.04_CDs.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode). Beim Kurs wird das eher vom USB-Stick installiert und zwar in neuerer Version, aber das Symbolbild hatten wir schon 😀" >}}
 
 [Ubuntu GNU/Linux][4] ist ein vollständiges und [Freies][5] Betriebssystem inklusive [Office-Programmen,][6] Internetbrowser und E-Mail-Programm. Einfach in der Bedienung, sehr schnell im Betrieb, sicher beim Surfen im Internet.
 

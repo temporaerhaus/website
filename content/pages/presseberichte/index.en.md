@@ -13,152 +13,161 @@ slug: presse
 [<button>2022</button>](#2022)
 [<button>2023</button>](#2023)
 [<button>2024</button>](#2024)
+[<button>2025</button>](#2025)
+[<button>2026</button>](#2026)
 
 ### 2016
 
-  * Stadtlabor Ulm - Das Experimentierfeld für die Welt von morgen - Beschlussvorlage auf [Bürgerinfo Ulm][6] oder [Politik bei uns][7]
-  * [UlmAPI][8] zieht ins Verschwörhaus
-  * Erstes [Datalove Meetup][9] im Verschwörhaus
-  * [Südwest Presse][10]: Ulm richtet am Weinhof ein Stadtlabor für kreative Köpfe ein <small>(10.05.2016)</small>
-  * [Südwest Presse][11]: Digitalisierung: Ulmer Gemeinderat sieht neue Mammutaufgabe vor sich <small>(17.06.2016)</small>
-  * [Südwest Presse][12]: Verein &#8222;inititiative.ulm.digital&#8220; macht Ulm fit fürs digitale Zeitalter <small>(07.07.2016)</small>
-  * [Augsburger Allgemeine][13]: Der „digitale Bolzplatz“ hat neue Unterstützer <small>(07.07.2016)</small>
-  * [Free FM][14]: Wissensstrahlung 243 <small>(17.07.2016)</small>
-  * [Ideenwerk BW][15]: Ulm: Kein Gründerort für Eigenbrötler <small>(01.08.2016)</small>
-  * [SWR Landesschau][16]: Stadtlabor für die digitale Zukunft <small>(22.10.2016)</small>
-  * [Südwest Presse][17]: Digitalisierung: Neues Netzwerk für Mini-Daten in Ulm <small>(14.12.2016)</small>
+  * Stadtlabor Ulm - Das Experimentierfeld für die Welt von morgen - Council decision on [Bürgerinfo Ulm][6] or [Politik bei uns][7]
+  * [UlmAPI][8] moves into Verschwörhaus
+  * First [Datalove Meetup][9] in Verschwörhaus
+  * [Südwest Presse][10]: Ulm richtet am Weinhof ein Stadtlabor für kreative Köpfe ein <small>(2016-05-10)</small>
+  * [Südwest Presse][11]: Digitalisierung: Ulmer Gemeinderat sieht neue Mammutaufgabe vor sich <small>(2016-06-17)</small>
+  * [Südwest Presse][12]: Verein &#8222;inititiative.ulm.digital&#8220; macht Ulm fit fürs digitale Zeitalter <small>(2016-07-07)</small>
+  * [Augsburger Allgemeine][13]: Der „digitale Bolzplatz“ hat neue Unterstützer <small>(2016-07-07)</small>
+  * [Free FM][14]: Wissensstrahlung 243 <small>(2016-07-17)</small>
+  * [Ideenwerk BW][15]: Ulm: Kein Gründerort für Eigenbrötler <small>(2016-08-01)</small>
+  * [SWR Landesschau][16]: Stadtlabor für die digitale Zukunft <small>(2016-10-22)</small>
+  * [Südwest Presse][17]: Digitalisierung: Neues Netzwerk für Mini-Daten in Ulm <small>(2016-12-14)</small>
 
 ### 2017
 
-  * [Wikistammtisch.org][18]: Episode 0054 <small>(06.03.2017)</small>
-  * [Südwest Presse][19]: Workshop im Verschwörhaus: Schaltkreise nähen <small>(11.03.2017)</small>
-  * [Südwest Presse][20]: Wir sind mehr so Shabby Chic <small>(08.04.2017)</small>
-  * [DASDING.de][21]: VERschwörhaus in Ulm? Das steckt dahinter! <small>(17.05.2017)</small>
-  * [Südwest Presse][22]: Junge Menschen für die Informatik begeistern <small>(05.07.2017)</small>
-  * [free FM][23]: Wissensstrahlung 269 <small>(16.07.2017)</small>
-  * [free FM][24]: Wissensstrahlung 270 <small>(30.07.2017)</small>
-  * [Wegweiser Kommune][25]: Jede Stadt braucht ein Verschwörhaus <small>(31.08.2017)</small>
-  * [Süddeutsche Zeitung][26]: Die gute Verschwörung <small>(18.09.2017)</small>
-  * [Herr Mies will&#8217;s wissen][27]: Tag 1 auf dem 34C3 <small>(27.12.2017)</small>
+  * [Wikistammtisch.org][18]: Episode 0054 <small>(2017-03-06)</small>
+  * [Südwest Presse][19]: Workshop im Verschwörhaus: Schaltkreise nähen <small>(2017-03-11)</small>
+  * [Südwest Presse][20]: Wir sind mehr so Shabby Chic <small>(2017-04-08)</small>
+  * [DASDING.de][21]: VERschwörhaus in Ulm? Das steckt dahinter! <small>(2017-05-17)</small>
+  * [Südwest Presse][22]: Junge Menschen für die Informatik begeistern <small>(2017-07-05)</small>
+  * [free FM][23]: Wissensstrahlung 269 <small>(2017-07-16)</small>
+  * [free FM][24]: Wissensstrahlung 270 <small>(2017-07-30)</small>
+  * [Wegweiser Kommune][25]: Jede Stadt braucht ein Verschwörhaus <small>(2017-08.31)</small>
+  * [Süddeutsche Zeitung][26]: Die gute Verschwörung <small>(2017-09-18)</small>
+  * [Herr Mies will&#8217;s wissen][27]: Tag 1 auf dem 34C3 <small>(2017-12-27)</small>
 
 ### 2018
 
-  * [Filstalexpress][28]: Verschwörhaus macht Digitalisierung erlebbar <small>(27.01.2018)</small>
-  * [Südwest Presse][49]: Ein Rundgang durch das Verschwörhaus <small>(07.03.2018)</small>
-  * [SWR Aktuell Baden-Württemberg][29]: Beitrag in der 19:45-Sendung (ab 1:47) <small>(25.03.2018)</small>
-  * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder <small>(28.03.2018)</small>
-  * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (ab 6:10) <small>(29.04.2018)</small>
-  * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen <small>(29.05.2018)</small>
-  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel
-  * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille <small>(19.06.2018)</small>
-  * [Südwest Presse][35]: Gemeinsam tüfteln im Verschwörhaus <small>(12.09.2018)</small>
-  * [Schwäbische Zeitung][36]: Kulturnacht lädt zur Entdeckungsreise vor der eigenen Haustür ein <small>(16.09.2018)</small>
-  * [Schwäbische Zeitung][37]: Wie Ulmer Wikipedia mitgestalten <small>(1.11.2018)</small>
-  * [netzpolitik.org][38]: So holen wir uns die smarte Stadt zurück <small>(03.12.2018)</small>
-  * [Free FM][39]: Wissensstrahlung 307 <small>(16.12.2018)</small>
+  * [Filstalexpress][28]: Verschwörhaus macht Digitalisierung erlebbar <small>(2018-01-27)</small>
+  * [Südwest Presse][49]: Ein Rundgang durch das Verschwörhaus <small>(2018-03-07)</small>
+  * [SWR Aktuell Baden-Württemberg][29]: Clip in the 19:45 Show (starting at 1:47) <small>(2018-03-25)</small>
+  * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder <small>(2018-03-28)</small>
+  * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (starting at 6:10) <small>(2018-04-29)</small>
+  * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen <small>(2018-05-29)</small>
+  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel <small>(2018-05-30)</small>
+  * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille <small>(2018-06-19)</small>
+  * [Südwest Presse][35]: Gemeinsam tüfteln im Verschwörhaus <small>(2018-09-12)</small>
+  * [Schwäbische Zeitung][36]: Kulturnacht lädt zur Entdeckungsreise vor der eigenen Haustür ein <small>(2018-09-16)</small>
+  * [Schwäbische Zeitung][37]: Wie Ulmer Wikipedia mitgestalten <small>(2018-11-01)</small>
+  * [netzpolitik.org][38]: So holen wir uns die smarte Stadt zurück <small>(2018-12-03)</small>
+  * [Free FM][39]: Wissensstrahlung 307 <small>(2018-12-16)</small>
 
 ### 2019
 
-  * [heise.de][40]: Werkstattberichte: Neues aus den Fablabs und der Makerszene <small>(05.02.2019)</small>
-  * [Code for Germany][41]: Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt <small>(10.04.2019)</small>
-  * [apolitical.co][42]: Germany’s the home of bureaucracy. A new community wants change <small>(23.04.2019)</small>
-  * [ulm-news][43]: Tunesische Delegation informiert sich über Digitalisierung, Partizipation und Kommunale Selbstverwaltung <small>(25.04.2019)</small>
-  * [rbb RadioEins][44]: Digitale Routenplanung <small>(05.05.2019)</small>
-  * [Frankfurter Allgemeine Zeitung][45]: Digitalkonferenz re:publica : Daten regeln den Verkehr <small>(06.05.2019)</small>
-  * [Neues Deutschland][46]: Daten für die Städte <small>(06.05.2019)</small>
-  * [Tagesspiegel Background (€)][47]: Wie Städte bei der Verkehrswende aktiv werden <small>(07.05.2019)</small>
-  * [ORF Ö1][48]: Offene Mobilität statt Silicon Valley <small>(08.05.2019)</small>
+  * [heise.de][40]: Werkstattberichte: Neues aus den Fablabs und der Makerszene <small>(2019-02-05)</small>
+  * [Code for Germany][41]: Fünf Jahre Code for Germany, fünf Jahre digitales Ehrenamt <small>(2019-04-10)</small>
+  * [apolitical.co][42]: Germany’s the home of bureaucracy. A new community wants change <small>(2019-04-23)</small>
+  * [ulm-news][43]: Tunesische Delegation informiert sich über Digitalisierung, Partizipation und Kommunale Selbstverwaltung <small>(2019-04-25)</small>
+  * [rbb RadioEins][44]: Digitale Routenplanung <small>(2019-05-05)</small>
+  * [Frankfurter Allgemeine Zeitung][45]: Digitalkonferenz re:publica : Daten regeln den Verkehr <small>(2019-05-06)</small>
+  * [Neues Deutschland][46]: Daten für die Städte <small>(2019-05-06)</small>
+  * [Tagesspiegel Background (€)][47]: Wie Städte bei der Verkehrswende aktiv werden <small>(2019-05-07)</small>
+  * [ORF Ö1][48]: Offene Mobilität statt Silicon Valley <small>(2019-05-08)</small>
 
 ### 2020
-  * [netzpolitik.org][51]: Ulm baut offene Bildungsinfrastruktur für Schulen <small>(23.04.2020)</small>
+  * [netzpolitik.org][51]: Ulm baut offene Bildungsinfrastruktur für Schulen <small>(2020-04-23)</small>
   * [Make Magazine][53]: Werkstattberichte: Neues aus den Fablabs und der Makerszene <small>(April 2020)</small>
-  * [Netzpolitik.org][54]: Eine Mobilitätsplattform für alle <small>(30.05.2020)</small>
-  * [Kreativ und Digital: Kulturelle Bildung in Zeiten der Digitalität in Baden-Württemberg (PDF)][55]. Buchbeitrag in einem Sammelband der [Landesvereinigung Kulturelle Jugendbildung Baden-Württemberg][56], Hrsg. Prof. Dr. Markus Kosuch und Agnes Will <small>(Mai 2020)</small>
-  * [Postwachstumsgeographien (PDF)][57]. Buchbeitrag in einem Sammelband von Bastian Lange, Martina Hülz, Benedikt Schmid und Christian Schulz (Hrsg), erschienen im Transcript Verlag, ISBN 978-3-8376-5180-5 <small>(Juni 2020)</small>
-  * [Schwäbische Zeitung][50]: Am Weinhof kann man jetzt erleben, wie die Zukunft aussehen kann <small>(26.07.2020)</small>
-  * [ulm-news][52]: Feminismus Thema bei Jugend hackt im Verschwörhaus <small>(05.10.2020)</small>
-  * [Südwest Presse][58]: Aufruf gegen Querdenker <small>(15.11.2020)</small>
+  * [Netzpolitik.org][54]: Eine Mobilitätsplattform für alle <small>(2020-05-30)</small>
+  * [Kreativ und Digital: Kulturelle Bildung in Zeiten der Digitalität in Baden-Württemberg (PDF)][55]. Book chapter in a publication of [Landesvereinigung Kulturelle Jugendbildung Baden-Württemberg][56], Editors Prof. Dr. Markus Kosuch and Agnes Will <small>(May 2020)</small>
+  * [Postwachstumsgeographien (PDF)][57]. Chapter in a book edited by Bastian Lange, Martina Hülz, Benedikt Schmid and Christian Schulz, Transcript Verlag, ISBN 978-3-8376-5180-5 <small>(June 2020)</small>
+  * [Schwäbische Zeitung][50]: Am Weinhof kann man jetzt erleben, wie die Zukunft aussehen kann <small>(2020-07-26)</small>
+  * [ulm-news][52]: Feminismus Thema bei Jugend hackt im Verschwörhaus <small>(2020-10-05)</small>
+  * [Südwest Presse][58]: Aufruf gegen Querdenker <small>(2020-11-15)</small>
 
 ### 2021
-  * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(25.02.2021)</small>
-  * [Neu-Ulmer Zeitung (€)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archivierte Fassung im Internet Archive][61]) <small>(01.03.2021)</small>
-  * [Verwaltungsrebellen][62]: Fortschritt, ohne um Erlaubnis zu fragen: Das Verschwörhaus in Ulm <small>(08.07.2021)</small>
-  * [Südwest Presse (€)][63]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(14.07.2021)</small>
-  * [Südwest Presse (€)][64] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(09.11.2021)</small>
-  * [Südwest Presse (€)][65] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(10.11.2021)</small>
+  * [Schwäbische][59]: Waldseer Schüler experimentieren wieder um die Wette <small>(2021-02-25)</small>
+  * [Neu-Ulmer Zeitung (€)][60]: Hochwassersensoren an Donau und Blau bestehen den Praxistest ([archived version][61]) <small>(2021-03-01)</small>
+  * [Verwaltungsrebellen][62]: Fortschritt, ohne um Erlaubnis zu fragen: Das Verschwörhaus in Ulm <small>(2021-07-08)</small>
+  * [Südwest Presse (€)][63]: Ärgernis Allgäuer Ring: So soll der Umbau der nervigen Umlaufsperren aussehen <small>(2021-07-14)</small>
+  * [Südwest Presse (€)][64] Das digitale Stadtlabor verliert seinen Macher: Bedauern, Respekt und Dank <small>(2021-11-09)</small>
+  * [Südwest Presse (€)][65] Projektleiter Stefan Kaufmann geht: Das sagen die Ehrenamtlichen dazu <small>(2021-11-10)</small>
 
 ### 2022
-  * [Südwest Presse (€)][66]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(14.01.2022)</small>
-  * [SWR][67]: Streit um Verschwörhaus in Ulm: Hauptausschuss beschließt neues Nutzungskonzept <small>(06.05.2022)</small>
-  * [Südwest Presse (€)][68]: Verschwörhaus Ulm: Eskaliert der Streit zwischen der Stadt und den Ehrenamtlichen? <small>(08.05.2022)</small>
-  * [Tagesspiegel Background (€)][69]: Ulm: Streit um „Verschwörhaus“ <small>(10.05.2022)</small>
-  * [Tagesspiegel Background (€)][70]: Ulm: Verschwörhaus-Community berät über Forderungen <small>(31.05.2022)</small>
-  * [Südwest Presse (€)][71]: Verein spricht von Rauswurf: Stadt und Ehrenamtliche trennen sich <small>(13.06.2022)</small>
-  * [Südwest Presse (€)][88]: Neue Eskalationsstufe: Stadt lässt die Türschlösser austauschen  <small>(14.06.2022)</small>
-  * [Südwest Presse (€)][72]: Harte Kritik an der Stadt nach der Scheidung vom Verein <small>(14.06.2022)</small>
-  * [Tagesspiegel Background (€)][90]: Verschwörhaus-Streit: Lektionen für die Verwaltung  <small>(14.06.2022)</small>
-  * [netzpolitik.org][87]: Verschwörhaus: Stadt Ulm schmeißt Hackerspace raus – und will den Namen auch gleich haben <small>(15.06.2022)</small>
-  * [netzpolitik.org][86]: Stadtverwaltung Ulm: An Peinlichkeit kaum zu überbieten <small>(16.06.2022)</small>
-  * [Südwest Presse (€)][73]: „Unendlich traurig!“ Zwei Experten zur Trennung von Stadt und Verein <small>(24.06.2022)</small>
-  * [Südwest Presse (€)][89]: Forderung an OB Czisch: Konflikt soll öffentlich aufgearbeitet werden  <small>(30.06.2022)</small>
-  * [Südwest Presse (€)][74]: Kaum sind die Ehrenamtlichen weg, wird der neue Claim vorgestellt <small>(13.07.2022)</small>
-  * [Südwest Presse (€)][75]: Eklat zur Kulturnacht: Stadt Ulm verwehrt Verein einen Standplatz <small>(15.09.2022)</small>
-  * [Südwest Presse (€)][76]: Nächste Eskalation: Stadt verklagt Verschwörhaus-Verein <small>(19.10.2022)</small>
-  * [Südwest Presse (€)][77]: „Zwei Handvoll Durchgeknallte“: OB Czisch wettert gegen Ehrenamtliche <small>(25.10.2022)</small>
-  * [Südwest Presse (€)][78]: So reagiert der Verein auf die „Durchgeknallt“-Äußerung von OB Czisch <small>(26.10.2022)</small>
-  * [Südwest Presse (€)][79]: Neuer Ärger: Stadtjugendring fühlt sich „instrumentalisiert“ <small>(09.11.2022)</small>
+  * [Südwest Presse (€)][66]: Streit ums Verschwörhaus: Wem gehören Name und Logo? <small>(2022-01-14)</small>
+  * [SWR][67]: Streit um Verschwörhaus in Ulm: Hauptausschuss beschließt neues Nutzungskonzept <small>(2022-05-06)</small>
+  * [Südwest Presse (€)][68]: Verschwörhaus Ulm: Eskaliert der Streit zwischen der Stadt und den Ehrenamtlichen? <small>(2022-05-08)</small>
+  * [Tagesspiegel Background (€)][69]: Ulm: Streit um „Verschwörhaus“ <small>(2022-05-10)</small>
+  * [Tagesspiegel Background (€)][70]: Ulm: Verschwörhaus-Community berät über Forderungen <small>(2022-05-31)</small>
+  * [Südwest Presse (€)][71]: Verein spricht von Rauswurf: Stadt und Ehrenamtliche trennen sich <small>(2022-06-13)</small>
+  * [Südwest Presse (€)][88]: Neue Eskalationsstufe: Stadt lässt die Türschlösser austauschen  <small>(2022-06-14)</small>
+  * [Südwest Presse (€)][72]: Harte Kritik an der Stadt nach der Scheidung vom Verein <small>(2022-06-14)</small>
+  * [Tagesspiegel Background (€)][90]: Verschwörhaus-Streit: Lektionen für die Verwaltung  <small>(2022-06-14)</small>
+  * [netzpolitik.org][87]: Verschwörhaus: Stadt Ulm schmeißt Hackerspace raus – und will den Namen auch gleich haben <small>(2022-06-15)</small>
+  * [netzpolitik.org][86]: Stadtverwaltung Ulm: An Peinlichkeit kaum zu überbieten <small>(2022-06-16)</small>
+  * [Südwest Presse (€)][73]: „Unendlich traurig!“ Zwei Experten zur Trennung von Stadt und Verein <small>(2022-06-24)</small>
+  * [Südwest Presse (€)][89]: Forderung an OB Czisch: Konflikt soll öffentlich aufgearbeitet werden  <small>(2022-06-30)</small>
+  * [Südwest Presse (€)][74]: Kaum sind die Ehrenamtlichen weg, wird der neue Claim vorgestellt <small>(2022-07-13)</small>
+  * [Südwest Presse (€)][75]: Eklat zur Kulturnacht: Stadt Ulm verwehrt Verein einen Standplatz <small>(2022-09-15)</small>
+  * [Südwest Presse (€)][76]: Nächste Eskalation: Stadt verklagt Verschwörhaus-Verein <small>(2022-10-19)</small>
+  * [Südwest Presse (€)][77]: „Zwei Handvoll Durchgeknallte“: OB Czisch wettert gegen Ehrenamtliche <small>(2022-10-25)</small>
+  * [Südwest Presse (€)][78]: So reagiert der Verein auf die „Durchgeknallt“-Äußerung von OB Czisch <small>(2022-10-26)</small>
+  * [Südwest Presse (€)][79]: Neuer Ärger: Stadtjugendring fühlt sich „instrumentalisiert“ <small>(2022-11-09)</small>
   
 ### 2023
-  * [Südwest Presse (€)][80]: Der Prozess um die Marke steht bevor <small>(05.01.2023)</small>
+  * [Südwest Presse (€)][80]: Der Prozess um die Marke steht bevor <small>(2023-01-05)</small>
   * [Augsburger Allgemeine (€)][81]: Streit um die Marke "Verschwörhaus": Verein und Stadt Ulm vor Gericht
-<small>(24.01.2023)</small>
-  * [Südwest Presse (€)][82]: Streit um die Marke „Verschwörhaus“: So lief die Gerichtsverhandlung <small>(24.01.2023)</small>
-  * [Stuttgarter Zeitung (€)][83]: Einstige Verschwörhauspartner treffen sich vor Gericht <small>(24.01.2023)</small>
-  * [netzpolitik.org][84]: Stadt Ulm gegen Communityprojekt: Unterlassungsklage gegen „Verschwörhaus“ jetzt vor Gericht <small>(26.01.2023)</small>
-  * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(26.01.2023)</small>
-  * [Südwest Presse (€)][91]: Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(16.03.2023)</small>
-  * [Stuttgarter Zeitung (€)][92]: Die digitale Zukunft macht gerade Pause <small>(30.03.2023)</small>
-  * [taz][93]: Technologische Ermächtigung <small>(30.03.2023)</small>
-  * [Südwest Presse (€)][94]: Urteil im Markenrechtsstreit erneut verschoben <small>(18.04.2023)</small>
-  * [Südwest Presse (€)][95]: Markenrechtsstreit: Stadt Ulm gewinnt vor Gericht <small>(24.04.2023)</small>
-  * [Schwäbische][96]: Gegen Ehrenamtliche geklagt: Gericht gibt Stadt Ulm Recht <small>(24.04.2023)</small>
-  * [Stuttgarter Zeitung][97]: Stadt Ulm siegt im Verschwörhaus-Streit <small>(24.04.2023)</small>
-  * [netzpolitik.org][98]: Verschwörhaus verliert seinen Namen an die Stadt <small>(24.04.2023)</small>
-  * [SWR][99]: "Verschwörhaus": Verein verliert Namensstreit gegen Stadt Ulm <small>(24.04.2023)</small>
-  * [Tagesspiegel Background][100]: Verschwörhaus-Streit: Was hätte anders laufen müssen? <small>(25.04.2023)</small>
-  * [Logbuch Netzpolitik][101]: LNP 458 (ab 1:15:15) <small>(29.04.2023)</small>
-  * [Südwest Presse(€)][102]: Nach Niederlage vor Gericht: Verein ändert seinen Namen <small>(08.05.2023)</small>
-  * [Code for Germany][103]: A SLAPP in the Face – Out in the Open April 2023 <small>(08.05.2023)</small>
-  * [Augsburger Allgemeine (€)][104]: Leihladen und früheres Verschwörhaus-Team ziehen in Ex-Sport-Sohn <small>(12.05.2023)</small>
-  * [Südwest Presse (€)][105]: Ex-Sport-Sohn-Haus wird Heimat der Zivilgesellschaft <small>(12.05.2023)</small>
-  * [SWR][106]: Ehemaliger Verschwörhaus-Verein zieht nach Neu-Ulm <small>(12.05.2023)</small>
-  * [Regio-TV][107]: Ehrenamtliche beziehen gemeinsam das frühere Sport-Sohn-Stammhaus in Neu-Ulm <small>(12.05.2023)</small>
-  * [Augsburger Allgemeine (€)][114]: Ex-Verschwörhaus zieht in Ex-Sport-Sohn: Was bringt das für Neu-Ulm? <small>(18.05.2023)</small>
-  * [Kompetenzzentrum öffentliche IT][108]: Gastbeitrag „Digitales Ehrenamt und Verwaltungsdigitalisierung in der Praxis – Erfahrungen und Ausblicke <small>(24.05.2023)</small>
-  * [Code for Germany][109]: Leere Hüllen – Out in the Open Mai 2023 <small>(01.06.2023)</small>
-  * [Südwest Presse (€)][110]: Streit um die Markenrechte: Warum der Verein jetzt aufgibt <small>(21.06.2023)</small>
-  * [Logbuch Netzpolitik][111]: LNP 468 (ab 1:08:10) <small>(07.09.2023)</small>
-  * [Südwest Presse (€)][112]: Wiedergeburt der Maker-Spaces rechts und links der Donau <small>(14.09.2023)</small>
-  * [Südwest Presse (€)][113]: Wie die Eröffnung des Temporärhauses lief <small>(18.09.2023)</small>
+<small>(2023-01-24)</small>
+  * [Südwest Presse (€)][82]: Streit um die Marke „Verschwörhaus“: So lief die Gerichtsverhandlung <small>(2023-01-24)</small>
+  * [Stuttgarter Zeitung (€)][83]: Einstige Verschwörhauspartner treffen sich vor Gericht <small>(2023-01-24)</small>
+  * [netzpolitik.org][84]: Stadt Ulm gegen Communityprojekt: Unterlassungsklage gegen „Verschwörhaus“ jetzt vor Gericht <small>(2023-01-26)</small>
+  * [free FM][85]: Der Konflikt hinter dem Verschwörhaus <small>(2023-01-26)</small>
+  * [Südwest Presse (€)][91]: Stadt sorgt für neuen Ärger – Urteil kommt erstmal nicht <small>(2023-03-16)</small>
+  * [Stuttgarter Zeitung (€)][92]: Die digitale Zukunft macht gerade Pause <small>(2023-03-30)</small>
+  * [taz][93]: Technologische Ermächtigung <small>(2023-03-30)</small>
+  * [Südwest Presse (€)][94]: Urteil im Markenrechtsstreit erneut verschoben <small>(2023-04-18)</small>
+  * [Südwest Presse (€)][95]: Markenrechtsstreit: Stadt Ulm gewinnt vor Gericht <small>(2023-04-24)</small>
+  * [Schwäbische][96]: Gegen Ehrenamtliche geklagt: Gericht gibt Stadt Ulm Recht <small>(2023-04-24)</small>
+  * [Stuttgarter Zeitung][97]: Stadt Ulm siegt im Verschwörhaus-Streit <small>(2023-04-24)</small>
+  * [netzpolitik.org][98]: Verschwörhaus verliert seinen Namen an die Stadt <small>(2023-04-24)</small>
+  * [SWR][99]: "Verschwörhaus": Verein verliert Namensstreit gegen Stadt Ulm <small>(2023-04-24)</small>
+  * [Tagesspiegel Background][100]: Verschwörhaus-Streit: Was hätte anders laufen müssen? <small>(2023-04-25)</small>
+  * [Logbuch Netzpolitik][101]: LNP 458 (ab 1:15:15) <small>(2023-04-29)</small>
+  * [Südwest Presse(€)][102]: Nach Niederlage vor Gericht: Verein ändert seinen Namen <small>(2023-05-08)</small>
+  * [Code for Germany][103]: A SLAPP in the Face – Out in the Open April 2023 <small>(2023-05-08)</small>
+  * [Augsburger Allgemeine (€)][104]: Leihladen und früheres Verschwörhaus-Team ziehen in Ex-Sport-Sohn <small>(2023-05-12)</small>
+  * [Südwest Presse (€)][105]: Ex-Sport-Sohn-Haus wird Heimat der Zivilgesellschaft <small>(2023-05-12)</small>
+  * [SWR][106]: Ehemaliger Verschwörhaus-Verein zieht nach Neu-Ulm <small>(2023-05-12)</small>
+  * [Regio-TV][107]: Ehrenamtliche beziehen gemeinsam das frühere Sport-Sohn-Stammhaus in Neu-Ulm <small>(2023-05-12)</small>
+  * [Augsburger Allgemeine (€)][114]: Ex-Verschwörhaus zieht in Ex-Sport-Sohn: Was bringt das für Neu-Ulm? <small>(2023-05-18)</small>
+  * [Kompetenzzentrum öffentliche IT][108]: Gastbeitrag „Digitales Ehrenamt und Verwaltungsdigitalisierung in der Praxis – Erfahrungen und Ausblicke <small>(2023-05-24)</small>
+  * [Code for Germany][109]: Leere Hüllen – Out in the Open Mai 2023 <small>(2023-06-01)</small>
+  * [Südwest Presse (€)][110]: Streit um die Markenrechte: Warum der Verein jetzt aufgibt <small>(2023-06-21)</small>
+  * [Logbuch Netzpolitik][111]: LNP 468 (ab 1:08:10) <small>(2023-09-07)</small>
+  * [Südwest Presse (€)][112]: Wiedergeburt der Maker-Spaces rechts und links der Donau <small>(2023-09-14)</small>
+  * [Südwest Presse (€)][113]: Wie die Eröffnung des Temporärhauses lief <small>(2023-09-18)</small>
 
 ### 2024
-  * [Ulm-News][115]: Jugend hackt Lab startet wieder im "temporärhaus" in Neu-Ulm <small>(25.04.2024)</small>
-  * Südwest Presse (Print): Jugend hackt in Neu-Ulm: Temporärhaus bietet wieder Workshops und offene Treffs <small>(16.05.2024)</small>
-  * [Südwest Presse (€)][116]: Engagiert in Neu-Ulm: Haus der Zivilgesellschaft geht in die Verlängerung <small>(09.08.2024)</small>
-  * [Regio-TV][117]: Das temporärhaus Neu-Ulm: Workspace für Kreative <small>06.09.2024</small>
-  * [Regio-TV][118]: Das erwartet Sie bei der Kulturnacht 2024 <small>17.09.2024</small>
-  * [Südwest Presse (€)][119]: Kulturnacht Ulm/Neu-Ulm 2024: Heiteres und Absurdes aus allen Sparten – Was am Samstag geboten ist <small>18.09.2024</small>
-  * [Ulm-News][120]: Kulturnacht Ulm / Neu-Um - die Vielfalt der gesamtem Kultur an einem Abend <small>21.09.2024</small>
-  * [Neu-Ulmer Zeitung][121]: Nachhaltigkeitszentrum im ehemaligen Sport-Sohn feiert einjähriges Bestehen <small>23.09.2024</small>
-  * [Ulm-News][122]: Infotag: Wikidata und die KI <small>13.11.2024</small>
-  * [Neu-Ulmer Zeitung][123]: Bundesweites Vernetzungstreffen von Häusern der Nachhaltigkeit und des Engagements in Neu-Ulm <small>25.11.2024</small>
+  * [Ulm-News][115]: Jugend hackt Lab startet wieder im "temporärhaus" in Neu-Ulm <small>(2024-04-25)</small>
+  * Südwest Presse (Print): Jugend hackt in Neu-Ulm: Temporärhaus bietet wieder Workshops und offene Treffs <small>(2024-05-16)</small>
+  * [Südwest Presse (€)][116]: Engagiert in Neu-Ulm: Haus der Zivilgesellschaft geht in die Verlängerung <small>(2024-08-09)</small>
+  * [Regio-TV][117]: Das temporärhaus Neu-Ulm: Workspace für Kreative <small>2024-09-06</small>
+  * [Regio-TV][118]: Das erwartet Sie bei der Kulturnacht 2024 <small>2024-09-17</small>
+  * [Südwest Presse (€)][119]: Kulturnacht Ulm/Neu-Ulm 2024: Heiteres und Absurdes aus allen Sparten – Was am Samstag geboten ist <small>2024-09-18</small>
+  * [Ulm-News][120]: Kulturnacht Ulm / Neu-Um - die Vielfalt der gesamtem Kultur an einem Abend <small>2024-09-21</small>
+  * [Neu-Ulmer Zeitung][121]: Nachhaltigkeitszentrum im ehemaligen Sport-Sohn feiert einjähriges Bestehen <small>2024-09-23</small>
+  * [Ulm-News][122]: Infotag: Wikidata und die KI <small>2024-11-13</small>
+  * [Neu-Ulmer Zeitung][123]: Bundesweites Vernetzungstreffen von Häusern der Nachhaltigkeit und des Engagements in Neu-Ulm <small>2024-11-25</small>
 
 ### 2025
-  * [Schwäbische][124]: Sie ist eine der wenigen Frauen hinter Wikipedia – und das stört sie gewaltig <small>mit Video, (08.04.2025)</small>
-  * [Regio-TV][125]: Wie kann die Wikipedia diverser werden? Wir fragen bei einer Wikipedianerin nach <small> (08.04.2025)</small>
-  * [Südwest Presse][126]: Mietvertrag endet: „Aber es muss einfach weitergehen!“ <small> (12.09.2025)</small>
-  * [Südwest Presse][127]: Stadt sichert Hilfe bei Suche nach neuer Immobilie zu <small> (17.09.2025)</small>
-  * [Neu-Ulmer Zeitung (€)][128]: Leihbar, Reparaturcafé und mehr: Bleibt das Haus der Nachhaltigkeit in Neu-Ulm? <small> (22.09.2025)</small>
+  * [Schwäbische][124]: Sie ist eine der wenigen Frauen hinter Wikipedia – und das stört sie gewaltig <small>mit Video, (2025-04-08)</small>
+  * [Regio-TV][125]: Wie kann die Wikipedia diverser werden? Wir fragen bei einer Wikipedianerin nach <small> (2025-04-08)</small>
+  * [Südwest Presse][126]: Mietvertrag endet: „Aber es muss einfach weitergehen!“ <small> (2025-09-12)</small>
+  * [Südwest Presse][127]: Stadt sichert Hilfe bei Suche nach neuer Immobilie zu <small> (2025-09-17)</small>
+  * [Neu-Ulmer Zeitung (€)][128]: Leihbar, Reparaturcafé und mehr: Bleibt das Haus der Nachhaltigkeit in Neu-Ulm? <small> (2025-09-22)</small>
+
+### 2026
+  * [Neu-Ulmer Zeitung (€)][129]: Das Haus der Nachhaltigkeit ist gerettet – und was ist mit dem Temporärhaus? <small>(2026-04-22)</small>
+  * [Südwest Presse (€)][130]: Erstes Barcamp in Neu-Ulm: Aber was ist das eigentlich? <small>(2026-04-22)</small>
+    * [Südwest Presse (€)][131]: So geht das Temporärhaus die Suche nach neuen Räumen an <small>(2026-05-04)</small>
+  * [Neu-Ulmer Zeitung][132]: Größte Regenbogenflagge Deutschlands: Bei der diesjährigen CSD-Parade werden Rekorde gebrochen <small>(2026-06-08)</small>
+  * [Regio-TV][133]: Die größte Regenbogenflagge Deutschlands kommt aus der Doppelstadt <small>(2026-06-19)</small>
 
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
@@ -188,6 +197,7 @@ slug: presse
  [31]: https://www.br.de/mediathek/video/respekt-29042018-mitmachen-sich-engagieren-zutaten-fuer-die-moderne-demokratie-av:5ab3d4a44001e50018939daf
  [32]: https://www.swp.de/suedwesten/staedte/ulm/gesucht_-bilder-und-dias-von-alten-strassenbahnen-26844278.html
  [33]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
+ [33a]: https://web.archive.org/web/20191017123458/https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
  [34]: https://www.swp.de/suedwesten/staedte/ulm/_jugend-hackt_-erhaelt-theodor-heuss-medaille-27006564.html
  [35]: https://www.swp.de/suedwesten/staedte/ulm/gemeinsam-tuefteln-im-verschwoerhaus-27622024.html
  [36]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_artikel,-kulturnacht-l%C3%A4dt-zur-entdeckungsreise-vor-der-eigenen-haust%C3%BCr-ein-_arid,10933590.html
@@ -282,3 +292,5 @@ slug: presse
  [126]: https://www.swp.de/lokales/ulm/haus-der-zivilgesellschaft-bedroht-mietvertrag-endet-aber-es-muss-einfach-weitergehen-78305408.html
  [127]: https://www.swp.de/lokales/neu-ulm/neu-ulmer-vereine-in-not-stadt-sichert-hilfe-bei-suche-nach-neuer-immobilie-zu-78317078.html
  [128]: https://www.augsburger-allgemeine.de/neu-ulm/leihbar-reparaturcafe-und-mehr-bleibt-das-haus-der-nachhaltigkeit-in-neu-ulm-111214232
+ [129]: https://www.augsburger-allgemeine.de/neu-ulm/temporaerhaus-in-neu-ulm-sucht-dringend-neue-raeume-fuer-vereinsarbeit-114026672
+ [130]: https://www.swp.de/lokales/neu-ulm/event-im-haus-der-nachhaltigkeit-erstes-barcamp-in-neu-ulm-aber-was-ist-das-eigentlich-78796325.html

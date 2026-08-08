@@ -15,6 +15,7 @@ slug: presse
 [<button>2023</button>](#2023)
 [<button>2024</button>](#2024)
 [<button>2025</button>](#2025)
+[<button>2026</button>](#2026)
 
 ### 2016
 
@@ -51,7 +52,7 @@ slug: presse
   * [Augsburger Allgemeine][30] : Kleine Roboter begeistern Kinder <small>(28.03.2018)</small>
   * [BR alpha][31]: Respekt! Mitmachen, sich engagieren – Zutaten für die moderne Demokratie (ab 6:10) <small>(29.04.2018)</small>
   * [Südwest Presse][32]: Gesucht: Bilder und Dias von alten Straßenbahnen <small>(29.05.2018)</small>
-  * [Schwäbische Zeitung][33]: Jugendliche entwickeln Onlinespiel
+  * [Schwäbische Zeitung][33] ([Archivlink][33a]): Jugendliche entwickeln Onlinespiel <small>(30.05.2018)</small>
   * [Südwest Presse][34]: &#8222;Jugend hackt&#8220; erhält Theodor-Heuss-Medaille <small>(19.06.2018)</small>
   * [Südwest Presse][35]: Gemeinsam tüfteln im Verschwörhaus <small>(12.09.2018)</small>
   * [Schwäbische Zeitung][36]: Kulturnacht lädt zur Entdeckungsreise vor der eigenen Haustür ein <small>(16.09.2018)</small>
@@ -162,6 +163,13 @@ slug: presse
   * [Südwest Presse][127]: Stadt sichert Hilfe bei Suche nach neuer Immobilie zu <small> (17.09.2025)</small>
   * [Neu-Ulmer Zeitung (€)][128]: Leihbar, Reparaturcafé und mehr: Bleibt das Haus der Nachhaltigkeit in Neu-Ulm? <small> (22.09.2025)</small>
 
+### 2026
+  * [Neu-Ulmer Zeitung (€)][129]: Das Haus der Nachhaltigkeit ist gerettet – und was ist mit dem Temporärhaus? <small>(22.04.2026)</small>
+  * [Südwest Presse (€)][130]: Erstes Barcamp in Neu-Ulm: Aber was ist das eigentlich? <small>(22.04.2026)</small>
+  * [Südwest Presse (€)][131]: So geht das Temporärhaus die Suche nach neuen Räumen an <small>(04.05.2026)</small>
+  * [Neu-Ulmer Zeitung][132]: Größte Regenbogenflagge Deutschlands: Bei der diesjährigen CSD-Parade werden Rekorde gebrochen <small>(08.06.2026)</small>
+  * [Regio-TV][133]: Die größte Regenbogenflagge Deutschlands kommt aus der Doppelstadt <small>(19.06.2026)</small>
+
  [6]: http://buergerinfo.ulm.de/vo0050.php?__kvonr=4507
  [7]: https://politik-bei-uns.de/paper/571961b01ae6a03d37ecbbac
  [8]: http://www.ulmapi.de/news/2016/07/10/weinhof9.html
@@ -190,6 +198,7 @@ slug: presse
  [31]: https://www.br.de/mediathek/video/respekt-29042018-mitmachen-sich-engagieren-zutaten-fuer-die-moderne-demokratie-av:5ab3d4a44001e50018939daf
  [32]: https://www.swp.de/suedwesten/staedte/ulm/gesucht_-bilder-und-dias-von-alten-strassenbahnen-26844278.html
  [33]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
+ [33a]: https://web.archive.org/web/20191017123458/https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_video,-jugendliche-entwickeln-onlinespiel-_vidid,146976.html
  [34]: https://www.swp.de/suedwesten/staedte/ulm/_jugend-hackt_-erhaelt-theodor-heuss-medaille-27006564.html
  [35]: https://www.swp.de/suedwesten/staedte/ulm/gemeinsam-tuefteln-im-verschwoerhaus-27622024.html
  [36]: https://www.schwaebische.de/landkreis/alb-donau-kreis/ulm_artikel,-kulturnacht-l%C3%A4dt-zur-entdeckungsreise-vor-der-eigenen-haust%C3%BCr-ein-_arid,10933590.html
@@ -285,3 +294,8 @@ slug: presse
  [126]: https://www.swp.de/lokales/ulm/haus-der-zivilgesellschaft-bedroht-mietvertrag-endet-aber-es-muss-einfach-weitergehen-78305408.html
  [127]: https://www.swp.de/lokales/neu-ulm/neu-ulmer-vereine-in-not-stadt-sichert-hilfe-bei-suche-nach-neuer-immobilie-zu-78317078.html
  [128]: https://www.augsburger-allgemeine.de/neu-ulm/leihbar-reparaturcafe-und-mehr-bleibt-das-haus-der-nachhaltigkeit-in-neu-ulm-111214232
+ [129]: https://www.augsburger-allgemeine.de/neu-ulm/temporaerhaus-in-neu-ulm-sucht-dringend-neue-raeume-fuer-vereinsarbeit-114026672
+ [130]: https://www.swp.de/lokales/neu-ulm/event-im-haus-der-nachhaltigkeit-erstes-barcamp-in-neu-ulm-aber-was-ist-das-eigentlich-78796325.html
+ [131]: https://www.swp.de/lokales/neu-ulm/immobilien-not-in-neu-ulm-so-geht-das-ex-verschwoerhaus-die-suche-nach-neuen-raeumen-an-78818487.html
+ [132]: https://www.augsburger-allgemeine.de/neu-ulm/groesste-regenbogenflagge-deutschlands-bei-der-csd-parade-2026-in-ulm-und-neu-ulm-werden-rekorde-gebrochen-1-114328182
+ [133]: https://www.regio-tv.de/mediathek/video/csd-ulm/

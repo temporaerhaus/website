@@ -8,7 +8,7 @@ custom_js: ["js/slider.js"]
 
 # Donauabsenkung
 
-{{< slider before="tram_soeflingen_schleife_1.jpg" after="tram_soeflingen_schleife_2.jpg" >}}
+{{< slider before="Donauabsenkung_0000.jpg" after="Donauabsenkung_0001.jpg" >}}
 
 Die Donauabsenkung fotografiert mit der tph-Drohne. Hier kann noch mehr Text stehen. 
 
@@ -23,7 +23,7 @@ Dazu wird der Kamera Live-Feed mittels gphoto2 ausgelesen und über das ausgewä
 
 ## Straßenbahn in der Söflinger Schleife
 
-{{< slider before="tram_soeflingen_schleife_1.jpg" after="tram_soeflingen_schleife_2.jpg" >}}
+{{< slider before="tram_soeflingen_schleife_1.JPG" after="tram_soeflingen_schleife_2.JPG" >}}
 
 Leider habe ich den Kamerastandort nicht genau getroffen. Auch ist durch den nachträglichen digitalen Zoom die Qualität schlecht. Lessons learned...
 

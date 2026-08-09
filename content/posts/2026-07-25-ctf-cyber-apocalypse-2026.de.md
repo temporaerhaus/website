@@ -68,13 +68,11 @@ Auf der Weboberfläche gibt es keine Hinweise darauf, was zu tun ist.
 Die Challenge benutzt das Framework `Elysia`.
 Das ergibt sich aus einer kurzen Quellcodeanalyse.
 Die App benutzt einen geheimen Schlüssel, der sich aus 32 zufälligen Symbolen ergibt.
-Dieser Schlüssel wird aber nicht richtig angewendet.
-Mit einer custom Funktion überschreibt das Framework die Cookie-Validierung.
-Der Cookie-Wert vom User wird dann ohne Validierung genutzt.
+Dieser Schlüssel wird in der Konfiguration in einem Array-Objekt übergeben.
+Die verwendete Version `1.4.18` des Frameworks hat jedoch eine Schwachstelle im Programmcode, wodurch bei einem Array-Objekt die Validierung des Cookies fehlschlägt.
+Der Cookie kann daher vom Nutzer selbst erstellt werden, um die Sicherheitschecks zu umgehen.
 
-Über einen einfachen Web-Request mit dem Cookie `session=Admin` werden die eigenen Rechte zu Admin-Rechten eskaliert.
-
-Beim Durchschauen vom Quellcode wird offensichtlich, dass die Flag über den Endpoint "/api/flag/" erreicht werden kann.
+Beim Durchschauen vom Quellcode wird offensichtlich, dass die Flag über den Endpoint `/api/flag` erreicht werden kann.
 Dort muss ein POST-Request hingeschickt werden.
 
 Die Flag ist aber nicht frei verfügbar.
@@ -97,9 +95,8 @@ Im Quelltext sieht das folgendermaßen aus:
 })
 ```
 
-Im Quellcode ist gut zu erkennen, dass ein "session"-Wert beim Request vorhanden sein muss.
-Nach einer kurzen Analyse haben wir entdeckt, dass der "session"-Wert mit einem Cookie gesetzt werden kann.
-Ist der Cookie gesetzt, kann die Flagge mit folgendem `curl`-Request abgerufen werden:
+Der Sicherheitscheck erwartet einen Cookie `session` mit dem Wert `inside`.
+Die Flagge kann somit mit folgendem `curl`-Request abgerufen werden, da durch die beschriebene Schwachstelle im Framework der Cookie von Nutzer gesetzt werden kann:
 
 ``` bash
 $ curl -i -X POST http://154.57.164.77:30995/api/flag -H "Cookie: session=inside"

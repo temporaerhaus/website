@@ -10,21 +10,7 @@ Der temporärhaus e.V. ist ein eingetragener, gemeinnütziger Verein in Ulm und 
 Muss ich im Verein Mitglied sein um im Haus aktiv zu sein oder _irgendwas_ zu machen?  
 Nein, denn durch unsere externen Förderungen können wir das Haus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw. angewiesen zu sein.
 
-<!--
-Warum sollte ich (Förder)mitglied werden?  
-Wenn man sich für eine Mitgliedschaft entscheidet, bekommt man zum einen ein Stimmrecht bei allen Vereinsfragen sowie eine Art “virtuelles” Abzeichen, dass man das Haus und den dortigen Spirit unterstützt.
-
-Weiter ermöglichen die Mitgliedsbeiträge die Beschaffung von interessanten Dingen für alle, Workshopmaterial und den ein oder anderen Kostenpunkt im Haus.
--->
-
-
 Für alle Dinge rund um den Verein erreichst du uns am besten unter _vorstand (at) temporaerhaus.de_.
-
-### Mitgliedschaft im Verein
-Du warst schon ein paar mal im Haus, dir gefällt es dort und du willst nun Mitglied im Verein werden?
-Dann benutze gerne [das Antragsformular unten](#applicationForm) - oder schicke uns eine Mail an `vorstand (at) temporaerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.
-
-In der Regel beträgt der Mitgliedsbeitrag 10 € im Monat, kann aber nach Rücksprache angepasst werden.
 
 ### Fördermitgliedschaft
 Wir freuen uns sehr über deine Unterstützung als Fördermitglied im Verein. Um Fördermitglied zu werden, kannst du [das Antragsformular unten](#applicationForm) nutzen oder uns einfach eine Mail an `vorstand (at) temporaerhaus.de` schicken, mit deinem Namen, E-Mail Adresse, Postadresse (brauchen wir für deine jährliche Spendenbescheinigung) und deinem gewünschten monatlichen Förderbeitrag.
@@ -32,6 +18,14 @@ Wir freuen uns sehr über deine Unterstützung als Fördermitglied im Verein. Um
 Wir empfehlen für Fördermitglieder*innen einen monatlichen Mindestbeitrag von 10€ für natürliche Personen und 50€ pro Monat oder mehr für juristische Personen wie Firmen oder Organisationen.
 
 Vielen Dank!
+
+
+### Mitgliedschaft im Verein
+Du warst schon ein paar mal im Haus, dir gefällt es dort und du willst nun Mitglied im Verein werden?
+Dann benutze gerne [das Antragsformular unten](#applicationForm) - oder schicke uns eine Mail an `vorstand (at) temporaerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.
+
+In der Regel beträgt der Mitgliedsbeitrag 10 € im Monat, kann aber nach Rücksprache angepasst werden.
+
 
 ### Antragsformular
 

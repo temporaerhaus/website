@@ -35,5 +35,13 @@ Leider habe ich den Kamerastandort nicht genau getroffen. Auch ist durch den nac
 
 Hier passt "nur" der Metzgerturm. Da die Perspektive viele Features in unterschiedlichen Tiefen einfängt, ist es noch schwerer ohne zusätzliche Hilfsmittel die korrekte Ausrichtung zu treffen.
 
+{{< slider before="stadtmauer_sommer_1.jpg" after="stadtmauer_sommer_2.jpg" >}}
 
+Dieser zweite Versuch im Sommer scheitert an dem Bewuchs, der einen relevanten Teil der Perspektive verdeckt. Auch wurde hier die Stadtmauer wie im ersten Versuch nicht ideal getroffen.
+
+## Panorama-Aufnahme -- Stadtmauer bei der Donauwiese
+
+{{< slider before="panorama_donauwiese_orig.jpg" after="panorama_donauwiese_neu.jpg" >}}
+
+Die Persepektive ist in der Horizontalen nicht perfekt ausgerichtet. Durch den heutigen Pflanzenbewuchs am Neu-Ulmer Uferbereich ist es aktuell nicht möglich die exakte Perspektive nachzustellen. 
 

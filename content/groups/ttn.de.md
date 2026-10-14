@@ -8,6 +8,8 @@ menu:
 type: page
 ---
 
+**+++ News vom Oktober 2026: Weil wir aktuell den Umzug vorbereiten und vieles einpacken, ist nicht mehr das komplette Programm möglich. Kommt gerne vorbei, aber rechnet nicht damit, dass die ganze Werkstatt verfügbar ist.  +++**
+
 Wir treffen uns jeden zweiten Mittwoch zum Thema LoRaWAN / The Things Network (TTN) sowie allen Themen rund um Elektronik. Im weiteren Sinne geht's also um Internet of Things, E-Technik, Platinen, Löten, Funken und vieles mehr. Und darüber wollen wir nicht abstrakt faseln, sondern selber machen, ausprobieren was möglich ist und dann gerne, aber eben auf dieser Basis, philosophieren.
 
  Die Abende stehen auch unter dem Motto "Hilfe zur Selbsthilfe". Sprich, wir sind kein Reparaturcafé oder ähnliches, sondern treffen uns zum Erfahrungsaustausch, zum Weiterführen eigener Projekte, zum Starten neue  Projekte oder einfach nur zum gemütlich zusammen sitzen. Eure defekten Elektronikgeräte können (und wollen) wir leider nicht reparieren.

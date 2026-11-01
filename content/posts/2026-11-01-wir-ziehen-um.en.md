@@ -6,7 +6,7 @@ date: 2026-11-01T01:00:00.000Z
 categories:
   - News
 images:
-  - /wp-content/uploads/2026/11/umzug.png
+  - /wp-content/uploads/2026/11/umzug.jpg
 draft: false
 ---
 

@@ -8,7 +8,7 @@ slug: verein
 The temporärhaus e.V. is a registered, non-profit association in Ulm and supports the volunteers with activities in and around the temporärhaus - such as the organization and handling of workshops and events and with sponsorships.
 
 Do I have to be a member of the association to be active in the house or to do _anything_?  
-No, because of the support of our external sponsors we can open the temporärhaus to all people without having to rely on membership fees for rent etc.
+No, because of the support of our external sponsors we can open the temporärhaus at the scheduled dates to all people.
 
 For all things concerning the association you can reach us best at _vorstand (at) temporaerhaus.de_.
 
@@ -21,7 +21,7 @@ We recommend an amount of 10 € per month for private persons and 50 € per mo
 ### Membership 
 You want to join our non-profit association? Please use [the application form below](#applicationForm) - or send us an email to `vorstand (at) temporaerhaus.de` with your name, e-mail, postal address (needed for the charitable donation certificate) and a short description why you want to join and how and where you are active in the past in our group.
 
-Usually the membership fee is 10 € per month. In case you need an adaption of the fee, please get in contact with us.
+Usually the membership fee is 25 € per month. In case you need an adaption of the fee, please get in contact with us.
 
 
 ### Application Form
@@ -57,14 +57,15 @@ Usually the membership fee is 10 € per month. In case you need an adaption of 
 <p>
 <label for="type">Type of membership:</label>
 <select id="type" name="type">
-    <option>Supporting member (Fördermitglied)</option>
-    <option>Active member (Aktives Mitglied)</option>
+    <option value="supporting">Supporting member (Fördermitglied)</option>
+    <option value="active">Active member (Aktives Mitglied)</option>
 </select>
 </p>
 <p>
 <label for="amount">Monthly membership fee:</label>
 <input type="number" id="amount" name="amount">
-<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for supporting membership.</small>
+<small class="info info-supporting" style="padding-block: 0.25em;"><b>ℹ</b> We recommend an amount of 10 € per month for private persons and 50 € per month for companies and organisations for the supporting membership.</small>
+<small class="info info-active" style="padding-block: 0.25em;"><b>ℹ</b> We recommend an amount of 25 € per month for the active membership.</small>
 </p>
 <p>
 <label for="slackuser">Your user in the temporärhaus Slack:</label>

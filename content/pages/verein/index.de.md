@@ -8,7 +8,7 @@ slug: verein
 Der temporärhaus e.V. ist ein eingetragener, gemeinnütziger Verein in Ulm und unterstützt die Ehrenamtlichen bei Aktivitäten im und um das Haus herum - wie der Organisation und Abwicklung von Workshops und Veranstaltungen und bei Förderungen.
 
 Muss ich im Verein Mitglied sein um im Haus aktiv zu sein oder _irgendwas_ zu machen?  
-Nein, denn durch unsere externen Förderungen können wir das Haus für alle Menschen öffnen, ohne auf Mitgliedsbeiträge für Miete usw. angewiesen zu sein.
+Nein, denn durch unsere externen Förderungen können wir das Haus zu den angekündigen Terminen für alle Menschen öffnen.
 
 Für alle Dinge rund um den Verein erreichst du uns am besten unter _vorstand (at) temporaerhaus.de_.
 
@@ -24,7 +24,7 @@ Vielen Dank!
 Du warst schon ein paar mal im Haus, dir gefällt es dort und du willst nun Mitglied im Verein werden?
 Dann benutze gerne [das Antragsformular unten](#applicationForm) - oder schicke uns eine Mail an `vorstand (at) temporaerhaus.de` mit deinem Namen, E-Mail, Postadresse (brauchen wir für die Beitragsquittung) sowie einer kurzen Beschreibung warum du beitreten willst bzw. wie du bisher bei uns aktiv warst.
 
-In der Regel beträgt der Mitgliedsbeitrag 10 € im Monat, kann aber nach Rücksprache angepasst werden.
+In der Regel beträgt der Mitgliedsbeitrag 25 € im Monat, kann aber nach Rücksprache angepasst werden.
 
 
 ### Antragsformular
@@ -60,14 +60,15 @@ In der Regel beträgt der Mitgliedsbeitrag 10 € im Monat, kann aber nach Rück
 <p>
 <label for="type">Art der Mitgliedschaft:</label>
 <select id="type" name="type">
-    <option>Fördermitglied</option>
-    <option>Aktives Mitglied</option>
+    <option value="supporting">Fördermitglied</option>
+    <option value="active">Aktives Mitglied</option>
 </select>
 </p>
 <p>
 <label for="amount">Monatlicher Förderbeitrag:</label>
 <input type="number" id="amount" name="amount">
-<small class="info" style="padding-block: 0.25em;"><b>ℹ</b> Wir empfehlen mindestens 10 € / Monat für natürliche Personen und 50 € / Monat für Firmen und Organisationen bei einer Fördermitgliedschaft.</small>
+<small class="info info-supporting" style="padding-block: 0.25em;"><b>ℹ</b> Wir empfehlen mindestens 10 € / Monat für natürliche Personen und 50 € / Monat für Firmen und Organisationen bei einer Fördermitgliedschaft.</small>
+<small class="info info-active" style="padding-block: 0.25em;"><b>ℹ</b> Wir empfehlen mindestens 25 € / Monat bei einer aktiven Mitgliedschaft.</small>
 </p>
 <p>
 <label for="slackuser">Benutzername im temporärhaus-Slack:</label>
@@ -154,4 +155,3 @@ Es gelten die Bestimmungen unserer <a href="/datenschutzerklaerung" target="_bla
     <p>Bitte überprüfe die hervorgehobenen Formularfelder noch einmal.</p>
 </div>
 </form>
-

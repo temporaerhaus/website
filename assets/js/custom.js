@@ -62,6 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     nextStep.parentNode.style.display = 'flex';
     document.querySelector('button[type="submit"]').remove();
     form.children[0].style.display = 'block';
+    const membershipType = document.getElementById('type');
 
     window.addEventListener('hashchange', () => {
       const hash = location.hash.startsWith('#step') ? location.hash : '#step1';
@@ -104,6 +105,15 @@ document.addEventListener('DOMContentLoaded', () => {
     };
     nextStep.addEventListener('click', changeStep);
     prevStep.addEventListener('click', changeStep);
+
+    const changeMembershipType = (e) => {
+      form.classList.remove('type-supporting');
+      form.classList.remove('type-active');
+      if (membershipType.value == "supporting") form.classList.add('type-supporting');
+      if (membershipType.value == "active") form.classList.add('type-active');
+    };
+    membershipType.addEventListener('change', changeMembershipType);
+    changeMembershipType();
 
     form.addEventListener('submit', async (e) => {
       e.preventDefault();
